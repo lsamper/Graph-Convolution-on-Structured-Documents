@@ -24,11 +24,11 @@ class ObjectTree:
 			>> df, obj_list = connector.connect(plot=False, export_df=False)
 	'''
 
-	def __init__(self, label_column='label'):
+	def __init__(self, label_column='label', count=0):
 		self.label_column = label_column
 		self.df = None
 		self.img = None
-		self.count = 0
+		self.count = count
 	
 	def read(self, object_map, image):
 		
