@@ -6,13 +6,13 @@ class Adjacency(Layer):
 
     '''
         This layer calculates the learned adjacency matrices upto `power` hops.
-    '''     
-    
-    def __init__(self, n_features=50, max_nodes=50):
-        super(Adjacency, self).__init__()
+    '''
+    @tf.function
+    def __init__(self, n_features=50, max_nodes=50, **kwargs):
+        super(Adjacency, self).__init__(dynamic=True, **kwargs)
         self.max_nodes = max_nodes
         self.n_features = n_features
-        self.input_units = max_nodes * max_nodes
+        self.input_units = max_nodes #* max_nodes
     
     def build(self, input_shape=(50, 50)): #NOTE: input_shape is required arg
                                            #      and is not used in code
@@ -73,15 +73,15 @@ class Adjacency(Layer):
 
         # the following assertions assume that each adjacency matrix in the 
         # list has the same shape
-        assert adj_list[0].shape[0] == self.w0.shape[0], f'The number of rows \
+        assert adj_list[0].shape[0] == self.w0_1.shape[0], f'The number of rows \
             of the adjacency matrix and weight matrix does not match. /n\
-                Adjacency Shape: {adj.shape}\nWeight Matrix Shape: \
-                    {self.w0.shape}.'
+                Adjacency Shape: {adj_list[0].shape}\nWeight Matrix Shape: \
+                    {self.w0_1.shape}.'
 
-        assert adj_list[0].shape[0] == self.w0.shape[1], f'The number of \
+        assert adj_list[0].shape[1] == self.w0_1.shape[1], f'The number of \
             columns of the adjacency matrix and weight matrix does not match./n\
-                Adjacency Shape: {adj.shape}\nWeight Matrix Shape: \
-                    {self.w0.shape}.'
+                Adjacency Shape: {adj_list[0].shape}\nWeight Matrix Shape: \
+                    {self.w0_1.shape}.'
         
         # remove singleton dimensions
         adj_0 = tf.squeeze(adj_list[0])
@@ -102,19 +102,19 @@ class Adjacency(Layer):
         adj_2 = tf.reshape(adj_2, [-1])
 
         # forward pass
-        adj_0 = tf.matmul(adj_0 * w0_1)
+        adj_0 = tf.matmul(adj_0 * self.w0_1)
         adj_0 = tf.nn.relu(adj_0)
-        adj_0 = tf.matmul(adj_0 * w0_2)
+        adj_0 = tf.matmul(adj_0 * self.w0_2)
         adj_0 = tf.nn.relu(adj_0)
 
-        adj_1 = tf.matmul(adj_1 * w1_1)
+        adj_1 = tf.matmul(adj_1 * self.w1_1)
         adj_1 = tf.nn.relu(adj_1)
-        adj_1 = tf.matmul(adj_1 * w1_2)
+        adj_1 = tf.matmul(adj_1 * self.w1_2)
         adj_1 = tf.nn.relu(adj_1)
 
-        adj_2 = tf.matmul(adj_2 * w2_1)
+        adj_2 = tf.matmul(adj_2 * self.w2_1)
         adj_2 = tf.nn.relu(adj_2)
-        adj_2 = tf.matmul(adj_2 * w2_2)
+        adj_2 = tf.matmul(adj_2 * self.w2_2)
         adj_2 = tf.nn.relu(adj_2) 
 
         # reshape back to original shape
