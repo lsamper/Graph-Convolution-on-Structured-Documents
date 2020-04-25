@@ -122,5 +122,5 @@ def ocr_using_google_api(image_path, request_url):
             max(item[1],item[5]), max(item[2],item[6]),
             item[0]] for i, item in enumerate(list_each_word_coordinate)]
 
-        return df = pd.DataFrame(list_word_objects,
+        return pd.DataFrame(list_word_objects,
                             columns=['xmin', 'ymin', 'xmax', 'ymax', 'Object'])
