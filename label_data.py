@@ -4,7 +4,7 @@ import logging
 from lxml import etree
 import cv2
 import pandas as pd
-
+import numpy as np
 
 from grapher import ObjectTree, Graph
 
@@ -67,7 +67,7 @@ def load_ocr_file(ocr_file):
     return data
 
 
-def label_ocr(gt_file, ocr_file, threshold_area=0.5):
+def label_ocr(gt_file, ocr_file, threshold_area=0.5, default_label='other'):
     entities = load_entities(gt_file)
     ocr_data = load_ocr_file(ocr_file)
     result = []
@@ -75,7 +75,7 @@ def label_ocr(gt_file, ocr_file, threshold_area=0.5):
         xmin, ymin, xmax, ymax, text = node
         box = xmin, ymin, xmax, ymax
         box_area = compute_area(*box)
-        node_entity = None
+        node_entity = default_label
         for entity in entities:
             entity_box, entity_label = entity
             intersection_area = compute_intersection(box, entity_box)
@@ -86,7 +86,15 @@ def label_ocr(gt_file, ocr_file, threshold_area=0.5):
     return result
 
 
-def compute(file_id, dataset_directory):
+LABEL_ID = {'other':0,
+            'invoice_info':1,
+            'positions':2,
+            'receiver':3,
+            'supplier':4,
+            'total':5}
+
+
+def compute(file_id, dataset_directory, numpy_output_dir="./grapher_outputs/numpy"):
     gt_file = os.path.join(dataset_directory, file_id+"_gt.xml")
     ocr_file = os.path.join(dataset_directory, file_id+"_ocr.xml")
     img_path = os.path.join(dataset_directory, file_id+".tif")
@@ -101,8 +109,22 @@ def compute(file_id, dataset_directory):
 
     graph_dict, text_list = c.connect(plot=True, export_df=True)
 
-    # graph = Graph()
-    # A, X = graph.make_graph_data(graph_dict, text_list)
+    graph = Graph()
+    A, X = graph.make_graph_data(graph_dict, text_list)
+    if not os.path.exists(numpy_output_dir):
+        os.makedirs(numpy_output_dir)
+    np.save(Path(numpy_output_dir) / f"{file_id}_A.npy", A)
+
+    node_mat = np.zeros((50, 7))
+    box_array = df[["xmin", "ymin", "xmax", "ymax"]].values[:50]
+    node_mat[:box_array.shape[0], :4] = box_array
+    node_mat[:X.shape[0], 4:] = X
+    np.save(Path(numpy_output_dir) / f"{file_id}_X.npy", node_mat)
+
+    Y = np.zeros(50)
+    labels = df.label.apply(lambda l: LABEL_ID[l]).values[:50]
+    Y[:labels.shape[0]] = labels
+    np.save(Path(numpy_output_dir) / f"{file_id}_Y.npy", Y)
     #
     # print("A")
     # print(A)
@@ -119,8 +141,10 @@ def label_dataset(dataset_directory):
         logging.info(f"computing element {file_identifier}")
         try:
             compute(file_identifier, dataset_directory)
-        except (KeyError, TypeError):
-            logging.warning(f"Error for file {file_identifier}")
+        except KeyError:
+            logging.warning(f"KeyError for file {file_identifier}")
+        except TypeError:
+            logging.warning(f"TypeError for file {file_identifier}")
 
 
 def main():

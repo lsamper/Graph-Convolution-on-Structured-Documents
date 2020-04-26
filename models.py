@@ -14,7 +14,7 @@ def get_model():
 
     # ================== input ====================================================
     adjacency_input = keras.Input(shape=(50,50), batch_size=1, name='Adjacency_Input')
-    node_input = keras.Input(shape=(50, 5), batch_size=1, name='Node_Input')
+    node_input = keras.Input(shape=(50, 7), batch_size=1, name='Node_Input')
 
     # ================== preprocessing ============================================
     node_embeddings = layers.Dense(units=50, name='Embedding')(node_input)
@@ -104,7 +104,7 @@ def get_model():
 
     # ===================== linear classifier =====================================
 
-    node_labels = layers.Dense(14, activation='sigmoid', name='Classifier')(add_3)
+    node_labels = layers.Dense(6, activation='sigmoid', name='Classifier')(add_3)
 
 
     # ======================= output adjacency learning layer =====================
