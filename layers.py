@@ -47,7 +47,7 @@ class Adjacency(Layer):
                                 initializer='random_normal',
                                 trainable=True, name='w2_2')
 
-    def call(self, inputs):  # NOTE: input_list contains a list of 
+    def call(self, inputs, **kwargs):  # NOTE: input_list contains a list of
                              #       adjacency matrices and the node vec
                              #       matrix
         '''
@@ -133,7 +133,7 @@ class Adjacency(Layer):
             if adj_ij == 1, new_adj_ig = |node_vec_i - node_vec_j|
         '''
         # init the output adjacency matrix to zeros
-        new_adj = tf.zeros_like(adj, dtype=tf.float32)
+        new_adj = tf.Variable(tf.zeros_like(adj, dtype=tf.float32))
 
         for ik, i in enumerate(adj):
             # iterate columns
@@ -141,15 +141,15 @@ class Adjacency(Layer):
                 adj_ij = j
 
                 if adj_ij == 0:
-                    new_adj[ik,jk] = 0
+                    new_adj[ik,jk].assign(0)
                 
                 elif adj_ij == 1:
-                    new_adj[ik,jk] = tf.norm(node_vec[ik] - node_vec[jk])
-    
-        return new_adj
+                    new_adj[ik,jk].assign(tf.norm(node_vec[ik] - node_vec[jk], ord=1))
 
-    def compute_output_shape(self, input_shape=[(1, 50, 50), (1, 50, 50), 
-                                                (1, 50, 50), (1, 50, 50)]):
+        return tf.Tensor(new_adj)
+
+    def compute_output_shape(self, input_shape=((1, 50, 50), (1, 50, 50),
+                                                (1, 50, 50), (1, 50, 50))):
         return input_shape[:-1]
 
 
@@ -185,7 +185,7 @@ class GNN(Layer):
                                     initializer='random_normal',
                                     trainable=True, name='w2')
 
-    def call(self, inputs):
+    def call(self, inputs, **kwargs):
         
 
         X, learned_A0, learned_A1, learned_A2 = inputs
@@ -199,8 +199,8 @@ class GNN(Layer):
 
         return X
 
-    def compute_output_shape(self, input_shape=[(1, 50, 50), (1, 50, 50), 
-                                                (1, 50, 50), (1, 50, 50)]):
+    def compute_output_shape(self, input_shape=((1, 50, 50), (1, 50, 50),
+                                                (1, 50, 50), (1, 50, 50))):
         return input_shape[0]
         
 
@@ -224,7 +224,7 @@ class GraphOperator(Layer):
     #     super(GraphOperator, self).build(inputShape)
     #     return
 
-    def call(self, adj):
+    def call(self, adj, **kwargs):
         
         # TODO: write a function to multiply adj power number of times
         #       
