@@ -7,6 +7,8 @@ import os
 # for making adjacency matrix
 import networkx as nx
 
+import text_utils
+
 
 class ObjectTree:	
 	'''
@@ -546,7 +548,11 @@ class Graph:
 
 	# 	return G
 
-	def _get_text_features(self, data): 
+	def _get_text_features(self, data):
+		assert type(data) == str, f'Expected type {str}. Received {type(data)}.'
+		return np.array(text_utils.compute_text_features_paper(data))
+
+	def _get_text_features_orig(self, data):
     
 		'''
 			Args:
@@ -671,7 +677,7 @@ class Graph:
 			target[:feat_arr.shape[0], :feat_arr.shape[1]] = feat_arr
 
 		elif self.max_nodes < feat_arr.shape[0]:
-			target = feat_arr[:self.max_nodes, feat_arr.shape[1]]
+			target = feat_arr[:self.max_nodes, :feat_arr.shape[1]]
 
 		else: 
 			target = feat_arr
@@ -707,7 +713,6 @@ class Graph:
 		feat_list = list(map(self._get_text_features, text_list))
 		feat_arr = np.array(feat_list)
 		X = self._pad_text_features(feat_arr)
-
 		return A, X
 
 	
