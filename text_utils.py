@@ -82,6 +82,25 @@ def get_text_features(data):
     
     return features
 
+def get_n_digits(text):
+    return sum(c.isdigit() for c in text)
+
+def get_n_alpha(text):
+    return sum(c.isalpha() for c in text)
+
+def get_n_spaces(text):
+    return sum(c.isspace() for c in text)
+
+def get_n_symbols(text):
+    len(text) - get_n_spaces(text) - get_n_alpha(text) - get_n_digits(text)
+
+
+def compute_text_features_paper(text):
+    numbers = sum(c.isdigit() for c in text)
+    words = sum(c.isalpha() for c in text)
+    spaces = sum(c.isspace() for c in text)
+    return [words, numbers, len(text)-words-numbers-spaces]
+
 # if __name__ == "__main__":
 #     STRING = 'aA 12@#%&*'
 #     print(get_text_features(STRING))
