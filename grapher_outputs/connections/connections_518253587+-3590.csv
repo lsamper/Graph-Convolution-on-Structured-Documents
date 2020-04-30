@@ -1,0 +1,96 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+58.0,26.0,327.0,45.0,BUSINESS       EXPENSE       VOUCHER,other,Account       Number          75586,27.0,6,Doto       Prepared          06/06/97,228.0,1,27.0,228.0
+386.0,19.0,455.0,44.0,Doto       Prepared          06/06/97,invoice_info,Return       to:,21.5,10,|       Page          1,60.0,2,21.5,60.0
+467.0,19.0,494.0,43.0,|       Page          1,invoice_info,of,9.5,3,|       Dlsbursomont       Accounting       Use       ONLY          55.01,138.5,4,9.5,-1.0
+493.0,36.0,507.0,45.0,of,invoice_info,"c       V*""",48.0,11,|       Dlsbursomont       Accounting       Use       ONLY          55.01,119.0,4,48.0,119.0
+528.0,13.0,710.0,43.0,|       Dlsbursomont       Accounting       Use       ONLY          55.01,invoice_info,(yJ,47.0,12,,0.0,-1,47.0,0.0
+57.0,47.0,241.0,79.0,Empfoyoo       Namo          Roger       L.       Mozingo,receiver,Extension       Number          (910)       741-7665,29.5,8,Account       Number          75586,144.0,6,29.5,144.0
+241.0,47.0,345.0,78.0,Account       Number          75586,receiver,Empfoyoo       Namo          Roger       L.       Mozingo,0.5,5,Return       to:,116.5,10,0.5,116.5
+57.0,78.0,241.0,108.0,"Mating       Address       (if       appfccablo)          VP,       State       Government       Relations",receiver,Reynolds       11th          Government       Relations,30.5,9,Extension       Number          (910)       741-7665,144.0,8,30.5,144.0
+241.0,78.0,345.0,107.0,Extension       Number          (910)       741-7665,receiver,"Mating       Address       (if       appfccablo)          VP,       State       Government       Relations",0.5,7,"c       V*""",235.0,11,0.5,235.0
+57.0,107.0,241.0,140.0,Reynolds       11th          Government       Relations,receiver,DESTINATION(S),35.0,14,"c       V*""",379.0,11,-1.0,-1.0
+386.0,47.0,433.0,59.0,Return       to:,invoice_info,PURPOSE       OF       TRIP,104.0,16,,0.0,-1,-1.0,0.0
+484.0,66.0,572.0,111.0,"c       V*""",invoice_info,PURPOSE       OF       TRIP,68.5,16,(yJ,58.0,12,68.5,58.0
+574.0,68.0,598.0,82.0,(yJ,invoice_info,PURPOSE       OF       TRIP,82.0,16,,0.0,-1,-1.0,0.0
+58.0,150.0,149.0,168.0,DEPART       DATE,other,Washington.       DC,15.5,18,DESTINATION(S),143.0,14,-1.0,143.0
+149.0,150.0,344.0,167.0,DESTINATION(S),other,DEPART       DATE,0.5,13,RETURN       DATE,142.0,15,0.5,142.0
+344.0,149.0,433.0,167.0,RETURN       DATE,other,DESTINATION(S),0.5,14,PURPOSE       OF       TRIP,186.5,16,0.5,186.5
+433.0,148.0,717.0,166.0,PURPOSE       OF       TRIP,other,RETURN       DATE,1.0,15,,0.0,-1,1.0,0.0
+58.0,167.0,149.0,183.0,66/05/97,other,DAY       Of       THE       WEEK,52.5,21,Washington.       DC,143.0,18,-1.0,143.0
+149.0,167.0,344.0,182.0,Washington.       DC,other,66/05/97,0.5,17,06/06/97,142.0,19,0.5,142.0
+344.0,166.0,433.0,182.0,06/06/97,other,Washington.       DC,0.5,18,Tobacco       Institute       State       Activities       Coord.       Mtg.,186.5,20,0.5,186.5
+433.0,165.0,717.0,181.0,Tobacco       Institute       State       Activities       Coord.       Mtg.,other,06/06/97,1.0,19,,0.0,-1,1.0,0.0
+55.0,218.0,209.0,237.0,DAY       Of       THE       WEEK,positions,U5^Jufv97       p,16.0,29,Thursday,108.0,22,16.0,108.0
+209.0,218.0,271.0,236.0,Thursday,positions,DAY       Of       THE       WEEK,0.5,21,Friday       Saturday,92.0,23,0.5,92.0
+271.0,217.0,393.0,236.0,Friday       Saturday,positions,Thursday,0.5,22,Sunday,91.0,24,0.5,91.0
+393.0,217.0,453.0,235.0,Sunday,positions,Friday       Saturday,0.5,23,Monday       |       Tuesday—,91.5,25,0.5,91.5
+453.0,217.0,576.0,235.0,Monday       |       Tuesday—,positions,11-dun-97,16.0,34,Wodnosday,93.0,26,-1.0,93.0
+576.0,216.0,639.0,235.0,Wodnosday,positions,Monday       |       Tuesday—,0.5,25,,0.0,-1,0.5,0.0
+639.0,216.0,714.0,249.0,SUMMARY          AMOUNT,positions,11-dun-97,9.5,34,,0.0,-1,9.5,0.0
+55.0,236.0,209.0,252.0,DATE,positions,203.7T,14.0,36,U5^Jufv97       p,108.0,29,14.0,108.0
+209.0,236.0,271.0,251.0,U5^Jufv97       p,positions,DATE,0.5,28,06-Jun-97,62.0,30,0.5,62.0
+271.0,236.0,333.0,251.0,06-Jun-97,positions,203.7T,14.5,36,07-Jurv97,61.0,31,-1.0,61.0
+333.0,235.0,393.0,251.0,07-Jurv97,positions,06-Jun-97,0.5,30,08-Jun-97,60.0,32,0.5,60.0
+393.0,235.0,453.0,250.0,08-Jun-97,positions,07-Jurv97,0.5,31,09-Jun-9711tklun-97,91.5,33,0.5,91.5
+453.0,235.0,576.0,250.0,09-Jun-9711tklun-97,positions,"1       Personal       Auto       (       mites       X       $0,315)",152.5,57,11-dun-97,93.0,34,-1.0,93.0
+576.0,234.0,639.0,250.0,11-dun-97,positions,09-Jun-9711tklun-97,0.5,33,SUMMARY          AMOUNT,69.0,27,0.5,69.0
+55.0,251.0,209.0,266.0,.odglng       (Attach       Receipt),positions,Breakfast       (Your*       ONLY),15.0,38,203.7T,108.0,36,15.0,108.0
+209.0,251.0,271.0,265.0,203.7T,positions,.odglng       (Attach       Receipt),0.5,35,203.77,436.5,37,0.5,436.5
+639.0,249.0,714.0,263.0,203.77,positions,7.50,15.0,40,,0.0,-1,15.0,0.0
+55.0,265.0,209.0,282.0,Breakfast       (Your*       ONLY),positions,.unch       (Yours       ONI       Y),16.0,41,TXT,170.0,39,16.0,170.0
+271.0,265.0,333.0,281.0,TXT,positions,~*76W,46.5,44,7.50,374.5,40,-1.0,374.5
+639.0,263.0,714.0,279.0,7.50,positions,'       55.00,46.5,46,,0.0,-1,46.5,0.0
+55.0,281.0,209.0,298.0,.unch       (Yours       ONI       Y),positions,Dinner       (Yours       ONLY),15.5,42,,0.0,-1,15.5,0.0
+55.0,297.0,209.0,313.0,Dinner       (Yours       ONLY),positions,~*76W,14.5,44,rsm,170.0,45,14.5,-1.0
+55.0,312.0,209.0,328.0,Cab'BjsATmo,positions,Parking       Fees,15.0,47,~*76W,108.0,44,15.0,108.0
+209.0,312.0,271.0,327.0,~*76W,positions,Cab'BjsATmo,0.5,43,rsm,62.0,45,0.5,62.0
+271.0,312.0,333.0,327.0,rsm,positions,16.UC,15.0,48,'       55.00,374.5,46,15.0,374.5
+639.0,310.0,714.0,325.0,'       55.00,positions,'       16M,15.0,49,,0.0,-1,15.0,0.0
+55.0,327.0,209.0,343.0,Parking       Fees,positions,4.00,14.0,51,16.UC,170.0,48,14.0,170.0
+271.0,327.0,333.0,342.0,16.UC,positions,4.00,14.5,51,'       16M,374.5,49,-1.0,374.5
+639.0,325.0,714.0,340.0,'       16M,positions,7m,14.5,52,,0.0,-1,14.5,0.0
+55.0,342.0,209.0,357.0,rips       (Not       Included       Elsewhere),positions,Te'ephone       &       Telegraph,15.5,53,4.00,108.0,51,15.5,108.0
+209.0,342.0,271.0,356.0,4.00,positions,rips       (Not       Included       Elsewhere),0.5,50,7m,436.5,52,0.5,436.5
+639.0,340.0,714.0,354.0,7m,positions,jm,15.5,55,,0.0,-1,15.5,0.0
+55.0,356.0,209.0,374.0,Te'ephone       &       Telegraph,positions,Acio       Rental       (Attach       Agreement),16.0,56,1.HF,170.0,54,16.0,170.0
+271.0,356.0,333.0,373.0,1.HF,positions,"1       Personal       Auto       (       mites       X       $0,315)",30.5,57,jm,374.5,55,-1.0,374.5
+639.0,354.0,714.0,371.0,jm,positions,"1       Personal       Auto       (       mites       X       $0,315)",32.5,57,,0.0,-1,-1.0,0.0
+55.0,373.0,210.0,389.0,Acio       Rental       (Attach       Agreement),positions,"1       Personal       Auto       (       mites       X       $0,315)",14.0,57,,0.0,-1,14.0,0.0
+56.0,386.0,640.0,404.0,"1       Personal       Auto       (       mites       X       $0,315)",positions,L       1.       1,14.5,59,,0.0,-1,14.5,0.0
+56.0,403.0,210.0,419.0,MSc       (Grvo       explanation),positions,247.77,77.0,61,"1       Personal       Auto       (       mites       X       $0,315)",215.0,57,77.0,215.0
+394.0,402.0,514.0,417.0,L       1.       1,positions,i       i,78.0,63,,0.0,-1,78.0,0.0
+56.0,480.0,210.0,497.0,DAILY       TOTALS,positions,"Business       I          6/4797""       Lit       r",22.5,65,247.77,108.0,61,22.5,108.0
+210.0,480.0,272.0,496.0,247.77,positions,DAILY       TOTALS,0.5,60,39.50,62.0,62,0.5,62.0
+272.0,480.0,334.0,496.0,39.50,positions,"or       Entertainment       -       (Show       Dato,       Place,       Persons       Affiliated       Wdh       and       Business       Purpose/Discussion)          ;r       Bar,       Raleigh.       NG,       with       Gene       Ainsworth       (RJRT)       and       Hank       Johnson       (PM          tive       Issues.",29.0,66,i       i,91.0,63,29.0,91.0
+334.0,479.0,454.0,496.0,i       i,positions,39.50,0.5,62,287.27,283.5,64,0.5,283.5
+640.0,478.0,715.0,494.0,287.27,positions,■3T75-,26.0,69,,0.0,-1,26.0,0.0
+59.0,499.0,119.0,523.0,"Business       I          6/4797""       Lit       r",positions,Lobbyist)       re:       N.       C.          TO97BieaWst       at       University       Club       with       David       Powers       (RJRT)       re:       Tobago       Institute       State       ActTvIF.es,29.0,68,"or       Entertainment       -       (Show       Dato,       Place,       Persons       Affiliated       Wdh       and       Business       Purpose/Discussion)          ;r       Bar,       Raleigh.       NG,       with       Gene       Ainsworth       (RJRT)       and       Hank       Johnson       (PM          tive       Issues.",265.0,66,-1.0,-1.0
+134.0,496.0,574.0,538.0,"or       Entertainment       -       (Show       Dato,       Place,       Persons       Affiliated       Wdh       and       Business       Purpose/Discussion)          ;r       Bar,       Raleigh.       NG,       with       Gene       Ainsworth       (RJRT)       and       Hank       Johnson       (PM          tive       Issues.",positions,rrrrnn,14.0,67,"""T57S",339.0,70,14.0,339.0
+167.0,526.0,205.0,536.0,rrrrnn,positions,Lobbyist)       re:       N.       C.          TO97BieaWst       at       University       Club       with       David       Powers       (RJRT)       re:       Tobago       Institute       State       ActTvIF.es,9.0,68,"or       Entertainment       -       (Show       Dato,       Place,       Persons       Affiliated       Wdh       and       Business       Purpose/Discussion)          ;r       Bar,       Raleigh.       NG,       with       Gene       Ainsworth       (RJRT)       and       Hank       Johnson       (PM          tive       Issues.",168.0,66,9.0,-1.0
+64.0,524.0,596.0,556.0,Lobbyist)       re:       N.       C.          TO97BieaWst       at       University       Club       with       David       Powers       (RJRT)       re:       Tobago       Institute       State       ActTvIF.es,positions,Meeting.,23.0,72,"or       Entertainment       -       (Show       Dato,       Place,       Persons       Affiliated       Wdh       and       Business       Purpose/Discussion)          ;r       Bar,       Raleigh.       NG,       with       Gene       Ainsworth       (RJRT)       and       Hank       Johnson       (PM          tive       Issues.",24.0,66,23.0,24.0
+675.0,505.0,712.0,519.0,■3T75-,positions,"""T57S",31.0,70,,0.0,-1,31.0,0.0
+676.0,536.0,710.0,550.0,"""T57S",positions,334.78,53.5,77,>,32.5,71,53.5,32.5
+716.0,536.0,735.0,558.0,>,positions,,0.0,-1,,0.0,-1,0.0,0.0
+64.0,555.0,111.0,571.0,Meeting.,positions,TOTAL       EXPCNSCS       PAID       BY       EMPLOYEE,35.5,73,Lobbyist)       re:       N.       C.          TO97BieaWst       at       University       Club       with       David       Powers       (RJRT)       re:       Tobago       Institute       State       ActTvIF.es,242.5,68,35.5,242.5
+59.0,592.0,246.0,605.0,TOTAL       EXPCNSCS       PAID       BY       EMPLOYEE,total,AMOUNT       OUE       EMPLOYEE,38.0,79,OTHER       COOES,137.0,74,38.0,137.0
+251.0,592.0,328.0,604.0,OTHER       COOES,total,EXPENSES       CHARGED       TO       COMPANY       (Attach       copies       of       tickots       or       Involcos),81.0,82,GA.       COOES,130.0,75,81.0,130.0
+391.0,591.0,448.0,603.0,GA.       COOES,total,EXPENSES       CHARGED       TO       COMPANY       (Attach       copies       of       tickots       or       Involcos),82.0,82,04       88       0000       9070       867,133.5,76,-1.0,133.5
+491.0,591.0,615.0,605.0,04       88       0000       9070       867,total,EXPENSES       CHARGED       TO       COMPANY       (Attach       copies       of       tickots       or       Involcos),81.0,82,334.78,135.5,77,81.0,135.5
+668.0,590.0,709.0,603.0,334.78,total,2,20.0,78,,0.0,-1,20.0,0.0
+703.0,609.0,712.0,624.0,2,total,334.78,17.0,80,,0.0,-1,17.0,0.0
+59.0,630.0,183.0,643.0,AMOUNT       OUE       EMPLOYEE,total,AMOUNT       DUE       COMPANY,22.0,81,334.78,561.0,80,22.0,561.0
+656.0,626.0,708.0,641.0,334.78,total,Cornments(Noto       If       Company       aircraft),60.5,91,,0.0,-1,-1.0,0.0
+55.0,652.0,179.0,665.0,AMOUNT       DUE       COMPANY,total,Departure       Dato,36.5,85,,0.0,-1,36.5,0.0
+195.0,670.0,633.0,688.0,EXPENSES       CHARGED       TO       COMPANY       (Attach       copies       of       tickots       or       Involcos),other,Cornments(Noto       If       Company       aircraft),15.0,91,,0.0,-1,15.0,0.0
+62.0,692.0,75.0,772.0,A          I          R          L          t          N          E,other,Other       •       Give       Details          •3       taxi       rides,66.5,92,C          H          A          R          G          E          S,17.5,84,66.5,17.5
+79.0,692.0,93.0,772.0,C          H          A          R          G          E          S,other,Other       •       Give       Details          •3       taxi       rides,66.5,92,OKm,55.0,86,66.5,55.0
+107.0,689.0,184.0,701.0,Departure       Dato,other,OKm,11.5,86,Origin,121.5,88,11.5,-1.0
+125.0,701.0,157.0,712.0,OKm,other,Other       •       Give       Details          •3       taxi       rides,92.0,92,97       Greensboro.NC,80.5,87,-1.0,80.5
+158.0,699.0,285.0,715.0,97       Greensboro.NC,other,Approval       Authortty       Name       (Print       or       Type)          Thomas       C.       Griscom,177.0,94,Origin,45.5,88,177.0,45.5
+246.0,689.0,288.0,706.0,Origin,other,97       Greensboro.NC,9.5,87,Peat       I       nation,130.5,89,9.5,130.5
+368.0,687.0,427.0,714.0,Peat       I       nation,other,Approval       Authortty       Name       (Print       or       Type)          Thomas       C.       Griscom,183.5,94,EXPENSES       CHARGED       TO       COMPANY       (Attach       copies       of       tickots       or       Involcos),16.5,82,-1.0,16.5
+465.0,698.0,510.0,712.0,$481760,other,,0.0,-1,Cornments(Noto       If       Company       aircraft),92.5,91,0.0,92.5
+491.0,686.0,669.0,702.0,Cornments(Noto       If       Company       aircraft),other,$481760,11.0,90,,0.0,-1,11.0,0.0
+59.0,785.0,147.0,812.0,Other       •       Give       Details          •3       taxi       rides,other,,0.0,-1,*-*          co          K)          U>          to          CO,571.5,93,0.0,571.5
+665.0,725.0,684.0,806.0,*-*          co          K)          U>          to          CO,other,,0.0,-1,,0.0,-1,0.0,0.0
+271.0,865.0,452.0,903.0,Approval       Authortty       Name       (Print       or       Type)          Thomas       C.       Griscom,other,,0.0,-1,,0.0,-1,0.0,0.0

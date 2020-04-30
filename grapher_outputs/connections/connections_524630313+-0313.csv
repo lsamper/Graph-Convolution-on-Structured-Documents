@@ -1,0 +1,26 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+287.0,56.0,504.0,68.0,SPEEDWAY       SUPERAMERICA       LLC,supplier,AMOUNT       DUE:       $,113.0,3,,0.0,-1,113.0,0.0
+70.0,109.0,137.0,120.0,BILL       TOi,receiver,"INVOICE       t       11045          R.       J.       REYNOLDS          NEAL       MCCLEARY          635       PARK       MEADOW          SUITE       215          WESTERVILLE,       OH          DATE       DUE:       08/02/98          PLEASE       INCLUDE       THIS       PORTION       WITH       PAYMENT",92.0,2,,0.0,-1,-1.0,0.0
+68.0,138.0,652.0,275.0,"INVOICE       t       11045          R.       J.       REYNOLDS          NEAL       MCCLEARY          635       PARK       MEADOW          SUITE       215          WESTERVILLE,       OH          DATE       DUE:       08/02/98          PLEASE       INCLUDE       THIS       PORTION       WITH       PAYMENT",other,INVOICE       DATE:,6.0,7,AMOUNT       DUE:       $,64.5,3,6.0,64.5
+319.0,165.0,530.0,185.0,AMOUNT       DUE:       $,invoice_info,"565,356.36",1.0,4,,0.0,-1,1.0,0.0
+530.0,166.0,643.0,186.0,"565,356.36",invoice_info,AMT       ENCLOSED:       $,18.5,6,,0.0,-1,-1.0,0.0
+208.0,184.0,319.0,204.0,ROAD,other,AMT       ENCLOSED:       $,0.5,6,AMOUNT       DUE:       $,161.0,3,0.5,-1.0
+319.0,184.0,530.0,205.0,AMT       ENCLOSED:       $,invoice_info,"INVOICE       t       11045          R.       J.       REYNOLDS          NEAL       MCCLEARY          635       PARK       MEADOW          SUITE       215          WESTERVILLE,       OH          DATE       DUE:       08/02/98          PLEASE       INCLUDE       THIS       PORTION       WITH       PAYMENT",12.0,2,"565,356.36",162.0,4,12.0,162.0
+319.0,204.0,530.0,221.0,INVOICE       DATE:,invoice_info,07751798,1.0,8,,0.0,-1,1.0,0.0
+530.0,205.0,643.0,222.0,07751798,invoice_info,IDENTIFIER:,13.0,10,,0.0,-1,-1.0,0.0
+208.0,220.0,319.0,232.0,43081,other,IDENTIFIER:,0.5,10,"INVOICE       t       11045          R.       J.       REYNOLDS          NEAL       MCCLEARY          635       PARK       MEADOW          SUITE       215          WESTERVILLE,       OH          DATE       DUE:       08/02/98          PLEASE       INCLUDE       THIS       PORTION       WITH       PAYMENT",96.5,2,0.5,96.5
+319.0,220.0,530.0,233.0,IDENTIFIER:,invoice_info,DHN-MKT,1.0,11,07751798,162.0,8,1.0,162.0
+530.0,221.0,643.0,234.0,DHN-MKT,invoice_info,DESCRIPTION       J       QTY       J       UNTf'pRICE       J       AMOUNT,81.0,12,,0.0,-1,81.0,0.0
+50.0,298.0,693.0,319.0,DESCRIPTION       J       QTY       J       UNTf'pRICE       J       AMOUNT,positions,MAKE       CHECK          PAYABLE       TO:,448.0,13,,0.0,-1,448.0,0.0
+38.0,715.0,154.0,798.0,MAKE       CHECK          PAYABLE       TO:,supplier,"SPEEDWAY       SUPERAMERICA          ATTNiTREASURY          P       0       BOX       7600          SPRINGFIELD,       OH       45501",0.5,14,LLC,298.5,15,0.5,298.5
+154.0,716.0,356.0,798.0,"SPEEDWAY       SUPERAMERICA          ATTNiTREASURY          P       0       BOX       7600          SPRINGFIELD,       OH       45501",supplier,LLC,0.5,15,INVOICE          INQUIRIES:,229.5,16,0.5,-1.0
+356.0,716.0,433.0,799.0,LLC,other,INVOICE          INQUIRIES:,0.5,16,"DEBORAH       BROOKS          PO       BOX       1500          SPRINGFIELD,       OH          937-864-3000",210.0,17,0.5,-1.0
+433.0,717.0,536.0,799.0,INVOICE          INQUIRIES:,receiver,"DEBORAH       BROOKS          PO       BOX       1500          SPRINGFIELD,       OH          937-864-3000",0.5,17,45501,213.0,18,0.5,-1.0
+536.0,717.0,673.0,800.0,"DEBORAH       BROOKS          PO       BOX       1500          SPRINGFIELD,       OH          937-864-3000",receiver,45501,0.5,18,,0.0,-1,0.5,0.0
+673.0,718.0,722.0,800.0,45501,receiver,CHECKER       ECOL,60.5,22,,0.0,-1,-1.0,0.0
+38.0,797.0,356.0,838.0,SPEEDWAY       STARVIN'       MARVIN       UNITED,other,BONDED,1.0,20,"SPEEDWAY       SUPERAMERICA          ATTNiTREASURY          P       0       BOX       7600          SPRINGFIELD,       OH       45501",58.0,14,1.0,58.0
+356.0,798.0,433.0,839.0,BONDED,other,GASTOWN,0.5,21,INVOICE          INQUIRIES:,90.0,16,0.5,90.0
+433.0,799.0,536.0,839.0,GASTOWN,other,CHECKER       ECOL,0.5,22,"DEBORAH       BROOKS          PO       BOX       1500          SPRINGFIELD,       OH          937-864-3000",120.0,17,0.5,120.0
+536.0,799.0,673.0,840.0,CHECKER       ECOL,other,PORT,0.5,23,45501,93.0,18,0.5,93.0
+673.0,800.0,722.0,840.0,PORT,other,52463       0313,87.5,24,,0.0,-1,87.5,0.0
+716.0,862.0,730.0,953.0,52463       0313,other,,0.0,-1,,0.0,-1,0.0,0.0

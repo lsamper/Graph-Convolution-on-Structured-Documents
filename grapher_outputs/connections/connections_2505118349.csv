@@ -1,0 +1,33 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+236.0,126.0,507.0,167.0,FABRIQUES       DE       TABAC       REUNIES       SA          CH-2003       NEUCHATtl       (SUISSE)          .       TCl*X       AUVA       ■       TtlSfAX       «032|       600       7?       8?,supplier,INVOICE       NO.       30.10.173PF       INBIFO,55.5,1,,0.0,-1,55.5,0.0
+43.0,195.0,467.0,209.0,INVOICE       NO.       30.10.173PF       INBIFO,invoice_info,PRO       FORMA,22.0,2,,0.0,-1,22.0,0.0
+164.0,218.0,255.0,230.0,PRO       FORMA,invoice_info,Y/Ref.       :       Attn.       zHd.       Hr.       Geffe          O/Ref.:       CCA/acc          CH-2003       Neuchdtel.       22.10.1999,51.5,3,Attn.       zHd.       Hr.       Geffe          Fuggerstrasse       3          DE       -51149       KOELN          DEUTSCHLAND,272.5,4,51.5,272.5
+43.0,253.0,237.0,298.0,Y/Ref.       :       Attn.       zHd.       Hr.       Geffe          O/Ref.:       CCA/acc          CH-2003       Neuchdtel.       22.10.1999,invoice_info,VAT       Nr       163.011,40.0,5,Attn.       zHd.       Hr.       Geffe          Fuggerstrasse       3          DE       -51149       KOELN          DEUTSCHLAND,342.0,4,40.0,-1.0
+415.0,218.0,549.0,282.0,Attn.       zHd.       Hr.       Geffe          Fuggerstrasse       3          DE       -51149       KOELN          DEUTSCHLAND,receiver,"Description,-",88.5,6,,0.0,-1,-1.0,0.0
+40.0,309.0,139.0,322.0,VAT       Nr       163.011,invoice_info,"Description,-",23.0,6,,0.0,-1,23.0,0.0
+41.0,322.0,560.0,355.0,"Description,-",positions,V,32.5,9,Price       .|          unit.       1,287.0,7,32.5,287.0
+560.0,322.0,615.0,355.0,Price       .|          unit.       1,positions,1       BOX       CONTAINING,32.5,10,Amount          CHF,73.5,8,32.5,73.5
+615.0,322.0,707.0,355.0,Amount          CHF,positions,CHF,111.5,13,,0.0,-1,111.5,0.0
+41.0,355.0,151.0,387.0,V,positions,X,79.0,11,1       BOX       CONTAINING,259.5,10,79.0,259.5
+151.0,355.0,560.0,387.0,1       BOX       CONTAINING,positions,X,79.0,11,,0.0,-1,79.0,0.0
+41.0,387.0,151.0,513.0,X,positions,TOTAL       VALUE       DDU       KOELN       -       BONN,84.5,15,TOBACCO       SAMPLES,259.5,12,84.5,259.5
+151.0,387.0,560.0,513.0,TOBACCO       SAMPLES,positions,TOTAL       VALUE       DDU       KOELN       -       BONN,84.5,15,CHF,232.0,13,84.5,232.0
+560.0,387.0,615.0,513.0,CHF,positions,TOTAL       VALUE       DDU       KOELN       -       BONN,84.5,15,10.00,73.5,14,84.5,73.5
+615.0,387.0,707.0,513.0,10.00,positions,CHF,84.5,16,,0.0,-1,84.5,0.0
+41.0,513.0,560.0,556.0,TOTAL       VALUE       DDU       KOELN       -       BONN,total,Delivery          Grossweiqht,40.5,18,CHF,287.0,16,40.5,287.0
+560.0,513.0,615.0,556.0,CHF,total,by       DHL       to       your       address          0.530       kgs,40.5,19,10.00,73.5,17,40.5,73.5
+615.0,513.0,707.0,556.0,10.00,total,S.A.,301.5,29,,0.0,-1,301.5,0.0
+41.0,556.0,151.0,594.0,Delivery          Grossweiqht,other,Tobacco-weight          Packing          hqine,46.0,20,by       DHL       to       your       address          0.530       kgs,259.5,19,46.0,259.5
+151.0,556.0,560.0,594.0,by       DHL       to       your       address          0.530       kgs,other,Tobacco-weight          Packing          hqine,46.0,20,,0.0,-1,46.0,0.0
+41.0,594.0,151.0,648.0,Tobacco-weight          Packing          hqine,other,HS       number,33.5,22,0.350       kgs          0.418       kgs          FTR       06402       =       1       box          SEVERAL       COUTRIES,259.5,21,33.5,259.5
+151.0,594.0,560.0,648.0,0.350       kgs          0.418       kgs          FTR       06402       =       1       box          SEVERAL       COUTRIES,other,HS       number,33.5,22,,0.0,-1,33.5,0.0
+41.0,648.0,151.0,661.0,HS       number,other,WE       7       171       ??.       GKT.       1999,25.0,24,2403.91,259.5,23,25.0,259.5
+151.0,648.0,560.0,661.0,2403.91,other,WE       7       171       ??.       GKT.       1999,25.0,24,,0.0,-1,25.0,0.0
+151.0,661.0,560.0,698.0,WE       7       171       ??.       GKT.       1999,other,Bitte       Ware       F.-wroilieren          und       sam          sofort       an       FAM       so/:C’en          PKZ:       L.4:,57.5,25,,0.0,-1,57.5,0.0
+151.0,698.0,560.0,776.0,Bitte       Ware       F.-wroilieren          und       sam          sofort       an       FAM       so/:C’en          PKZ:       L.4:,other,PRO       FORMA       INVOICE       FOR       CUSTOMS       PURPOSES          ONLY       -       NO       VALUE       -       NO       PAYMENT       I,61.0,26,,0.0,-1,61.0,0.0
+41.0,776.0,560.0,820.0,PRO       FORMA       INVOICE       FOR       CUSTOMS       PURPOSES          ONLY       -       NO       VALUE       -       NO       PAYMENT       I,other,FABRIQUES       DE       TABAC          CH-2003       NEUCI,45.5,27,,0.0,-1,45.5,0.0
+390.0,829.0,548.0,858.0,FABRIQUES       DE       TABAC          CH-2003       NEUCI,other,,0.0,-1,REUN          vTEL,109.0,28,0.0,109.0
+555.0,829.0,601.0,858.0,REUN          vTEL,other,,0.0,-1,S.A.,63.0,29,0.0,63.0
+627.0,829.0,655.0,843.0,S.A.,other,,0.0,-1,ro,47.0,30,0.0,47.0
+678.0,834.0,698.0,845.0,ro,other,<o,78.5,31,,0.0,-1,78.5,0.0
+677.0,913.0,698.0,923.0,<o,other,,0.0,-1,,0.0,-1,0.0,0.0

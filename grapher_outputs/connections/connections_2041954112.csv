@@ -1,0 +1,42 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+50.0,3.0,91.0,61.0,f?,supplier,CLIENT:          L       B       JOB*:          SIZE/COLOR:          MEDIA/DATE:          DESCRIPTION,110.5,4,LEO       BURNETT       U.S.A.          KBIVIBIO*       or       no       BUBHtTT       COKfAHt.lHC          ADVERTISING,137.5,1,110.5,137.5
+106.0,14.0,310.0,61.0,LEO       BURNETT       U.S.A.          KBIVIBIO*       or       no       BUBHtTT       COKfAHt.lHC          ADVERTISING,supplier,PRINT       PRODUCTION       ESTIMATE,47.0,2,,0.0,-1,47.0,0.0
+257.0,75.0,500.0,94.0,PRINT       PRODUCTION       ESTIMATE,invoice_info,PHILIP       MORRIS       INC          M27945,37.5,6,DATE:       02/18/93,283.0,3,37.5,283.0
+588.0,80.0,735.0,98.0,DATE:       02/18/93,invoice_info,MAR4004-93/MSC5          l       718/93,46.5,10,,0.0,-1,46.5,0.0
+10.0,107.0,122.0,178.0,CLIENT:          L       B       JOB*:          SIZE/COLOR:          MEDIA/DATE:          DESCRIPTION,receiver,PRODUCT:,62.5,5,HISPANIC       ROP,137.0,7,62.5,137.0
+10.0,198.0,89.0,212.0,PRODUCT:,positions,DYES/PRINTS          ILLUSTRATION,61.5,16,10-MARLB0R0,148.5,8,-1.0,148.5
+143.0,108.0,310.0,136.0,PHILIP       MORRIS       INC          M27945,receiver,HISPANIC       ROP,50.0,7,CLIENT       IDS:          FISCAL       YEAR:          gTART-DATE:          REV       DATE:          PREV       REV       DATE          SERVICER:,256.0,9,50.0,256.0
+143.0,165.0,263.0,179.0,HISPANIC       ROP,receiver,10-MARLB0R0,34.5,8,CLIENT       IDS:          FISCAL       YEAR:          gTART-DATE:          REV       DATE:          PREV       REV       DATE          SERVICER:,279.5,9,34.5,-1.0
+143.0,199.0,253.0,214.0,10-MARLB0R0,positions,DYES/PRINTS          ILLUSTRATION,60.0,16,CLIENT       IDS:          FISCAL       YEAR:          gTART-DATE:          REV       DATE:          PREV       REV       DATE          SERVICER:,284.5,9,60.0,-1.0
+417.0,112.0,548.0,206.0,CLIENT       IDS:          FISCAL       YEAR:          gTART-DATE:          REV       DATE:          PREV       REV       DATE          SERVICER:,invoice_info,PREVIOUS,70.0,12,HECHAVARRIA,159.5,11,70.0,159.5
+588.0,111.0,735.0,160.0,MAR4004-93/MSC5          l       718/93,invoice_info,HECHAVARRIA,65.0,11,,0.0,-1,65.0,0.0
+587.0,193.0,697.0,208.0,HECHAVARRIA,positions,CURRENT,30.0,13,,0.0,-1,-1.0,0.0
+368.0,218.0,544.0,240.0,PREVIOUS,positions,CURRENT,1.5,13,,0.0,-1,1.5,0.0
+544.0,220.0,743.0,241.0,CURRENT,positions,ESTIMATE,16.5,14,,0.0,-1,16.5,0.0
+368.0,238.0,544.0,256.0,ESTIMATE,positions,ESTIMATE,1.5,15,CURRENT,187.5,13,1.5,187.5
+544.0,240.0,743.0,257.0,ESTIMATE,positions,"8,000.00",22.0,17,,0.0,-1,22.0,0.0
+12.0,251.0,368.0,282.0,DYES/PRINTS          ILLUSTRATION,positions,RETOUCHING          REPRODUCTION       FEES,25.5,18,ESTIMATE,266.0,14,25.5,266.0
+543.0,256.0,743.0,285.0,"8,000.00",positions,"8,000.00",25.5,19,ESTIMATE,0.5,15,25.5,0.5
+12.0,279.0,367.0,305.0,RETOUCHING          REPRODUCTION       FEES,positions,PHOTOGRAPHY,17.5,20,DYES/PRINTS          ILLUSTRATION,0.5,16,17.5,0.5
+543.0,284.0,742.0,308.0,"8,000.00",positions,"17,000.00",31.5,22,"8,000.00",0.5,17,31.5,0.5
+12.0,302.0,367.0,317.0,PHOTOGRAPHY,positions,TOTAL       VISUALS,14.0,21,"8,000.00",453.0,19,14.0,453.0
+12.0,314.0,367.0,333.0,TOTAL       VISUALS,positions,TYPOGRAPHY/LETTERING          KEYLINE          PHOTOSTATS,28.0,23,"17,000.00",453.0,22,28.0,453.0
+543.0,319.0,742.0,336.0,"17,000.00",positions,"1,000.00          3,000.00",22.5,24,,0.0,-1,22.5,0.0
+12.0,330.0,367.0,373.0,TYPOGRAPHY/LETTERING          KEYLINE          PHOTOSTATS,positions,TOTAL       STUDIO,29.0,26,"17,000.00",453.0,22,29.0,453.0
+543.0,335.0,742.0,365.0,"1,000.00          3,000.00",positions,652.00,20.0,25,,0.0,-1,20.0,0.0
+543.0,364.0,742.0,376.0,652.00,positions,"4,652.00",14.5,27,,0.0,-1,14.5,0.0
+11.0,370.0,367.0,391.0,TOTAL       STUDIO,positions,PRINTING       MATERIAL,21.0,28,TYPOGRAPHY/LETTERING          KEYLINE          PHOTOSTATS,0.5,23,21.0,0.5
+542.0,375.0,742.0,394.0,"4,652.00",positions,2       i:Si:!8,101.5,32,652.00,0.5,25,101.5,0.5
+11.0,388.0,366.0,415.0,PRINTING       MATERIAL,positions,OTHER       (SEE       NOTES),23.5,29,TOTAL       STUDIO,0.5,26,23.5,0.5
+11.0,412.0,366.0,438.0,OTHER       (SEE       NOTES),positions,COMPREHENSIVE       LAYOUT,26.0,30,,0.0,-1,26.0,0.0
+11.0,435.0,366.0,467.0,COMPREHENSIVE       LAYOUT,positions,TOTAL       COMMISSIONABLE       COSTS          AGENCY       COMMISSION          SHIPPING       AND       OTHER       NET       COSTS,39.5,31,,0.0,-1,39.5,0.0
+10.0,464.0,366.0,517.0,TOTAL       COMMISSIONABLE       COSTS          AGENCY       COMMISSION          SHIPPING       AND       OTHER       NET       COSTS,total,TOTAL       GROSS       COSTS,49.0,34,COMPREHENSIVE       LAYOUT,0.5,30,49.0,0.5
+541.0,469.0,741.0,503.0,2       i:Si:!8,total,100.00,25.0,33,,0.0,-1,25.0,0.0
+541.0,502.0,740.0,520.0,100.00,total,"25,000.00",32.5,35,2       i:Si:!8,0.5,32,32.5,0.5
+10.0,514.0,365.0,565.0,TOTAL       GROSS       COSTS,total,NOTES:,32.0,36,TOTAL       COMMISSIONABLE       COSTS          AGENCY       COMMISSION          SHIPPING       AND       OTHER       NET       COSTS,0.5,31,32.0,0.5
+541.0,519.0,740.0,568.0,"25,000.00",total,,0.0,-1,,0.0,-1,0.0,0.0
+8.0,564.0,68.0,579.0,NOTES:,invoice_info,CLIENT,332.0,37,TOTAL       GROSS       COSTS,149.5,34,332.0,149.5
+9.0,897.0,65.0,910.0,CLIENT,invoice_info,,0.0,-1,DATE,245.0,38,0.0,245.0
+263.0,900.0,301.0,914.0,DATE,invoice_info,,0.0,-1,zuvsmoz,481.0,40,0.0,481.0
+381.0,973.0,429.0,987.0,BRAND,invoice_info,,0.0,-1,,0.0,-1,0.0,0.0
+755.0,854.0,771.0,946.0,zuvsmoz,invoice_info,,0.0,-1,,0.0,-1,0.0,0.0

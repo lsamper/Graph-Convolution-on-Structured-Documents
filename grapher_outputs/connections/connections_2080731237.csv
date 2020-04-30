@@ -1,0 +1,35 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+478.0,145.0,553.0,159.0,Invoice       No.,invoice_info,=       INVOICE       —,112.0,5,230,124.5,1,-1.0,124.5
+626.0,146.0,654.0,160.0,230,invoice_info,=       INVOICE       —,111.0,5,,0.0,-1,111.0,0.0
+94.0,183.0,232.0,229.0,ONE       SPEEDWAY       BLVD.          HOMESTEAD.       FLORIDA       33030          305-230-500C       fax       305-230-5247          FEDERAL       ID       «       65-0770539,supplier,s-       Bill       to:       ^,83.0,6,HQWMJ          MIAMI*,186.5,3,-1.0,186.5
+290.0,163.0,409.0,216.0,HQWMJ          MIAMI*,supplier,SPEEDWAY,36.0,4,,0.0,-1,36.0,0.0
+293.0,220.0,407.0,231.0,SPEEDWAY,supplier,s-       Bill       to:       ^,63.5,6,,0.0,-1,63.5,0.0
+511.0,255.0,657.0,273.0,=       INVOICE       —,other,r       '       n,25.0,7,,0.0,-1,25.0,0.0
+84.0,282.0,458.0,296.0,s-       Bill       to:       ^,receiver,ATTN:       SHAUNN       D'ALESSANDRO,14.5,8,r       '       n,301.5,7,14.5,301.5
+471.0,282.0,674.0,296.0,r       '       n,invoice_info,Date       03/30/2000,14.5,9,,0.0,-1,14.5,0.0
+84.0,296.0,458.0,311.0,ATTN:       SHAUNN       D'ALESSANDRO,receiver,"PHILIP       MORRIS,       USA",14.5,10,Date       03/30/2000,301.5,9,14.5,301.5
+471.0,296.0,674.0,311.0,Date       03/30/2000,invoice_info,Order       No.,14.5,11,,0.0,-1,14.5,0.0
+84.0,311.0,458.0,325.0,"PHILIP       MORRIS,       USA",receiver,120       PARK       AVE,14.5,12,Order       No.,301.5,11,14.5,301.5
+471.0,311.0,674.0,325.0,Order       No.,invoice_info,Terms       DUE       UPON       RECEIPT,14.5,13,,0.0,-1,14.5,0.0
+84.0,325.0,458.0,340.0,120       PARK       AVE,receiver,"NEW       YORK,       NY       10017",17.5,14,Terms       DUE       UPON       RECEIPT,301.5,13,17.5,301.5
+471.0,325.0,674.0,340.0,Terms       DUE       UPON       RECEIPT,invoice_info,Event       GP       2000,17.5,15,,0.0,-1,17.5,0.0
+84.0,340.0,458.0,360.0,"NEW       YORK,       NY       10017",receiver,!_,25.5,16,Event       GP       2000,301.5,15,25.5,301.5
+471.0,340.0,674.0,360.0,Event       GP       2000,invoice_info,Description,25.5,17,,0.0,-1,25.5,0.0
+90.0,367.0,152.0,384.0,!_,positions,i          i,130.5,20,Description,191.0,17,130.5,191.0
+152.0,367.0,472.0,384.0,Description,positions,i          i,130.5,20,Unit       Price,201.5,18,130.5,201.5
+472.0,367.0,555.0,384.0,Unit       Price,positions,AS       PER       THE       FOLLOWING       INVOICES       ATTACHED:          FELIPE       CUEVAS       PHOTOGRAPHY       DATED       3/22/00          THE       FORGE       CKRQ       DATED       3/21/00          EDWARD       TILLOTSON       CKRQ       DATED       3/21/00,130.5,21,TOTAL,94.0,19,130.5,94.0
+555.0,367.0,660.0,384.0,TOTAL,positions,"1          $400.00          Si       3,642.00          $700.00",130.5,22,,0.0,-1,130.5,0.0
+90.0,384.0,152.0,628.0,i          i,total,Shipping       &       Handling,143.0,26,AS       PER       THE       FOLLOWING       INVOICES       ATTACHED:          FELIPE       CUEVAS       PHOTOGRAPHY       DATED       3/22/00          THE       FORGE       CKRQ       DATED       3/21/00          EDWARD       TILLOTSON       CKRQ       DATED       3/21/00,191.0,21,-1.0,191.0
+152.0,384.0,472.0,628.0,AS       PER       THE       FOLLOWING       INVOICES       ATTACHED:          FELIPE       CUEVAS       PHOTOGRAPHY       DATED       3/22/00          THE       FORGE       CKRQ       DATED       3/21/00          EDWARD       TILLOTSON       CKRQ       DATED       3/21/00,total,SuDTotal,129.0,24,"1          $400.00          Si       3,642.00          $700.00",201.5,22,129.0,201.5
+472.0,384.0,555.0,628.0,"1          $400.00          Si       3,642.00          $700.00",total,SuDTotal,129.0,24,"1          S400.00       ,          $13,642.00       |          $700.00",94.0,23,129.0,94.0
+555.0,384.0,660.0,628.0,"1          S400.00       ,          $13,642.00       |          $700.00",total,SuDTotal,129.0,24,,0.0,-1,129.0,0.0
+472.0,628.0,555.0,642.0,SuDTotal,total,Shipping       &       Handling,14.0,26,"$14,742.00",94.0,25,14.0,94.0
+555.0,628.0,660.0,642.0,"$14,742.00",total,Shipping       &       Handling,14.0,26,,0.0,-1,14.0,0.0
+152.0,642.0,555.0,656.0,Shipping       &       Handling,total,Taxes,14.5,28,$0.00,254.0,27,14.5,254.0
+555.0,642.0,660.0,656.0,$0.00,total,Florida,14.5,29,,0.0,-1,14.5,0.0
+152.0,656.0,472.0,671.0,Taxes,total,Payments,14.5,30,Florida,201.5,29,14.5,201.5
+472.0,656.0,555.0,671.0,Florida,total,Payments,14.5,30,,0.0,-1,14.5,0.0
+472.0,671.0,555.0,685.0,Payments,total,TOTAL,15.0,31,,0.0,-1,15.0,0.0
+472.0,685.0,555.0,701.0,TOTAL,total,,0.0,-1,"$14,742.00       |",94.0,32,0.0,94.0
+555.0,685.0,660.0,701.0,"$14,742.00       |",total,,0.0,-1,,0.0,-1,0.0,0.0
+258.0,797.0,449.0,809.0,PLEASE       PAY       FROM       THIS       INVOICE,other,,0.0,-1,,0.0,-1,0.0,0.0

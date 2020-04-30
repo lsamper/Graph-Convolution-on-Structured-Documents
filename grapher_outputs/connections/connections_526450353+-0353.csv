@@ -1,0 +1,26 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+9.0,9.0,13.0,19.0,I,supplier,,0.0,-1,,0.0,-1,0.0,0.0
+27.0,868.0,38.0,876.0,i,total,,0.0,-1,,0.0,-1,0.0,0.0
+84.0,93.0,279.0,270.0,"cJ          &>          o          r       <          |       BILL       TO          Womble       Carlyle       SandrkJge       &       Rice          200       West       Second       Street          P.O.       Drawer       84          Winston-Salem,       NC       27102",supplier,DATE,222.0,3,,0.0,-1,222.0,0.0
+106.0,397.0,139.0,410.0,DATE,positions,09/01/2001       B«!anc«       forward          09/14/2001       INV       *3011163-Consulting-       August       2001,29.0,5,DESCRIPTION,213.0,4,-1.0,213.0
+300.0,398.0,371.0,411.0,DESCRIPTION,positions,09/01/2001       B«!anc«       forward          09/14/2001       INV       *3011163-Consulting-       August       2001,28.0,5,AMOUNT       BALANCE,260.5,10,28.0,260.5
+90.0,420.0,330.0,445.0,09/01/2001       B«!anc«       forward          09/14/2001       INV       *3011163-Consulting-       August       2001,positions,CURRENT,372.0,12,0.00          700.00       700.00,402.0,11,372.0,402.0
+456.0,339.0,564.0,366.0,DUEDATE,invoice_info,10/14/2001,27.5,8,AMOUNT       DUE,114.0,7,27.5,114.0
+564.0,339.0,684.0,366.0,AMOUNT       DUE,invoice_info,10/14/2001,27.5,8,,0.0,-1,27.5,0.0
+456.0,366.0,564.0,394.0,10/14/2001,invoice_info,AMOUNT       BALANCE,25.5,10,$700.00,114.0,9,25.5,114.0
+564.0,366.0,684.0,394.0,$700.00,invoice_info,AMOUNT       BALANCE,25.5,10,,0.0,-1,25.5,0.0
+530.0,399.0,662.0,412.0,AMOUNT       BALANCE,positions,0.00          700.00       700.00,28.5,11,,0.0,-1,28.5,0.0
+549.0,422.0,675.0,446.0,0.00          700.00       700.00,positions,OVER       90       DAYS       PAST          DUE,370.5,16,,0.0,-1,370.5,0.0
+78.0,787.0,181.0,822.0,CURRENT,total,700.00,40.0,18,1-33       DAYS       PAST          DUE,101.0,13,40.0,101.0
+181.0,787.0,280.0,822.0,1-33       DAYS       PAST          DUE,total,700.00,40.0,18,31-60       DAYS       PAST          DUE,100.0,14,40.0,100.0
+280.0,787.0,381.0,822.0,31-60       DAYS       PAST          DUE,total,0.00,40.0,19,61-90       DAYS       PAST          DUE,100.0,15,40.0,100.0
+381.0,787.0,480.0,822.0,61-90       DAYS       PAST          DUE,total,0.00,40.0,20,OVER       90       DAYS       PAST          DUE,101.0,16,40.0,101.0
+480.0,787.0,583.0,822.0,OVER       90       DAYS       PAST          DUE,total,0.00,40.0,21,AMOUNT       DUE,102.5,17,40.0,102.5
+583.0,787.0,685.0,822.0,AMOUNT       DUE,total,0.00       fit,40.0,22,,0.0,-1,40.0,0.0
+78.0,822.0,181.0,867.0,700.00,total,,0.0,-1,0.00,101.0,19,0.0,101.0
+181.0,822.0,280.0,867.0,0.00,total,,0.0,-1,0.00,100.0,20,0.0,100.0
+280.0,822.0,381.0,867.0,0.00,total,,0.0,-1,0.00,100.0,21,0.0,100.0
+381.0,822.0,480.0,867.0,0.00,total,,0.0,-1,0.00       fit,101.0,22,0.0,101.0
+480.0,822.0,583.0,867.0,0.00       fit,total,,0.0,-1,^^$700^^),102.5,23,0.0,102.5
+583.0,822.0,685.0,867.0,^^$700^^),total,,0.0,-1,,0.0,-1,0.0,0.0
+677.0,684.0,692.0,772.0,52645       0353,other,AMOUNT       DUE,76.5,17,,0.0,-1,76.5,0.0

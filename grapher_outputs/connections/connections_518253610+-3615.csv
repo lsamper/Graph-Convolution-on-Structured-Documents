@@ -1,0 +1,92 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+57.0,40.0,324.0,58.0,BUSINESS       EXPENSE       VOUCHER,other,Employee       Name          Roger       L.       Mozingo,28.5,3,Dale       Prepared       I       Page          07/03/97       I       1       of,256.0,1,28.5,-1.0
+387.0,33.0,506.0,63.0,Dale       Prepared       I       Page          07/03/97       I       1       of,invoice_info,Return       to:          0       1       1       ft*,59.0,5,[       Disbursement       Accounting       Use       ONLY          36.53,169.5,2,59.0,169.5
+527.0,33.0,705.0,62.0,[       Disbursement       Accounting       Use       ONLY          36.53,invoice_info,Return       to:          0       1       1       ft*,59.5,5,,0.0,-1,-1.0,0.0
+54.0,62.0,240.0,93.0,Employee       Name          Roger       L.       Mozingo,receiver,"Mating       Address       (If       applicable)          VP,       State       Government       Relations          Reynolds       11th          Government       Relations",45.0,6,Accounl       Number          75586,143.0,4,45.0,143.0
+240.0,62.0,340.0,93.0,Accounl       Number          75586,receiver,"Mating       Address       (If       applicable)          VP,       State       Government       Relations          Reynolds       11th          Government       Relations",45.0,6,Dale       Prepared       I       Page          07/03/97       I       1       of,156.5,1,45.0,156.5
+389.0,62.0,711.0,152.0,Return       to:          0       1       1       ft*,invoice_info,RETURN       DATEI       PURPOSE       OF       TRIP,68.5,9,,0.0,-1,68.5,0.0
+54.0,93.0,240.0,152.0,"Mating       Address       (If       applicable)          VP,       State       Government       Relations          Reynolds       11th          Government       Relations",receiver,DEPART       DATE!       DESTINATION(S),53.0,8,Extension       Numbor          (910)       741-7665,143.0,7,53.0,143.0
+240.0,93.0,340.0,152.0,Extension       Numbor          (910)       741-7665,receiver,DEPART       DATE!       DESTINATION(S),53.0,8,Return       to:          0       1       1       ft*,260.0,5,53.0,260.0
+54.0,168.0,340.0,183.0,DEPART       DATE!       DESTINATION(S),other,1          1          </>          ir          S'          §          •          8,15.0,10,RETURN       DATEI       PURPOSE       OF       TRIP,328.5,9,15.0,328.5
+340.0,168.0,711.0,183.0,RETURN       DATEI       PURPOSE       OF       TRIP,other,1          1          </>          ir          S'          §          •          8,15.0,10,,0.0,-1,15.0,0.0
+54.0,183.0,340.0,198.0,1          1          </>          ir          S'          §          •          8,other,"06/25/97       |       Boston,       MA",16.5,12,06/24/97       SGR       Planning       Session*,328.5,11,16.5,328.5
+340.0,183.0,711.0,198.0,06/24/97       SGR       Planning       Session*,other,"06/25/97       |       Boston,       MA",16.5,12,,0.0,-1,16.5,0.0
+54.0,198.0,340.0,216.0,"06/25/97       |       Boston,       MA",other,EXPENSES       PAID,18.5,14,06/26/97       |       Massachusetts       Legislative       Issues       Meeting.,328.5,13,18.5,328.5
+340.0,198.0,711.0,216.0,06/26/97       |       Massachusetts       Legislative       Issues       Meeting.,other,EXPENSES       PAID,18.5,14,,0.0,-1,18.5,0.0
+54.0,216.0,389.0,235.0,EXPENSES       PAID,positions,DAY       OF       THE       WEEK,17.5,16,JY       EMPLOYEE,328.5,15,17.5,328.5
+389.0,216.0,711.0,235.0,JY       EMPLOYEE,positions,Wednesday,17.5,19,,0.0,-1,17.5,0.0
+54.0,235.0,208.0,251.0,DAY       OF       THE       WEEK,positions,DATE,15.5,24,Monday,107.5,17,15.5,107.5
+208.0,235.0,269.0,251.0,Monday,positions,DATE,15.5,24,Tuesday,61.0,18,15.5,61.0
+269.0,235.0,330.0,251.0,Tuesday,positions,23-Jun-97,15.5,25,Wednesday,60.0,19,15.5,60.0
+330.0,235.0,389.0,251.0,Wednesday,positions,24-Jun-97,15.5,26,Thursday,60.5,20,15.5,60.5
+389.0,235.0,451.0,251.0,Thursday,positions,25-Jun-97,15.5,27,Friday       |       Saturday,92.0,21,15.5,92.0
+451.0,235.0,573.0,251.0,Friday       |       Saturday,positions,"26-Jun-97""",15.5,28,Sunday,92.0,22,15.5,92.0
+573.0,235.0,635.0,251.0,Sunday,positions,SUMMARY          AMOUNT,7.5,23,,0.0,-1,7.5,0.0
+635.0,235.0,711.0,266.0,SUMMARY          AMOUNT,positions,29*Jun-97,8.0,31,,0.0,-1,8.0,0.0
+54.0,251.0,208.0,266.0,DATE,positions,Lodging       (Altach       Receipt),15.0,32,23-Jun-97,107.5,25,15.0,107.5
+208.0,251.0,269.0,266.0,23-Jun-97,positions,Lodging       (Altach       Receipt),15.0,32,24-Jun-97,61.0,26,15.0,61.0
+269.0,251.0,330.0,266.0,24-Jun-97,positions,340.07,15.0,33,25-Jun-97,60.0,27,15.0,60.0
+330.0,251.0,389.0,266.0,25-Jun-97,positions,340.07,15.0,33,"26-Jun-97""",60.5,28,15.0,60.5
+389.0,251.0,451.0,266.0,"26-Jun-97""",positions,340.07,15.0,33,27-Jun-97,62.0,29,15.0,62.0
+451.0,251.0,513.0,266.0,27-Jun-97,positions,’       16.00,90.0,45,28-Jun-97,61.0,30,90.0,61.0
+513.0,251.0,573.0,266.0,28-Jun-97,positions,"Personal       Auto       (       miles       X       $0,315)",150.5,50,29*Jun-97,61.0,31,-1.0,61.0
+573.0,251.0,635.0,266.0,29*Jun-97,positions,"""W07",15.0,34,SUMMARY          AMOUNT,69.0,23,15.0,69.0
+54.0,266.0,208.0,281.0,Lodging       (Altach       Receipt),positions,Breakfast       (Yours       ONLY),15.0,35,340.07,228.5,33,15.0,228.5
+330.0,266.0,389.0,281.0,340.07,positions,5.75,30.0,37,"""W07",313.5,34,30.0,313.5
+635.0,266.0,711.0,281.0,"""W07",positions,5.75,30.0,38,,0.0,-1,30.0,0.0
+54.0,281.0,208.0,296.0,Breakfast       (Yours       ONLY),positions,.unch       (Yours       ONLY),15.0,36,,0.0,-1,15.0,0.0
+54.0,296.0,208.0,311.0,.unch       (Yours       ONLY),positions,Dinner       (Yours       ONLY),15.0,39,5.75,228.5,37,15.0,228.5
+330.0,296.0,389.0,311.0,5.75,positions,7UM,30.0,41,5.75,313.5,38,30.0,313.5
+635.0,296.0,711.0,311.0,5.75,positions,"""       20.00",30.0,42,,0.0,-1,30.0,0.0
+54.0,311.0,208.0,326.0,Dinner       (Yours       ONLY),positions,Cab/Bus/Limo,15.0,40,,0.0,-1,15.0,0.0
+54.0,326.0,208.0,341.0,Cab/Bus/Limo,positions,Parking       Fees,15.0,43,7UM,228.5,41,15.0,228.5
+330.0,326.0,389.0,341.0,7UM,positions,"TC7J0""",15.0,44,"""       20.00",313.5,42,15.0,313.5
+635.0,326.0,711.0,341.0,"""       20.00",positions,32.00,15.0,46,,0.0,-1,15.0,0.0
+54.0,341.0,208.0,356.0,Parking       Fees,positions,Tips       (Not       Included       Elsewhere),15.0,47,"TC7J0""",168.5,44,15.0,168.5
+269.0,341.0,330.0,356.0,"TC7J0""",positions,"Personal       Auto       (       miles       X       $0,315)",60.5,50,’       16.00,120.5,45,-1.0,120.5
+389.0,341.0,451.0,356.0,’       16.00,positions,"Personal       Auto       (       miles       X       $0,315)",60.5,50,32.00,253.0,46,-1.0,253.0
+635.0,341.0,711.0,356.0,32.00,positions,"Personal       Auto       (       miles       X       $0,315)",60.5,50,,0.0,-1,-1.0,0.0
+54.0,356.0,208.0,371.0,Tips       (Not       Included       Elsewhere),positions,Telephone       &       Telegraph,15.0,48,,0.0,-1,15.0,0.0
+54.0,371.0,208.0,386.0,Telephone       &       Telegraph,positions,Auto       Rental       (Attach       Agreement),15.0,49,,0.0,-1,15.0,0.0
+54.0,386.0,208.0,401.0,Auto       Rental       (Attach       Agreement),positions,"Personal       Auto       (       miles       X       $0,315)",15.5,50,,0.0,-1,15.5,0.0
+54.0,401.0,635.0,417.0,"Personal       Auto       (       miles       X       $0,315)",positions,Misc.       (Give       explanation),15.0,51,,0.0,-1,15.0,0.0
+54.0,417.0,208.0,431.0,Misc.       (Give       explanation),positions,6/19/97       Gas       for       rental,14.5,52,,0.0,-1,14.5,0.0
+54.0,431.0,208.0,446.0,6/19/97       Gas       for       rental,positions,car       during       Virginia,15.0,55,8.00,107.5,53,15.0,107.5
+208.0,431.0,269.0,446.0,8.00,positions,car       during       Virginia,15.0,55,8.00,434.5,54,15.0,434.5
+635.0,431.0,711.0,446.0,8.00,positions,"305TE""",62.0,62,,0.0,-1,62.0,0.0
+54.0,446.0,208.0,461.0,car       during       Virginia,positions,Caucus       Meeting,15.5,56,,0.0,-1,15.5,0.0
+54.0,461.0,208.0,477.0,Caucus       Meeting,positions,DAILY       TOTALS,31.5,57,,0.0,-1,31.5,0.0
+54.0,492.0,208.0,509.0,DAILY       TOTALS,positions,Business       Meeting       or       Entertainment       -       (Show       Dale.       Place.       Persons       Affiliated       With       and       Business       Putposc/Discussion)          6/26/97       dinner       at       Remingtons       of       Boston       with       Kent       Wold       (RJRT)       re:       Massachusetts       legislative,23.0,63,8.00,107.5,58,23.0,107.5
+208.0,492.0,269.0,509.0,8.00,positions,Business       Meeting       or       Entertainment       -       (Show       Dale.       Place.       Persons       Affiliated       With       and       Business       Putposc/Discussion)          6/26/97       dinner       at       Remingtons       of       Boston       with       Kent       Wold       (RJRT)       re:       Massachusetts       legislative,23.0,63,16.00,61.0,59,23.0,61.0
+269.0,492.0,330.0,509.0,16.00,positions,Business       Meeting       or       Entertainment       -       (Show       Dale.       Place.       Persons       Affiliated       With       and       Business       Putposc/Discussion)          6/26/97       dinner       at       Remingtons       of       Boston       with       Kent       Wold       (RJRT)       re:       Massachusetts       legislative,23.0,63,365.82,60.0,60,23.0,60.0
+330.0,492.0,389.0,509.0,365.82,positions,Business       Meeting       or       Entertainment       -       (Show       Dale.       Place.       Persons       Affiliated       With       and       Business       Putposc/Discussion)          6/26/97       dinner       at       Remingtons       of       Boston       with       Kent       Wold       (RJRT)       re:       Massachusetts       legislative,23.0,63,16.00,60.5,61,23.0,60.5
+389.0,492.0,451.0,509.0,16.00,positions,Business       Meeting       or       Entertainment       -       (Show       Dale.       Place.       Persons       Affiliated       With       and       Business       Putposc/Discussion)          6/26/97       dinner       at       Remingtons       of       Boston       with       Kent       Wold       (RJRT)       re:       Massachusetts       legislative,23.0,63,"305TE""",253.0,62,23.0,253.0
+635.0,492.0,711.0,509.0,"305TE""",positions,W7E,26.5,64,,0.0,-1,26.5,0.0
+58.0,510.0,564.0,537.0,Business       Meeting       or       Entertainment       -       (Show       Dale.       Place.       Persons       Affiliated       With       and       Business       Putposc/Discussion)          6/26/97       dinner       at       Remingtons       of       Boston       with       Kent       Wold       (RJRT)       re:       Massachusetts       legislative,positions,issues.,20.5,65,W7E,377.0,64,20.5,377.0
+671.0,520.0,705.0,534.0,W7E,positions,436.60,82.5,71,,0.0,-1,82.5,0.0
+62.0,539.0,105.0,549.0,issues.,positions,TOTAL       EXPENSES       PAID       BY       EMPLOYEE,64.5,66,,0.0,-1,64.5,0.0
+58.0,603.0,245.0,614.0,TOTAL       EXPENSES       PAID       BY       EMPLOYEE,positions,Less       Travel       Advance,19.5,67,OTHER       COOES,134.5,68,19.5,134.5
+58.0,623.0,152.0,633.0,Less       Travel       Advance,positions,AMOUNT       DUE       EMPLOYEE,18.0,74,Dated,158.0,72,18.0,158.0
+250.0,603.0,322.0,614.0,OTHER       COOES,positions,Dated,19.5,72,G/L       CODES,130.5,69,19.5,130.5
+389.0,603.0,444.0,614.0,G/L       CODES,positions,EXPENSES       CHARGED       TO       COMPANY       (Attach,82.0,77,04       88       0000       9070       867,134.5,70,-1.0,134.5
+491.0,604.0,611.0,617.0,04       88       0000       9070       867,positions,oples       of       tickets       or       Invoices),80.0,78,436.60,133.5,71,80.0,133.5
+664.0,603.0,705.0,616.0,436.60,positions,2,20.5,73,,0.0,-1,20.5,0.0
+248.0,623.0,278.0,633.0,Dated,positions,EXPENSES       CHARGED       TO       COMPANY       (Attach,62.5,77,2,440.0,73,62.5,440.0
+699.0,623.0,707.0,637.0,2,positions,436.60,16.0,75,,0.0,-1,16.0,0.0
+57.0,640.0,182.0,652.0,AMOUNT       DUE       EMPLOYEE,total,AMOUNT       DUE       COMPANY,22.5,76,436.60,557.0,75,22.5,557.0
+651.0,639.0,702.0,653.0,436.60,total,Commonts(Noto       If       Company       aircraft)          msm—       —,65.0,83,,0.0,-1,-1.0,0.0
+57.0,663.0,178.0,674.0,AMOUNT       DUE       COMPANY,total,irture       Date,36.0,80,,0.0,-1,36.0,0.0
+191.0,683.0,456.0,698.0,EXPENSES       CHARGED       TO       COMPANY       (Attach,other,"Origin          Greensboro,",21.0,81,oples       of       tickets       or       Invoices),219.5,78,21.0,219.5
+458.0,683.0,628.0,698.0,oples       of       tickets       or       Invoices),other,Commonts(Noto       If       Company       aircraft)          msm—       —,20.5,83,,0.0,-1,20.5,0.0
+77.0,701.0,91.0,780.0,C          H          A          R          G          E          S,other,Other       -       Give       Details          •Addendum       to       Expense       Report       dated       6/25/97.,68.5,85,irture       Date,72.5,80,68.5,72.5
+130.0,700.0,183.0,709.0,irture       Date,other,Other       -       Give       Details          •Addendum       to       Expense       Report       dated       6/25/97.,104.5,85,"Origin          Greensboro,",83.0,81,-1.0,83.0
+193.0,699.0,286.0,724.0,"Origin          Greensboro,",other,Other       -       Give       Details          •Addendum       to       Expense       Report       dated       6/25/97.,97.5,85,"Destination          Boston,       MA",139.5,82,-1.0,139.5
+333.0,699.0,425.0,724.0,"Destination          Boston,       MA",other,Approval       Authority       Name       (Print       or       Type)          Thomas       C.       Griscom          —,190.5,87,Commonts(Noto       If       Company       aircraft)          msm—       —,184.0,83,190.5,184.0
+463.0,699.0,663.0,723.0,Commonts(Noto       If       Company       aircraft)          msm—       —,other,in       _          »-»          co          NJ          in          u>          O'          M          <S>,67.0,84,,0.0,-1,67.0,0.0
+662.0,732.0,711.0,824.0,in       _          »-»          co          NJ          in          u>          O'          M          <S>,other,,0.0,-1,,0.0,-1,0.0,0.0
+57.0,796.0,312.0,822.0,Other       -       Give       Details          •Addendum       to       Expense       Report       dated       6/25/97.,other,Signature/Title       snd       Date          Vh,86.5,86,in       _          »-»          co          NJ          in          u>          O'          M          <S>,502.0,84,86.5,502.0
+103.0,878.0,211.0,913.0,Signature/Title       snd       Date          Vh,other,•VNMl       \tilM,32.5,90,Approval       Authority       Name       (Print       or       Type)          Thomas       C.       Griscom          —,202.0,87,32.5,202.0
+268.0,879.0,450.0,925.0,Approval       Authority       Name       (Print       or       Type)          Thomas       C.       Griscom          —,other,,0.0,-1,Approval       Authority       Signature       and       Date,217.0,88,0.0,217.0
+491.0,878.0,661.0,891.0,Approval       Authority       Signature       and       Date,other,,0.0,-1,,0.0,-1,0.0,0.0
+54.0,924.0,96.0,932.0,RJRT       F<xm,other,,0.0,-1,•VNMl       \tilM,69.5,90,0.0,69.5
+119.0,924.0,170.0,932.0,•VNMl       \tilM,other,,0.0,-1,Approval       Authority       Name       (Print       or       Type)          Thomas       C.       Griscom          —,214.5,87,0.0,-1.0

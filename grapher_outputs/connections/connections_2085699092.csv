@@ -1,0 +1,31 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+223.0,101.0,336.0,167.0,"DJM       Post          4       E.       46th       Street          New       York,       NY       10017          Office       212-687-0111",supplier,r       ahnt,114.5,5,FAX       212-949-8083,111.0,3,114.5,111.0
+646.0,114.0,673.0,126.0,1       of       1,invoice_info,Invoice,26.0,2,,0.0,-1,26.0,0.0
+580.0,129.0,673.0,163.0,Invoice,invoice_info,-Job       !,112.0,6,,0.0,-1,-1.0,0.0
+339.0,154.0,442.0,170.0,FAX       212-949-8083,supplier,Term:       Net       30          Due       Date:       12-13-2000          Agency       P.O.*       0015-00,46.0,4,Invoice,236.0,2,46.0,236.0
+392.0,182.0,525.0,234.0,Term:       Net       30          Due       Date:       12-13-2000          Agency       P.O.*       0015-00,invoice_info,-Job       !,50.0,6,,0.0,-1,50.0,0.0
+69.0,238.0,351.0,259.0,r       ahnt,receiver,GCI,14.0,7,-Job       !,315.5,6,14.0,-1.0
+386.0,247.0,665.0,269.0,-Job       !,other,Job       No:       5356,14.0,8,,0.0,-1,14.0,0.0
+69.0,251.0,350.0,274.0,GCI,receiver,Attn.       Karen       Surgeon          92       GRANDVIEW       AVENUE,20.5,9,r       ahnt,0.5,5,20.5,0.5
+386.0,260.0,664.0,284.0,Job       No:       5356,other,Product       Dose:       PHILIP       MORRIS       USA,20.5,10,-Job       !,0.5,6,20.5,0.5
+68.0,266.0,350.0,300.0,Attn.       Karen       Surgeon          92       GRANDVIEW       AVENUE,receiver,"GREAT       NECK,       NY       11020",38.5,11,GCI,0.5,7,38.5,0.5
+385.0,275.0,664.0,310.0,Product       Dose:       PHILIP       MORRIS       USA,other,Contact:       Karen       Surgeon          DJM       Job#:       PO0OOI5-00,38.5,12,Job       No:       5356,0.5,8,38.5,0.5
+67.0,292.0,349.0,351.0,"GREAT       NECK,       NY       11020",receiver,Spot       ID:       ZGCI       0109       CC       Title:       -BROTHERS’       CC,204.5,13,Attn.       Karen       Surgeon          92       GRANDVIEW       AVENUE,1.0,9,204.5,1.0
+383.0,301.0,663.0,361.0,Contact:       Karen       Surgeon          DJM       Job#:       PO0OOI5-00,other,20.00,234.0,18,Product       Dose:       PHILIP       MORRIS       USA,1.5,10,234.0,1.5
+93.0,504.0,369.0,548.0,Spot       ID:       ZGCI       0109       CC       Title:       -BROTHERS’       CC,positions,MESSENGER-,24.0,14,,0.0,-1,24.0,0.0
+37.0,543.0,100.0,557.0,MESSENGER-,positions,FREIGHT-2,20.0,16,Spot       ID:       ZGCI       0109       CC       Title:       -BROTHERS’       CC,162.5,13,20.0,162.5
+214.0,549.0,259.0,561.0,mkltown,positions,2       lb       domestic       freight,21.0,17,20.00,323.5,18,21.0,323.5
+38.0,564.0,95.0,576.0,FREIGHT-2,positions,ft,305.0,22,2       lb       domestic       freight,144.0,17,305.0,144.0
+157.0,567.0,264.0,585.0,2       lb       domestic       freight,positions,You       for       Your       Business!          Return       One(1)       Copy       of       Invoice       with       Your       Payment.,308.0,23,20.00,349.5,18,-1.0,-1.0
+545.0,559.0,575.0,571.0,20.00,positions,16.50,20.5,19,60.00,99.0,20,20.5,99.0
+544.0,579.0,576.0,592.0,16.50,positions,Subtotal          Taxi          Tax       2          Invoice       Total,326.5,24,148.50,96.0,21,326.5,96.0
+642.0,561.0,676.0,573.0,60.00,positions,148.50,21.5,21,,0.0,-1,21.5,0.0
+636.0,582.0,676.0,595.0,148.50,positions,K>       *          O          CO          m       -          0>       0          <£>          CD          O       -I          CO       -•          10       L-,161.5,25,,0.0,-1,161.5,0.0
+26.0,856.0,67.0,894.0,ft,total,You       for       Your       Business!          Return       One(1)       Copy       of       Invoice       with       Your       Payment.,9.0,23,Subtotal          Taxi          Tax       2          Invoice       Total,475.0,24,9.0,-1.0
+65.0,864.0,349.0,904.0,You       for       Your       Business!          Return       One(1)       Copy       of       Invoice       with       Your       Payment.,total,,0.0,-1,Subtotal          Taxi          Tax       2          Invoice       Total,314.5,24,0.0,314.5
+476.0,868.0,567.0,956.0,Subtotal          Taxi          Tax       2          Invoice       Total,total,,0.0,-1,770.04,121.0,28,0.0,121.0
+664.0,695.0,713.0,805.0,K>       *          O          CO          m       -          0>       0          <£>          CD          O       -I          CO       -•          10       L-,other,i.t,26.0,29,,0.0,-1,26.0,0.0
+623.0,872.0,667.0,886.0,749.50,total,20.54          0.00,33.0,27,,0.0,-1,33.0,0.0
+628.0,894.0,667.0,930.0,20.54          0.00,total,770.04,38.5,28,,0.0,-1,38.5,0.0
+619.0,944.0,666.0,957.0,770.04,total,,0.0,-1,,0.0,-1,0.0,0.0
+698.0,771.0,704.0,781.0,i.t,other,,0.0,-1,,0.0,-1,0.0,0.0

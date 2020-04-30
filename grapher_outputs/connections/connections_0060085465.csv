@@ -1,0 +1,13 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+406.0,362.0,456.0,378.0,HOURS,positions,J-50       $30.OC          1-00       $15.00          0-50       $20.00,83.5,4,RATE,72.5,2,83.5,72.5
+39.0,389.0,233.0,570.0,"SAFIKRS,       INC.          CALLS       HOURS          DATA       ENTRY          COMPUTER       PROGRAMMING          CHARLES       M.       SLEDD          CALLS       HOURS          DATA       ENTRY          COMPUTER       PROGRAMMING",positions,,0.0,-1,20.25          1.90          0.50,304.0,5,0.0,304.0
+482.0,362.0,525.0,378.0,RATE,positions,J-50       $30.OC          1-00       $15.00          0-50       $20.00,83.5,4,TOTAL,76.5,3,83.5,76.5
+551.0,350.0,609.0,378.0,TOTAL,total,5225.0C          $15.00          $10.00,89.0,8,,0.0,-1,89.0,0.0
+422.0,427.0,541.0,480.0,J-50       $30.OC          1-00       $15.00          0-50       $20.00,positions,20.25          1.90          0.50,83.5,5,5225.0C          $15.00          $10.00,110.5,8,83.5,110.5
+415.0,515.0,465.0,559.0,20.25          1.90          0.50,positions,TOTAL       DUE       THIS       INVOICE,54.5,7,$30.00          $15.00          $20.00,70.5,6,-1.0,70.5
+480.0,515.0,541.0,560.0,$30.00          $15.00          $20.00,positions,TOTAL       DUE       THIS       INVOICE,54.0,7,$607.50          $28.50          $10.00,81.5,9,54.0,81.5
+311.0,574.0,506.0,609.0,TOTAL       DUE       THIS       INVOICE,total,PAYMENT       DUE       UPON       RECEIPT          THANK       YOU,97.5,11,$896.00,182.0,10,97.5,182.0
+558.0,429.0,626.0,477.0,5225.0C          $15.00          $10.00,total,$607.50          $28.50          $10.00,83.5,9,,0.0,-1,83.5,0.0
+558.0,513.0,626.0,560.0,$607.50          $28.50          $10.00,total,$896.00,55.5,10,,0.0,-1,55.5,0.0
+557.0,582.0,624.0,602.0,$896.00,total,,0.0,-1,,0.0,-1,0.0,0.0
+312.0,659.0,524.0,719.0,PAYMENT       DUE       UPON       RECEIPT          THANK       YOU,invoice_info,,0.0,-1,,0.0,-1,0.0,0.0

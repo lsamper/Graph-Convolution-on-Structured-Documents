@@ -341,6 +341,10 @@ class ObjectTree:
 
 		# ==================== vertical ===================================== #
 		# create df for plotting lines
+		# There's an issue here, this .loc code doesn't work for recent pandas version
+		# should be fixed with something like which is different as welle for nodes without nearest dest id
+		# df.iloc[nearest_dest_ids_vert]["Object"].values
+		# import pdb;	pdb.set_trace()
 		df['below_object'] = df.loc[nearest_dest_ids_vert, 'Object'].values
 
 		# add distances column
@@ -360,6 +364,7 @@ class ObjectTree:
 		# ==================== horizontal =================================== #
 		# create df for plotting lines
 		df['side_object'] = df.loc[nearest_dest_ids_hori, 'Object'].values
+		# df['side_object'] = df.loc[df.index.intersection(nearest_dest_ids_hori), 'Object'].reindex(df.index).values
 
 		# add lengths column
 		df['side_length'] = lengths

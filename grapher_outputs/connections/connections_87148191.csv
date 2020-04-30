@@ -1,0 +1,22 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+316.0,23.0,564.0,54.0,ORIGINAL       INVOICE          NT       RESEARCH       INSTITUTE,supplier,H       LORILL       ARD       RESEARCH       CTR          ENGLISH       ST.          GREENSBORO       NC       27405          ATTENt       OR       T       VOLLMUTH,156.5,2,,0.0,-1,156.5,0.0
+669.0,62.0,729.0,81.0,5045”/,supplier,05G457,98.0,4,,0.0,-1,98.0,0.0
+133.0,156.0,337.0,234.0,H       LORILL       ARD       RESEARCH       CTR          ENGLISH       ST.          GREENSBORO       NC       27405          ATTENt       OR       T       VOLLMUTH,receiver,L_,59.5,3,PLEASE       REFER       TO       OUR       INVOICE       NUM8ER          ANO       REMIT       TO:          p.       O.       BOX       92003          CHICAGO.       ILLINOIS       60675          J,343.5,5,59.5,343.5
+133.0,249.0,145.0,260.0,L_,receiver,6/15/89,75.5,11,PLEASE       REFER       TO       OUR       INVOICE       NUM8ER          ANO       REMIT       TO:          p.       O.       BOX       92003          CHICAGO.       ILLINOIS       60675          J,439.5,5,-1.0,-1.0
+665.0,163.0,716.0,176.0,05G457,supplier,PLEASE       REFER       TO       OUR       INVOICE       NUM8ER          ANO       REMIT       TO:          p.       O.       BOX       92003          CHICAGO.       ILLINOIS       60675          J,61.5,5,,0.0,-1,61.5,0.0
+453.0,203.0,704.0,259.0,PLEASE       REFER       TO       OUR       INVOICE       NUM8ER          ANO       REMIT       TO:          p.       O.       BOX       92003          CHICAGO.       ILLINOIS       60675          J,supplier,ACCOUNT       NUMBER,76.0,8,,0.0,-1,76.0,0.0
+82.0,299.0,120.0,315.0,OATC,invoice_info,6/15/89,23.0,11,PROJECT       No.,179.0,7,23.0,179.0
+203.0,299.0,357.0,315.0,PROJECT       No.,invoice_info,6/15/89,23.0,11,ACCOUNT       NUMBER,159.5,8,23.0,159.5
+357.0,299.0,522.0,315.0,ACCOUNT       NUMBER,invoice_info,L03189,23.0,12,CONTRACTOR       P.       0.       No.,163.5,9,23.0,163.5
+522.0,299.0,684.0,315.0,CONTRACTOR       P.       0.       No.,invoice_info,112-10-00,23.0,13,TERMS,104.5,10,23.0,104.5
+684.0,299.0,731.0,315.0,TERMS,invoice_info,(^350b),23.0,14,,0.0,-1,23.0,0.0
+120.0,315.0,203.0,345.0,6/15/89,invoice_info,RESEARCH       COST       RECORDED       THRU       6/09/89,31.0,16,L03189,118.5,12,31.0,118.5
+203.0,315.0,357.0,345.0,L03189,invoice_info,RESEARCH       COST       RECORDED       THRU       6/09/89,31.0,16,112-10-00,159.5,13,31.0,159.5
+357.0,315.0,522.0,345.0,112-10-00,invoice_info,RESEARCH       COST       RECORDED       THRU       6/09/89,31.0,16,(^350b),163.5,14,31.0,163.5
+522.0,315.0,684.0,345.0,(^350b),invoice_info,"ITEM       PERIOD       TO-DATE          TOTAL       15,111.54       $150,513.18",74.5,17,NET       CAS,104.5,15,-1.0,104.5
+684.0,315.0,731.0,345.0,NET       CAS,invoice_info,,0.0,-1,,0.0,-1,0.0,0.0
+142.0,345.0,450.0,377.0,RESEARCH       COST       RECORDED       THRU       6/09/89,other,"ITEM       PERIOD       TO-DATE          TOTAL       15,111.54       $150,513.18",43.5,17,,0.0,-1,43.5,0.0
+135.0,390.0,647.0,419.0,"ITEM       PERIOD       TO-DATE          TOTAL       15,111.54       $150,513.18",positions,AMOUNT       DUE,79.0,18,,0.0,-1,79.0,0.0
+124.0,477.0,214.0,490.0,AMOUNT       DUE,total,FOtAi       513,97.5,20,,0.0,-1,97.5,0.0
+425.0,525.0,456.0,548.0,0^,other,,0.0,-1,,0.0,-1,0.0,0.0
+80.0,577.0,124.0,585.0,FOtAi       513,other,,0.0,-1,,0.0,-1,0.0,0.0

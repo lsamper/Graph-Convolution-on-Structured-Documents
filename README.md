@@ -1,4 +1,13 @@
 # Graph Convolution on Structured Documents
+
+This repo is a clone of https://github.com/dhavalpotdar/Graph-Convolution-on-Structured-Documents
+which has be enriched with some scripts to handle [RVL-CDIP Dataset](https://zenodo.org/record/3257319).
+
+The script `label_data.py` generate numpy matrix A, X and Y corresponding to adjacency, node features and labels respectively. 
+
+` python label_data.py zenedo_dataset`
+
+
 This repo contains code to convert Structured Documents to Graphs and implement a Graph Convolution Neural Network (incomplete) for Node Classification, each node being an entity in the document.
 
 Check out the article for an intuitive explanation on Towards Data Science: [Using Graph Convolutional Neural Networks on Structured Documents for Information Extraction](https://towardsdatascience.com/using-graph-convolutional-neural-networks-on-structured-documents-for-information-extraction-c1088dcd2b8f) 

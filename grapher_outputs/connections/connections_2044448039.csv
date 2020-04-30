@@ -1,0 +1,21 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+83.0,112.0,262.0,130.0,TONC/MSKNEW,supplier,To:       Mr.       Fred       Della       Crosse,199.5,4,ASSOCIATES,183.0,1,-1.0,183.0
+284.0,118.0,427.0,128.0,ASSOCIATES,supplier,T/       M       INVOICE,111.5,3,,0.0,-1,111.5,0.0
+0.0,982.0,688.0,1000.0,I,other,,0.0,-1,,0.0,-1,0.0,0.0
+275.0,221.0,496.0,248.0,T/       M       INVOICE,other,To:       Mr.       Fred       Della       Crosse,86.0,4,,0.0,-1,86.0,0.0
+85.0,310.0,388.0,331.0,To:       Mr.       Fred       Della       Crosse,receiver,DATE:       June       10.       1991,2.0,5,,0.0,-1,2.0,0.0
+388.0,312.0,673.0,333.0,DATE:       June       10.       1991,other,PHILIP       MORRIS       U.SA,28.0,6,,0.0,-1,28.0,0.0
+84.0,329.0,388.0,372.0,PHILIP       MORRIS       U.SA,other,PM       #:       352,2.0,7,To:       Mr.       Fred       Della       Crosse,0.5,4,2.0,0.5
+387.0,331.0,673.0,374.0,PM       #:       352,other,Invoice#       10319,42.5,8,DATE:       June       10.       1991,0.5,5,42.5,0.5
+84.0,370.0,672.0,420.0,Invoice#       10319,other,Job#       1098A,37.5,9,PM       #:       352,152.0,7,37.5,152.0
+84.0,416.0,387.0,449.0,Job#       1098A,other,BUDGET:       $18000       -       S22500,2.0,10,Invoice#       10319,142.5,8,2.0,142.5
+387.0,418.0,672.0,451.0,BUDGET:       $18000       -       S22500,other,"TO       PRESENTATION          FOR       CREATIVE       AND/OR       PRODUCTION       PROFESSIONAL       SERVICES       RENDERED       IN       CONNECTION       WITH       THE          DESIGN       DEVELOPMENT       FOR:          Virginia       Slims       #1600       <D.       Dongoor)       Family       100's       Flip-Top       Box       Design,       Phase       7A",76.5,11,,0.0,-1,76.5,0.0
+82.0,455.0,670.0,567.0,"TO       PRESENTATION          FOR       CREATIVE       AND/OR       PRODUCTION       PROFESSIONAL       SERVICES       RENDERED       IN       CONNECTION       WITH       THE          DESIGN       DEVELOPMENT       FOR:          Virginia       Slims       #1600       <D.       Dongoor)       Family       100's       Flip-Top       Box       Design,       Phase       7A",other,PROFESSIONAL       SERVICE       FEE,152.5,12,,0.0,-1,152.5,0.0
+252.0,650.0,485.0,677.0,PROFESSIONAL       SERVICE       FEE,positions,so,1.0,13,,0.0,-1,1.0,0.0
+485.0,652.0,570.0,677.0,so,positions,OPC's       (OUT       OF       POCKET       COSTS),31.5,14,,0.0,-1,31.5,0.0
+252.0,675.0,485.0,717.0,OPC's       (OUT       OF       POCKET       COSTS),positions,$162,1.0,15,so,159.0,13,1.0,159.0
+485.0,677.0,570.0,717.0,$162,positions,TOTAL       AMOUNT       DUE,32.0,16,,0.0,-1,32.0,0.0
+252.0,715.0,485.0,743.0,TOTAL       AMOUNT       DUE,total,SI       62,1.0,17,$162,159.0,15,1.0,159.0
+485.0,717.0,570.0,743.0,SI       62,total,TERMS:       NET       15       DAYS       FROM       DATE       OF       INVOICE.       PAST       DUE       ACCOUNTS       SUBJECT       TO       1.5%       PER       MONTH          SERVICE       CHARGE.          TOKC       /       MCKNtW       INC.          lOOC       SA.VSOMt       ITRIIT       /       SUIT!       350       /       IAN       FRANCISCO       C       A       9       4       111       /       Til.       41S       197       4490       /       FAX       4       1       9       197       4490,193.0,18,,0.0,-1,193.0,0.0
+0.0,889.0,689.0,957.0,TERMS:       NET       15       DAYS       FROM       DATE       OF       INVOICE.       PAST       DUE       ACCOUNTS       SUBJECT       TO       1.5%       PER       MONTH          SERVICE       CHARGE.          TOKC       /       MCKNtW       INC.          lOOC       SA.VSOMt       ITRIIT       /       SUIT!       350       /       IAN       FRANCISCO       C       A       9       4       111       /       Til.       41S       197       4490       /       FAX       4       1       9       197       4490,other,I,68.0,2,2044448039,395.0,19,68.0,395.0
+733.0,823.0,746.0,915.0,2044448039,other,,0.0,-1,,0.0,-1,0.0,0.0

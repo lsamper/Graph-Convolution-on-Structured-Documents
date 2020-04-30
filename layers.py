@@ -122,7 +122,7 @@ class Adjacency(Layer):
         adj_1 = tf.reshape(adj_1, shape)
         adj_2 = tf.reshape(adj_2, shape)
 
-        return [adj_0, adj_1, adj_2]
+        return tf.stack([adj_0, adj_1, adj_2])
 
     def _learn_adjacencies(self, adj, node_vec):
 
@@ -146,7 +146,9 @@ class Adjacency(Layer):
                 elif adj_ij == 1:
                     new_adj[ik,jk].assign(tf.norm(node_vec[ik] - node_vec[jk], ord=1))
 
-        return tf.Tensor(new_adj)
+        res = tf.math.multiply(tf.reshape(adj, (50, 50)), new_adj)
+
+        return res
 
     def compute_output_shape(self, input_shape=((1, 50, 50), (1, 50, 50),
                                                 (1, 50, 50), (1, 50, 50))):
@@ -243,12 +245,11 @@ class GraphOperator(Layer):
         
         # calculate powers of the adjacency matrix
         # NOTE: A^0 = I
-
-        A0 = tf.eye(n)
+        A0 = tf.eye(num_rows=int(n), num_columns=int(n))
         A1 = tf.matmul(adj, adj)
         A2 = tf.matmul(A1, adj)
         
-        return [A0, A1, A2]
+        return tf.stack([A0, A1, A2])
 
     def compute_output_shape(self, input_shape=(50, 50)):
         return [input_shape, input_shape, input_shape] 

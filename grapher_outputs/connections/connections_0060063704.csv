@@ -1,0 +1,17 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+33.0,42.0,578.0,213.0,"*       -       THE       ROWLAND       COMPANY,       INC.          *       •*       415       Madijon       Avenue.       New       York,       N.Y.       10017          Td.       (212)       685-1200          American       Tobacco       Company       .       May       19,       1983          245       Park       Avenue          New       York,       New       York       10017       Due       Date:       May       30,       1983          Attention:       Mr.       William       Stevenson          Marketing       Controller          Authorization       No.       M-56       (1983)",other,Invoice       *       806544,104.0,2,,0.0,-1,104.0,0.0
+124.0,251.0,260.0,267.0,PRODUCTION       KXPENSES,other,"Out-of-pocket       and       mechanical       expenses       paid       in          April,       1983       in       connection       with       the       Dart          Tournaments       Las       Vegas/Honolulu:",40.5,3,,0.0,-1,40.5,0.0
+351.0,225.0,463.0,238.0,Invoice       *       806544,invoice_info,"Out-of-pocket       and       mechanical       expenses       paid       in          April,       1983       in       connection       with       the       Dart          Tournaments       Las       Vegas/Honolulu:",68.0,3,,0.0,-1,-1.0,0.0
+31.0,277.0,352.0,322.0,"Out-of-pocket       and       mechanical       expenses       paid       in          April,       1983       in       connection       with       the       Dart          Tournaments       Las       Vegas/Honolulu:",other,Cost,44.0,5,,0.0,-1,44.0,0.0
+31.0,390.0,145.0,405.0,Sponsorship       Cost,other,,0.0,-1,"SI,000.00.          1",199.0,12,0.0,199.0
+335.0,338.0,364.0,349.0,Cost,positions,Non,13.0,6,,0.0,-1,13.0,0.0
+228.0,348.0,349.0,365.0,Non,positions,Commissionable       j,15.0,8,Cost,61.0,5,15.0,61.0
+484.0,350.0,590.0,367.0,Service,positions,Cotnmiss       ionable,14.0,9,,0.0,-1,-1.0,0.0
+228.0,364.0,349.0,379.0,Commissionable       j,positions,Cotnmiss       ionable,1.0,9,Service,248.5,7,1.0,-1.0
+349.0,365.0,484.0,380.0,Cotnmiss       ionable,positions,Charge,1.0,10,Service,120.5,7,1.0,120.5
+484.0,366.0,590.0,381.0,Charge,positions,Total,0.5,11,,0.0,-1,0.5,0.0
+590.0,367.0,677.0,381.0,Total,positions,"$1,000.00",195.5,13,,0.0,-1,195.5,0.0
+225.0,378.0,349.0,756.0,"SI,000.00.          1",positions,Please       pay       this       amount,205.0,14,Commissionable       j,1.5,8,-1.0,1.5
+587.0,381.0,677.0,758.0,"$1,000.00",positions,Please       pay       this       amount,202.5,14,,0.0,-1,202.5,0.0
+225.0,755.0,587.0,789.0,Please       pay       this       amount,total,"$1,000.00",1.5,15,"$1,000.00",226.0,13,1.5,226.0
+587.0,758.0,674.0,789.0,"$1,000.00",total,,0.0,-1,,0.0,-1,0.0,0.0

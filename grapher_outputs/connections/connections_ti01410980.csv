@@ -1,0 +1,25 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+499.0,94.0,572.0,108.0,INVOICE,other,"JLay^rd       Associates          2242       San       Antonio       Avenue          Alameda,       CA       94501       Invoice       No.          (510)521-2145       FAX       (510)       521-2146       00340          Date          07/06/93",46.0,1,,0.0,-1,46.0,0.0
+49.0,87.0,520.0,207.0,"JLay^rd       Associates          2242       San       Antonio       Avenue          Alameda,       CA       94501       Invoice       No.          (510)521-2145       FAX       (510)       521-2146       00340          Date          07/06/93",other,"Covington       &       Burling       Ref:       SER       meeting          Attn:       Michael       T.       Buckley,       Esq.          1201       Pennsylvania       Avenue,       N.W.          Washington,       D.C.       20044",125.5,2,INVOICE,251.0,0,125.5,251.0
+150.0,245.0,562.0,300.0,"Covington       &       Burling       Ref:       SER       meeting          Attn:       Michael       T.       Buckley,       Esq.          1201       Pennsylvania       Avenue,       N.W.          Washington,       D.C.       20044",receiver,"Professional       services       for       the       period:       June       ,       j       g       9       3",60.5,3,,0.0,-1,60.5,0.0
+48.0,320.0,448.0,346.0,"Professional       services       for       the       period:       June       ,       j       g       9       3",positions,Dr.       Maxwell       Layard,27.0,6,Hours,272.0,4,27.0,272.0
+448.0,320.0,592.0,346.0,Hours,positions,Dr.       Maxwell       Layard,27.0,6,Amount,114.0,5,27.0,114.0
+592.0,320.0,676.0,346.0,Amount,positions,26.50,27.0,7,,0.0,-1,27.0,0.0
+48.0,346.0,448.0,374.0,Dr.       Maxwell       Layard,positions,Expenses:,24.0,9,26.50,272.0,7,24.0,272.0
+448.0,346.0,592.0,374.0,26.50,positions,Expenses:,24.0,9,3975.00,114.0,8,24.0,114.0
+592.0,346.0,676.0,374.0,3975.00,positions,1507.39,41.0,11,,0.0,-1,41.0,0.0
+48.0,374.0,448.0,394.0,Expenses:,positions,Travel       Expenses,17.0,10,,0.0,-1,17.0,0.0
+48.0,394.0,448.0,408.0,Travel       Expenses,positions,Meeting       Registration,14.0,12,1507.39,386.0,11,14.0,386.0
+592.0,394.0,676.0,408.0,1507.39,positions,175.00,14.0,13,,0.0,-1,14.0,0.0
+48.0,408.0,448.0,422.0,Meeting       Registration,positions,Freight       &       Communications,17.5,14,175.00,386.0,13,17.5,386.0
+592.0,408.0,676.0,422.0,175.00,positions,21.02,17.5,15,,0.0,-1,17.5,0.0
+48.0,422.0,448.0,443.0,Freight       &       Communications,positions,Total       costs,24.5,16,21.02,386.0,15,24.5,386.0
+592.0,422.0,676.0,443.0,21.02,positions,of       total       costs),49.5,18,,0.0,-1,49.5,0.0
+48.0,443.0,448.0,471.0,Total       costs,other,Amount       due       (one       third,25.0,17,,0.0,-1,25.0,0.0
+48.0,471.0,448.0,493.0,Amount       due       (one       third,other,"Attend       Society       for       Epidemiologic       Research       annual       meeting,          Keystone,       Colorado,       June       16-18,       1993",64.0,20,of       total       costs),272.0,18,64.0,272.0
+448.0,471.0,592.0,493.0,of       total       costs),total,"Attend       Society       for       Epidemiologic       Research       annual       meeting,          Keystone,       Colorado,       June       16-18,       1993",64.0,20,$1892.80,114.0,19,64.0,114.0
+592.0,471.0,676.0,493.0,$1892.80,total,APPROVED       FOR       PAYMENT          rv          BY_          BY          a/c       jmhm          DATE       7,220.5,21,,0.0,-1,-1.0,0.0
+66.0,532.0,533.0,560.0,"Attend       Society       for       Epidemiologic       Research       annual       meeting,          Keystone,       Colorado,       June       16-18,       1993",other,APPROVED       FOR       PAYMENT          rv          BY_          BY          a/c       jmhm          DATE       7,156.5,21,,0.0,-1,156.5,0.0
+390.0,627.0,596.0,778.0,APPROVED       FOR       PAYMENT          rv          BY_          BY          a/c       jmhm          DATE       7,other,Payment*       are       due       upon       receipt.          This       invoice       may       not       include       expense       items       for       which          we       were       not       yet       billed       in       the       above       period.,179.0,22,,0.0,-1,179.0,0.0
+239.0,854.0,489.0,909.0,Payment*       are       due       upon       receipt.          This       invoice       may       not       include       expense       items       for       which          we       were       not       yet       billed       in       the       above       period.,other,,0.0,-1,,0.0,-1,0.0,0.0
+652.0,965.0,723.0,976.0,TI0141-0980,other,,0.0,-1,,0.0,-1,0.0,0.0

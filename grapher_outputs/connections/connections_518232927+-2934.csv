@@ -1,0 +1,72 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+46.0,48.0,313.0,67.0,BUSINESS       EXPENSE       VOUCHER,other,Employee       Name          Patricia       Shore       Clark,29.0,1,Date       Prepared       Pago       Disbursement       Accounting       Use       ONLY          01/30/97       1       of       1       96.70,353.5,5,29.0,353.5
+50.0,74.0,165.0,99.0,Employee       Name          Patricia       Shore       Clark,receiver,Ma       img       Address       (If       app'icable)          Director       Sate       &       Local       Govl       ReiaSorts          Reynolds       11          Government       Relations,43.5,3,Account       Number          71564,162.5,2,-1.0,162.5
+232.0,74.0,308.0,99.0,Account       Number          71564,receiver,Extension       Number          (910)       741-6375,30.5,4,Return       to:          T*       a!       I'          H       I       1,157.5,6,30.5,-1.0
+50.0,101.0,232.0,159.0,Ma       img       Address       (If       app'icable)          Director       Sate       &       Local       Govl       ReiaSorts          Reynolds       11          Government       Relations,receiver,DEPART       DATE,54.5,8,Extension       Number          (910)       741-6375,136.5,4,54.5,136.5
+232.0,103.0,323.0,131.0,Extension       Number          (910)       741-6375,receiver,Ma       img       Address       (If       app'icable)          Director       Sate       &       Local       Govl       ReiaSorts          Reynolds       11          Government       Relations,13.0,3,Return       to:          T*       a!       I'          H       I       1,150.0,6,13.0,150.0
+373.0,42.0,693.0,71.0,Date       Prepared       Pago       Disbursement       Accounting       Use       ONLY          01/30/97       1       of       1       96.70,invoice_info,Return       to:          T*       a!       I'          H       I       1,43.0,6,,0.0,-1,43.0,0.0
+372.0,73.0,483.0,126.0,Return       to:          T*       a!       I'          H       I       1,other,RETURN       DATE,85.0,10,v,76.5,7,85.0,76.5
+496.0,116.0,512.0,125.0,v,other,PURPOSE       OF       TRIP,64.0,11,,0.0,-1,64.0,0.0
+46.0,176.0,138.0,193.0,DEPART       DATE,other,01/28/97,16.0,12,DESTINATION(S),141.5,9,16.0,141.5
+138.0,176.0,329.0,193.0,DESTINATION(S),other,01/28/97,16.0,12,RETURN       DATE,141.0,10,16.0,141.0
+329.0,176.0,420.0,193.0,RETURN       DATE,other,Raleigh.       NC,16.0,13,PURPOSE       OF       TRIP,185.5,11,16.0,185.5
+420.0,176.0,700.0,193.0,PURPOSE       OF       TRIP,other,^01/29/97,16.0,14,,0.0,-1,16.0,0.0
+46.0,193.0,138.0,208.0,01/28/97,other,DAY       OF       THE       WEEK,51.0,16,Raleigh.       NC,141.5,13,51.0,141.5
+138.0,193.0,329.0,208.0,Raleigh.       NC,other,DAY       OF       THE       WEEK,51.0,16,^01/29/97,141.0,14,51.0,141.0
+329.0,193.0,420.0,208.0,^01/29/97,other,Tuesday       |       Wednesflay       |       Thursday,51.0,17,General       Assembly,185.5,15,51.0,185.5
+420.0,193.0,700.0,208.0,General       Assembly,other,Friday       |       Saturday,51.0,18,,0.0,-1,51.0,0.0
+46.0,243.0,199.0,260.0,DAY       OF       THE       WEEK,positions,DATE,16.0,22,Tuesday       |       Wednesflay       |       Thursday,167.5,17,16.0,167.5
+199.0,243.0,381.0,260.0,Tuesday       |       Wednesflay       |       Thursday,positions,DATE,16.0,22,Friday       |       Saturday,151.5,18,16.0,151.5
+381.0,243.0,502.0,260.0,Friday       |       Saturday,positions,Sunday,7.5,19,Monday          03-Feb-97,152.0,20,7.5,-1.0
+502.0,243.0,563.0,275.0,Sunday,positions,31-Jan-97       01-Feb-97,8.5,25,Monday          03-Feb-97,61.0,20,8.5,61.0
+563.0,243.0,624.0,275.0,Monday          03-Feb-97,positions,2.53,39.5,29,SUMMARY          AMOUNT,68.0,21,39.5,68.0
+624.0,243.0,699.0,275.0,SUMMARY          AMOUNT,positions,2.53,39.5,29,,0.0,-1,39.5,0.0
+46.0,260.0,199.0,275.0,DATE,positions,Lodging       (Attach       Receipt),15.5,26,28-Jan-97,106.5,23,15.5,106.5
+199.0,260.0,259.0,275.0,28-Jan-97,positions,Lodging       (Attach       Receipt),15.5,26,29-Jan-97       30-Jan-97,91.0,24,15.5,91.0
+259.0,260.0,381.0,275.0,29-Jan-97       30-Jan-97,positions,2       531,31.0,28,31-Jan-97       01-Feb-97,121.5,25,31.0,121.5
+381.0,260.0,502.0,275.0,31-Jan-97       01-Feb-97,positions,2       531,31.0,28,Sunday,91.0,19,31.0,91.0
+46.0,275.0,199.0,291.0,Lodging       (Attach       Receipt),positions,breakfast       (Yours       ONLY),15.5,27,,0.0,-1,15.5,0.0
+46.0,291.0,199.0,306.0,breakfast       (Yours       ONLY),positions,.unch       (Yours       ONLY),14.5,30,2       531,197.5,28,14.5,197.5
+259.0,291.0,381.0,306.0,2       531,positions,1.50,60.0,34,2.53,341.5,29,60.0,341.5
+624.0,291.0,699.0,306.0,2.53,positions,1.50,60.0,35,,0.0,-1,60.0,0.0
+46.0,306.0,199.0,320.0,.unch       (Yours       ONLY),positions,Dinner       (Yours       ONLY),15.0,31,,0.0,-1,15.0,0.0
+46.0,320.0,199.0,336.0,Dinner       (Yours       ONLY),positions,CatVBus/lmo,15.5,32,,0.0,-1,15.5,0.0
+46.0,336.0,199.0,351.0,CatVBus/lmo,positions,Parking       Fees,15.0,33,,0.0,-1,15.0,0.0
+46.0,351.0,199.0,366.0,Parking       Fees,positions,Tips       (Not       Included       E:sewhere),15.5,36,1.50,167.0,34,15.5,167.0
+259.0,351.0,320.0,366.0,1.50,positions,Auto       Rental       (Attach       Agreement),46.5,39,1.50,372.0,35,-1.0,372.0
+624.0,351.0,699.0,366.0,1.50,positions,2.00,15.5,37,,0.0,-1,15.5,0.0
+46.0,366.0,199.0,382.0,Tips       (Not       Included       E:sewhere),positions,Telephone       &       Tclograph,15.5,38,2.00,539.0,37,15.5,539.0
+624.0,366.0,699.0,382.0,2.00,positions,TO3,134.0,43,,0.0,-1,134.0,0.0
+46.0,382.0,199.0,397.0,Telephone       &       Tclograph,positions,Auto       Rental       (Attach       Agreement),15.5,39,,0.0,-1,15.5,0.0
+46.0,397.0,259.0,413.0,Auto       Rental       (Attach       Agreement),positions,Misc.       (Give       explanation)          •Raleigh       Condo,37.5,40,,0.0,-1,37.5,0.0
+48.0,429.0,156.0,456.0,Misc.       (Give       explanation)          •Raleigh       Condo,positions,DAILY       TOTALS,68.0,41,,0.0,-1,68.0,0.0
+120.0,505.0,194.0,516.0,DAILY       TOTALS,positions,"Business       Meeting       or       Entertainment       -       (Show       Date,       Piace,       Persons       Affiliated       With       snd       Business       Purpose/Discjssior)          j       ■""       *       ■       bbaEvans,NCStateDemocratlcPartyChair.",23.0,44,T5~23,142.0,42,23.0,142.0
+282.0,500.0,316.0,514.0,T5~23,positions,"Business       Meeting       or       Entertainment       -       (Show       Date,       Piace,       Persons       Affiliated       With       snd       Business       Purpose/Discjssior)          j       ■""       *       ■       bbaEvans,NCStateDemocratlcPartyChair.",26.5,44,TO3,378.0,43,-1.0,378.0
+660.0,501.0,694.0,515.0,TO3,positions,"~54""57",30.5,45,,0.0,-1,30.5,0.0
+47.0,520.0,545.0,547.0,"Business       Meeting       or       Entertainment       -       (Show       Date,       Piace,       Persons       Affiliated       With       snd       Business       Purpose/Discjssior)          j       ■""       *       ■       bbaEvans,NCStateDemocratlcPartyChair.",positions,*,18.5,46,"~54""57",383.5,45,18.5,383.5
+659.0,532.0,700.0,545.0,"~54""57",positions,Tsm,45.5,48,,0.0,-1,45.5,0.0
+279.0,549.0,297.0,555.0,*,positions,1/30/97-Registration       fee       for       Piedmont       Women       Executives       Quarterly       Professional       Forum       luncheon,32.5,47,,0.0,-1,32.5,0.0
+52.0,576.0,575.0,593.0,1/30/97-Registration       fee       for       Piedmont       Women       Executives       Quarterly       Professional       Forum       luncheon,positions,sponsored       by       Deloitte       &       Touche       to       be       held       at       the       Piedmont       Club.',15.0,49,Tsm,363.0,48,15.0,363.0
+659.0,577.0,694.0,591.0,Tsm,positions,179.90,38.0,55,,0.0,-1,38.0,0.0
+51.0,592.0,402.0,607.0,sponsored       by       Deloitte       &       Touche       to       be       held       at       the       Piedmont       Club.',positions,OTHER       CODES,20.0,52,1/30/97-Registration       fee       for       Piedmont       Women       Executives       Quarterly       Professional       Forum       luncheon,87.0,47,20.0,87.0
+48.0,614.0,235.0,626.0,TOTAL       EXPENSES       PAID       BY       EMPLOYEE,positions,Loss       Travel       Advance,19.0,51,OTHER       CODES,134.5,52,19.0,134.5
+47.0,634.0,142.0,644.0,Loss       Travel       Advance,positions,AMOUNT       DUE       EMPLOYEE,18.0,57,Dated,158.5,56,18.0,158.5
+240.0,614.0,312.0,625.0,OTHER       CODES,positions,Dated,19.5,56,G/L       CODES,129.5,53,19.5,129.5
+378.0,614.0,433.0,626.0,G/L       CODES,positions,Destination,93.5,62,04       88       0000       9070       867,135.0,54,93.5,135.0
+480.0,615.0,601.0,628.0,04       88       0000       9070       867,positions,Comments(Note       If       Company       aircraft),92.0,63,179.90,133.0,55,-1.0,133.0
+653.0,615.0,694.0,629.0,179.90,positions,179.90,36.0,58,,0.0,-1,36.0,0.0
+238.0,634.0,268.0,644.0,Dated,positions,Origin,74.5,61,,0.0,-1,74.5,0.0
+43.0,651.0,172.0,663.0,AMOUNT       DUE       EMPLOYEE,total,AMOUNT       DUE       COMPANY,23.5,59,179.90,558.5,58,23.5,558.5
+641.0,651.0,691.0,665.0,179.90,total,Comments(Note       If       Company       aircraft),55.5,63,,0.0,-1,55.5,0.0
+46.0,675.0,168.0,686.0,AMOUNT       DUE       COMPANY,total,Departure       Date,33.0,60,,0.0,-1,33.0,0.0
+88.0,705.0,180.0,722.0,Departure       Date,other,Other       -       Give       Details,98.5,66,Origin,115.5,61,-1.0,115.5
+180.0,705.0,319.0,722.0,Origin,other,Approval       Authority       Name       (Print       or       Type),182.5,68,Destination,134.5,62,182.5,134.5
+319.0,705.0,449.0,722.0,Destination,other,Approval       Authority       Name       (Print       or       Type),182.5,68,Comments(Note       If       Company       aircraft),190.0,63,182.5,190.0
+449.0,705.0,699.0,722.0,Comments(Note       If       Company       aircraft),other,Approval       Authority       Signature       ar.d       Date,183.0,69,,0.0,-1,183.0,0.0
+50.0,713.0,63.0,791.0,A          I          R          L          I          N          E,other,Other       -       Give       Details,60.0,66,C          H          A          R          G          E,17.5,65,60.0,17.5
+67.0,712.0,81.0,780.0,C          H          A          R          G          E,other,Other       -       Give       Details,66.0,66,Departure       Date,60.0,60,-1.0,60.0
+47.0,807.0,136.0,817.0,Other       -       Give       Details,other,)loyee       Signatured(tie       and       Date          77,102.5,67,,0.0,-1,-1.0,0.0
+64.0,890.0,271.0,939.0,)loyee       Signatured(tie       and       Date          77,other,,0.0,-1,Approval       Authority       Name       (Print       or       Type),183.5,68,0.0,183.5
+263.0,890.0,439.0,902.0,Approval       Authority       Name       (Print       or       Type),other,)loyee       Signatured(tie       and       Date          77,18.5,67,Approval       Authority       Signature       ar.d       Date,212.0,69,18.5,212.0
+477.0,890.0,649.0,903.0,Approval       Authority       Signature       ar.d       Date,other,,0.0,-1,51823       2927,135.0,70,0.0,135.0
+692.0,860.0,704.0,949.0,51823       2927,other,,0.0,-1,,0.0,-1,0.0,0.0

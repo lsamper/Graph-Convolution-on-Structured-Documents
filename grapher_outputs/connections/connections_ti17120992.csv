@@ -1,0 +1,31 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+196.0,148.0,526.0,163.0,POLITICAL       CAMPAIGN       CONTRIBUTION       REQUEST,other,State:       ^       Local:       [~,47.5,2,,0.0,-1,47.5,0.0
+120.0,197.0,204.0,210.0,Date:       8-24-98,invoice_info,Name          (tndividul       Candida       or       FundroUin^       Or^),100.5,4,State:       ^       Local:       [~,298.0,2,-1.0,298.0
+400.0,195.0,520.0,211.0,State:       ^       Local:       [~,other,RECIPIENT       INFORMATION,48.5,3,,0.0,-1,48.5,0.0
+273.0,245.0,448.0,258.0,RECIPIENT       INFORMATION,other,Name          (tndividul       Candida       or       FundroUin^       Or^),52.5,4,,0.0,-1,52.5,0.0
+114.0,290.0,281.0,318.0,Name          (tndividul       Candida       or       FundroUin^       Or^),receiver,Address,38.5,6,Ray       Schow,247.0,5,38.5,247.0
+281.0,290.0,608.0,318.0,Ray       Schow,receiver,Address,38.5,6,,0.0,-1,38.5,0.0
+114.0,318.0,281.0,367.0,Address,receiver,Current       Office       and       District,33.0,8,"P.O.       Box       3948          Federal       Way,       WA       98063",247.0,7,33.0,247.0
+281.0,318.0,608.0,367.0,"P.O.       Box       3948          Federal       Way,       WA       98063",receiver,Current       Office       and       District,33.0,8,,0.0,-1,33.0,0.0
+114.0,367.0,281.0,384.0,Current       Office       and       District,receiver,Aspired       Office       and       District,17.0,10,Senate.       30th       District,247.0,9,17.0,247.0
+281.0,367.0,608.0,384.0,Senate.       30th       District,receiver,Aspired       Office       and       District,17.0,10,,0.0,-1,17.0,0.0
+114.0,384.0,281.0,401.0,Aspired       Office       and       District,receiver,Party,17.0,12,Senate.       30th       District,247.0,11,17.0,247.0
+281.0,384.0,608.0,401.0,Senate.       30th       District,receiver,Party,17.0,12,,0.0,-1,17.0,0.0
+114.0,401.0,281.0,418.0,Party,receiver,Leadership       Position,17.0,14,Republican,247.0,13,17.0,247.0
+281.0,401.0,608.0,418.0,Republican,receiver,Leadership       Position,17.0,14,,0.0,-1,17.0,0.0
+114.0,418.0,281.0,435.0,Leadership       Position,receiver,Committees          (Note       Quirmimhipc),22.5,15,,0.0,-1,22.5,0.0
+114.0,435.0,281.0,463.0,Committees          (Note       Quirmimhipc),receiver,CONTRIBUTION       INFORMATION,69.0,17,"Chair,       Commerce       &       Labor",247.0,16,69.0,247.0
+281.0,435.0,608.0,463.0,"Chair,       Commerce       &       Labor",receiver,CONTRIBUTION       INFORMATION,69.0,17,,0.0,-1,69.0,0.0
+256.0,512.0,464.0,524.0,CONTRIBUTION       INFORMATION,other,Amount       (       $500.00,48.0,18,,0.0,-1,48.0,0.0
+114.0,557.0,597.0,575.0,Amount       (       $500.00,supplier,Account       Code,17.5,19,,0.0,-1,17.5,0.0
+114.0,575.0,351.0,592.0,Account       Code,supplier,Check       Payable       to,17.0,21,1401-7710-WA-01,241.5,20,17.0,241.5
+351.0,575.0,597.0,592.0,1401-7710-WA-01,supplier,Check       Payable       to,17.0,21,,0.0,-1,17.0,0.0
+114.0,592.0,351.0,609.0,Check       Payable       to,supplier,Address          (Only       if       different       from       address       above),41.0,23,Ray       Schow       Senate       Committee,241.5,22,41.0,241.5
+351.0,592.0,597.0,609.0,Ray       Schow       Senate       Committee,supplier,Address          (Only       if       different       from       address       above),41.0,23,,0.0,-1,41.0,0.0
+114.0,609.0,351.0,674.0,Address          (Only       if       different       from       address       above),supplier,Notes:          (Date       needed;       fundraiser       date;       other       info.,51.0,24,,0.0,-1,51.0,0.0
+114.0,674.0,351.0,711.0,Notes:          (Date       needed;       fundraiser       date;       other       info.,supplier,Approved       by:,54.5,25,,0.0,-1,54.5,0.0
+117.0,739.0,197.0,755.0,Approved       by:,other,Revised       2rt>5,93.0,27,,0.0,-1,93.0,0.0
+370.0,757.0,572.0,772.0,(Regional       Vice       President’s       signature),other,(Senior       Vice       President’s       signature),63.0,28,,0.0,-1,63.0,0.0
+117.0,834.0,183.0,846.0,Revised       2rt>5,other,,0.0,-1,(Senior       Vice       President’s       signature),328.5,28,0.0,328.5
+384.0,820.0,573.0,835.0,(Senior       Vice       President’s       signature),other,,0.0,-1,,0.0,-1,0.0,0.0
+643.0,964.0,724.0,976.0,Til       712-0992,other,,0.0,-1,,0.0,-1,0.0,0.0

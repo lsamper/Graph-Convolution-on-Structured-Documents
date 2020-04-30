@@ -1,0 +1,34 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+188.0,155.0,526.0,170.0,POLITICAL       CAMPAIGN       CONTRIBUTION       REQUEST,other,"Date:       May       13,       1998",47.5,1,,0.0,-1,47.5,0.0
+109.0,203.0,228.0,217.0,"Date:       May       13,       1998",invoice_info,Name          (Individual       Candidate       cr       Fiii*tr*iitn*Otfc),101.0,4,State:       X       Local       □,298.5,2,-1.0,298.5
+397.0,202.0,537.0,218.0,State:       X       Local       □,invoice_info,RECIPIENT       INFORMATION,47.5,3,,0.0,-1,47.5,0.0
+266.0,251.0,446.0,264.0,RECIPIENT       INFORMATION,receiver,Name          (Individual       Candidate       cr       Fiii*tr*iitn*Otfc),53.5,4,,0.0,-1,53.5,0.0
+100.0,296.0,273.0,326.0,Name          (Individual       Candidate       cr       Fiii*tr*iitn*Otfc),receiver,Address,23.5,6,Dennis       Nolan,254.5,5,23.5,254.5
+273.0,296.0,609.0,326.0,Dennis       Nolan,receiver,Address,23.5,6,,0.0,-1,23.5,0.0
+100.0,326.0,273.0,343.0,Address,receiver,Las       Vegas.       NV       89180,24.5,8,P.O.       Box       82194,254.5,7,24.5,254.5
+273.0,326.0,609.0,343.0,P.O.       Box       82194,receiver,Las       Vegas.       NV       89180,24.5,8,,0.0,-1,24.5,0.0
+273.0,343.0,609.0,375.0,Las       Vegas.       NV       89180,receiver,"Current       Office       and       District          ""       1",24.0,9,,0.0,-1,24.0,0.0
+100.0,375.0,273.0,391.0,"Current       Office       and       District          ""       1",receiver,Aspired       Office       and       District,17.0,11,Dist.       13,254.5,10,17.0,254.5
+273.0,375.0,609.0,391.0,Dist.       13,receiver,Aspired       Office       and       District,17.0,11,,0.0,-1,17.0,0.0
+100.0,391.0,273.0,409.0,Aspired       Office       and       District,receiver,Party,17.0,13,1       ■       i       ■       ——^,254.5,12,17.0,254.5
+273.0,391.0,609.0,409.0,1       ■       i       ■       ——^,receiver,Party,17.0,13,,0.0,-1,17.0,0.0
+100.0,409.0,273.0,425.0,Party,receiver,Leadership       Position,16.5,15,Republican,254.5,14,16.5,254.5
+273.0,409.0,609.0,425.0,Republican,receiver,Leadership       Position,16.5,15,,0.0,-1,16.5,0.0
+100.0,425.0,273.0,442.0,Leadership       Position,receiver,Committees,17.0,17,Assembly,254.5,16,17.0,254.5
+273.0,425.0,609.0,442.0,Assembly,receiver,Committees,17.0,17,,0.0,-1,17.0,0.0
+100.0,442.0,273.0,459.0,Committees,receiver,(Nrtc       Chiinrorshipf),15.5,18,,0.0,-1,15.5,0.0
+100.0,459.0,273.0,473.0,(Nrtc       Chiinrorshipf),receiver,CONTRIBUTION       INFORMATION,62.5,19,,0.0,-1,62.5,0.0
+247.0,522.0,461.0,535.0,CONTRIBUTION       INFORMATION,other,Amount,48.0,20,,0.0,-1,48.0,0.0
+98.0,567.0,342.0,586.0,Amount,other,Account       Code,18.0,22,$500.00,250.0,21,18.0,250.0
+342.0,567.0,598.0,586.0,$500.00,other,Account       Code,18.0,22,,0.0,-1,18.0,0.0
+98.0,586.0,342.0,603.0,Account       Code,other,Check       Payable       to,17.0,24,1401-7710-NV       01,250.0,23,17.0,250.0
+342.0,586.0,598.0,603.0,1401-7710-NV       01,other,Check       Payable       to,17.0,24,,0.0,-1,17.0,0.0
+98.0,603.0,342.0,620.0,Check       Payable       to,other,Address          (Only       if       different       from       address       above),33.5,26,Committee       to       Elect       X)tSAZ\Af\       A<0       OxA,250.0,25,33.5,250.0
+342.0,603.0,598.0,620.0,Committee       to       Elect       X)tSAZ\Af\       A<0       OxA,other,Address          (Only       if       different       from       address       above),33.5,26,,0.0,-1,33.5,0.0
+98.0,620.0,342.0,670.0,Address          (Only       if       different       from       address       above),other,Notes:          (Date       needed;       fundraiser       date;       other       info,42.5,27,,0.0,-1,42.5,0.0
+98.0,670.0,342.0,705.0,Notes:          (Date       needed;       fundraiser       date;       other       info,other,Approved       by:,55.5,29,As       soon       as       possible,250.0,28,55.5,250.0
+342.0,670.0,598.0,705.0,As       soon       as       possible,other,’s       signature),140.0,31,,0.0,-1,140.0,0.0
+101.0,734.0,183.0,752.0,Approved       by:,other,Revised       2/95,94.5,30,,0.0,-1,94.5,0.0
+100.0,832.0,168.0,843.0,Revised       2/95,other,,0.0,-1,’s       signature),400.5,31,0.0,400.5
+499.0,820.0,570.0,835.0,’s       signature),other,,0.0,-1,,0.0,-1,0.0,0.0
+641.0,964.0,724.0,976.0,TI1712-0370,other,,0.0,-1,,0.0,-1,0.0,0.0

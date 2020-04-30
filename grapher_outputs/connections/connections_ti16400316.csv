@@ -1,0 +1,30 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+207.0,151.0,541.0,165.0,POLITICAL       CAMPAIGN       CONTRIBUTION       REQUEST,other,State:       ^       Local:       □,45.5,2,,0.0,-1,45.5,0.0
+129.0,198.0,213.0,211.0,Date:       6/24/96,invoice_info,Name          (Individual       Candidal*       or       Fund»»Ming       Org),102.5,4,State:       ^       Local:       □,343.5,2,-1.0,343.5
+454.0,195.0,575.0,212.0,State:       ^       Local:       □,invoice_info,RECIPIENT       INFORMATON,47.5,3,,0.0,-1,47.5,0.0
+287.0,245.0,461.0,257.0,RECIPIENT       INFORMATON,receiver,Name          (Individual       Candidal*       or       Fund»»Ming       Org),56.0,4,,0.0,-1,56.0,0.0
+123.0,290.0,295.0,324.0,Name          (Individual       Candidal*       or       Fund»»Ming       Org),receiver,Address,49.0,6,Ward       Armstrong,250.5,5,49.0,250.5
+295.0,290.0,624.0,324.0,Ward       Armstrong,receiver,Address,49.0,6,,0.0,-1,49.0,0.0
+123.0,324.0,295.0,388.0,Address,receiver,Current       Office       and       District,40.5,8,PO       Box       1431          Martinsville.       VA       24114,250.5,7,40.5,250.5
+295.0,324.0,624.0,388.0,PO       Box       1431          Martinsville.       VA       24114,receiver,Current       Office       and       District,40.5,8,,0.0,-1,40.5,0.0
+123.0,388.0,295.0,405.0,Current       Office       and       District,receiver,Aspired       Office       and       District,16.5,10,Delegate       -       District       11,250.5,9,16.5,250.5
+295.0,388.0,624.0,405.0,Delegate       -       District       11,receiver,Aspired       Office       and       District,16.5,10,,0.0,-1,16.5,0.0
+123.0,405.0,295.0,421.0,Aspired       Office       and       District,receiver,Parly,16.5,11,,0.0,-1,16.5,0.0
+123.0,421.0,295.0,438.0,Parly,receiver,Leadership       Position,17.0,13,Democrat,250.5,12,17.0,250.5
+295.0,421.0,624.0,438.0,Democrat,receiver,Leadership       Position,17.0,13,,0.0,-1,17.0,0.0
+123.0,438.0,295.0,455.0,Leadership       Position,receiver,Committees          (Note       ChaWmamhipt),25.5,14,,0.0,-1,25.5,0.0
+123.0,455.0,295.0,489.0,Committees          (Note       ChaWmamhipt),receiver,CONTRIBUTION       INFORMATION,72.0,16,"Agriculture.       General       Laws.       Labor       &       Commerce,          Privilcdgcs       &       Elections",250.5,15,72.0,250.5
+295.0,455.0,624.0,489.0,"Agriculture.       General       Laws.       Labor       &       Commerce,          Privilcdgcs       &       Elections",receiver,CONTRIBUTION       INFORMATION,72.0,16,,0.0,-1,72.0,0.0
+269.0,538.0,480.0,550.0,CONTRIBUTION       INFORMATION,other,Amount,48.0,17,,0.0,-1,48.0,0.0
+123.0,583.0,364.0,601.0,Amount,other,Account       Code,17.5,19,S       500.00,245.5,18,17.5,245.5
+364.0,583.0,614.0,601.0,S       500.00,other,Account       Code,17.5,19,,0.0,-1,17.5,0.0
+123.0,601.0,364.0,618.0,Account       Code,other,Check       Payable       to,16.5,21,1401-7710-VA-01,245.5,20,16.5,245.5
+364.0,601.0,614.0,618.0,1401-7710-VA-01,other,Check       Payable       to,16.5,21,,0.0,-1,16.5,0.0
+123.0,618.0,364.0,634.0,Check       Payable       to,other,Address          (Only       if       different       from       address       above),40.5,23,Armstrong       for       House,245.5,22,40.5,245.5
+364.0,618.0,614.0,634.0,Armstrong       for       House,other,Address          (Only       if       different       from       address       above),40.5,23,,0.0,-1,40.5,0.0
+123.0,634.0,364.0,699.0,Address          (Only       if       different       from       address       above),other,Notes:          (Date       needed;       fundraiser       date;       other       info.,49.5,24,,0.0,-1,49.5,0.0
+123.0,699.0,364.0,733.0,Notes:          (Date       needed;       fundraiser       date;       other       info.,other,Approved       by:       _____          (Regional       Vice       President’s       signature),65.0,26,8-2-96       -       Fundraiser       date,245.5,25,65.0,245.5
+364.0,699.0,614.0,733.0,8-2-96       -       Fundraiser       date,other,Approved       by:       _____          (Regional       Vice       President’s       signature),65.0,26,,0.0,-1,65.0,0.0
+130.0,765.0,586.0,797.0,Approved       by:       _____          (Regional       Vice       President’s       signature),other,(Senior       Vice       President’s       signature)          Revised       2/95,74.5,27,,0.0,-1,74.5,0.0
+129.0,841.0,586.0,870.0,(Senior       Vice       President’s       signature)          Revised       2/95,other,,0.0,-1,,0.0,-1,0.0,0.0
+642.0,964.0,724.0,976.0,Til       640-0316,other,,0.0,-1,,0.0,-1,0.0,0.0

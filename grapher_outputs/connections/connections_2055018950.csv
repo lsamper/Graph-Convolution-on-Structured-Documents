@@ -1,0 +1,73 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+208.0,87.0,614.0,143.0,Universal       Leaf       Tobacco       Company          INCORPORATED          P.0.       Box       25099       Richmond.       VA       U.S.A.       23260,supplier,PM       EUROPE       DIRECT       -       C/O       PM       USA,48.0,1,,0.0,-1,48.0,0.0
+30.0,150.0,436.0,176.0,PM       EUROPE       DIRECT       -       C/O       PM       USA,receiver,Dote:,2.5,2,Oct       10.1995,420.0,3,2.5,-1.0
+436.0,153.0,603.0,178.0,Dote:,invoice_info,Oct       10.1995,1.0,3,,0.0,-1,1.0,0.0
+603.0,155.0,703.0,178.0,Oct       10.1995,invoice_info,Invoice       No.:,19.0,5,,0.0,-1,-1.0,0.0
+30.0,173.0,436.0,193.0,ATTN:       G.E.       Barnett,receiver,Invoice       No.:,2.5,5,Dote:,286.5,2,2.5,286.5
+436.0,176.0,603.0,195.0,Invoice       No.:,invoice_info,510123,1.0,6,Oct       10.1995,133.5,3,1.0,133.5
+603.0,178.0,703.0,195.0,510123,invoice_info,"The       following       is       the       cost       of       Laboratory       Analysis       work       performed       for       you       at       the       Richmond       Laboratory.          Charges       are       for       the       month       of       September,       1995",85.0,9,,0.0,-1,-1.0,0.0
+30.0,190.0,436.0,210.0,P.O.       Box       26603,receiver,"Richmond,       VA       23261",31.0,8,Invoice       No.:,286.5,5,31.0,286.5
+29.0,207.0,436.0,255.0,"Richmond,       VA       23261",receiver,"The       following       is       the       cost       of       Laboratory       Analysis       work       performed       for       you       at       the       Richmond       Laboratory.          Charges       are       for       the       month       of       September,       1995",40.5,9,P.O.       Box       26603,0.5,7,40.5,0.5
+53.0,255.0,621.0,288.0,"The       following       is       the       cost       of       Laboratory       Analysis       work       performed       for       you       at       the       Richmond       Laboratory.          Charges       are       for       the       month       of       September,       1995",other,P       f       oi?.       ct       10,30.5,10,,0.0,-1,30.5,0.0
+40.0,294.0,108.0,310.0,P       f       oi?.       ct       10,positions,Service       Ren^red       Number       of       Tests,2.0,11,Charae,441.5,12,2.0,-1.0
+108.0,295.0,471.0,313.0,Service       Ren^red       Number       of       Tests,positions,Charae,1.5,12,Amount,306.0,13,1.5,-1.0
+471.0,298.0,560.0,313.0,Charae,positions,Amount,0.5,13,,0.0,-1,0.5,0.0
+560.0,298.0,631.0,314.0,Amount,positions,60.00,14.5,17,,0.0,-1,-1.0,0.0
+40.0,309.0,108.0,325.0,114-01,positions,MH30,1.5,15,Service       Ren^red       Number       of       Tests,215.5,11,1.5,-1.0
+108.0,310.0,407.0,327.0,MH30,positions,13,1.5,16,Service       Ren^red       Number       of       Tests,32.0,11,1.5,32.0
+407.0,312.0,471.0,328.0,13,positions,60.00,0.5,17,Charae,76.5,12,0.5,76.5
+471.0,313.0,560.0,328.0,60.00,positions,780.00,0.5,18,Amount,80.0,13,0.5,80.0
+560.0,313.0,631.0,329.0,780.00,positions,7.00,15.5,21,,0.0,-1,-1.0,0.0
+108.0,325.0,407.0,344.0,Reducing       Sugars,positions,13,1.5,20,13,181.5,16,1.5,181.5
+407.0,327.0,471.0,345.0,13,positions,7.00,0.5,21,60.00,76.5,17,0.5,76.5
+471.0,328.0,560.0,345.0,7.00,positions,91.00,0.5,22,780.00,80.0,18,0.5,80.0
+560.0,328.0,631.0,346.0,91.00,positions,19.00,30.0,25,,0.0,-1,-1.0,0.0
+107.0,342.0,407.0,388.0,Nicotine       Content          Requested       by       -       PHILIP       MORRIS       EUROPE       DIRECT,positions,13,1.5,24,Reducing       Sugars,0.5,19,1.5,0.5
+406.0,344.0,471.0,389.0,13,positions,19.00,0.5,25,13,0.5,20,0.5,0.5
+470.0,345.0,560.0,389.0,19.00,positions,247.00,0.5,26,91.00,80.5,22,0.5,-1.0
+559.0,345.0,631.0,390.0,247.00,positions,60.00,33.5,30,91.00,0.5,22,-1.0,0.5
+39.0,385.0,107.0,410.0,114-02,positions,MH30,1.5,28,Nicotine       Content          Requested       by       -       PHILIP       MORRIS       EUROPE       DIRECT,184.0,23,1.5,-1.0
+107.0,386.0,406.0,412.0,MH30,positions,16,1.5,29,Nicotine       Content          Requested       by       -       PHILIP       MORRIS       EUROPE       DIRECT,0.5,23,1.5,0.5
+406.0,388.0,470.0,413.0,16,positions,60.00,0.5,30,13,0.5,24,0.5,0.5
+470.0,389.0,559.0,413.0,60.00,positions,960.00,0.5,31,247.00,80.5,26,0.5,-1.0
+559.0,389.0,630.0,414.0,960.00,positions,7.00,20.0,34,247.00,0.5,26,-1.0,0.5
+107.0,410.0,406.0,429.0,Reducing       Sugars,positions,16,1.5,33,16,181.5,29,1.5,181.5
+406.0,412.0,470.0,430.0,16,positions,7.00,0.5,34,60.00,76.5,30,0.5,76.5
+470.0,413.0,559.0,430.0,7.00,positions,112.00,0.5,35,960.00,80.0,31,0.5,80.0
+559.0,413.0,630.0,431.0,112.00,positions,19.00,29.0,38,,0.0,-1,-1.0,0.0
+107.0,427.0,406.0,471.0,Nicotine       Content          Requested       by       -       PHILIP       MORRIS       EUROPE       DIRECT,positions,16,1.5,37,16,181.5,33,1.5,181.5
+406.0,429.0,470.0,472.0,16,positions,19.00,0.5,38,7.00,76.5,34,0.5,76.5
+470.0,430.0,559.0,472.0,19.00,positions,304.00,0.5,39,112.00,80.0,35,0.5,80.0
+559.0,430.0,630.0,473.0,304.00,positions,60.00,32.5,43,,0.0,-1,-1.0,0.0
+39.0,468.0,107.0,493.0,114-03,positions,MH30,1.5,41,Nicotine       Content          Requested       by       -       PHILIP       MORRIS       EUROPE       DIRECT,183.5,36,1.5,183.5
+107.0,469.0,406.0,495.0,MH30,positions,5,1.5,42,16,181.5,37,1.5,181.5
+406.0,471.0,470.0,496.0,5,positions,60.00,0.5,43,19.00,76.5,38,0.5,76.5
+470.0,472.0,559.0,496.0,60.00,positions,300.00,0.5,44,304.00,80.0,39,0.5,80.0
+559.0,472.0,630.0,497.0,300.00,positions,7.00,20.5,47,,0.0,-1,-1.0,0.0
+106.0,493.0,406.0,513.0,Reducing       Sugars,positions,7,1.5,46,MH30,0.5,41,1.5,0.5
+405.0,495.0,470.0,514.0,7,positions,7.00,0.5,47,5,0.5,42,0.5,0.5
+469.0,496.0,559.0,514.0,7.00,positions,49.00,0.5,48,300.00,80.5,44,0.5,-1.0
+558.0,496.0,630.0,515.0,49.00,positions,19.00,29.5,51,300.00,0.5,44,-1.0,0.5
+106.0,511.0,405.0,555.0,Nicotine       Content          Requested       by       -       PHILIP       MORRIS       EUROPE       DIRECT,positions,7,1.5,50,Reducing       Sugars,0.5,45,1.5,0.5
+405.0,513.0,469.0,556.0,7,positions,19.00,0.5,51,7,0.5,46,0.5,0.5
+469.0,514.0,558.0,556.0,19.00,positions,133.00,0.5,52,49.00,80.5,48,0.5,-1.0
+558.0,514.0,629.0,557.0,133.00,positions,60.00,32.5,56,49.00,0.5,48,-1.0,0.5
+38.0,552.0,106.0,577.0,114-04,positions,MH30,1.5,54,Nicotine       Content          Requested       by       -       PHILIP       MORRIS       EUROPE       DIRECT,183.5,49,1.5,183.5
+106.0,553.0,405.0,579.0,MH30,positions,4,1.5,55,7,181.5,50,1.5,181.5
+405.0,555.0,469.0,580.0,4,positions,60.00,0.5,56,19.00,76.5,51,0.5,76.5
+469.0,556.0,558.0,580.0,60.00,positions,240.00,0.5,57,133.00,80.0,52,0.5,80.0
+558.0,556.0,629.0,581.0,240.00,positions,7.00,20.5,60,,0.0,-1,-1.0,0.0
+106.0,577.0,405.0,597.0,Reducing       Sugars,positions,4,1.5,59,4,181.5,55,1.5,181.5
+405.0,579.0,469.0,598.0,4,positions,7.00,0.5,60,60.00,76.5,56,0.5,76.5
+469.0,580.0,558.0,598.0,7.00,positions,28.CO,0.5,61,240.00,80.0,57,0.5,80.0
+558.0,580.0,629.0,599.0,28.CO,positions,19.00,25.5,64,,0.0,-1,-1.0,0.0
+106.0,595.0,405.0,631.0,Nicotine       Content          Requested       by       -       PHILIP       MORRIS       EUROPE       DIRECT,positions,4,1.5,63,4,181.5,59,1.5,181.5
+405.0,597.0,469.0,632.0,4,positions,19.00,0.5,64,7.00,76.5,60,0.5,76.5
+469.0,598.0,558.0,632.0,19.00,positions,76.00,0.5,65,28.CO,80.0,61,0.5,80.0
+558.0,598.0,629.0,633.0,76.00,positions,Total       Cost:       $3.320.03,41.5,69,0SCST0SS02,80.5,71,41.5,80.5
+100.0,676.0,318.0,691.0,"Universal       Loaf       Tobacco       Company,       Inc.",supplier,By,43.5,67,0SCST0SS02,465.0,71,43.5,-1.0
+108.0,720.0,130.0,734.0,By,supplier,,0.0,-1,thorized       Signature),268.5,68,0.0,268.5
+332.0,722.0,443.0,736.0,thorized       Signature),supplier,,0.0,-1,0SCST0SS02,286.5,71,0.0,-1.0
+483.0,648.0,630.0,666.0,Total       Cost:       $3.320.03,total,0/<,104.0,70,0SCST0SS02,117.5,71,104.0,-1.0
+500.0,743.0,604.0,779.0,0/<,other,,0.0,-1,0SCST0SS02,122.0,71,0.0,-1.0
+661.0,631.0,687.0,758.0,0SCST0SS02,other,,0.0,-1,,0.0,-1,0.0,0.0

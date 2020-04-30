@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>ABBYY FineReader Engine 11 + alto2page.xslt 2018.11.09</Creator>
+    <Created>2019-01-23T00:00:00</Created>
+    <LastChange>2019-01-23T00:00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="80702654.tif" imageHeight="1000" imageWidth="754">
+    <TextRegion id="Page1_TopMargin">
+      <Property key="Margin" value="Top"/>
+      <Coords points="0,0 754,0 754,222 0,222"/>
+    </TextRegion>
+    <TextRegion id="Page1_RightMargin">
+      <Property key="Margin" value="Right"/>
+      <Coords points="701,222 754,222 754,915 701,915"/>
+    </TextRegion>
+    <TextRegion id="Page1_BottomMargin">
+      <Property key="Margin" value="Bottom"/>
+      <Coords points="0,915 754,915 754,1000 0,1000"/>
+    </TextRegion>
+    <TextRegion id="Page1_PrintSpace">
+      <Property key="Margin" value=""/>
+      <Coords points="0,222 701,222 701,915 0,915"/>
+    </TextRegion>
+    <ImageRegion id="Page1_Block1">
+      <Property key="alto-polygon" value="13,233 704,233 704,916 14,916 14,908 13,908 13,233"/>
+      <Coords points="0,222 701,222 701,915 0,915"/>
+    </ImageRegion>
+    <SeparatorRegion id="Page1_Block2">
+      <Coords points="382,232 576,232 576,239 382,239"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="Page1_Block3">
+      <Coords points="81,230 322,230 322,238 81,238"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="Page1_Block4">
+      <Coords points="324,232 383,232 383,236 324,236"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="Page1_Block5">
+      <Coords points="277,896 563,896 563,903 277,903"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="Page1_Block6">
+      <Coords points="136,896 277,896 277,903 136,903"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="Page1_Block7">
+      <Coords points="33,896 135,896 135,902 33,902"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="Page1_Block8">
+      <Coords points="291,231 296,231 296,328 291,328"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="Page1_Block9">
+      <Coords points="574,295 582,295 582,379 574,379"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="Page1_Block10">
+      <Coords points="576,379 580,379 580,450 576,450"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="Page1_Block11">
+      <Coords points="291,242 302,242 302,582 291,582"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="Page1_Block12">
+      <Coords points="288,721 294,721 294,774 288,774"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="Page1_Block13">
+      <Coords points="288,810 293,810 293,890 288,890"/>
+    </SeparatorRegion>
+    <ImageRegion id="Page1_Block14">
+      <Property key="alto-polygon" value="510,724 527,724 527,743 510,743 510,724"/>
+      <Coords points="499,720 516,720 516,740 499,740"/>
+    </ImageRegion>
+    <ImageRegion id="Page1_Block15">
+      <Coords points="459,595 472,595 472,616 459,616"/>
+    </ImageRegion>
+  </Page>
+</PcGts>

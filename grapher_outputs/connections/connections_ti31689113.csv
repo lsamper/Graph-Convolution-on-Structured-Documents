@@ -1,0 +1,17 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+341.0,90.0,399.0,103.0,INVOICE,other,FANNON-LCJERS       ASSOCIATES       INC.          CATA       POOCJS&NQ       •       MAILING       •       PULFIllVENl       SERVICES          5352       •       46th       Av#..       Hyattsvili*.       MO.       20781       •       (301)364       3770,52.5,2,,0.0,-1,52.5,0.0
+201.0,120.0,282.0,156.0,FLa,supplier,"TOBACCO       INSTITUTE          1875       I       STREET       NW       -8th       FL          WASHIN0TON,       D.C.       20006",112.5,3,FANNON-LCJERS       ASSOCIATES       INC.          CATA       POOCJS&NQ       •       MAILING       •       PULFIllVENl       SERVICES          5352       •       46th       Av#..       Hyattsvili*.       MO.       20781       •       (301)364       3770,174.0,2,112.5,174.0
+293.0,129.0,538.0,169.0,FANNON-LCJERS       ASSOCIATES       INC.          CATA       POOCJS&NQ       •       MAILING       •       PULFIllVENl       SERVICES          5352       •       46th       Av#..       Hyattsvili*.       MO.       20781       •       (301)364       3770,supplier,PA6E:       I          INVOICE       NO.:       25443          INVOICE       DATE:       1/31/94          CUSTOMER       ID:       TOB,108.0,4,,0.0,-1,108.0,0.0
+83.0,229.0,263.0,272.0,"TOBACCO       INSTITUTE          1875       I       STREET       NW       -8th       FL          WASHIN0TON,       D.C.       20006",receiver,DESCRIPTION,97.5,12,PA6E:       I          INVOICE       NO.:       25443          INVOICE       DATE:       1/31/94          CUSTOMER       ID:       TOB,330.5,4,97.5,330.5
+427.0,229.0,580.0,285.0,PA6E:       I          INVOICE       NO.:       25443          INVOICE       DATE:       1/31/94          CUSTOMER       ID:       TOB,invoice_info,TERMS:       Net       30,68.5,5,,0.0,-1,68.5,0.0
+467.0,319.0,567.0,332.0,TERMS:       Net       30,invoice_info,OU       N,21.5,6,,0.0,-1,21.5,0.0
+545.0,343.0,580.0,351.0,OU       N,positions,SALES          TAX,482.5,8,,0.0,-1,482.5,0.0
+612.0,439.0,674.0,499.0,14*2.00          20.01          436.90,positions,0.00,360.5,9,,0.0,-1,360.5,0.0
+415.0,805.0,546.0,854.0,SALES          TAX,positions,TOTAL          AMOUNT       DUE,50.5,10,0.00,141.0,9,50.5,141.0
+546.0,805.0,697.0,854.0,0.00,positions,TOTAL          AMOUNT       DUE,50.5,10,,0.0,-1,50.5,0.0
+415.0,854.0,546.0,906.0,TOTAL          AMOUNT       DUE,total,,0.0,-1,1918.91,141.0,11,0.0,141.0
+546.0,854.0,697.0,906.0,1918.91,total,TI3168-9113,90.0,15,,0.0,-1,90.0,0.0
+173.0,343.0,287.0,353.0,DESCRIPTION,positions,TOBACqCKAW:       Dec/93^          FILL       I       1       1       ORDERS;       METER       AND       SHIP          AS       SPECIFIED.          ASSEMBLE       KITS;       USE       FOR       ORDER       FUL          FILLMEMT.       VOLUME:       1.247          MATERIALS,71.0,13,OU       N,332.5,6,71.0,332.5
+79.0,367.0,328.0,471.0,TOBACqCKAW:       Dec/93^          FILL       I       1       1       ORDERS;       METER       AND       SHIP          AS       SPECIFIED.          ASSEMBLE       KITS;       USE       FOR       ORDER       FUL          FILLMEMT.       VOLUME:       1.247          MATERIALS,positions,POSTAGE       USED,74.5,14,14*2.00          20.01          436.90,439.5,7,74.5,439.5
+81.0,487.0,181.0,500.0,POSTAGE       USED,positions,,0.0,-1,14*2.00          20.01          436.90,512.0,7,0.0,-1.0
+642.0,964.0,724.0,976.0,TI3168-9113,other,,0.0,-1,,0.0,-1,0.0,0.0

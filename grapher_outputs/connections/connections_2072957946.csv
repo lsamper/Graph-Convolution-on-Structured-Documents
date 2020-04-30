@@ -1,0 +1,39 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+123.0,100.0,448.0,169.0,"MANAGEMENT       SCIENCE       ASSOCIATES,       INC.          6565       Penn       Avenue       at       Fifth          Pittsburgh,       PA       15206-4490          (4121       362-200C",supplier,nr;,57.5,1,"INVOICE          SEND       REMITTANCE       TO:          Management       Science       Associates,       In          P.O.       Box       400155-W          PiltsOuigh.       Pennsylvania       15268-0155",321.5,4,57.5,321.5
+344.0,184.0,369.0,200.0,nr;,supplier,|«.l£.NT       AUTHOR       2ATION       NUMBER,93.0,9,'       PLEASE       REFER       tg       OUR       I       WCHGEJiMI          OR       RETURN       IHVOlCEXOPY       WMEMR,233.5,5,93.0,233.5
+55.0,220.0,85.0,233.0,TO:,receiver,"INVOICE       Nuue'fT*""          9210153",66.0,7,"Mr.       Odvc       TenBarge          PHILIP       MORRIS,       U.S.A.          120       Park       Avenue          ,       flew       York,       NY       10017",100.0,3,66.0,100.0
+93.0,206.0,247.0,265.0,"Mr.       Odvc       TenBarge          PHILIP       MORRIS,       U.S.A.          120       Park       Avenue          ,       flew       York,       NY       10017",receiver,"iMvoict       o»rc          October       26,       1992",57.5,8,'       PLEASE       REFER       tg       OUR       I       WCHGEJiMI          OR       RETURN       IHVOlCEXOPY       WMEMR,420.0,5,57.5,-1.0
+502.0,96.0,712.0,174.0,"INVOICE          SEND       REMITTANCE       TO:          Management       Science       Associates,       In          P.O.       Box       400155-W          PiltsOuigh.       Pennsylvania       15268-0155",supplier,'       PLEASE       REFER       tg       OUR       I       WCHGEJiMI          OR       RETURN       IHVOlCEXOPY       WMEMR,60.0,5,,0.0,-1,60.0,0.0
+497.0,183.0,683.0,207.0,'       PLEASE       REFER       tg       OUR       I       WCHGEJiMI          OR       RETURN       IHVOlCEXOPY       WMEMR,other,AMOUNTS       NOT       RECEIVED       WITHIN       30       DAYS          OF       INVOICE       DATE       ARE       SUBJECT       TO          1.5%       MONTHLY       SERVICE       CHARGE          (18%       PER       ANNUM),42.0,6,,0.0,-1,42.0,0.0
+505.0,215.0,713.0,259.0,AMOUNTS       NOT       RECEIVED       WITHIN       30       DAYS          OF       INVOICE       DATE       ARE       SUBJECT       TO          1.5%       MONTHLY       SERVICE       CHARGE          (18%       PER       ANNUM),other,FEDERAL       ID       NO.       25-1126415          :       ItebmT,40.5,10,,0.0,-1,40.5,0.0
+11.0,280.0,82.0,305.0,"INVOICE       Nuue'fT*""          9210153",invoice_info,,0.0,-1,"iMvoict       o»rc          October       26,       1992",154.5,8,0.0,154.5
+139.0,280.0,263.0,306.0,"iMvoict       o»rc          October       26,       1992",invoice_info,DESCRIPTION,26.0,13,|«.l£.NT       AUTHOR       2ATION       NUMBER,137.5,9,26.0,137.5
+275.0,279.0,402.0,291.0,|«.l£.NT       AUTHOR       2ATION       NUMBER,invoice_info,DESCRIPTION,34.0,13,FEDERAL       ID       NO.       25-1126415          :       ItebmT,272.0,10,-1.0,272.0
+542.0,266.0,679.0,289.0,FEDERAL       ID       NO.       25-1126415          :       ItebmT,other,V',18.0,11,,0.0,-1,18.0,0.0
+597.0,291.0,609.0,300.0,V',invoice_info,,0.0,-1,NET       10       DA,79.5,12,0.0,79.5
+652.0,294.0,713.0,305.0,NET       10       DA,invoice_info,AMOUNT,19.5,14,,0.0,-1,19.5,0.0
+213.0,314.0,311.0,324.0,DESCRIPTION,positions,"-ALES       ?,       INFORMATION       SVCS       DATANET       USAGE          0TH7O14          September       1992       Data       Month",94.0,15,AMOUNT,409.5,14,94.0,409.5
+647.0,314.0,696.0,324.0,AMOUNT,positions,"$8,579.00",237.0,17,,0.0,-1,237.0,0.0
+155.0,377.0,424.0,449.0,"-ALES       ?,       INFORMATION       SVCS       DATANET       USAGE          0TH7O14          September       1992       Data       Month",positions,Berarflelli,241.0,36,,0.0,-1,241.0,0.0
+466.0,549.0,580.0,562.0,TOTAL       AMOUNT       DUE,total,,0.0,-1,"$8,579.00",146.5,17,0.0,146.5
+637.0,549.0,702.0,563.0,"$8,579.00",total,2072957946,306.0,37,,0.0,-1,306.0,0.0
+99.0,648.0,160.0,689.0,30/13433,other,30/13443,27.5,21,1          :i,46.0,19,27.5,46.0
+160.0,648.0,191.0,689.0,1          :i,other,30/13443,27.5,21,"Rose       F          2,359.00",47.5,20,27.5,47.5
+191.0,648.0,255.0,689.0,"Rose       F          2,359.00",other,-       s,27.5,22,Berarflelli,79.0,36,27.5,79.0
+99.0,689.0,160.0,703.0,30/13443,other,20/18444,14.0,24,-       s,46.0,22,14.0,46.0
+160.0,689.0,191.0,703.0,-       s,other,20/18444,14.0,24,"3,845.00",47.5,23,14.0,47.5
+191.0,689.0,255.0,703.0,"3,845.00",other,-       s,14.0,25,,0.0,-1,14.0,0.0
+99.0,703.0,160.0,717.0,20/18444,other,30/13445,14.5,27,-       s,46.0,25,14.5,46.0
+160.0,703.0,191.0,717.0,-       s,other,30/13445,14.5,27,423.00,47.5,26,14.5,47.5
+191.0,703.0,255.0,717.0,423.00,other,-       $,14.5,28,,0.0,-1,14.5,0.0
+99.0,717.0,160.0,732.0,30/13445,other,30/13446,14.0,30,-       $,46.0,28,14.0,46.0
+160.0,717.0,191.0,732.0,-       $,other,30/13446,14.0,30,613.00,47.5,29,14.0,47.5
+191.0,717.0,255.0,732.0,613.00,other,-       s,14.0,31,,0.0,-1,14.0,0.0
+99.0,732.0,160.0,745.0,30/13446,other,30/18447,13.5,33,-       s,46.0,31,13.5,46.0
+160.0,732.0,191.0,745.0,-       s,other,30/18447,13.5,33,"1,134.00",47.5,32,13.5,47.5
+191.0,732.0,255.0,745.0,"1,134.00",other,-       s,13.5,34,,0.0,-1,13.5,0.0
+99.0,745.0,160.0,759.0,30/18447,other,,0.0,-1,-       s,46.0,34,0.0,46.0
+160.0,745.0,191.0,759.0,-       s,other,,0.0,-1,155.00,47.5,35,0.0,47.5
+191.0,745.0,255.0,759.0,155.00,other,,0.0,-1,,0.0,-1,0.0,0.0
+264.0,648.0,340.0,660.0,Berarflelli,other,,0.0,-1,,0.0,-1,0.0,0.0
+688.0,816.0,706.0,908.0,2072957946,other,,0.0,-1,,0.0,-1,0.0,0.0

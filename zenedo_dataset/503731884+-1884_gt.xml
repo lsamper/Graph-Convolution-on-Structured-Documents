@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:ns2="http://searchink.com/xml/frankstahlapi/1.0">
+  <Metadata>
+    <Creator>system</Creator>
+    <Created>2019-01-25T17:41:24.419+01:00</Created>
+    <LastChange>2019-02-02T01:40:23Z</LastChange>
+  </Metadata>
+  <Property key="customer" value="actuallCustomerName"/>
+  <Property key="offer"/>
+  <Property key="uuid" value="40733610-f399-46b5-9336-b33e1bcb214e"/>
+  <Property key="fileName" value="503731884+-1884.pdf"/>
+  <Property key="type" value="digital"/>
+  <Page imageFilename="503731884+-1884.tif" imageHeight="1000" imageWidth="754">
+    <TextRegion id="page1_pos1">
+      <Property key="entity" value="supplier"/>
+      <Coords points="10.9259,3.11991 414.369,3.11991 414.369,104.286 10.9259,104.286"/>
+    </TextRegion>
+    <TextRegion id="page1_pos2">
+      <Property key="entity" value="other"/>
+      <Coords points="421.74,7.80972 742.751,7.80972 742.751,110.316 421.74,110.316"/>
+    </TextRegion>
+    <TextRegion id="page1_pos3">
+      <Property key="entity" value="invoice_info"/>
+      <Coords points="416.378,115.005 741.412,115.005 741.412,197.412 416.378,197.412"/>
+    </TextRegion>
+    <TextRegion id="page1_pos4">
+      <Property key="entity" value="receiver"/>
+      <Coords points="12.2662,108.306 400.963,108.306 400.963,197.412 12.2662,197.412"/>
+    </TextRegion>
+    <TextRegion id="page1_pos5">
+      <Property key="entity" value="positions"/>
+      <Coords points="11.596,202.772 741.124,202.772 741.124,528.38 11.596,528.38"/>
+    </TextRegion>
+    <TextRegion id="page1_pos6">
+      <Property key="entity" value="total"/>
+      <Coords points="11.3098,531.058 745.815,531.058 745.815,586.667 11.3098,586.667"/>
+    </TextRegion>
+    <TextRegion id="page1_pos7">
+      <Property key="entity" value="other"/>
+      <Coords points="7.18932,591.188 740.353,591.188 740.353,982.451 7.18932,982.451"/>
+    </TextRegion>
+  </Page>
+</PcGts>

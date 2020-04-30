@@ -1,0 +1,30 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+337.0,86.0,560.0,130.0,Robinson       ;.:Maites          PROMOTIONAL       MARKETING,supplier,35       Hast       Wackcr       Drive.       Suite       200       Chicago.       Illinois       60601-21C4          312/372-9333       TAX:       312/372-0682,56.0,1,,0.0,-1,56.0,0.0
+339.0,152.0,612.0,176.0,35       Hast       Wackcr       Drive.       Suite       200       Chicago.       Illinois       60601-21C4          312/372-9333       TAX:       312/372-0682,supplier,"Page:       1          Date:       August       7,       1996",90.0,4,,0.0,-1,90.0,0.0
+70.0,233.0,177.0,245.0,Invoice:       000151,invoice_info,"Client:       PHILIP       MORRIS,       U.S.A.          Division:       Marlboro",40.0,3,"Page:       1          Date:       August       7,       1996",430.0,4,40.0,-1.0
+62.0,265.0,265.0,293.0,"Client:       PHILIP       MORRIS,       U.S.A.          Division:       Marlboro",receiver,Service       and       Production       including       costs       of:          General          Job:       000139       MARLBORO       FOOD       TIN       )       Component:       1       PLANNING/CREATIVE,113.5,5,"Page:       1          Date:       August       7,       1996",390.0,4,113.5,390.0
+475.0,236.0,632.0,272.0,"Page:       1          Date:       August       7,       1996",invoice_info,Service       and       Production       including       costs       of:          General          Job:       000139       MARLBORO       FOOD       TIN       )       Component:       1       PLANNING/CREATIVE,138.5,5,,0.0,-1,-1.0,0.0
+57.0,355.0,542.0,430.0,Service       and       Production       including       costs       of:          General          Job:       000139       MARLBORO       FOOD       TIN       )       Component:       1       PLANNING/CREATIVE,other,Account       Management       Hours,74.5,7,P.O.,286.5,6,74.5,286.5
+571.0,415.0,601.0,428.0,P.O.,other,lax-Amount          0.00,45.5,10,,0.0,-1,45.5,0.0
+59.0,446.0,289.0,488.0,Account       Management       Hours,positions,Commissionable       Purchases,28.5,12,"Net       Amount       £          1,400.00",194.0,8,28.5,194.0
+289.0,446.0,447.0,488.0,"Net       Amount       £          1,400.00",positions,Commissionable       Purchases,28.5,12,0.00,116.5,9,28.5,116.5
+447.0,446.0,522.0,488.0,0.00,positions,"5,627.20",28.5,13,lax-Amount          0.00,91.0,10,28.5,91.0
+522.0,446.0,629.0,488.0,lax-Amount          0.00,positions,0.00,28.5,14,"Total          1,400.00",90.0,11,28.5,90.0
+629.0,446.0,702.0,488.0,"Total          1,400.00",positions,0.00,28.5,15,,0.0,-1,28.5,0.0
+59.0,488.0,289.0,503.0,Commissionable       Purchases,positions,Non       Commissionable       Costs,23.5,17,"5,627.20",194.0,13,23.5,194.0
+289.0,488.0,447.0,503.0,"5,627.20",positions,Non       Commissionable       Costs,23.5,17,0.00,116.5,14,23.5,116.5
+447.0,488.0,522.0,503.0,0.00,positions,90.55,23.5,18,0.00,91.0,15,23.5,91.0
+522.0,488.0,629.0,503.0,0.00,positions,0.00,23.5,19,"5,627.20",90.0,16,23.5,90.0
+629.0,488.0,702.0,503.0,"5,627.20",positions,0.00,23.5,20,,0.0,-1,23.5,0.0
+59.0,503.0,289.0,535.0,Non       Commissionable       Costs,positions,Total       for       Job       Component:,23.0,22,90.55,194.0,18,23.0,194.0
+289.0,503.0,447.0,535.0,90.55,positions,Total       for       Job       Component:,23.0,22,0.00,116.5,19,23.0,116.5
+447.0,503.0,522.0,535.0,0.00,positions,"S7,117.75",23.0,23,0.00,91.0,20,23.0,91.0
+522.0,503.0,629.0,535.0,0.00,positions,SO.       00,23.0,24,90.55,90.0,21,23.0,90.0
+629.0,503.0,702.0,535.0,90.55,positions,SO.       00,23.0,25,,0.0,-1,23.0,0.0
+59.0,535.0,289.0,549.0,Total       for       Job       Component:,positions,,0.0,-1,"S7,117.75",194.0,23,0.0,194.0
+289.0,535.0,447.0,549.0,"S7,117.75",positions,Total       for       Invoice:,89.0,27,SO.       00,116.5,24,89.0,116.5
+447.0,535.0,522.0,549.0,SO.       00,positions,Total       for       Invoice:,89.0,27,SO.       00,91.0,25,89.0,91.0
+522.0,535.0,629.0,549.0,SO.       00,positions,,0.0,-1,S7.117.75,90.0,26,0.0,90.0
+629.0,535.0,702.0,549.0,S7.117.75,positions,S7.1I7.75,89.5,28,,0.0,-1,89.5,0.0
+391.0,622.0,492.0,640.0,Total       for       Invoice:,total,,0.0,-1,S7.1I7.75,232.5,28,0.0,232.5
+648.0,625.0,700.0,638.0,S7.1I7.75,total,,0.0,-1,,0.0,-1,0.0,0.0

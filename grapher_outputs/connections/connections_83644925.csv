@@ -1,0 +1,19 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+17.0,381.0,90.0,397.0,INVOICE       DATE,positions,2/10/9?,64.0,6,_       INtefcPfbR       DESCRIPTION,109.0,1,64.0,109.0
+90.0,381.0,235.0,397.0,_       INtefcPfbR       DESCRIPTION,positions,2/10/9?,64.0,6,1       BATCH       NO.,98.0,2,64.0,98.0
+235.0,381.0,286.0,397.0,1       BATCH       NO.,positions,CONTRIBUTION,64.0,7,GROSS,89.5,3,64.0,89.5
+286.0,381.0,414.0,397.0,GROSS,positions,478,64.0,8,DISCOUNT,115.0,4,64.0,115.0
+414.0,381.0,516.0,397.0,DISCOUNT,positions,"5,       OOO.       00",64.0,9,NET,106.5,5,64.0,106.5
+516.0,381.0,627.0,397.0,NET,positions,X          l,64.0,10,,0.0,-1,64.0,0.0
+17.0,397.0,90.0,509.0,2/10/9?,positions,SPECIALS,111.0,12,CONTRIBUTION,109.0,7,111.0,109.0
+90.0,397.0,235.0,509.0,CONTRIBUTION,positions,SPECIALS,111.0,12,478,98.0,8,111.0,98.0
+235.0,397.0,286.0,509.0,478,positions,YC,111.0,13,"5,       OOO.       00",89.5,9,111.0,89.5
+286.0,397.0,414.0,509.0,"5,       OOO.       00",positions,YC,111.0,13,X          l,115.0,10,111.0,115.0
+414.0,397.0,516.0,509.0,X          l,positions,YC,111.0,13,"5,       000.       00",106.5,11,111.0,106.5
+516.0,397.0,627.0,509.0,"5,       000.       00",positions,UR       ACCOUNT       N,111.0,14,,0.0,-1,111.0,0.0
+17.0,509.0,90.0,619.0,SPECIALS,positions,,0.0,-1,YC,296.5,13,0.0,296.5
+286.0,509.0,414.0,619.0,YC,positions,,0.0,-1,UR       ACCOUNT       N,115.0,14,0.0,115.0
+414.0,509.0,516.0,619.0,UR       ACCOUNT       N,positions,,0.0,-1,3:       0000005424,106.5,15,0.0,106.5
+516.0,509.0,627.0,619.0,3:       0000005424,positions,,0.0,-1,,0.0,-1,0.0,0.0
+663.0,755.0,682.0,804.0,CO          CM          CJ\          -fc*,other,NO          ro          oi,58.5,17,,0.0,-1,58.5,0.0
+664.0,820.0,683.0,856.0,NO          ro          oi,other,,0.0,-1,,0.0,-1,0.0,0.0

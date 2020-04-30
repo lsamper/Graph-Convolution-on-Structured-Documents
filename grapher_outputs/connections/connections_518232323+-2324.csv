@@ -1,0 +1,28 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+120.0,41.0,125.0,48.0,>,other,Date:       09/19/97,38.5,1,,0.0,-1,38.5,0.0
+52.0,75.0,174.0,91.0,Date:       09/19/97,invoice_info,X_       Mail       to       Payee          Call       for       Check          Return       Name:          Bldg.:,107.0,4,Accounts       Payable       Voucher,251.5,2,107.0,251.5
+260.0,74.0,469.0,90.0,Accounts       Payable       Voucher,invoice_info,Check       to       be       dated:       09/24/97          Pickup       Name:          Dept.       Name:          Room       No.:,104.5,5,Voucher       #:       006962,246.5,3,104.5,246.5
+537.0,74.0,685.0,88.0,Voucher       #:       006962,invoice_info,Ext.       :,91.0,6,,0.0,-1,91.0,0.0
+60.0,137.0,210.0,243.0,X_       Mail       to       Payee          Call       for       Check          Return       Name:          Bldg.:,other,56-1758927       *****************************          70030081       *       Amount:       $       564.08       *          *****************************,118.0,8,Check       to       be       dated:       09/24/97          Pickup       Name:          Dept.       Name:          Room       No.:,241.5,5,118.0,241.5
+252.0,134.0,501.0,239.0,Check       to       be       dated:       09/24/97          Pickup       Name:          Dept.       Name:          Room       No.:,other,56-1758927       *****************************          70030081       *       Amount:       $       564.08       *          *****************************,121.5,8,Ext.       :,217.0,6,-1.0,217.0
+572.0,166.0,615.0,178.0,Ext.       :,other,56-1758927       *****************************          70030081       *       Amount:       $       564.08       *          *****************************,136.0,8,,0.0,-1,-1.0,0.0
+52.0,288.0,166.0,395.0,FEI/SS       #          AP       Vendor       #          AP       Contract       #          AP       Voucher       it          AP       Pay       Date          Name/Address,other,Attention       :,106.0,10,"Lawrence       Bewley       &       Associates          P.       O.       Box       2537          Raleigh,       NC       27602-2537",204.0,9,106.0,204.0
+192.0,288.0,686.0,328.0,56-1758927       *****************************          70030081       *       Amount:       $       564.08       *          *****************************,total,"Lawrence       Bewley       &       Associates          P.       O.       Box       2537          Raleigh,       NC       27602-2537",94.5,9,,0.0,-1,94.5,0.0
+192.0,379.0,434.0,426.0,"Lawrence       Bewley       &       Associates          P.       O.       Box       2537          Raleigh,       NC       27602-2537",receiver,Special       payment       information       to       appear       on       check       stub:,91.5,11,,0.0,-1,-1.0,0.0
+86.0,441.0,182.0,454.0,Attention       :,other,Special       payment       information       to       appear       on       check       stub:,46.5,11,,0.0,-1,46.5,0.0
+52.0,485.0,502.0,503.0,Special       payment       information       to       appear       on       check       stub:,other,"August,       1997       Expenses",31.0,12,,0.0,-1,31.0,0.0
+121.0,517.0,305.0,533.0,"August,       1997       Expenses",other,G/L       Account       Code,61.0,13,,0.0,-1,61.0,0.0
+52.0,577.0,193.0,595.0,G/L       Account       Code,positions,04-88-5015-9016-867,29.0,16,Other       Required       Code,299.0,14,29.0,299.0
+339.0,576.0,504.0,593.0,Other       Required       Code,positions,006962,28.5,17,Amount,238.0,15,28.5,238.0
+633.0,576.0,686.0,588.0,Amount,positions,$       564.08,31.5,18,,0.0,-1,31.5,0.0
+53.0,608.0,218.0,622.0,04-88-5015-9016-867,positions,W.       E.       Ainsworth,45.0,19,006962,298.5,17,45.0,298.5
+408.0,607.0,460.0,619.0,006962,positions,q#stor       Sign*,57.0,21,$       564.08,195.5,18,57.0,195.5
+573.0,606.0,686.0,621.0,$       564.08,positions,Ext.:       2742,60.0,24,,0.0,-1,60.0,0.0
+52.0,653.0,185.0,667.0,W.       E.       Ainsworth,other,Approval       Authority       Name,32.0,20,q#stor       Sign*,292.0,21,32.0,-1.0
+52.0,684.0,254.0,700.0,Approval       Authority       Name,other,Approved:,61.0,25,Re          Jackie,211.5,22,61.0,211.5
+357.0,642.0,464.0,698.0,q#stor       Sign*,other,Signature          Hemric,26.5,23,Ext.:       2742,232.0,24,26.5,232.0
+337.0,684.0,392.0,711.0,Re          Jackie,other,,0.0,-1,q#stor       Sign*,46.0,21,0.0,46.0
+396.0,682.0,507.0,711.0,Signature          Hemric,other,,0.0,-1,,0.0,-1,0.0,0.0
+599.0,668.0,686.0,679.0,Ext.:       2742,other,,0.0,-1,,0.0,-1,0.0,0.0
+52.0,745.0,129.0,761.0,Approved:,other,GRD-12/92,45.0,26,,0.0,-1,45.0,0.0
+53.0,790.0,131.0,806.0,GRD-12/92,other,,0.0,-1,,0.0,-1,0.0,0.0

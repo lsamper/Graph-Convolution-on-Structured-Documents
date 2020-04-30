@@ -1,0 +1,33 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+115.0,72.0,130.0,81.0,r,supplier,I       RQfACmON       NETWORK.       INC.,25.0,2,"V946          INVOICE       NUMBER       ...       _       ,       ...          S\       —’2          PHIOL",478.0,6,25.0,-1.0
+43.0,299.0,56.0,366.0,l          1          1          1          1,positions,,0.0,-1,''501          6501          6503          6501          6503,89.0,4,0.0,89.0
+111.0,90.0,334.0,113.0,I       RQfACmON       NETWORK.       INC.,supplier,L0192-C,15.0,3,INVOICE       DATE          CUSTOMER,347.0,7,15.0,-1.0
+245.0,113.0,273.0,120.0,L0192-C,supplier,PHILIP       MORRIS          TRADE       MARKETING          MARCH       MARKETING       ACTIVITY          PMTMNB       002,123.5,9,INVOICE       DATE          CUSTOMER,310.5,7,-1.0,310.5
+118.0,299.0,159.0,367.0,''501          6501          6503          6501          6503,positions,NET       UPON       RECEIPT       OF       INVOICE,494.5,15,ACCOUNT       PRINCIPAL       -       50       HRS          ACCOUNT       SUPERVISOR       -       35       HRS          CREATIVE       DIRECTOR       -       SO       HRS          ACCOUNT       EXECUTIVE       -       30       HRS          ART       DIRECTOR       -       35       HRS,182.0,10,-1.0,182.0
+350.0,165.0,440.0,184.0,ssrrn?       i,other,PHILIP       MORRIS          TRADE       MARKETING          MARCH       MARKETING       ACTIVITY          PMTMNB       002,65.5,9,>       1,190.0,11,65.5,190.0
+516.0,72.0,685.0,110.0,"V946          INVOICE       NUMBER       ...       _       ,       ...          S\       —’2          PHIOL",invoice_info,INVOICE       DATE          CUSTOMER,16.5,7,,0.0,-1,16.5,0.0
+533.0,97.0,606.0,118.0,INVOICE       DATE          CUSTOMER,invoice_info,06946,33.5,8,"V946          INVOICE       NUMBER       ...       _       ,       ...          S\       —’2          PHIOL",31.0,6,33.5,31.0
+538.0,130.0,605.0,152.0,06946,invoice_info,>       1,33.0,11,,0.0,-1,33.0,0.0
+206.0,210.0,413.0,270.0,PHILIP       MORRIS          TRADE       MARKETING          MARCH       MARKETING       ACTIVITY          PMTMNB       002,receiver,ACCOUNT       PRINCIPAL       -       50       HRS          ACCOUNT       SUPERVISOR       -       35       HRS          CREATIVE       DIRECTOR       -       SO       HRS          ACCOUNT       EXECUTIVE       -       30       HRS          ART       DIRECTOR       -       35       HRS,94.0,10,,0.0,-1,94.0,0.0
+203.0,300.0,438.0,368.0,ACCOUNT       PRINCIPAL       -       50       HRS          ACCOUNT       SUPERVISOR       -       35       HRS          CREATIVE       DIRECTOR       -       SO       HRS          ACCOUNT       EXECUTIVE       -       30       HRS          ART       DIRECTOR       -       35       HRS,positions,NET       UPON       RECEIPT       OF       INVOICE,493.5,15,10000.00          3850.00          7500.00          2250.00          3850.00,225.0,12,493.5,225.0
+577.0,171.0,593.0,177.0,>       1,other,10000.00          3850.00          7500.00          2250.00          3850.00,160.5,12,,0.0,-1,160.5,0.0
+509.0,300.0,582.0,369.0,10000.00          3850.00          7500.00          2250.00          3850.00,positions,SUB       TOTAL,481.0,22,10000.00          3850.00          7500.OC          2250.00          7850.00,135.0,13,481.0,135.0
+644.0,301.0,717.0,370.0,10000.00          3850.00          7500.OC          2250.00          7850.00,positions,ro          o,319.5,17,,0.0,-1,319.5,0.0
+66.0,827.0,102.0,836.0,TERMS:,other,PHILIP       MORRIS       U.S.A.          MR.       JIM       MCGOVERN          1.20       PARK       AVI*.       NUE          NEW       YORK.       NY       1002/,58.5,16,NET       UPON       RECEIPT       OF       INVOICE,159.5,15,58.5,159.5
+129.0,822.0,358.0,833.0,NET       UPON       RECEIPT       OF       INVOICE,other,PHILIP       MORRIS       U.S.A.          MR.       JIM       MCGOVERN          1.20       PARK       AVI*.       NUE          NEW       YORK.       NY       1002/,62.5,16,SUB       TOTAL,322.5,22,-1.0,322.5
+75.0,863.0,249.0,917.0,PHILIP       MORRIS       U.S.A.          MR.       JIM       MCGOVERN          1.20       PARK       AVI*.       NUE          NEW       YORK.       NY       1002/,receiver,,0.0,-1,TOTAL,404.0,26,0.0,404.0
+696.0,645.0,710.0,665.0,ro          o,positions,<o          Ol,36.5,18,,0.0,-1,36.5,0.0
+694.0,682.0,709.0,701.0,<o          Ol,positions,N,14.0,19,,0.0,-1,14.0,0.0
+694.0,701.0,708.0,710.0,N,positions,03          CO,13.5,20,,0.0,-1,13.5,0.0
+693.0,709.0,708.0,729.0,03          CO,positions,o,14.5,21,N,0.5,19,14.5,0.5
+693.0,728.0,707.0,739.0,o,positions,274.60.00,82.0,23,03          CO,0.5,20,82.0,0.5
+514.0,801.0,618.0,830.0,SUB       TOTAL,total,TAXES,28.5,24,274.60.00,104.0,23,28.5,104.0
+618.0,801.0,722.0,830.0,274.60.00,total,TAXES,28.5,24,,0.0,-1,28.5,0.0
+514.0,830.0,618.0,858.0,TAXES,total,TOTAL,28.0,26,0.00,104.0,25,28.0,104.0
+618.0,830.0,722.0,858.0,0.00,total,TOTAL,28.0,26,,0.0,-1,28.0,0.0
+514.0,858.0,618.0,886.0,TOTAL,total,QAin,22.0,28,27450.00,104.0,27,22.0,104.0
+618.0,858.0,722.0,886.0,27450.00,total,QAin,22.0,28,,0.0,-1,22.0,0.0
+514.0,886.0,618.0,902.0,QAin,total,rAlU          BALANCE,40.0,30,O       .00,104.0,29,40.0,104.0
+618.0,886.0,722.0,902.0,O       .00,total,rAlU          BALANCE,40.0,30,,0.0,-1,40.0,0.0
+514.0,902.0,618.0,966.0,rAlU          BALANCE,total,,0.0,-1,27460.00,104.0,31,0.0,104.0
+618.0,902.0,722.0,966.0,27460.00,total,,0.0,-1,,0.0,-1,0.0,0.0

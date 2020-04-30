@@ -1,0 +1,136 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+13.0,91.0,168.0,106.0,LKP       INTERNATIONAL       LTD,supplier,CLIENT:          MEDIA:          EST       #:          DESC:,53.0,2,PRODUCTION       ESTIMATE,551.0,1,53.0,551.0
+570.0,96.0,713.0,112.0,PRODUCTION       ESTIMATE,supplier,8/7/84          1          410105110,46.0,5,,0.0,-1,46.0,0.0
+12.0,122.0,69.0,181.0,CLIENT:          MEDIA:          EST       #:          DESC:,receiver,CODE,89.0,10,RJR/More       Family       Black          Out-of-Hone          H4-ME-0044E-R1          VOILE       DRESS       100's          14x48       Printed       Bulletin,138.5,3,89.0,138.5
+97.0,121.0,261.0,200.0,RJR/More       Family       Black          Out-of-Hone          H4-ME-0044E-R1          VOILE       DRESS       100's          14x48       Printed       Bulletin,receiver,EXPENSE       CATEGORY,81.5,11,DATE:          PACE       1       OF          INTERNAL       #:,316.5,4,-1.0,316.5
+453.0,127.0,538.0,172.0,DATE:          PACE       1       OF          INTERNAL       #:,invoice_info,REVISED,71.5,7,8/7/84          1          410105110,81.0,5,-1.0,81.0
+540.0,127.0,613.0,173.0,8/7/84          1          410105110,invoice_info,ACTUAL,72.5,8,,0.0,-1,-1.0,0.0
+275.0,207.0,370.0,233.0,ORICIHAL,positions,REVISED,1.0,7,ACTUAL,228.0,8,1.0,-1.0
+369.0,208.0,470.0,234.0,REVISED,positions,ACTUAL,1.5,8,PERCENT,255.0,9,1.5,-1.0
+469.0,209.0,632.0,236.0,ACTUAL,positions,PERCENT,1.5,9,,0.0,-1,1.5,0.0
+631.0,211.0,718.0,237.0,PERCENT,positions,COSTS       DIFFERENCE,22.5,14,,0.0,-1,-1.0,0.0
+13.0,229.0,50.0,252.0,CODE,positions,EXPENSE       CATEGORY,1.5,11,ESTIMATE,290.5,12,1.5,-1.0
+50.0,229.0,275.0,255.0,EXPENSE       CATEGORY,positions,ESTIMATE,2.0,12,ORICIHAL,160.0,6,2.0,-1.0
+275.0,232.0,369.0,256.0,ESTIMATE,positions,ESTIMATE,1.0,13,ORICIHAL,0.5,6,1.0,0.5
+369.0,233.0,469.0,257.0,ESTIMATE,positions,COSTS       DIFFERENCE,1.5,14,REVISED,0.5,7,1.5,0.5
+469.0,234.0,631.0,259.0,COSTS       DIFFERENCE,positions,DIFFERENCE,1.5,15,ACTUAL,0.5,8,1.5,0.5
+631.0,236.0,717.0,260.0,DIFFERENCE,positions,450.00,29.5,20,PERCENT,0.5,9,-1.0,0.5
+13.0,252.0,50.0,291.0,ADT,positions,Dye       Transfer/Dupe       Chrone,1.5,17,EXPENSE       CATEGORY,131.0,11,1.5,131.0
+50.0,252.0,275.0,294.0,Dye       Transfer/Dupe       Chrone,positions,"$1,150.00",2.0,18,ESTIMATE,159.5,12,2.0,159.5
+275.0,255.0,369.0,295.0,"$1,150.00",positions,"$1,600.00",1.0,19,ESTIMATE,97.0,13,1.0,97.0
+369.0,256.0,469.0,296.0,"$1,600.00",positions,450.00,1.5,20,COSTS       DIFFERENCE,131.0,14,1.5,131.0
+469.0,257.0,631.0,298.0,450.00,positions,39.13Z,1.5,21,DIFFERENCE,124.0,15,1.5,124.0
+631.0,259.0,717.0,299.0,39.13Z,positions,150.00,25.5,26,,0.0,-1,-1.0,0.0
+13.0,291.0,50.0,306.0,AOR,positions,Art       -       Other,1.5,23,Dye       Transfer/Dupe       Chrone,131.0,17,1.5,131.0
+50.0,291.0,275.0,309.0,Art       -       Other,positions,350.00,2.0,24,"$1,150.00",159.5,18,2.0,159.5
+275.0,294.0,369.0,310.0,350.00,positions,500.00,1.0,25,"$1,600.00",97.0,19,1.0,97.0
+369.0,295.0,469.0,311.0,500.00,positions,150.00,1.5,26,450.00,131.0,20,1.5,131.0
+469.0,296.0,631.0,313.0,150.00,positions,42.86Z,1.5,27,39.13Z,124.0,21,1.5,124.0
+631.0,298.0,717.0,314.0,42.86Z,positions,"4,000.00",14.0,32,,0.0,-1,-1.0,0.0
+12.0,306.0,50.0,322.0,ART,positions,Retouching,1.5,29,Art       -       Other,131.5,23,1.5,-1.0
+49.0,306.0,275.0,325.0,Retouching,positions,"6,000.00",2.0,30,Art       -       Other,0.5,23,2.0,0.5
+274.0,309.0,369.0,326.0,"6,000.00",positions,"10,000.00",1.0,31,350.00,0.5,24,1.0,0.5
+368.0,310.0,469.0,327.0,"10,000.00",positions,"4,000.00",1.5,32,500.00,0.5,25,1.5,0.5
+468.0,311.0,631.0,329.0,"4,000.00",positions,66.67Z,1.5,33,150.00,0.5,26,1.5,0.5
+630.0,313.0,717.0,330.0,66.67Z,positions,0.00,14.0,38,42.86Z,0.5,27,-1.0,0.5
+12.0,322.0,49.0,337.0,CMC,positions,Mechanical,1.5,35,Retouching,131.5,29,1.5,-1.0
+49.0,322.0,274.0,340.0,Mechanical,positions,400.00,2.0,36,Retouching,0.5,29,2.0,0.5
+274.0,325.0,368.0,341.0,400.00,positions,400.00,1.0,37,"6,000.00",0.5,30,1.0,0.5
+368.0,326.0,468.0,342.0,400.00,positions,0.00,1.5,38,"10,000.00",0.5,31,1.5,0.5
+468.0,327.0,630.0,344.0,0.00,positions,O.OOZ,1.5,39,"4,000.00",0.5,32,1.5,0.5
+630.0,329.0,716.0,345.0,O.OOZ,positions,0.00,14.0,44,66.67Z,0.5,33,-1.0,0.5
+12.0,337.0,49.0,353.0,PPT,positions,Printing,1.5,41,Mechanical,131.0,35,1.5,131.0
+49.0,337.0,274.0,356.0,Printing,positions,"27,000.00",2.0,42,400.00,159.5,36,2.0,159.5
+274.0,340.0,368.0,357.0,"27,000.00",positions,"27,000.00",1.0,43,400.00,97.0,37,1.0,97.0
+368.0,341.0,468.0,358.0,"27,000.00",positions,0.00,1.5,44,0.00,131.0,38,1.5,131.0
+468.0,342.0,630.0,360.0,0.00,positions,O.OOZ,1.5,45,O.OOZ,124.0,39,1.5,124.0
+630.0,344.0,716.0,361.0,O.OOZ,positions,0.00,14.0,50,,0.0,-1,-1.0,0.0
+12.0,353.0,49.0,368.0,PST,positions,Photostat,1.5,47,Printing,131.0,41,1.5,131.0
+49.0,353.0,274.0,371.0,Photostat,positions,100.00,2.0,48,"27,000.00",159.5,42,2.0,159.5
+274.0,356.0,368.0,372.0,100.00,positions,100.00,1.0,49,"27,000.00",97.0,43,1.0,97.0
+368.0,357.0,468.0,373.0,100.00,positions,0.00,1.5,50,0.00,131.0,44,1.5,131.0
+468.0,358.0,630.0,375.0,0.00,positions,O.OOZ,1.5,51,O.OOZ,124.0,45,1.5,124.0
+630.0,360.0,716.0,376.0,O.OOZ,positions,"2,950.00",13.5,55,,0.0,-1,-1.0,0.0
+12.0,368.0,49.0,383.0,AOT,positions,Art       -       Overtlae,1.5,53,Photostat,131.0,47,1.5,131.0
+49.0,368.0,274.0,386.0,Art       -       Overtlae,positions,•,31.0,59,100.00,159.5,48,31.0,159.5
+368.0,372.0,468.0,388.0,"2,950.00",positions,"2,950.00",1.5,55,0.00,131.0,50,1.5,131.0
+468.0,373.0,630.0,390.0,"2,950.00",positions,100.OOZ,1.5,56,O.OOZ,124.0,51,1.5,124.0
+630.0,375.0,716.0,391.0,100.OOZ,positions,0.00,14.0,57,,0.0,-1,14.0,0.0
+468.0,388.0,630.0,406.0,0.00,positions,O.OOZ,1.5,58,100.OOZ,124.0,56,1.5,124.0
+630.0,390.0,716.0,407.0,O.OOZ,positions,0.00,14.0,60,,0.0,-1,14.0,0.0
+48.0,399.0,274.0,417.0,•,positions,•,92.5,72,0.00,387.5,60,92.5,-1.0
+467.0,404.0,630.0,421.0,0.00,positions,O.OOZ,1.5,61,0.00,0.5,57,1.5,0.5
+629.0,406.0,716.0,422.0,O.OOZ,positions,0.00,14.0,62,O.OOZ,0.5,58,14.0,0.5
+467.0,419.0,629.0,437.0,0.00,positions,O.OOZ,1.5,63,0.00,0.5,60,1.5,0.5
+629.0,421.0,715.0,438.0,O.OOZ,positions,0.00,14.0,64,O.OOZ,0.5,61,14.0,0.5
+467.0,435.0,629.0,452.0,0.00,positions,O.OOZ,1.5,65,O.OOZ,124.0,63,1.5,124.0
+629.0,437.0,715.0,453.0,O.OOZ,positions,0.00,14.0,66,,0.0,-1,14.0,0.0
+467.0,450.0,629.0,468.0,0.00,positions,O.OOZ,1.5,67,O.OOZ,124.0,65,1.5,124.0
+629.0,452.0,715.0,469.0,O.OOZ,positions,0.00,14.0,68,,0.0,-1,14.0,0.0
+467.0,466.0,629.0,483.0,0.00,positions,O.OOZ,1.5,69,O.OOZ,124.0,67,1.5,124.0
+629.0,468.0,715.0,484.0,O.OOZ,positions,0.00,13.5,70,,0.0,-1,13.5,0.0
+467.0,481.0,629.0,498.0,0.00,positions,O.OOZ,1.5,71,O.OOZ,124.0,69,1.5,124.0
+629.0,483.0,715.0,499.0,O.OOZ,positions,0.00,14.0,73,,0.0,-1,14.0,0.0
+47.0,491.0,273.0,510.0,•,positions,THE,18.5,75,0.00,387.5,73,18.5,-1.0
+466.0,496.0,629.0,514.0,0.00,positions,O.OOZ,1.5,74,0.00,0.5,70,1.5,0.5
+628.0,498.0,715.0,515.0,O.OOZ,positions,.       625.00,18.5,79,O.OOZ,0.5,71,-1.0,0.5
+10.0,507.0,47.0,531.0,THE,positions,NY       State       'Tax       Non-rExeapt,1.5,76,•,131.5,72,1.5,-1.0
+47.0,507.0,272.0,534.0,NY       State       'Tax       Non-rExeapt,positions,625.00,2.0,77,•,0.5,72,2.0,0.5
+272.0,510.0,366.0,535.0,625.00,positions,"1,250.00",1.0,78,.       625.00,228.0,79,1.0,-1.0
+366.0,511.0,466.0,536.0,"1,250.00",positions,.       625.00,1.5,79,0.00,131.5,73,1.5,-1.0
+466.0,512.0,628.0,538.0,.       625.00,positions,100.OOZ,1.5,80,0.00,0.5,73,1.5,0.5
+628.0,514.0,714.0,539.0,100.OOZ,positions,"40.00       8,175.00",25.5,84,O.OOZ,0.5,74,-1.0,0.5
+47.0,531.0,272.0,564.0,TOTAL,total,"*35,625.00",2.0,82,625.00,159.5,77,2.0,159.5
+272.0,534.0,366.0,565.0,"*35,625.00",total,"$43,800.00",1.0,83,"1,250.00",97.0,78,1.0,97.0
+366.0,535.0,466.0,566.0,"$43,800.00",total,"40.00       8,175.00",1.5,84,.       625.00,131.0,79,1.5,131.0
+466.0,536.0,628.0,568.0,"40.00       8,175.00",total,22.95Z,1.5,85,100.OOZ,124.0,80,1.5,124.0
+628.0,538.0,714.0,569.0,22.95Z,total,AUTH.       BY:       A.       T.       Sterling       ^,344.5,132,,0.0,-1,-1.0,0.0
+9.0,592.0,365.0,620.0,COMMENTS:       For       September/October       posting.,positions,•       1,2.5,87,,0.0,-1,2.5,0.0
+365.0,596.0,465.0,621.0,•       1,positions,1,19.5,89,,0.0,-1,19.5,0.0
+9.0,616.0,271.0,634.0,EXPIANATION       OF       COSTS:,positions,ADT:,14.0,90,COMMENTS:       For       September/October       posting.,47.0,86,14.0,47.0
+365.0,620.0,465.0,636.0,1,positions,1       dye       of       visual       and       1       dye       of       pack.,13.0,91,,0.0,-1,-1.0,0.0
+9.0,631.0,46.0,647.0,ADT:,positions,1       dye       of       visual       and       1       dye       of       pack.,2.0,91,EXPIANATION       OF       COSTS:,112.5,88,2.0,112.5
+46.0,631.0,365.0,651.0,1       dye       of       visual       and       1       dye       of       pack.,positions,1,2.5,92,1,209.5,89,2.5,209.5
+365.0,635.0,465.0,652.0,1,positions,1,15.5,95,,0.0,-1,15.5,0.0
+9.0,647.0,46.0,662.0,AOR:,positions,Overlay       for       pack       art.,1.5,94,1       dye       of       visual       and       1       dye       of       pack.,178.0,91,1.5,-1.0
+46.0,647.0,271.0,665.0,Overlay       for       pack       art.,positions,ART:,14.0,96,1       dye       of       visual       and       1       dye       of       pack.,47.0,91,14.0,47.0
+365.0,651.0,465.0,667.0,1,positions,1,15.5,98,,0.0,-1,15.5,0.0
+9.0,662.0,46.0,678.0,ART:,positions,Retouching       of       dyes.,1.5,97,Overlay       for       pack       art.,131.0,94,1.5,131.0
+46.0,662.0,271.0,681.0,Retouching       of       dyes.,positions,CMC:,14.0,99,1,256.5,95,14.0,256.5
+365.0,666.0,465.0,683.0,1,positions,1,15.5,101,,0.0,-1,15.5,0.0
+8.0,678.0,46.0,693.0,CMC:,positions,1       original       OOH       ncchanical.,1.5,100,Retouching       of       dyes.,131.5,97,1.5,-1.0
+45.0,678.0,271.0,696.0,1       original       OOH       ncchanical.,positions,PPT:,13.5,102,Retouching       of       dyes.,0.5,97,13.5,0.5
+364.0,682.0,465.0,698.0,1,positions,55       -       14x48       Printed       Bulletin       units.,12.5,103,1,0.5,98,-1.0,0.5
+8.0,693.0,45.0,708.0,PPT:,positions,55       -       14x48       Printed       Bulletin       units.,2.0,103,1       original       OOH       ncchanical.,131.5,100,2.0,131.5
+45.0,693.0,364.0,712.0,55       -       14x48       Printed       Bulletin       units.,positions,1,2.5,104,1,210.0,101,2.5,-1.0
+364.0,697.0,464.0,713.0,1,positions,1,19.0,107,1,0.5,101,19.0,0.5
+8.0,708.0,45.0,731.0,PST:,positions,6       for       legal;       8       for       mechanical.,1.5,106,55       -       14x48       Printed       Bulletin       units.,178.0,103,1.5,-1.0
+45.0,708.0,270.0,734.0,6       for       legal;       8       for       mechanical.,positions,(Shipping       costs       on       H4-MF-0071P),27.0,108,55       -       14x48       Printed       Bulletin       units.,47.0,103,27.0,47.0
+364.0,712.0,464.0,736.0,1,positions,1          1          1,27.0,109,,0.0,-1,27.0,0.0
+8.0,731.0,270.0,765.0,(Shipping       costs       on       H4-MF-0071P),positions,REASON       FOR       REVISION:,26.5,110,6       for       legal;       8       for       mechanical.,18.5,106,26.5,18.5
+364.0,735.0,464.0,767.0,1          1          1,positions,1          1,26.5,111,,0.0,-1,26.5,0.0
+7.0,762.0,270.0,787.0,REASON       FOR       REVISION:,positions,R1       :,18.0,112,(Shipping       costs       on       H4-MF-0071P),0.5,108,18.0,0.5
+363.0,766.0,464.0,789.0,1          1,positions,Additional       dye       and       retouching       required,17.0,113,1          1          1,0.5,109,-1.0,0.5
+7.0,784.0,44.0,801.0,R1       :,positions,Additional       dye       and       retouching       required,2.0,113,REASON       FOR       REVISION:,113.0,110,2.0,113.0
+44.0,784.0,363.0,805.0,Additional       dye       and       retouching       required,positions,1,2.5,114,1          1,210.0,111,2.5,-1.0
+363.0,788.0,463.0,806.0,1,positions,1,16.0,117,1          1,0.5,111,16.0,0.5
+7.0,801.0,44.0,816.0,ADT:,positions,1       new       pack       dye,1.5,116,Additional       dye       and       retouching       required,178.0,113,1.5,-1.0
+44.0,801.0,269.0,819.0,1       new       pack       dye,positions,AOR:,13.5,118,Additional       dye       and       retouching       required,47.0,113,13.5,47.0
+363.0,805.0,463.0,821.0,1,positions,1       addional       overlay       for       pack       art,12.5,119,,0.0,-1,-1.0,0.0
+7.0,816.0,44.0,831.0,AOR:,positions,1       addional       overlay       for       pack       art,2.0,119,1       new       pack       dye,131.0,116,2.0,131.0
+44.0,816.0,363.0,835.0,1       addional       overlay       for       pack       art,positions,1,2.5,120,1,209.5,117,2.5,209.5
+363.0,820.0,463.0,836.0,1,positions,on       dyes,14.5,123,,0.0,-1,-1.0,0.0
+7.0,831.0,44.0,847.0,ART:,positions,Additional       retouching       required,1.5,122,1       addional       overlay       for       pack       art,178.0,119,1.5,-1.0
+44.0,831.0,269.0,850.0,Additional       retouching       required,positions,on       dyes,2.0,123,1       addional       overlay       for       pack       art,47.0,119,2.0,47.0
+269.0,834.0,363.0,851.0,on       dyes,positions,1,1.0,124,1,97.0,120,1.0,97.0
+363.0,835.0,463.0,852.0,1,positions,S.       Strausburg,15.0,127,,0.0,-1,-1.0,0.0
+7.0,847.0,44.0,862.0,AOT:,positions,"As       authorized       by       L.       Breinlnger,",1.5,126,Additional       retouching       required,131.0,122,1.5,131.0
+44.0,847.0,269.0,865.0,"As       authorized       by       L.       Breinlnger,",positions,S.       Strausburg,2.5,127,on       dyes,159.5,123,2.5,159.5
+269.0,850.0,463.0,867.0,S.       Strausburg,positions,"(Co-Rpt       £84-186,       84-197)       for       -       ADT       -",12.5,128,1,47.0,124,12.5,47.0
+6.0,862.0,269.0,880.0,"(Co-Rpt       £84-186,       84-197)       for       -       ADT       -",positions,"i450       ART       -       i2,500       |-",2.5,129,"As       authorized       by       L.       Breinlnger,",19.0,126,2.5,19.0
+268.0,865.0,463.0,882.0,"i450       ART       -       i2,500       |-",positions,•       -,2.0,130,S.       Strausburg,0.5,127,2.0,0.5
+462.0,867.0,624.0,884.0,•       -,other,Total       -       42.950       |,20.0,131,,0.0,-1,20.0,0.0
+268.0,880.0,462.0,911.0,Total       -       42.950       |,total,AUTH.       BY:       A.       T.       Sterling       ^,2.5,132,"i450       ART       -       i2,500       |-",0.5,129,2.5,0.5
+462.0,882.0,710.0,914.0,AUTH.       BY:       A.       T.       Sterling       ^,other,w,21.5,134,,0.0,-1,21.5,0.0
+4.0,906.0,447.0,928.0,RJRT.CAT:       RJBT.CQDEJ,other,,0.0,-1,Total       -       42.950       |,139.5,131,0.0,139.5
+695.0,914.0,713.0,925.0,w,other,,0.0,-1,,0.0,-1,0.0,0.0

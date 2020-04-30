@@ -1,0 +1,30 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+67.0,96.0,140.0,112.0,02/27/89,invoice_info,Mail       to       Payee       Check       to       be       dated          Call       for       Check       Pickup       Name,84.5,3,Accounts       Payable       Voucher,286.0,1,-1.0,286.0
+278.0,98.0,501.0,113.0,Accounts       Payable       Voucher,other,Mail       to       Payee       Check       to       be       dated          Call       for       Check       Pickup       Name,83.0,3,Voucher       #       :005328,262.0,2,83.0,262.0
+573.0,98.0,730.0,112.0,Voucher       #       :005328,invoice_info,Ext.,105.5,4,,0.0,-1,105.5,0.0
+65.0,159.0,473.0,218.0,Mail       to       Payee       Check       to       be       dated          Call       for       Check       Pickup       Name,other,"AP       Vendor       #       69321100       *****************************          AP       Contract       #       *       Amount:       155,278.00       *          *****************************          The       Council       For       Tobacco       Research       -       USA.,       Inc.          900       Third       Avenue          Special       Projects       Fund          New       York,       NY       10022",127.0,5,Ext.,368.5,4,-1.0,368.5
+620.0,205.0,655.0,216.0,Ext.,other,"AP       Vendor       #       69321100       *****************************          AP       Contract       #       *       Amount:       155,278.00       *          *****************************          The       Council       For       Tobacco       Research       -       USA.,       Inc.          900       Third       Avenue          Special       Projects       Fund          New       York,       NY       10022",105.0,5,,0.0,-1,105.0,0.0
+65.0,263.0,721.0,368.0,"AP       Vendor       #       69321100       *****************************          AP       Contract       #       *       Amount:       155,278.00       *          *****************************          The       Council       For       Tobacco       Research       -       USA.,       Inc.          900       Third       Avenue          Special       Projects       Fund          New       York,       NY       10022",other,Special       payment       information       to       appear       on       check       stub:          2/13       letter       requesting       rjrt       portion       to       replenish       the       Special          Project       Fund,113.5,6,,0.0,-1,113.5,0.0
+65.0,398.0,666.0,460.0,Special       payment       information       to       appear       on       check       stub:          2/13       letter       requesting       rjrt       portion       to       replenish       the       Special          Project       Fund,other,G/L       Account       Code       Other       Required       Code       Amount,69.0,7,,0.0,-1,69.0,0.0
+65.0,490.0,657.0,506.0,G/L       Account       Code       Other       Required       Code       Amount,positions,Period       02/01/89       thru       02/28/89,167.5,8,,0.0,-1,167.5,0.0
+301.0,660.0,463.0,671.0,Period       02/01/89       thru       02/28/89,other,Sub       Task,50.0,14,,0.0,-1,50.0,0.0
+120.0,689.0,246.0,700.0,Codes,positions,Sub       Ent,21.0,12,Amounts,362.5,10,21.0,362.5
+503.0,689.0,588.0,700.0,Amounts,positions,AF,21.0,15,,0.0,-1,21.0,0.0
+17.0,700.0,66.0,731.0,Program,positions,CTR,31.5,19,Sub       Ent,51.5,12,31.5,51.5
+66.0,700.0,120.0,731.0,Sub       Ent,positions,CTR,31.5,19,Task,90.0,13,31.5,90.0
+120.0,700.0,246.0,731.0,Task,positions,CTR,31.5,20,Sub       Task,143.0,14,31.5,143.0
+246.0,700.0,406.0,731.0,Sub       Task,positions,CTR       -       SPECIAL       ACC0LTO,31.5,21,AF,128.5,15,31.5,128.5
+406.0,700.0,503.0,731.0,AF,positions,CTR       -       SPECIAL       ACC0UN,31.5,22,Non       AF,91.0,16,31.5,91.0
+503.0,700.0,588.0,731.0,Non       AF,positions,0.00,31.5,23,Expenses,83.0,17,31.5,83.0
+588.0,700.0,669.0,731.0,Expenses,positions,"155,278.00",31.5,24,Total,75.5,18,31.5,75.5
+669.0,700.0,739.0,731.0,Total,other,0.00,31.5,25,,0.0,-1,31.5,0.0
+17.0,731.0,66.0,763.0,CTR,positions,,0.0,-1,CTR,51.5,20,0.0,51.5
+66.0,731.0,120.0,763.0,CTR,positions,,0.0,-1,CTR       -       SPECIAL       ACC0LTO,90.0,21,0.0,90.0
+120.0,731.0,246.0,763.0,CTR       -       SPECIAL       ACC0LTO,positions,,0.0,-1,CTR       -       SPECIAL       ACC0UN,143.0,22,0.0,143.0
+246.0,731.0,406.0,763.0,CTR       -       SPECIAL       ACC0UN,positions,,0.0,-1,0.00,128.5,23,0.0,128.5
+406.0,731.0,503.0,763.0,0.00,positions,,0.0,-1,"155,278.00",91.0,24,0.0,91.0
+503.0,731.0,588.0,763.0,"155,278.00",positions,,0.0,-1,0.00,83.0,25,0.0,83.0
+588.0,731.0,669.0,763.0,0.00,positions,,0.0,-1,155.278.00,75.5,26,0.0,75.5
+669.0,731.0,739.0,763.0,155.278.00,total,50787       6895,126.5,28,,0.0,-1,126.5,0.0
+0.0,808.0,5.0,829.0,I,other,,0.0,-1,50787       6895,741.0,28,0.0,741.0
+736.0,828.0,751.0,919.0,50787       6895,other,,0.0,-1,,0.0,-1,0.0,0.0

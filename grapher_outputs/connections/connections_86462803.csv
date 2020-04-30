@@ -1,0 +1,19 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+8.0,198.0,22.0,229.0,/,other,,0.0,-1,Invoice       No.       4711,602.5,2,0.0,602.5
+303.0,179.0,399.0,197.0,INVOICE,other,"1556       Third       Avenue,       New       York       10128       (212)       996-7200          FAX       (212)       996       7367",90.5,3,,0.0,-1,-1.0,0.0
+561.0,199.0,674.0,218.0,Invoice       No.       4711,invoice_info,"1556       Third       Avenue,       New       York       10128       (212)       996-7200          FAX       (212)       996       7367",70.0,3,,0.0,-1,70.0,0.0
+214.0,256.0,644.0,301.0,"1556       Third       Avenue,       New       York       10128       (212)       996-7200          FAX       (212)       996       7367",supplier,S       s11       nf,26.0,6,,0.0,-1,26.0,0.0
+45.0,327.0,240.0,388.0,TO:       Mr.       Scott       Benson          Lorillard       Tobacco       Company          PO       Box       10529          Greensboro       NC       27404-0529,receiver,SE       SURVEYS       JOB       f,67.5,7,o       k       sS-ft-          Mn,208.5,5,67.5,208.5
+275.0,310.0,427.0,377.0,o       k       sS-ft-          Mn,other,DESCRIPTION,105.5,10,S       s11       nf,84.5,6,-1.0,84.5
+387.0,288.0,484.0,321.0,S       s11       nf,other,o       k       sS-ft-          Mn,39.0,5,,0.0,-1,39.0,0.0
+40.0,411.0,184.0,439.0,SE       SURVEYS       JOB       f,positions,DESCRIPTION,24.0,10,DATE,510.0,8,-1.0,510.0
+569.0,408.0,675.0,436.0,DATE,positions,4/2/99,25.5,11,,0.0,-1,25.5,0.0
+41.0,438.0,184.0,463.0,1903,positions,Old       Gold       Smoker       Profile       Study,38.5,12,DESCRIPTION,264.5,10,38.5,264.5
+184.0,436.0,570.0,462.0,DESCRIPTION,positions,1903,1.5,9,4/2/99,245.5,11,1.5,245.5
+570.0,435.0,675.0,460.0,4/2/99,positions,DESCRIPTION,1.5,10,,0.0,-1,1.5,0.0
+184.0,460.0,570.0,518.0,Old       Gold       Smoker       Profile       Study,positions,"Total       Cost       $41,600          Previously       Billed       $27,000",51.5,13,,0.0,-1,51.5,0.0
+184.0,516.0,570.0,565.0,"Total       Cost       $41,600          Previously       Billed       $27,000",positions,"$14,600.",82.0,15,,0.0,-1,82.0,0.0
+184.0,563.0,571.0,685.0,Final       Billing,positions,,0.0,-1,"$14,600.",245.5,15,0.0,245.5
+570.0,562.0,676.0,683.0,"$14,600.",positions,Final       Billing,1.5,14,,0.0,-1,1.5,0.0
+650.0,827.0,673.0,890.0,CO          On          4^          On          NO,other,CO          O,45.5,17,,0.0,-1,45.5,0.0
+649.0,892.0,668.0,916.0,CO          O,other,,0.0,-1,,0.0,-1,0.0,0.0

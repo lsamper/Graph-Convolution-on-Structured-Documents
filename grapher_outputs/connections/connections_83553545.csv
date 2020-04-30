@@ -1,0 +1,37 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+10.0,909.0,20.0,925.0,>,other,"MSI       IMT,",19.5,1,<,661.0,2,19.5,-1.0
+9.0,932.0,46.0,941.0,"MSI       IMT,",other,,0.0,-1,<,648.5,2,0.0,648.5
+665.0,918.0,687.0,954.0,<,other,,0.0,-1,,0.0,-1,0.0,0.0
+253.0,123.0,459.0,168.0,"Hissho,       Inc.",supplier,"1200       Camp       Woods       Ct.          Newark,       Delaware       19711          Phone:       [302]       234-1196",52.0,4,,0.0,-1,52.0,0.0
+272.0,171.0,438.0,224.0,"1200       Camp       Woods       Ct.          Newark,       Delaware       19711          Phone:       [302]       234-1196",supplier,"Mr.       Christopher       A.       Jarvis,       Esq.          Ilagcns       &       Berman          1301       Fifth       Avenue          Suite       2929          Seattle,       WA       98101",203.0,6,,0.0,-1,203.0,0.0
+478.0,304.0,570.0,345.0,"INVOICE          NUMBER       38          September       2,1997",invoice_info,$       33.00,164.0,10,,0.0,-1,-1.0,0.0
+101.0,361.0,292.0,440.0,"Mr.       Christopher       A.       Jarvis,       Esq.          Ilagcns       &       Berman          1301       Fifth       Avenue          Suite       2929          Seattle,       WA       98101",receiver,DATE          8-29-97,86.5,7,,0.0,-1,86.5,0.0
+100.0,472.0,190.0,502.0,DATE          8-29-97,positions,ACTIVITY          Taxi       to       hotel,0.5,8,HOURS          NA,268.5,9,0.5,268.5
+189.0,472.0,358.0,503.0,ACTIVITY          Taxi       to       hotel,positions,HOURS          NA,0.5,9,$       33.00,228.5,10,0.5,-1.0
+357.0,473.0,470.0,503.0,HOURS          NA,positions,$       33.00,0.5,10,,0.0,-1,0.5,0.0
+469.0,473.0,535.0,504.0,$       33.00,positions,4.0,22.5,13,,0.0,-1,-1.0,0.0
+100.0,502.0,189.0,518.0,8-30-97,positions,Research       Review,0.5,12,ACTIVITY          Taxi       to       hotel,129.0,8,0.5,-1.0
+189.0,502.0,357.0,519.0,Research       Review,positions,4.0,0.5,13,ACTIVITY          Taxi       to       hotel,0.5,8,0.5,0.5
+357.0,503.0,469.0,519.0,4.0,positions,$       1400.00,0.5,14,$       33.00,89.0,10,0.5,-1.0
+469.0,503.0,534.0,520.0,$       1400.00,positions,NA,16.0,17,$       33.00,0.5,10,-1.0,0.5
+100.0,518.0,189.0,535.0,8/29-8/30,positions,Room       charges,0.5,16,Research       Review,128.5,12,0.5,128.5
+189.0,518.0,357.0,536.0,Room       charges,positions,NA,0.5,17,4.0,140.0,13,0.5,140.0
+357.0,519.0,469.0,536.0,NA,positions,S       475.73,0.5,18,$       1400.00,88.5,14,0.5,88.5
+469.0,519.0,534.0,537.0,S       475.73,positions,NA,15.5,21,,0.0,-1,-1.0,0.0
+100.0,535.0,189.0,550.0,8-31-97,positions,Shuttle       to       SeaTac,0.5,20,Room       charges,128.5,16,0.5,128.5
+189.0,535.0,357.0,551.0,Shuttle       to       SeaTac,positions,NA,0.5,21,NA,140.0,17,0.5,140.0
+357.0,536.0,469.0,551.0,NA,positions,S       7.50,0.5,22,S       475.73,88.5,18,0.5,88.5
+469.0,536.0,534.0,552.0,S       7.50,positions,NA,15.0,25,,0.0,-1,-1.0,0.0
+100.0,550.0,189.0,566.0,8-31-97,positions,Parking,0.5,24,Shuttle       to       SeaTac,128.5,20,0.5,128.5
+189.0,550.0,357.0,567.0,Parking,positions,NA,0.5,25,NA,140.0,21,0.5,140.0
+357.0,551.0,469.0,567.0,NA,positions,3       -2.6.00,0.5,26,S       7.50,88.5,22,0.5,88.5
+469.0,551.0,534.0,568.0,3       -2.6.00,positions,Total,14.5,27,,0.0,-1,14.5,0.0
+357.0,567.0,469.0,581.0,Total,other,$       1942.23,0.5,28,3       -2.6.00,88.5,26,0.5,88.5
+469.0,567.0,534.0,582.0,$       1942.23,total,•       •       •       tr       i       .       f..       A*>       C       cn'i       1,45.5,30,,0.0,-1,45.5,0.0
+22.0,625.0,137.0,657.0,"HAGENS       &       BERMAN          Hissho,       Inc.",other,General       Account       1100       -       1129.10,242.5,33,10/2/97          1129.10       Travel       Expenses       for       Expert       Consultant          1129.10       Expert       Consultant       <\       -\,328.5,31,242.5,328.5
+240.0,615.0,561.0,625.0,•       •       •       tr       i       .       f..       A*>       C       cn'i       1,other,10/2/97          1129.10       Travel       Expenses       for       Expert       Consultant          1129.10       Expert       Consultant       <\       -\,65.5,31,,0.0,-1,65.5,0.0
+271.0,644.0,545.0,727.0,10/2/97          1129.10       Travel       Expenses       for       Expert       Consultant          1129.10       Expert       Consultant       <\       -\,positions,,0.0,-1,"09535          1,942.23       TR/v          2,310.00",242.0,32,0.0,242.0
+610.0,628.0,690.0,692.0,"09535          1,942.23       TR/v          2,310.00",positions,83553545,140.5,35,,0.0,-1,140.5,0.0
+36.0,876.0,251.0,891.0,General       Account       1100       -       1129.10,other,"MSI       IMT,",53.0,1,"4,252.23",489.5,34,-1.0,489.5
+607.0,881.0,659.0,896.0,"4,252.23",other,,0.0,-1,,0.0,-1,0.0,0.0
+667.0,750.0,687.0,851.0,83553545,other,<,135.5,2,,0.0,-1,135.5,0.0

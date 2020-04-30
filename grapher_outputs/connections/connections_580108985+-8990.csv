@@ -1,0 +1,21 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+48.0,81.0,306.0,99.0,BUSINESS       EXPENSE       VOUCHER,other,Employee       Name          Charles       A.       Blixt,28.0,1,Dale       Prepared          09/13/95          Return       to:,219.0,9,28.0,-1.0
+48.0,103.0,226.0,133.0,Employee       Name          Charles       A.       Blixt,receiver,Maying       Address       (If       appfcabe),21.5,3,Account       Number          71614,138.0,2,21.5,138.0
+226.0,103.0,324.0,133.0,Account       Number          71614,receiver,Maying       Address       (If       appfcabe),21.5,3,Dale       Prepared          09/13/95          Return       to:,121.0,9,21.5,121.0
+48.0,133.0,226.0,146.0,Maying       Address       (If       appfcabe),receiver,Sr.       VP/GC,14.5,5,Extension       Number,138.0,4,14.5,138.0
+226.0,133.0,324.0,146.0,Extension       Number,receiver,Sr.       VP/GC,14.5,5,,0.0,-1,14.5,0.0
+48.0,146.0,226.0,162.0,Sr.       VP/GC,receiver,11803,15.0,7,(910)       741-0673,138.0,6,15.0,138.0
+226.0,146.0,324.0,162.0,(910)       741-0673,receiver,11803,15.0,7,,0.0,-1,15.0,0.0
+48.0,162.0,226.0,176.0,11803,receiver,Executive,16.0,8,,0.0,-1,16.0,0.0
+48.0,176.0,226.0,194.0,Executive,receiver,DESTINATION(S)       i,28.0,13,,0.0,-1,28.0,0.0
+361.0,76.0,431.0,114.0,Dale       Prepared          09/13/95          Return       to:,invoice_info,RETURN       DATEl       PURPOSE       OF       TRIP,118.0,14,Page          1       of,67.0,10,118.0,67.0
+445.0,76.0,481.0,102.0,Page          1       of,invoice_info,RETURN       DATEl       PURPOSE       OF       TRIP,124.0,14,Disbursement       Accounting       Use       ONLY,127.0,11,-1.0,127.0
+505.0,76.0,675.0,87.0,Disbursement       Accounting       Use       ONLY,invoice_info,RETURN       DATEl       PURPOSE       OF       TRIP,131.5,14,,0.0,-1,-1.0,0.0
+49.0,205.0,138.0,236.0,p       EPART       DATE,other,"Washington,       DC       j",8.0,15,DESTINATION(S)       i,137.0,13,8.0,137.0
+138.0,205.0,323.0,221.0,DESTINATION(S)       i,other,p       EPART       DATE,7.5,12,RETURN       DATEl       PURPOSE       OF       TRIP,272.5,14,7.5,272.5
+323.0,205.0,683.0,221.0,RETURN       DATEl       PURPOSE       OF       TRIP,other,"Washington,       DC       j",15.5,15,,0.0,-1,-1.0,0.0
+138.0,221.0,323.0,236.0,"Washington,       DC       j",other,Approval       Authority       Name       (Print       or       Type)          A,689.0,17,09/13/95       |       Tobacco       Institute       Committee       of       Counsel       Mtg.,272.5,16,689.0,272.5
+323.0,221.0,683.0,236.0,09/13/95       |       Tobacco       Institute       Committee       of       Counsel       Mtg.,other,Approval       Authority       Signature       and       Date,678.0,18,,0.0,-1,678.0,0.0
+262.0,901.0,435.0,934.0,Approval       Authority       Name       (Print       or       Type)          A,other,,0.0,-1,Approval       Authority       Signature       and       Date,209.0,18,0.0,209.0
+474.0,900.0,641.0,913.0,Approval       Authority       Signature       and       Date,other,,0.0,-1,S863       0-.03S,149.5,19,0.0,149.5
+701.0,849.0,713.0,937.0,S863       0-.03S,other,,0.0,-1,,0.0,-1,0.0,0.0

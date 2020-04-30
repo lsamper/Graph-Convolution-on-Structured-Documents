@@ -1,0 +1,29 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+92.0,126.0,195.0,187.0,Rapp       G>lim»       \V'orkJ«       ide          48S       Mid       iso*       Avenue          Nrm       Yoeit.       NY       10022-5702          :i:       rJ-9100          Fax       212       3-1-9270,supplier,BILL       DATE       05/25/94          CLIENT       LORILLARD          PRODUCT       NEWPORT       LIGHTS          MEDIA       DIRECT       MAIL          JOB       D58201       INITIAL       CONCEPTS          &       BRAINSTORMING,250.5,2,,0.0,-1,-1.0,0.0
+526.0,210.0,632.0,238.0,Rapp       Collins,supplier,"BILL       NUMBER       D-05-0245          DUE       DATE       JUN27/94          LORILLARD          ONE       PARK       AVENUE          NEW       YORK,       NY       10016          MR       ALAN       SADOVNICK",179.0,3,,0.0,-1,179.0,0.0
+94.0,346.0,358.0,468.0,BILL       DATE       05/25/94          CLIENT       LORILLARD          PRODUCT       NEWPORT       LIGHTS          MEDIA       DIRECT       MAIL          JOB       D58201       INITIAL       CONCEPTS          &       BRAINSTORMING,receiver,COMMISSION,72.0,6,"BILL       NUMBER       D-05-0245          DUE       DATE       JUN27/94          LORILLARD          ONE       PARK       AVENUE          NEW       YORK,       NY       10016          MR       ALAN       SADOVNICK",257.0,3,-1.0,-1.0
+357.0,342.0,609.0,464.0,"BILL       NUMBER       D-05-0245          DUE       DATE       JUN27/94          LORILLARD          ONE       PARK       AVENUE          NEW       YORK,       NY       10016          MR       ALAN       SADOVNICK",receiver,BILL       DATE       05/25/94          CLIENT       LORILLARD          PRODUCT       NEWPORT       LIGHTS          MEDIA       DIRECT       MAIL          JOB       D58201       INITIAL       CONCEPTS          &       BRAINSTORMING,4.0,2,,0.0,-1,4.0,0.0
+96.0,465.0,259.0,500.0,DESCRIPTION,positions,KEYLINE       ASSEMBLY,31.0,8,BILL       DATE       05/25/94          CLIENT       LORILLARD          PRODUCT       NEWPORT       LIGHTS          MEDIA       DIRECT       MAIL          JOB       D58201       INITIAL       CONCEPTS          &       BRAINSTORMING,48.5,2,31.0,48.5
+259.0,464.0,359.0,497.0,NET       AMOUNT,positions,DESCRIPTION,2.0,4,COMMISSION,113.0,6,2.0,113.0
+358.0,462.0,486.0,496.0,COMMISSION,positions,NET       AMOUNT,1.5,5,"BILL       NUMBER       D-05-0245          DUE       DATE       JUN27/94          LORILLARD          ONE       PARK       AVENUE          NEW       YORK,       NY       10016          MR       ALAN       SADOVNICK",61.0,3,1.5,61.0
+485.0,460.0,610.0,494.0,TOTAL,positions,COMMISSION,2.0,6,,0.0,-1,2.0,0.0
+96.0,497.0,259.0,530.0,KEYLINE       ASSEMBLY,positions,455.00,25.0,10,80.31,245.5,11,-1.0,-1.0
+96.0,527.0,260.0,554.0,STUDIO'5       C30542,positions,325.00,17.5,14,455.00,131.5,10,-1.0,131.5
+259.0,526.0,360.0,551.0,455.00,positions,STUDIO'5       C30542,2.0,9,80.31,113.5,11,2.0,113.5
+359.0,524.0,487.0,550.0,80.31,positions,455.00,1.5,10,535.31,125.5,12,1.5,125.5
+486.0,522.0,611.0,548.0,535.31,positions,80.31,2.0,11,,0.0,-1,2.0,0.0
+97.0,551.0,260.0,569.0,STUDIO       15       0404'6,positions,COLOR       XEROX,19.0,17,325.00,131.5,14,19.0,131.5
+260.0,550.0,360.0,566.0,325.00,positions,STUDIO       15       0404'6,2.0,13,57.36,113.5,15,2.0,113.5
+360.0,548.0,487.0,565.0,57.36,positions,325.00,1.5,14,382.36,125.5,16,1.5,125.5
+487.0,546.0,611.0,563.0,382.36,positions,57.36,2.0,15,,0.0,-1,2.0,0.0
+97.0,566.0,260.0,592.0,COLOR       XEROX,positions,544.10,35.0,19,113       68,245.5,20,-1.0,-1.0
+97.0,590.0,261.0,642.0,STUDIO       15       04C415,positions,1424       10,33.5,23,544.10,131.5,19,-1.0,131.5
+260.0,589.0,361.0,639.0,544.10,positions,STUDIO       15       04C415,2.0,18,113       68,113.5,20,2.0,113.5
+360.0,587.0,488.0,638.0,113       68,positions,544.10,1.5,19,757.78,125.5,21,1.5,125.5
+487.0,585.0,612.0,636.0,757.78,positions,113       68,2.0,20,,0.0,-1,2.0,0.0
+98.0,639.0,261.0,663.0,TOTAL       AMOUNT       DUE',total,,0.0,-1,1424       10,131.5,23,0.0,131.5
+261.0,638.0,361.0,661.0,1424       10,total,TOTAL       AMOUNT       DUE',1.5,22,251.35,113.5,24,1.5,113.5
+361.0,636.0,488.0,660.0,251.35,total,1424       10,1.5,23,1675.45,125.5,25,1.5,125.5
+488.0,634.0,612.0,658.0,1675.45,total,251.35,2.0,24,,0.0,-1,2.0,0.0
+455.0,658.0,595.0,673.0,PAY       ABOVE       AMOUNT,total,,0.0,-1,,0.0,-1,0.0,0.0
+617.0,795.0,632.0,861.0,6208U66,other,,0.0,-1,,0.0,-1,0.0,0.0

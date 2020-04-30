@@ -1,0 +1,41 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+498.0,217.0,652.0,242.0,As       of       31-Jul-1998          Bill       Number       0,invoice_info,Atty,211.5,5,,0.0,-1,211.5,0.0
+61.0,272.0,348.0,390.0,"0020888       TOBACCO       INSTITUTE          0024402       AG       MEDICAID       LITIGATION          TOBACCO       INSTITUTE          C/O       COVINGTON       &       BURLING          ATTN       JOHN       VANDERSTAR          1201       PENNSYLVANIA       AVENUE       NW          P       O       BOX       7566          WASHINGTON,       DC       20044-7566",receiver,Date,110.0,3,,0.0,-1,110.0,0.0
+580.0,433.0,644.0,550.0,Hour3          .10          .30          .10          .20          .10          76.00,positions,Date       Disbursements       Value          27-Jul-1998       TELECOPY       1.40          27-Jul-1998       TELECOPY       1.40          Total       for       TELECOPY       2.80,119.5,37,,0.0,-1,-1.0,0.0
+39.0,431.0,141.0,451.0,Date,positions,01-Jul-1998,19.5,6,Services,136.0,4,19.5,136.0
+141.0,431.0,311.0,451.0,Services,positions,01-Jul-1998,19.5,6,Atty,280.0,5,19.5,280.0
+455.0,431.0,557.0,451.0,Atty,positions,DOCUMENTS,19.5,10,Hour3          .10          .30          .10          .20          .10          76.00,106.0,2,19.5,106.0
+39.0,451.0,141.0,470.0,01-Jul-1998,positions,09-Jul-1998,16.0,12,REVIEW,83.5,7,16.0,83.5
+141.0,451.0,206.0,470.0,REVIEW,positions,09-Jul-1998,16.0,12,AND,48.5,8,16.0,48.5
+206.0,451.0,238.0,470.0,AND,positions,REVIEW,16.0,13,ORGANIZE,52.5,9,16.0,52.5
+238.0,451.0,311.0,470.0,ORGANIZE,positions,AND,16.0,14,DOCUMENTS,108.5,10,16.0,108.5
+311.0,451.0,455.0,470.0,DOCUMENTS,positions,ORGANIZE,16.0,15,SME,123.0,11,16.0,123.0
+455.0,451.0,557.0,470.0,SME,positions,DOCUMENTS,16.0,16,Hour3          .10          .30          .10          .20          .10          76.00,106.0,2,16.0,106.0
+39.0,470.0,141.0,483.0,09-Jul-1998,positions,21-Jul-1998,13.5,18,REVIEW,83.5,13,13.5,83.5
+141.0,470.0,206.0,483.0,REVIEW,positions,21-Jul-1998,13.5,18,AND,48.5,14,13.5,48.5
+206.0,470.0,238.0,483.0,AND,positions,REVIEW,13.5,19,ORGANIZE,52.5,15,13.5,52.5
+238.0,470.0,311.0,483.0,ORGANIZE,positions,AND,13.5,20,DOCUMENTS,108.5,16,13.5,108.5
+311.0,470.0,455.0,483.0,DOCUMENTS,positions,ORGANIZE,13.5,21,SME,123.0,17,13.5,123.0
+455.0,470.0,557.0,483.0,SME,positions,DOCUMENTS.,13.5,22,Hour3          .10          .30          .10          .20          .10          76.00,106.0,2,13.5,106.0
+39.0,483.0,141.0,497.0,21-Jul-1998,positions,24       -Jul-1998,13.5,24,REVIEW,83.5,19,13.5,83.5
+141.0,483.0,206.0,497.0,REVIEW,positions,24       -Jul-1998,13.5,24,AND,48.5,20,13.5,48.5
+206.0,483.0,238.0,497.0,AND,positions,REVIEW,13.5,25,ORGANIZE,52.5,21,13.5,52.5
+238.0,483.0,311.0,497.0,ORGANIZE,positions,AND,13.5,26,DOCUMENTS.,108.5,22,13.5,108.5
+311.0,483.0,455.0,497.0,DOCUMENTS.,positions,ORGANIZE,13.5,27,SME,123.0,23,13.5,123.0
+455.0,483.0,557.0,497.0,SME,positions,DOCUMENTS,13.5,28,Hour3          .10          .30          .10          .20          .10          76.00,106.0,2,13.5,106.0
+39.0,497.0,141.0,510.0,24       -Jul-1998,positions,30-Jul-1998,13.0,30,REVIEW,83.5,25,13.0,83.5
+141.0,497.0,206.0,510.0,REVIEW,positions,30-Jul-1998,13.0,30,AND,48.5,26,13.0,48.5
+206.0,497.0,238.0,510.0,AND,positions,REVIEW,13.0,31,ORGANIZE,52.5,27,13.0,52.5
+238.0,497.0,311.0,510.0,ORGANIZE,positions,AND,13.0,32,DOCUMENTS,108.5,28,13.0,108.5
+311.0,497.0,455.0,510.0,DOCUMENTS,positions,ORGANIZE,13.0,33,SME,123.0,29,13.0,123.0
+455.0,497.0,557.0,510.0,SME,positions,DOCUMENTS,13.0,34,Hour3          .10          .30          .10          .20          .10          76.00,106.0,2,13.0,106.0
+39.0,510.0,141.0,523.0,30-Jul-1998,positions,Total       Services       Hours       .80       $,27.5,36,REVIEW,83.5,31,27.5,83.5
+141.0,510.0,206.0,523.0,REVIEW,positions,Total       Services       Hours       .80       $,27.5,36,AND,48.5,32,27.5,48.5
+206.0,510.0,238.0,523.0,AND,positions,Total       Services       Hours       .80       $,27.5,36,ORGANIZE,52.5,33,27.5,52.5
+238.0,510.0,311.0,523.0,ORGANIZE,positions,Total       Services       Hours       .80       $,27.5,36,DOCUMENTS,108.5,34,27.5,108.5
+311.0,510.0,455.0,523.0,DOCUMENTS,positions,Total       Services       Hours       .80       $,27.5,36,SME,123.0,35,27.5,123.0
+455.0,510.0,557.0,523.0,SME,positions,Total       Services       Hours       .80       $,27.5,36,Hour3          .10          .30          .10          .20          .10          76.00,106.0,2,27.5,106.0
+95.0,537.0,524.0,551.0,Total       Services       Hours       .80       $,positions,Date       Disbursements       Value          27-Jul-1998       TELECOPY       1.40          27-Jul-1998       TELECOPY       1.40          Total       for       TELECOPY       2.80,67.0,37,Hour3          .10          .30          .10          .20          .10          76.00,302.5,2,67.0,-1.0
+39.0,578.0,644.0,644.0,Date       Disbursements       Value          27-Jul-1998       TELECOPY       1.40          27-Jul-1998       TELECOPY       1.40          Total       for       TELECOPY       2.80,positions,Total       Disbursements       $       2.80          Total       Services       and       Disbursements       $       78.80,80.0,38,,0.0,-1,80.0,0.0
+95.0,671.0,643.0,711.0,Total       Disbursements       $       2.80          Total       Services       and       Disbursements       $       78.80,other,Til       560-9058,279.0,39,,0.0,-1,279.0,0.0
+642.0,964.0,724.0,976.0,Til       560-9058,other,,0.0,-1,,0.0,-1,0.0,0.0

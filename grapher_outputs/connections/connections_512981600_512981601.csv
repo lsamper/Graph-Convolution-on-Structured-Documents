@@ -1,0 +1,35 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+75.0,53.0,715.0,71.0,"PROMOTIONAL       MARKETING,       INC.",supplier,152       WEST       HURON       STREET.       CHICAGO.       ILLINOIS       60610.312/943-0900          In       2       3       33       PH       *31          Invoice          TO:       Ms.       Louise       Norman,100.0,1,,0.0,-1,100.0,0.0
+76.0,82.0,752.0,242.0,152       WEST       HURON       STREET.       CHICAGO.       ILLINOIS       60610.312/943-0900          In       2       3       33       PH       *31          Invoice          TO:       Ms.       Louise       Norman,other,"R.       J.       Reynolds       Tobacco       Co.          401       N.       Main       Street          Winston-Salem,       NC       27102",111.5,2,,0.0,-1,111.5,0.0
+164.0,246.0,346.0,301.0,"R.       J.       Reynolds       Tobacco       Co.          401       N.       Main       Street          Winston-Salem,       NC       27102",receiver,"73786-C/E       6-Pack       Cooler       POS          Original       Estimate/Contract       $20,950.00          For       the       creative       development/layouts       and       mechanical       art       preparation       of       Camel       and          Salem       riser       cards       for       the       6-Pack       Cooler       retail       offer.",234.0,3,,0.0,-1,234.0,0.0
+118.0,462.0,667.0,553.0,"73786-C/E       6-Pack       Cooler       POS          Original       Estimate/Contract       $20,950.00          For       the       creative       development/layouts       and       mechanical       art       preparation       of       Camel       and          Salem       riser       cards       for       the       6-Pack       Cooler       retail       offer.",other,Indirect       Costs:,95.5,4,,0.0,-1,95.5,0.0
+119.0,596.0,215.0,610.0,Indirect       Costs:,positions,Item,44.5,5,,0.0,-1,44.5,0.0
+163.0,634.0,331.0,661.0,Item,positions,•Ex.       Creative       Director,32.0,7,Hauls,113.5,6,32.0,113.5
+331.0,634.0,390.0,661.0,Hauls,positions,•Ex.       Creative       Director,32.0,7,"Rale       Comm,",131.0,18,32.0,131.0
+163.0,661.0,331.0,698.0,•Ex.       Creative       Director,positions,Creative       Coordinator,37.5,9,7.50,113.5,8,37.5,113.5
+331.0,661.0,390.0,698.0,7.50,positions,Creative       Coordinator,37.5,9,$125.00,131.0,20,37.5,131.0
+163.0,698.0,331.0,736.0,Creative       Coordinator,positions,Asst.       Art       Director,38.0,11,1.00,113.5,10,38.0,113.5
+331.0,698.0,390.0,736.0,1.00,positions,Asst.       Art       Director,38.0,11,40.00,131.0,22,38.0,131.0
+163.0,736.0,331.0,774.0,Asst.       Art       Director,positions,Art       Prod.       Manager,39.0,13,15.00,113.5,12,39.0,113.5
+331.0,736.0,390.0,774.0,15.00,positions,Art       Prod.       Manager,39.0,13,85.00,131.0,24,39.0,131.0
+163.0,774.0,331.0,814.0,Art       Prod.       Manager,positions,Art       Apprentice,34.5,15,1.00,113.5,14,34.5,113.5
+331.0,774.0,390.0,814.0,1.00,positions,Art       Apprentice,34.5,15,85.00,131.0,24,34.5,131.0
+163.0,814.0,331.0,843.0,Art       Apprentice,positions,"SUBTOTAL       INDIRECT          (*       Based       on       Invoicing       Procedures       prior       to       July       I,",63.0,17,1.25,113.5,16,63.0,113.5
+331.0,814.0,390.0,843.0,1.25,positions,"SUBTOTAL       INDIRECT          (*       Based       on       Invoicing       Procedures       prior       to       July       I,",63.0,17,85.00,131.0,27,63.0,131.0
+118.0,865.0,422.0,918.0,"SUBTOTAL       INDIRECT          (*       Based       on       Invoicing       Procedures       prior       to       July       I,",other,,0.0,-1,1991.),175.5,33,0.0,175.5
+426.0,633.0,557.0,660.0,"Rale       Comm,",positions,$125.00,32.0,20,Total,126.5,19,32.0,126.5
+557.0,633.0,679.0,660.0,Total,positions,$125.00,32.0,20,,0.0,-1,32.0,0.0
+426.0,660.0,557.0,697.0,$125.00,positions,40.00,37.5,22,$937.50,126.5,21,37.5,126.5
+557.0,660.0,679.0,697.0,$937.50,positions,40.00,37.5,22,,0.0,-1,37.5,0.0
+426.0,697.0,557.0,735.0,40.00,positions,85.00,42.5,24,40.00,126.5,23,42.5,126.5
+557.0,697.0,679.0,735.0,40.00,positions,85.00,42.5,24,,0.0,-1,42.5,0.0
+426.0,735.0,557.0,782.0,85.00,positions,85.00,42.5,27,"1,275.00",126.5,25,42.5,126.5
+557.0,735.0,679.0,782.0,"1,275.00",positions,85.00,42.5,27,Ul,93.0,26,42.5,93.0
+679.0,735.0,743.0,782.0,Ul,other,85.00,42.5,28,,0.0,-1,42.5,0.0
+426.0,782.0,557.0,820.0,85.00,positions,25.00,48.0,30,85.00,126.5,28,48.0,126.5
+557.0,782.0,679.0,820.0,85.00,positions,25.00,48.0,30,M          NJ          lO          CO,93.0,29,48.0,93.0
+679.0,782.0,743.0,820.0,M          NJ          lO          CO,other,"31.25          $2,36875",48.0,31,,0.0,-1,48.0,0.0
+426.0,820.0,557.0,878.0,25.00,other,1991.),59.5,33,"31.25          $2,36875",126.5,31,59.5,126.5
+557.0,820.0,679.0,878.0,"31.25          $2,36875",other,,0.0,-1,M          O'          <S>          <S>,93.0,32,0.0,93.0
+679.0,820.0,743.0,878.0,M          O'          <S>          <S>,other,,0.0,-1,,0.0,-1,0.0,0.0
+425.0,900.0,466.0,917.0,1991.),other,,0.0,-1,,0.0,-1,0.0,0.0

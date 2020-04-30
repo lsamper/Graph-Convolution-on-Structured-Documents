@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>ABBYY FineReader Engine 11 + alto2page.xslt 2018.11.09</Creator>
+    <Created>2019-01-23T00:00:00</Created>
+    <LastChange>2019-01-23T00:00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="2063590390.tif" imageHeight="1000" imageWidth="793">
+    <TextRegion id="Page1_TopMargin">
+      <Property key="Margin" value="Top"/>
+      <Coords points="0,0 793,0 793,152 0,152"/>
+    </TextRegion>
+    <TextRegion id="Page1_LeftMargin">
+      <Property key="Margin" value="Left"/>
+      <Coords points="0,152 101,152 101,655 0,655"/>
+    </TextRegion>
+    <TextRegion id="Page1_RightMargin">
+      <Property key="Margin" value="Right"/>
+      <Coords points="477,152 793,152 793,655 477,655"/>
+    </TextRegion>
+    <TextRegion id="Page1_BottomMargin">
+      <Property key="Margin" value="Bottom"/>
+      <Coords points="0,655 793,655 793,1000 0,1000"/>
+    </TextRegion>
+    <TextRegion id="Page1_PrintSpace">
+      <Property key="Margin" value=""/>
+      <Coords points="101,152 477,152 477,655 101,655"/>
+    </TextRegion>
+    <TextRegion id="Page1_Block1">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="297,154 471,154 471,176 297,176 297,154"/>
+      <Coords points="294,152 468,152 468,175 294,175"/>
+      <TextLine id="Page1_Block1_l1">
+        <Coords points="295,153 466,153 466,173 295,173"/>
+        <Word id="Page1_Block1_l1_w1">
+          <Coords points="295,155 320,155 320,169 295,169"/>
+          <TextEquiv conf="1">
+            <Unicode>Dr.</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block1_l1_w2">
+          <Coords points="326,154 385,154 385,173 326,173"/>
+          <TextEquiv conf="0.8666666746">
+            <Unicode>Ragnar</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block1_l1_w3">
+          <Coords points="391,153 466,153 466,172 391,172"/>
+          <TextEquiv conf="0.9825000167">
+            <Unicode>Rylander</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block2">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="104,223 478,223 478,462 104,462 104,223"/>
+      <Coords points="101,221 476,221 476,462 101,462"/>
+      <TextLine id="Page1_Block2_l1">
+        <Coords points="336,222 425,222 425,237 336,237"/>
+        <Word id="Page1_Block2_l1_w1">
+          <Coords points="336,222 425,222 425,237 336,237"/>
+          <TextEquiv conf="0.8085714579">
+            <Unicode>INVOICE</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Page1_Block2_l2">
+        <Coords points="320,269 440,269 440,285 320,285"/>
+        <Word id="Page1_Block2_l2_w1">
+          <Coords points="320,269 440,269 440,285 320,285"/>
+          <TextEquiv conf="0.646363616">
+            <Unicode>PO#42503755</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Page1_Block2_l3">
+        <Coords points="102,346 468,346 468,365 102,365"/>
+        <Word id="Page1_Block2_l3_w1">
+          <Coords points="102,349 192,349 192,365 102,365"/>
+          <TextEquiv conf="0.8029999733">
+            <Unicode>Consultant</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block2_l3_w2">
+          <Coords points="197,349 222,349 222,363 197,363"/>
+          <TextEquiv conf="0.8600000143">
+            <Unicode>fee</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block2_l3_w3">
+          <Coords points="386,346 468,346 468,364 386,364"/>
+          <TextEquiv conf="0.7833333611">
+            <Unicode>$2,700.00</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Page1_Block2_l4">
+        <Coords points="102,393 474,393 474,415 102,415"/>
+        <Word id="Page1_Block2_l4_w1">
+          <Coords points="102,396 156,396 156,412 102,412"/>
+          <TextEquiv conf="0.8383333087">
+            <Unicode>Travel</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block2_l4_w2">
+          <Coords points="162,400 235,400 235,414 162,414"/>
+          <TextEquiv conf="0.9750000238">
+            <Unicode>expenses</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block2_l4_w3">
+          <Coords points="242,395 310,395 310,409 242,409"/>
+          <TextEquiv conf="0.9925000072">
+            <Unicode>incurred</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block2_l4_w4">
+          <Coords points="382,393 474,393 474,410 382,410"/>
+          <TextEquiv conf="0.8709999919">
+            <Unicode>$17,174.07</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Page1_Block2_l5">
+        <Coords points="289,440 474,440 474,459 289,459"/>
+        <Word id="Page1_Block2_l5_w1">
+          <Coords points="289,443 335,443 335,457 289,457"/>
+          <TextEquiv conf="0.5780000091">
+            <Unicode>Total</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block2_l5_w2">
+          <Coords points="382,440 474,440 474,459 382,459"/>
+          <TextEquiv conf="0.8769999743">
+            <Unicode>$19,874.07</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block3">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="116,554 261,554 261,599 116,599 116,554"/>
+      <Coords points="114,553 259,553 259,599 114,599"/>
+      <TextLine id="Page1_Block3_l1">
+        <Coords points="118,560 195,560 195,594 118,594"/>
+        <Word id="Page1_Block3_l1_w1">
+          <Coords points="118,565 162,565 162,594 118,594"/>
+          <TextEquiv conf="0.5333333611">
+            <Unicode>7.1</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block3_l1_w2">
+          <Coords points="172,560 195,560 195,584 172,584"/>
+          <TextEquiv conf="0.2899999917">
+            <Unicode>s</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block4">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="105,611 242,611 242,655 105,655 105,611"/>
+      <Coords points="103,610 241,610 241,655 103,655"/>
+      <TextLine id="Page1_Block4_l1">
+        <Coords points="104,611 238,611 238,630 104,630"/>
+        <Word id="Page1_Block4_l1_w1">
+          <Coords points="104,611 132,611 132,626 104,626"/>
+          <TextEquiv conf="0.8799999952">
+            <Unicode>OK</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block4_l1_w2">
+          <Coords points="139,611 162,611 162,625 139,625"/>
+          <TextEquiv conf="0.9399999976">
+            <Unicode>for</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block4_l1_w3">
+          <Coords points="168,613 238,613 238,629 168,629"/>
+          <TextEquiv conf="0.9642857313">
+            <Unicode>payment</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Page1_Block4_l2">
+        <Coords points="104,635 221,635 221,653 104,653"/>
+        <Word id="Page1_Block4_l2_w1">
+          <Coords points="104,635 167,635 167,650 104,650"/>
+          <TextEquiv conf="0.9900000095">
+            <Unicode>Tamara</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block4_l2_w2">
+          <Coords points="172,635 221,635 221,652 172,652"/>
+          <TextEquiv conf="0.8140000105">
+            <Unicode>Banty</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <SeparatorRegion id="Page1_Block5">
+      <Coords points="382,409 476,409 476,412 382,412"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="Page1_Block6">
+      <Coords points="104,603 244,603 244,606 104,606"/>
+    </SeparatorRegion>
+  </Page>
+</PcGts>

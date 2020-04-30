@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:ns2="http://searchink.com/xml/frankstahlapi/1.0">
+  <Metadata>
+    <Creator>system</Creator>
+    <Created>2019-01-25T17:39:12.618+01:00</Created>
+    <LastChange>2019-02-02T01:30:52Z</LastChange>
+  </Metadata>
+  <Property key="customer" value="actuallCustomerName"/>
+  <Property key="offer"/>
+  <Property key="uuid" value="3cdd6676-8270-414e-86ef-22d2f28b0ee4"/>
+  <Property key="fileName" value="2084022414.pdf"/>
+  <Property key="type" value="digital"/>
+  <Page imageFilename="2084022414.tif" imageHeight="1000" imageWidth="754">
+    <TextRegion id="page1_pos1">
+      <Property key="entity" value="supplier"/>
+      <Coords points="13.3831,51.8877 275.619,51.8877 275.619,128.4 13.3831,128.4"/>
+    </TextRegion>
+    <TextRegion id="page1_pos2">
+      <Property key="entity" value="other"/>
+      <Coords points="285.44,79.1713 628.956,79.1713 628.956,127.214 285.44,127.214"/>
+    </TextRegion>
+    <TextRegion id="page1_pos3">
+      <Property key="entity" value="invoice_info"/>
+      <Coords points="287.814,128.993 627.772,128.993 627.772,153.904 287.814,153.904"/>
+    </TextRegion>
+    <TextRegion id="page1_pos4">
+      <Property key="entity" value="receiver"/>
+      <Coords points="123.471,157.463 640.23,157.463 640.23,193.643 123.471,193.643"/>
+    </TextRegion>
+    <TextRegion id="page1_pos5">
+      <Property key="entity" value="other"/>
+      <Coords points="119.912,196.609 643.788,196.609 643.788,235.755 119.912,235.755"/>
+    </TextRegion>
+    <TextRegion id="page1_pos6">
+      <Property key="entity" value="positions"/>
+      <Coords points="78.7448,238.381 656.614,238.381 656.614,340.991 78.7448,340.991"/>
+    </TextRegion>
+    <TextRegion id="page1_pos7">
+      <Property key="entity" value="other"/>
+      <Coords points="14.2719,348.734 708.846,348.734 708.846,935.443 14.2719,935.443"/>
+    </TextRegion>
+  </Page>
+</PcGts>

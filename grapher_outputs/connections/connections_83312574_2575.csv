@@ -1,0 +1,19 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+299.0,80.0,417.0,93.0,ORIGINAL       INVOICE,other,NT       RESEARCH       INSTITUTE,29.0,1,,0.0,-1,29.0,0.0
+226.0,106.0,488.0,125.0,NT       RESEARCH       INSTITUTE,supplier,"PLEASE       REFER       TO       OUR       INVOICE       NUMBER          AND       REMIT       TO:          P.O.       BOX       92003          CHICAGO,       ILLINOIS       60675          FOR       INQUIRIES       CALL:          312-567-4136",151.5,3,,0.0,-1,151.5,0.0
+87.0,174.0,208.0,259.0,7622          Lorillard       Inc.          Mr.       Charles       Gaworski          P.O.       Box       21688          Greensboro.       NC       27420,receiver,PROJECT       NO.,123.5,5,"PLEASE       REFER       TO       OUR       INVOICE       NUMBER          AND       REMIT       TO:          P.O.       BOX       92003          CHICAGO,       ILLINOIS       60675          FOR       INQUIRIES       CALL:          312-567-4136",411.0,3,123.5,411.0
+462.0,219.0,655.0,315.0,"PLEASE       REFER       TO       OUR       INVOICE       NUMBER          AND       REMIT       TO:          P.O.       BOX       92003          CHICAGO,       ILLINOIS       60675          FOR       INQUIRIES       CALL:          312-567-4136",supplier,CONTRACT       OR       P.O.       NO,73.0,7,,0.0,-1,73.0,0.0
+22.0,330.0,56.0,350.0,DATE,invoice_info,10/25/99,22.5,9,PROJECT       NO.,184.0,5,22.5,184.0
+148.0,330.0,298.0,350.0,PROJECT       NO.,invoice_info,10/25/99,22.5,9,ACCOUNT       NUMBER,143.5,6,22.5,143.5
+298.0,330.0,435.0,350.0,ACCOUNT       NUMBER,invoice_info,LL-08712-001,22.5,10,CONTRACT       OR       P.O.       NO,142.5,7,22.5,142.5
+435.0,330.0,583.0,350.0,CONTRACT       OR       P.O.       NO,invoice_info,1112-02-000,22.5,11,TERMS,116.0,8,22.5,116.0
+583.0,330.0,667.0,350.0,TERMS,invoice_info,P.O.#21293^),22.5,12,,0.0,-1,22.5,0.0
+56.0,350.0,148.0,375.0,10/25/99,invoice_info,increase       in       Cost       for       Smoking       Machine       Maintenance       and          additional       Pulmonary       Physiology       Measurements       15.500.00,55.5,14,LL-08712-001,121.0,10,55.5,121.0
+148.0,350.0,298.0,375.0,LL-08712-001,invoice_info,increase       in       Cost       for       Smoking       Machine       Maintenance       and          additional       Pulmonary       Physiology       Measurements       15.500.00,55.5,14,1112-02-000,143.5,11,55.5,143.5
+298.0,350.0,435.0,375.0,1112-02-000,invoice_info,increase       in       Cost       for       Smoking       Machine       Maintenance       and          additional       Pulmonary       Physiology       Measurements       15.500.00,55.5,14,P.O.#21293^),142.5,12,55.5,142.5
+435.0,350.0,583.0,375.0,P.O.#21293^),invoice_info,increase       in       Cost       for       Smoking       Machine       Maintenance       and          additional       Pulmonary       Physiology       Measurements       15.500.00,55.5,14,NET       CASH,116.0,13,55.5,116.0
+583.0,350.0,667.0,375.0,NET       CASH,invoice_info,increase       in       Cost       for       Smoking       Machine       Maintenance       and          additional       Pulmonary       Physiology       Measurements       15.500.00,55.5,14,,0.0,-1,55.5,0.0
+87.0,404.0,660.0,432.0,increase       in       Cost       for       Smoking       Machine       Maintenance       and          additional       Pulmonary       Physiology       Measurements       15.500.00,positions,8331257,421.0,17,,0.0,-1,421.0,0.0
+172.0,823.0,361.0,869.0,DEPT       870C       ACCT       ?       *          nottfij*       n.       1333.,other,,0.0,-1,8331257,399.0,17,0.0,399.0
+100.0,854.0,136.0,867.0,DATE,other,,0.0,-1,DEPT       870C       ACCT       ?       *          nottfij*       n.       1333.,148.5,15,0.0,148.5
+655.0,794.0,676.0,884.0,8331257,other,,0.0,-1,,0.0,-1,0.0,0.0

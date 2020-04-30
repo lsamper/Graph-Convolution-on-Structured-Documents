@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:ns2="http://searchink.com/xml/frankstahlapi/1.0">
+  <Metadata>
+    <Creator>system</Creator>
+    <Created>2019-01-25T17:32:44.245+01:00</Created>
+    <LastChange>2019-02-02T01:44:08Z</LastChange>
+  </Metadata>
+  <Property key="customer" value="actuallCustomerName"/>
+  <Property key="offer"/>
+  <Property key="uuid" value="40c1e7c0-d5e5-4731-a712-db4205169214"/>
+  <Property key="fileName" value="2041597671_2041597672.pdf"/>
+  <Property key="type" value="digital"/>
+  <Page imageFilename="2041597671_2041597672.tif" imageHeight="1000" imageWidth="844">
+    <TextRegion id="page1_pos1">
+      <Property key="entity" value="supplier"/>
+      <Coords points="267.318,8.34169 626.81,8.34169 626.81,88.4356 267.318,88.4356"/>
+    </TextRegion>
+    <TextRegion id="page1_pos2">
+      <Property key="entity" value="receiver"/>
+      <Coords points="461.442,107.946 708.982,107.946 708.982,213.711 461.442,213.711"/>
+    </TextRegion>
+    <TextRegion id="page1_pos4">
+      <Property key="entity" value="positions"/>
+      <Coords points="78.3267,311.261 829.154,311.261 829.154,559.759 78.3267,559.759"/>
+    </TextRegion>
+    <TextRegion id="page1_pos5">
+      <Property key="entity" value="receiver"/>
+      <Coords points="88.2452,107.946 441.577,107.946 441.577,158.261 88.2452,158.261"/>
+    </TextRegion>
+    <TextRegion id="page1_pos6">
+      <Property key="entity" value="other"/>
+      <Coords points="86.6465,168.53 410.19,168.53 410.19,253.758 86.6465,253.758"/>
+    </TextRegion>
+    <TextRegion id="page1_pos7">
+      <Property key="entity" value="other"/>
+      <Coords points="497.496,279.429 835.42,279.429 835.42,298.939 497.496,298.939"/>
+    </TextRegion>
+    <TextRegion id="page1_pos8">
+      <Property key="entity" value="other"/>
+      <Coords points="84.5923,629.582 822.065,629.582 822.065,849.327 84.5923,849.327"/>
+    </TextRegion>
+  </Page>
+</PcGts>

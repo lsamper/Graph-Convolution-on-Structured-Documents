@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:ns2="http://searchink.com/xml/frankstahlapi/1.0">
+  <Metadata>
+    <Creator>system</Creator>
+    <Created>2019-01-25T17:49:36.213+01:00</Created>
+    <LastChange>2019-02-02T02:53:09Z</LastChange>
+  </Metadata>
+  <Property key="customer" value="actuallCustomerName"/>
+  <Property key="offer"/>
+  <Property key="uuid" value="8b2d1d42-ff22-4368-b27f-f76a74450c0f"/>
+  <Property key="fileName" value="ti09920313.pdf"/>
+  <Property key="type" value="digital"/>
+  <Page imageFilename="ti09920313.tif" imageHeight="1000" imageWidth="754">
+    <TextRegion id="page1_pos1">
+      <Property key="entity" value="supplier"/>
+      <Coords points="36.3789,113.087 322.41,113.087 322.41,181.666 36.3789,181.666"/>
+    </TextRegion>
+    <TextRegion id="page1_pos2">
+      <Property key="entity" value="other"/>
+      <Coords points="27.6246,47.2898 698.771,47.2898 698.771,109.381 27.6246,109.381"/>
+    </TextRegion>
+    <TextRegion id="page1_pos3">
+      <Property key="entity" value="other"/>
+      <Coords points="468.877,122.355 649.643,122.355 649.643,199.273 468.877,199.273"/>
+    </TextRegion>
+    <TextRegion id="page1_pos4">
+      <Property key="entity" value="invoice_info"/>
+      <Coords points="483.709,241.903 673.743,241.903 673.743,327.162 483.709,327.162"/>
+    </TextRegion>
+    <TextRegion id="page1_pos5">
+      <Property key="entity" value="receiver"/>
+      <Coords points="55.9137,190.835 365.888,190.835 365.888,242.877 55.9137,242.877"/>
+    </TextRegion>
+    <TextRegion id="page1_pos6">
+      <Property key="entity" value="other"/>
+      <Coords points="46.4488,307.929 413.213,307.929 413.213,349.326 46.4488,349.326"/>
+    </TextRegion>
+    <TextRegion id="page1_pos7">
+      <Property key="entity" value="positions"/>
+      <Coords points="101.192,358.584 706.423,358.584 706.423,740.655 101.192,740.655"/>
+    </TextRegion>
+    <TextRegion id="page1_pos8">
+      <Property key="entity" value="total"/>
+      <Coords points="106.409,747.174 706.423,747.174 706.423,778.47 106.409,778.47"/>
+    </TextRegion>
+    <TextRegion id="page1_pos9">
+      <Property key="entity" value="other"/>
+      <Coords points="109.018,782.383 748.163,782.383 748.163,981.897 109.018,981.897"/>
+    </TextRegion>
+  </Page>
+</PcGts>

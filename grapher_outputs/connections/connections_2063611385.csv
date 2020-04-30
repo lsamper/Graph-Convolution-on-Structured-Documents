@@ -1,0 +1,66 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+98.0,74.0,221.0,117.0,0       Corporate          Services,supplier,SALES       PERSON:       09520          CUSTOMER       NBR:       496003001,49.5,1,"American       Express          Travel       Related       Services       Company,       Inc          2840       South       123rd       Court          Omaha,       Nebraska       68144          1800       320-5558       (Domestic       &       International       Reservations)          In       Emergency       After       Hours       Call:          1800       847-0262       (Toll-Free       in       the       U.S.)          313       271-7887       (Collect       outside       the       U.S.)          Hotline       Code       -       AORi          ITINERARY/INVOICE       NO.ITIN1S491          S66GSS",224.0,2,49.5,224.0
+29.0,131.0,236.0,159.0,SALES       PERSON:       09520          CUSTOMER       NBR:       496003001,invoice_info,TO:       PHILIP       MORRIS       USA          DR       RICHARD       CARCHMAN          R       AND       D       A2          RICHMOND       VA          ATN       MARGARET       OPOCENSKY       804-274-3832          DEL       20FEB       AM       2PART       TKT          FOR:       CARCHMAN/RICHARD       DR#01R1,83.5,5,"American       Express          Travel       Related       Services       Company,       Inc          2840       South       123rd       Court          Omaha,       Nebraska       68144          1800       320-5558       (Domestic       &       International       Reservations)          In       Emergency       After       Hours       Call:          1800       847-0262       (Toll-Free       in       the       U.S.)          313       271-7887       (Collect       outside       the       U.S.)          Hotline       Code       -       AORi          ITINERARY/INVOICE       NO.ITIN1S491          S66GSS",251.0,2,83.5,-1.0
+235.0,16.0,532.0,159.0,"American       Express          Travel       Related       Services       Company,       Inc          2840       South       123rd       Court          Omaha,       Nebraska       68144          1800       320-5558       (Domestic       &       International       Reservations)          In       Emergency       After       Hours       Call:          1800       847-0262       (Toll-Free       in       the       U.S.)          313       271-7887       (Collect       outside       the       U.S.)          Hotline       Code       -       AORi          ITINERARY/INVOICE       NO.ITIN1S491          S66GSS",supplier,SALES       PERSON:       09520          CUSTOMER       NBR:       496003001,57.5,1,Invoice/Itinerary,211.5,3,-1.0,211.5
+502.0,64.0,688.0,100.0,Invoice/Itinerary,other,"American       Express          Travel       Related       Services       Company,       Inc          2840       South       123rd       Court          Omaha,       Nebraska       68144          1800       320-5558       (Domestic       &       International       Reservations)          In       Emergency       After       Hours       Call:          1800       847-0262       (Toll-Free       in       the       U.S.)          313       271-7887       (Collect       outside       the       U.S.)          Hotline       Code       -       AORi          ITINERARY/INVOICE       NO.ITIN1S491          S66GSS",5.5,2,,0.0,-1,5.5,0.0
+547.0,131.0,707.0,159.0,DATE:       FEB       20       1997          PAGE:       01,invoice_info,NONSTOP,219.5,11,,0.0,-1,219.5,0.0
+32.0,177.0,435.0,280.0,TO:       PHILIP       MORRIS       USA          DR       RICHARD       CARCHMAN          R       AND       D       A2          RICHMOND       VA          ATN       MARGARET       OPOCENSKY       804-274-3832          DEL       20FEB       AM       2PART       TKT          FOR:       CARCHMAN/RICHARD       DR#01R1,receiver,26       FEB       97       -       WEDNESDAY,121.5,6,,0.0,-1,121.5,0.0
+31.0,343.0,221.0,357.0,26       FEB       97       -       WEDNESDAY,positions,UNITED,14.5,7,,0.0,-1,14.5,0.0
+31.0,357.0,182.0,372.0,UNITED,positions,LV:       RICHMOND,15.0,12,FLT:,95.0,8,15.0,95.0
+182.0,357.0,221.0,372.0,FLT:,positions,LV:       RICHMOND,15.0,12,709,48.0,9,15.0,48.0
+221.0,357.0,278.0,372.0,709,positions,AR:       CHICAGO/OHARE,30.0,15,COACH       CLASS,165.0,10,-1.0,165.0
+305.0,357.0,524.0,372.0,COACH       CLASS,positions,715A,15.0,13,NONSTOP,233.5,11,15.0,233.5
+600.0,357.0,696.0,372.0,NONSTOP,positions,CONFIRMED,15.0,14,,0.0,-1,15.0,0.0
+31.0,372.0,182.0,387.0,LV:       RICHMOND,positions,AR:       CHICAGO/OHARE,15.0,15,715A,308.0,13,15.0,308.0
+305.0,372.0,524.0,387.0,715A,positions,815A,15.0,16,CONFIRMED,233.5,14,15.0,233.5
+600.0,372.0,696.0,387.0,CONFIRMED,positions,TRAVEL,15.0,17,,0.0,-1,15.0,0.0
+31.0,387.0,221.0,402.0,AR:       CHICAGO/OHARE,positions,SEAT-       5C,26.5,19,815A,288.5,16,26.5,288.5
+305.0,387.0,524.0,402.0,815A,positions,SNACK-AUDIO          EQP-BOEING       727       JET,26.5,20,TRAVEL,147.5,17,26.5,147.5
+524.0,387.0,600.0,402.0,TRAVEL,positions,SNACK-AUDIO          EQP-BOEING       727       JET,26.5,20,TIME-       2:00,86.0,18,26.5,86.0
+600.0,387.0,696.0,402.0,TIME-       2:00,positions,NONSTOP,56.5,24,,0.0,-1,56.5,0.0
+31.0,402.0,182.0,440.0,SEAT-       5C,positions,USAIR,30.0,21,SNACK-AUDIO          EQP-BOEING       727       JET,308.0,20,30.0,308.0
+305.0,402.0,524.0,440.0,SNACK-AUDIO          EQP-BOEING       727       JET,positions,FIRST       CLASS,30.0,23,,0.0,-1,30.0,0.0
+31.0,440.0,182.0,462.0,USAIR,positions,LV:       CHICAGO/OHARE,18.0,25,FLT:1195,123.5,22,18.0,123.5
+182.0,440.0,278.0,462.0,FLT:1195,positions,LV:       CHICAGO/OHARE,18.0,25,FIRST       CLASS,184.5,23,18.0,184.5
+305.0,440.0,524.0,462.0,FIRST       CLASS,positions,642P,18.0,26,NONSTOP,233.5,24,18.0,233.5
+600.0,440.0,696.0,462.0,NONSTOP,positions,CONFIRMED,18.0,27,,0.0,-1,18.0,0.0
+31.0,462.0,221.0,476.0,LV:       CHICAGO/OHARE,positions,AR:       PITTSBURGH,15.0,28,642P,288.5,26,15.0,288.5
+305.0,462.0,524.0,476.0,642P,positions,905P,15.0,29,CONFIRMED,233.5,27,15.0,233.5
+600.0,462.0,696.0,476.0,CONFIRMED,positions,TRAVEL,15.0,30,,0.0,-1,15.0,0.0
+31.0,476.0,182.0,492.0,AR:       PITTSBURGH,positions,SEAT-       2C,23.0,32,905P,308.0,29,23.0,308.0
+305.0,476.0,524.0,492.0,905P,positions,SNACK          EGP-MD-80       JET,23.0,33,TRAVEL,147.5,30,23.0,147.5
+524.0,476.0,600.0,492.0,TRAVEL,positions,SNACK          EGP-MD-80       JET,23.0,33,TIME-       U23,86.0,31,23.0,86.0
+600.0,476.0,696.0,492.0,TIME-       U23,positions,NONSTOP,72.5,43,,0.0,-1,72.5,0.0
+31.0,492.0,182.0,522.0,SEAT-       2C,positions,FIRST       CLASS       FARE,26.5,34,SNACK          EGP-MD-80       JET,308.0,33,26.5,308.0
+305.0,492.0,524.0,522.0,SNACK          EGP-MD-80       JET,positions,AS,26.5,37,,0.0,-1,26.5,0.0
+31.0,522.0,182.0,545.0,FIRST       CLASS       FARE,positions,USAIR,23.0,39,SAME,95.0,35,23.0,95.0
+182.0,522.0,221.0,545.0,SAME,positions,USAIR,23.0,39,PRICE,48.0,36,23.0,48.0
+221.0,522.0,278.0,545.0,PRICE,positions,FLT:,23.0,40,AS,42.0,37,23.0,42.0
+278.0,522.0,305.0,545.0,AS,positions,1017,23.0,41,COACH,123.0,38,23.0,123.0
+305.0,522.0,524.0,545.0,COACH,positions,FIRST       CLASS,23.0,42,,0.0,-1,23.0,0.0
+31.0,545.0,182.0,568.0,USAIR,positions,LV:       PITTSBURGH,19.5,44,FLT:,95.0,40,19.5,95.0
+182.0,545.0,221.0,568.0,FLT:,positions,LV:       PITTSBURGH,19.5,44,1017,48.0,41,19.5,48.0
+221.0,545.0,278.0,568.0,1017,positions,SAME,79.5,54,FIRST       CLASS,165.0,42,79.5,165.0
+305.0,545.0,524.0,568.0,FIRST       CLASS,positions,1000P,19.5,45,NONSTOP,233.5,43,19.5,233.5
+600.0,545.0,696.0,568.0,NONSTOP,positions,CONFIRMED,19.5,46,,0.0,-1,19.5,0.0
+31.0,568.0,182.0,584.0,LV:       PITTSBURGH,positions,AR:       RICHMOND,15.5,47,1000P,308.0,45,15.5,308.0
+305.0,568.0,524.0,584.0,1000P,positions,1106P,15.5,48,CONFIRMED,233.5,46,15.5,233.5
+600.0,568.0,696.0,584.0,CONFIRMED,positions,TRAVEL,15.5,49,,0.0,-1,15.5,0.0
+31.0,584.0,182.0,599.0,AR:       RICHMOND,positions,SEAT-       2C,22.5,51,1106P,308.0,48,22.5,308.0
+305.0,584.0,524.0,599.0,1106P,positions,EGP-FOKKER       JET,22.5,52,TRAVEL,147.5,49,22.5,147.5
+524.0,584.0,600.0,599.0,TRAVEL,positions,EGP-FOKKER       JET,22.5,52,TIME-       1806,86.0,50,22.5,86.0
+600.0,584.0,696.0,599.0,TIME-       1806,positions,******IMPORTANT       INFORMATION******,151.0,59,,0.0,-1,-1.0,0.0
+31.0,599.0,182.0,629.0,SEAT-       2C,positions,FIRST       CLASS       FARE,22.0,53,EGP-FOKKER       JET,308.0,52,22.0,308.0
+305.0,599.0,524.0,629.0,EGP-FOKKER       JET,positions,AS,22.0,56,,0.0,-1,22.0,0.0
+31.0,629.0,182.0,643.0,FIRST       CLASS       FARE,positions,YOUR       TICKET       HAS       BEEN       ISSUED       IN       2PARTS       FOR       A       COST       SAVINGS,46.5,58,SAME,95.0,54,46.5,95.0
+182.0,629.0,221.0,643.0,SAME,positions,YOUR       TICKET       HAS       BEEN       ISSUED       IN       2PARTS       FOR       A       COST       SAVINGS,46.5,58,PRICE,48.0,55,46.5,48.0
+221.0,629.0,278.0,643.0,PRICE,positions,YOUR       TICKET       HAS       BEEN       ISSUED       IN       2PARTS       FOR       A       COST       SAVINGS,46.5,58,AS,42.0,56,46.5,42.0
+278.0,629.0,305.0,643.0,AS,positions,YOUR       TICKET       HAS       BEEN       ISSUED       IN       2PARTS       FOR       A       COST       SAVINGS,46.5,58,COACH,123.0,57,46.5,123.0
+305.0,629.0,524.0,643.0,COACH,positions,YOUR       TICKET       HAS       BEEN       ISSUED       IN       2PARTS       FOR       A       COST       SAVINGS,46.5,58,,0.0,-1,46.5,0.0
+41.0,676.0,543.0,689.0,YOUR       TICKET       HAS       BEEN       ISSUED       IN       2PARTS       FOR       A       COST       SAVINGS,positions,******IMPORTANT       INFORMATION******,60.0,59,,0.0,-1,60.0,0.0
+33.0,736.0,615.0,749.0,******IMPORTANT       INFORMATION******,other,SUBMIT       ALL       ORIGINAL       INVOICE/ITINERARIES          PLEASE       REVIEW       TRAVEL       ARRANGEMENTS       TO       ENSURE       ACCURACY.          CHANGES       TO       THIS       ITINERARY       MAY       RESULT       IN       A       HIGHER       FARE.          A       GOVERNMENT       ISSUED       PHOTO       ID       IS       REQUIRED       UPON       CHECK       IN.          O'          co          O',68.5,60,,0.0,-1,68.5,0.0
+32.0,766.0,683.0,856.0,SUBMIT       ALL       ORIGINAL       INVOICE/ITINERARIES          PLEASE       REVIEW       TRAVEL       ARRANGEMENTS       TO       ENSURE       ACCURACY.          CHANGES       TO       THIS       ITINERARY       MAY       RESULT       IN       A       HIGHER       FARE.          A       GOVERNMENT       ISSUED       PHOTO       ID       IS       REQUIRED       UPON       CHECK       IN.          O'          co          O',other,co          (to          cn,76.5,61,,0.0,-1,76.5,0.0
+658.0,873.0,674.0,902.0,co          (to          cn,other,.       COPY       2,82.5,64,,0.0,-1,82.5,0.0
+9.0,965.0,178.0,978.0,TR       68100132       (Rev.       7/96)       Printed       in       U.SA,other,,0.0,-1,Please       read       Important       consumer       disclosure       notice          printed       on       reverse       which       Is       part       of       your       contract,278.0,63,0.0,278.0
+244.0,957.0,499.0,984.0,Please       read       Important       consumer       disclosure       notice          printed       on       reverse       which       Is       part       of       your       contract,other,,0.0,-1,.       COPY       2,311.5,64,0.0,311.5
+655.0,964.0,711.0,976.0,.       COPY       2,other,,0.0,-1,,0.0,-1,0.0,0.0

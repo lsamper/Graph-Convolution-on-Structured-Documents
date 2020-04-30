@@ -1,0 +1,107 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+38.0,61.0,300.0,77.0,BUSINESS       EXPENSE       VOUCHER,other,Employee       Name,20.5,89,Date       Prepared          03/11/97,234.5,99,20.5,234.5
+35.0,184.0,128.0,201.0,DEPART       DATE,other,53705757,16.0,5,DESTINATIONS)       IRETURN       DATEl,198.5,2,16.0,198.5
+128.0,184.0,432.0,201.0,DESTINATIONS)       IRETURN       DATEl,other,*,7.5,3,PURPOSE       OF       TRIP,285.5,4,7.5,-1.0
+432.0,184.0,440.0,216.0,*,other,"West       Palm       Beach,       FL       03/10/97       RG",8.5,6,PURPOSE       OF       TRIP,129.5,4,8.5,129.5
+440.0,184.0,691.0,201.0,PURPOSE       OF       TRIP,other,*,7.5,3,,0.0,-1,7.5,0.0
+35.0,201.0,128.0,216.0,53705757,other,EXPENSES       PAID       BY       EMPLOYEE,36.5,8,"West       Palm       Beach,       FL       03/10/97       RG",198.5,6,36.5,198.5
+128.0,201.0,432.0,216.0,"West       Palm       Beach,       FL       03/10/97       RG",other,EXPENSES       PAID       BY       EMPLOYEE,36.5,8,*,156.0,3,36.5,156.0
+440.0,201.0,691.0,216.0,"""Governors'       Forum",other,EXPENSES       PAID       BY       EMPLOYEE,36.5,8,,0.0,-1,36.5,0.0
+35.0,235.0,691.0,255.0,EXPENSES       PAID       BY       EMPLOYEE,positions,DAYOFTHEWEEKl       Sunday,17.5,9,,0.0,-1,17.5,0.0
+35.0,255.0,250.0,270.0,DAYOFTHEWEEKl       Sunday,positions,date       09-Mar-97,14.5,15,Monday,137.5,10,14.5,137.5
+250.0,255.0,310.0,270.0,Monday,positions,date       09-Mar-97,14.5,15,Tuosday,60.0,11,14.5,60.0
+310.0,255.0,370.0,270.0,Tuosday,positions,IO-Mar-97,14.5,16,Wednesday       Thursday,91.5,12,14.5,91.5
+370.0,255.0,493.0,270.0,Wednesday       Thursday,positions,11-Mar-97,14.5,17,Friday       I       Saturday,122.5,13,14.5,122.5
+493.0,255.0,615.0,270.0,Friday       I       Saturday,positions,SUMMARY          AMOUNT,7.0,14,,0.0,-1,7.0,0.0
+615.0,255.0,691.0,284.0,SUMMARY          AMOUNT,positions,15-Mar-97,7.5,20,,0.0,-1,7.5,0.0
+35.0,270.0,250.0,284.0,date       09-Mar-97,positions,Lodging       (Attach       Rece'pt),14.5,21,IO-Mar-97,137.5,16,14.5,137.5
+250.0,270.0,310.0,284.0,IO-Mar-97,positions,218.54,14.5,22,11-Mar-97,60.0,17,14.5,60.0
+310.0,270.0,370.0,284.0,11-Mar-97,positions,16.00,90.0,30,12-Mar-97113-Mar-97,91.5,18,90.0,91.5
+370.0,270.0,493.0,284.0,12-Mar-97113-Mar-97,positions,"miles       X       $0,315)",150.0,44,14-Mar-97,92.0,19,-1.0,92.0
+493.0,270.0,554.0,284.0,14-Mar-97,positions,"miles       X       $0,315)",150.0,44,15-Mar-97,61.0,20,-1.0,61.0
+554.0,270.0,615.0,284.0,15-Mar-97,positions,218.54,14.5,23,SUMMARY          AMOUNT,68.5,14,14.5,68.5
+35.0,284.0,189.0,299.0,Lodging       (Attach       Rece'pt),positions,Breakfast       (Yours       ONLY),15.5,24,218.54,107.5,22,15.5,107.5
+189.0,284.0,250.0,299.0,218.54,positions,Breakfast       (Yours       ONLY),15.5,24,218.54,433.5,23,15.5,433.5
+615.0,284.0,691.0,299.0,218.54,positions,24748,75.5,31,,0.0,-1,75.5,0.0
+35.0,299.0,189.0,315.0,Breakfast       (Yours       ONLY),positions,.unch       (Yours       ONLY),15.0,25,,0.0,-1,15.0,0.0
+35.0,315.0,189.0,329.0,.unch       (Yours       ONLY),positions,Dinnor       (Yours       ONLY),14.5,26,,0.0,-1,14.5,0.0
+35.0,329.0,189.0,344.0,Dinnor       (Yours       ONLY),positions,Cab/Bus/Umo,15.5,27,,0.0,-1,15.5,0.0
+35.0,344.0,189.0,360.0,Cab/Bus/Umo,positions,Parking       Fees,15.0,28,,0.0,-1,15.0,0.0
+35.0,360.0,189.0,374.0,Parking       Fees,positions,Tips       (Not       Included       Elsewhere),14.5,32,8.48,107.5,29,14.5,107.5
+189.0,360.0,250.0,374.0,8.48,positions,Tips       (Not       Included       Elsewhere),14.5,32,16.00,60.5,30,14.5,60.5
+250.0,360.0,310.0,374.0,16.00,positions,2.00,14.5,33,24748,373.0,31,14.5,373.0
+615.0,360.0,691.0,374.0,24748,positions,X05,14.5,35,,0.0,-1,14.5,0.0
+35.0,374.0,189.0,389.0,Tips       (Not       Included       Elsewhere),positions,Telephone       &       Telegraph,15.0,36,2.00,107.5,33,15.0,107.5
+189.0,374.0,250.0,389.0,2.00,positions,Telephone       &       Telegraph,15.0,36,"2755""",60.5,34,15.0,60.5
+250.0,374.0,310.0,389.0,"2755""",positions,MS,15.0,37,X05,373.0,35,15.0,373.0
+615.0,374.0,691.0,389.0,X05,positions,2.55,15.0,39,,0.0,-1,15.0,0.0
+35.0,389.0,189.0,404.0,Telephone       &       Telegraph,positions,■       '          Auto       Rental       (Attach       Agreement),15.0,40,MS,107.5,37,15.0,107.5
+189.0,389.0,250.0,404.0,MS,positions,■       '          Auto       Rental       (Attach       Agreement),15.0,40,17(T,60.5,38,15.0,60.5
+250.0,389.0,310.0,404.0,17(T,positions,112.89,15.0,41,2.55,373.0,39,15.0,373.0
+615.0,389.0,691.0,404.0,2.55,positions,TTM,15.0,42,,0.0,-1,15.0,0.0
+35.0,404.0,189.0,419.0,■       '          Auto       Rental       (Attach       Agreement),positions,...       -       ■■       '       ■          Personal       Auto       (,15.5,43,112.89,168.0,41,15.5,168.0
+250.0,404.0,310.0,419.0,112.89,positions,"miles       X       $0,315)",15.5,44,TTM,373.0,42,15.5,373.0
+615.0,404.0,691.0,419.0,TTM,positions,"miles       X       $0,315)",15.5,44,,0.0,-1,15.5,0.0
+35.0,419.0,189.0,435.0,...       -       ■■       '       ■          Personal       Auto       (,positions,Misc.       (Give       explanation),16.0,45,"miles       X       $0,315)",290.0,44,16.0,290.0
+189.0,419.0,615.0,435.0,"miles       X       $0,315)",positions,Misc.       (Give       explanation),16.0,45,,0.0,-1,16.0,0.0
+35.0,435.0,189.0,451.0,Misc.       (Give       explanation),positions,Forsyth       Ctry       Club       Dues,15.0,46,,0.0,-1,15.0,0.0
+35.0,451.0,189.0,465.0,Forsyth       Ctry       Club       Dues,positions,DAILY       TOTALS,60.0,48,230.00,541.0,47,60.0,541.0
+615.0,451.0,691.0,465.0,230.00,positions,592.46,60.0,51,,0.0,-1,60.0,0.0
+35.0,511.0,189.0,525.0,DAILY       TOTALS,positions,Businoss       Meeting       or       Entertainment,15.0,52,459.87,107.5,49,15.0,107.5
+189.0,511.0,250.0,525.0,459.87,positions,Businoss       Meeting       or       Entertainment,15.0,52,132.59,90.5,50,15.0,90.5
+250.0,511.0,370.0,525.0,132.59,positions,"-(Show       Date,",15.0,53,592.46,343.0,51,15.0,343.0
+615.0,511.0,691.0,525.0,592.46,positions,"Place,       Persons       Affiliated       With       and       Business       Purpose/Discusskm)",15.0,54,,0.0,-1,15.0,0.0
+35.0,525.0,189.0,541.0,Businoss       Meeting       or       Entertainment,positions,"3/7/97       Breakfast       at       Adam's       Mark       with       Bruce       Bereano       (industry       lobbyist       from       Maryland),       State",15.5,55,"-(Show       Date,",107.5,53,15.5,107.5
+189.0,525.0,250.0,541.0,"-(Show       Date,",positions,"3/7/97       Breakfast       at       Adam's       Mark       with       Bruce       Bereano       (industry       lobbyist       from       Maryland),       State",15.5,55,"Place,       Persons       Affiliated       With       and       Business       Purpose/Discusskm)",251.0,54,15.5,251.0
+250.0,525.0,691.0,541.0,"Place,       Persons       Affiliated       With       and       Business       Purpose/Discusskm)",positions,"3/7/97       Breakfast       at       Adam's       Mark       with       Bruce       Bereano       (industry       lobbyist       from       Maryland),       State",15.5,55,,0.0,-1,15.5,0.0
+35.0,541.0,615.0,556.0,"3/7/97       Breakfast       at       Adam's       Mark       with       Bruce       Bereano       (industry       lobbyist       from       Maryland),       State",positions,es       Staff       re:       MD       tax       issue,15.0,58,80.11,328.0,56,15.0,328.0
+615.0,541.0,691.0,556.0,80.11,positions,es       Staff       re:       MD       tax       issue,15.0,58,,0.0,-1,15.0,0.0
+35.0,556.0,80.0,586.0,Activiti          3/9/97,positions,Beverages       at       Boca       Raton       Resort       &       Club       with       David       Powers       (RJRTC)       and       Johnnie       Rany,7.5,59,es       Staff       re:       MD       tax       issue,290.0,58,7.5,290.0
+80.0,556.0,615.0,571.0,es       Staff       re:       MD       tax       issue,positions,Activiti          3/9/97,7.5,57,,0.0,-1,7.5,0.0
+80.0,571.0,615.0,586.0,Beverages       at       Boca       Raton       Resort       &       Club       with       David       Powers       (RJRTC)       and       Johnnie       Rany,positions,(UST)       re:       Legislative       issues.,15.0,61,16.51,305.5,60,15.0,305.5
+615.0,571.0,691.0,586.0,16.51,positions,(UST)       re:       Legislative       issues.,15.0,61,,0.0,-1,15.0,0.0
+35.0,586.0,615.0,601.0,(UST)       re:       Legislative       issues.,positions,TOTAL       EXPENSES       PAID       BY       EMPLOYEE,34.0,62,,0.0,-1,34.0,0.0
+35.0,616.0,228.0,639.0,TOTAL       EXPENSES       PAID       BY       EMPLOYEE,positions,Less       Travel       Advance,19.0,66,OTHER       CODES       1,137.5,63,19.0,137.5
+228.0,616.0,310.0,639.0,OTHER       CODES       1,positions,Less       Travel       Advance,19.0,66,G/L       CODES       |       04       88       0000       9070       867,223.5,64,19.0,223.5
+370.0,616.0,615.0,639.0,G/L       CODES       |       04       88       0000       9070       867,positions,Dated,19.0,67,689.08,160.5,65,19.0,160.5
+615.0,616.0,691.0,639.0,689.08,positions,Dated,19.0,67,,0.0,-1,19.0,0.0
+35.0,639.0,228.0,654.0,Less       Travel       Advance,positions,AMOUNT       DUE       EMPLOYEE,19.0,69,Dated,290.0,67,19.0,290.0
+228.0,639.0,615.0,654.0,Dated,positions,AMOUNT       DUE       EMPLOYEE,19.0,69,(       >,231.5,68,19.0,231.5
+615.0,639.0,691.0,654.0,(       >,positions,689.08,19.0,70,,0.0,-1,19.0,0.0
+35.0,654.0,567.0,677.0,AMOUNT       DUE       EMPLOYEE,total,AMOUNT       DUE       COMPANY,23.5,71,689.08,328.0,70,23.5,328.0
+567.0,654.0,691.0,677.0,689.08,total,AMOUNT       DUE       COMPANY,23.5,71,,0.0,-1,23.5,0.0
+35.0,677.0,567.0,701.0,AMOUNT       DUE       COMPANY,total,EXPENSES       CHARGED       TO       COMPANY       (Attach       copies       of       tickets       or       Invoices),18.5,72,,0.0,-1,18.5,0.0
+35.0,701.0,691.0,714.0,EXPENSES       CHARGED       TO       COMPANY       (Attach       copies       of       tickets       or       Invoices),other,Doparturo       Dato,14.5,74,,0.0,-1,14.5,0.0
+35.0,714.0,80.0,809.0,A       c          1       H          R       A          L       R          1       G          N       E          E       S,other,Other       -       Grve       Details       O'          CO          •D,89.0,84,Doparturo       Dato,68.5,74,-1.0,68.5
+80.0,714.0,172.0,730.0,Doparturo       Dato,other,"03/09/97       """,15.5,78,Origin,115.0,75,15.5,115.0
+172.0,714.0,310.0,730.0,Origin,other,"03/09/97       """,15.5,78,Destination,134.0,76,15.5,134.0
+310.0,714.0,440.0,730.0,Destination,other,"Greensboro,       hJC",15.5,79,Comments(Noto       If       Company       aircraft),190.5,77,15.5,190.5
+440.0,714.0,691.0,730.0,Comments(Noto       If       Company       aircraft),other,"West       Palm       Beach,       FL",15.5,80,,0.0,-1,15.5,0.0
+80.0,730.0,172.0,745.0,"03/09/97       """,other,A       c          1       H          R       A          L       R          1       G          N       E          E       S,24.0,73,"Greensboro,       hJC",115.0,79,24.0,115.0
+172.0,730.0,310.0,745.0,"Greensboro,       hJC",other,T       S,45.0,82,"West       Palm       Beach,       FL",134.0,80,45.0,134.0
+310.0,730.0,440.0,745.0,"West       Palm       Beach,       FL",other,T       S,45.0,82,$663.44,190.5,81,45.0,190.5
+440.0,730.0,691.0,745.0,$663.44,other,T       S,45.0,82,,0.0,-1,45.0,0.0
+310.0,775.0,691.0,790.0,T       S,other,Ol,17.0,83,,0.0,-1,17.0,0.0
+310.0,790.0,691.0,809.0,Ol,other,Other       -       Grve       Details       O'          CO          •D,51.0,84,,0.0,-1,51.0,0.0
+35.0,809.0,691.0,892.0,Other       -       Grve       Details       O'          CO          •D,other,Employee       Signalure/Title       and       Date,68.5,85,,0.0,-1,68.5,0.0
+35.0,892.0,250.0,946.0,Employee       Signalure/Title       and       Date,other,RJRT       Forai       BOOIA       •       JWIl       Iff       7/M,29.5,88,Approval       Authority       Name       (Print       or       Type),218.5,86,29.5,218.5
+250.0,892.0,472.0,946.0,Approval       Authority       Name       (Print       or       Type),other,,0.0,-1,Approval       Authority       Signature       and       Date,220.5,87,0.0,220.5
+472.0,892.0,691.0,946.0,Approval       Authority       Signature       and       Date,other,,0.0,-1,,0.0,-1,0.0,0.0
+37.0,944.0,152.0,953.0,RJRT       Forai       BOOIA       •       JWIl       Iff       7/M,other,,0.0,-1,Employee       Signalure/Title       and       Date,48.0,85,0.0,48.0
+35.0,82.0,220.0,97.0,Employee       Name,receiver,Roger       L.       Mozingo,15.5,91,Accounl       Number,143.0,90,15.5,143.0
+220.0,82.0,321.0,97.0,Accounl       Number,receiver,Roger       L.       Mozingo,15.5,91,Return       to:,133.0,102,15.5,133.0
+35.0,97.0,220.0,113.0,Roger       L.       Mozingo,receiver,Mailing       Address       (If       applicable),14.5,93,75586,143.0,92,14.5,143.0
+220.0,97.0,321.0,113.0,75586,receiver,Mailing       Address       (If       applicable),14.5,93,t,196.5,103,14.5,196.5
+35.0,113.0,220.0,126.0,Mailing       Address       (If       applicable),receiver,"VP,       State       Government       Relations",14.5,95,Extension       Number,143.0,94,14.5,143.0
+220.0,113.0,321.0,126.0,Extension       Number,receiver,"VP,       State       Government       Relations",14.5,95,l*l,196.5,105,14.5,196.5
+35.0,126.0,220.0,142.0,"VP,       State       Government       Relations",receiver,Reynolds       11th,15.5,97,(910)       741-7665,143.0,96,15.5,143.0
+220.0,126.0,321.0,142.0,(910)       741-7665,receiver,Reynolds       11th,15.5,97,l*l,196.5,105,15.5,196.5
+35.0,142.0,220.0,157.0,Reynolds       11th,receiver,Government       Relations,16.0,98,l*l,339.5,105,16.0,-1.0
+35.0,157.0,220.0,174.0,Government       Relations,receiver,DEPART       DATE,27.0,1,l*l,339.5,105,27.0,-1.0
+361.0,50.0,446.0,82.0,Date       Prepared          03/11/97,invoice_info,Return       to:,22.0,102,Page          1       of,63.5,100,22.0,63.5
+446.0,50.0,488.0,82.0,Page          1       of,invoice_info,Return       to:,22.0,102,1       Disbursement       Accounting       Use       ONLY          11       96.62,123.0,101,22.0,123.0
+488.0,50.0,692.0,82.0,1       Disbursement       Accounting       Use       ONLY          11       96.62,invoice_info,t,37.0,103,,0.0,-1,-1.0,0.0
+361.0,82.0,446.0,94.0,Return       to:,other,t,15.0,103,,0.0,-1,15.0,0.0
+446.0,94.0,488.0,112.0,t,other,l*l,40.0,105,„L:       <       V<,123.0,104,40.0,123.0
+488.0,94.0,692.0,112.0,„L:       <       V<,other,l*l,40.0,105,,0.0,-1,40.0,0.0
+446.0,112.0,488.0,174.0,l*l,other,PURPOSE       OF       TRIP,49.5,4,,0.0,-1,49.5,0.0

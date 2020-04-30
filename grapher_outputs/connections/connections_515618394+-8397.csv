@@ -1,0 +1,27 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+109.0,34.0,115.0,39.0,1,supplier,i,31.5,1,,0.0,-1,31.5,0.0
+113.0,60.0,123.0,76.0,i,supplier,,0.0,-1,"BREA2EALE,       SACHSE       &       WILSON.       L.L.P",266.0,3,0.0,266.0
+660.0,781.0,671.0,789.0,Ul,other,,0.0,-1,,0.0,-1,0.0,0.0
+250.0,65.0,518.0,81.0,"BREA2EALE,       SACHSE       &       WILSON.       L.L.P",supplier,"Attorneys       At       Law          Twenty-Third       Floor,       One       American       Place          Post       Office       Box       3197          Baton       Rouge,       Louisiana       70821-3197          (504)       387-4000          Tax       I.D.       72-0442889",49.0,4,,0.0,-1,49.0,0.0
+234.0,80.0,541.0,164.0,"Attorneys       At       Law          Twenty-Third       Floor,       One       American       Place          Post       Office       Box       3197          Baton       Rouge,       Louisiana       70821-3197          (504)       387-4000          Tax       I.D.       72-0442889",supplier,"May       19,       1997",64.0,5,,0.0,-1,64.0,0.0
+338.0,179.0,436.0,193.0,"May       19,       1997",invoice_info,R.       J.       Reynolds       Tobacco       Company          Joe       Murry,62.0,6,,0.0,-1,62.0,0.0
+128.0,233.0,373.0,263.0,R.       J.       Reynolds       Tobacco       Company          Joe       Murry,receiver,401       North       Main       Street,20.0,7,,0.0,-1,20.0,0.0
+128.0,261.0,297.0,275.0,401       North       Main       Street,receiver,"Winston       -       Salem,       NC       27102          RF.:       Governmental       Relations          I.D.       5075-13151-       CJB          For       Services       Rendered       Through       April       30,       1997",65.0,9,R.       J.       Reynolds       Tobacco       Company          Joe       Murry,38.0,6,65.0,38.0
+547.0,265.0,667.0,279.0,Invoice       tf       16218,invoice_info,$       170.61,169.0,13,,0.0,-1,169.0,0.0
+127.0,274.0,482.0,392.0,"Winston       -       Salem,       NC       27102          RF.:       Governmental       Relations          I.D.       5075-13151-       CJB          For       Services       Rendered       Through       April       30,       1997",receiver,Current       Costs,75.0,10,Invoice       tf       16218,302.5,8,75.0,302.5
+127.0,402.0,233.0,414.0,Current       Costs,positions,Total       Current       Fees       6       Costs,28.5,12,170.61,317.0,11,28.5,317.0
+472.0,406.0,522.0,417.0,170.61,positions,60       DAYS          PAST       DUE,190.0,20,,0.0,-1,190.0,0.0
+126.0,429.0,337.0,444.0,Total       Current       Fees       6       Costs,positions,Total       Due       This       Statement,42.0,14,$       170.61,378.0,13,42.0,378.0
+561.0,434.0,658.0,448.0,$       170.61,positions,$       170.61,42.5,15,,0.0,-1,42.5,0.0
+126.0,471.0,320.0,486.0,Total       Due       This       Statement,total,30       DAYS          PAST       DUE,121.5,18,$       170.61,386.0,15,121.5,386.0
+561.0,476.0,657.0,491.0,$       170.61,total,90       DAYS          PAST       DUE,118.5,22,,0.0,-1,118.5,0.0
+133.0,585.0,184.0,625.0,TOTAL          DUE          170.61,other,,0.0,-1,CURRENT          170.61,92.0,17,0.0,92.0
+222.0,600.0,279.0,626.0,CURRENT          170.61,other,,0.0,-1,30       DAYS          PAST       DUE,92.5,18,0.0,92.5
+310.0,587.0,376.0,613.0,30       DAYS          PAST       DUE,other,0.00,21.5,19,60       DAYS          PAST       DUE,96.5,20,21.5,96.5
+342.0,616.0,375.0,627.0,0.00,other,,0.0,-1,0.00,96.5,21,0.0,96.5
+407.0,588.0,472.0,615.0,60       DAYS          PAST       DUE,other,0.00,21.0,21,90       DAYS          PAST       DUE,96.5,22,21.0,96.5
+439.0,616.0,471.0,629.0,0.00,other,,0.0,-1,0.00,96.5,23,0.0,96.5
+503.0,589.0,569.0,615.0,90       DAYS          PAST       DUE,other,0.00,21.5,23,120*       DAYS          PAST       DUE,92.5,24,21.5,92.5
+535.0,618.0,568.0,629.0,0.00,other,,0.0,-1,0.00,96.5,25,0.0,96.5
+592.0,589.0,665.0,617.0,120*       DAYS          PAST       DUE,other,0.00,21.5,25,,0.0,-1,21.5,0.0
+632.0,618.0,664.0,631.0,0.00,other,Ul,160.5,2,,0.0,-1,160.5,0.0

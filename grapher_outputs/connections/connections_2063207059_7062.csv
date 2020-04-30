@@ -1,0 +1,50 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+245.0,153.0,392.0,208.0,LIBERTY          MUTUAL,supplier,INSURANCE       COMPANY          Home       Office:       Boston,66.0,1,,0.0,-1,66.0,0.0
+262.0,227.0,495.0,266.0,INSURANCE       COMPANY          Home       Office:       Boston,supplier,"Mako       check       payable       to       Liberty       Mutual       and       mall       with       a       copy       of       this       invoice       to:          P.       O.       BOX       19033       STAMFORD.       CT       06920          PHILIP       MORRIS       INCORPORATED       Account       #00       40       66          ATTN:       MR.       PAUL       GOLDSCHMIDT.       INS.       MGR.       Invoice       #0125          100       PARK       AVENUE          NEW       YORK,       NY       10017",88.5,2,,0.0,-1,88.5,0.0
+69.0,283.0,621.0,387.0,"Mako       check       payable       to       Liberty       Mutual       and       mall       with       a       copy       of       this       invoice       to:          P.       O.       BOX       19033       STAMFORD.       CT       06920          PHILIP       MORRIS       INCORPORATED       Account       #00       40       66          ATTN:       MR.       PAUL       GOLDSCHMIDT.       INS.       MGR.       Invoice       #0125          100       PARK       AVENUE          NEW       YORK,       NY       10017",other,In       Account       with       LIBERTY       MUTUAL       INSURANCE       COMPANY          FOURTEENTH       Retrospective       Premium       and       Dividend       Adjustment          Effective:       01-01-76       TO       01-01-77,118.5,3,,0.0,-1,118.5,0.0
+70.0,418.0,549.0,489.0,In       Account       with       LIBERTY       MUTUAL       INSURANCE       COMPANY          FOURTEENTH       Retrospective       Premium       and       Dividend       Adjustment          Effective:       01-01-76       TO       01-01-77,other,m.,82.5,4,,0.0,-1,82.5,0.0
+275.0,525.0,377.0,547.0,m.,positions,1.       Audited       Premium,26.0,7,AUTO,193.0,5,26.0,193.0
+468.0,525.0,570.0,547.0,AUTO,positions,595187,26.0,9,TOTAL,102.0,6,26.0,102.0
+570.0,525.0,672.0,547.0,TOTAL,total,527413,26.0,10,,0.0,-1,26.0,0.0
+71.0,547.0,275.0,577.0,1.       Audited       Premium,positions,2.       Retrospective       Premium,29.5,12,2490252,153.0,8,29.5,153.0
+275.0,547.0,377.0,577.0,2490252,positions,2.       Retrospective       Premium,29.5,12,595187,96.5,9,29.5,96.5
+377.0,547.0,468.0,577.0,595187,positions,2886168,29.5,13,527413,96.5,10,29.5,96.5
+468.0,547.0,570.0,577.0,527413,positions,840196,29.5,14,3612852,102.0,11,29.5,102.0
+570.0,547.0,672.0,577.0,3612852,total,540509,29.5,15,,0.0,-1,29.5,0.0
+71.0,577.0,275.0,606.0,2.       Retrospective       Premium,positions,3.       Previously       Billed       Premium,29.0,17,2886168,153.0,13,29.0,153.0
+275.0,577.0,377.0,606.0,2886168,positions,3.       Previously       Billed       Premium,29.0,17,840196,96.5,14,29.0,96.5
+377.0,577.0,468.0,606.0,840196,positions,2884122,29.0,18,540509,96.5,15,29.0,96.5
+468.0,577.0,570.0,606.0,540509,positions,840196,29.0,19,4266873,102.0,16,29.0,102.0
+570.0,577.0,672.0,606.0,4266873,total,540509,29.0,20,,0.0,-1,29.0,0.0
+71.0,606.0,275.0,635.0,3.       Previously       Billed       Premium,positions,4.       Gross       Adjustment       (2       -       3),29.0,22,2884122,153.0,18,29.0,153.0
+275.0,606.0,377.0,635.0,2884122,positions,4.       Gross       Adjustment       (2       -       3),29.0,22,840196,96.5,19,29.0,96.5
+377.0,606.0,468.0,635.0,840196,positions,2046       CR,29.0,23,540509,96.5,20,29.0,96.5
+468.0,606.0,570.0,635.0,540509,positions,■,29.0,24,4264827,102.0,21,29.0,102.0
+570.0,606.0,672.0,635.0,4264827,total,■,29.0,25,,0.0,-1,29.0,0.0
+71.0,635.0,275.0,664.0,4.       Gross       Adjustment       (2       -       3),positions,5.       Dividend       on       Retro.       Premium,29.0,27,2046       CR,153.0,23,29.0,153.0
+275.0,635.0,377.0,664.0,2046       CR,positions,5.       Dividend       on       Retro.       Premium,29.0,27,■,96.5,24,29.0,96.5
+377.0,635.0,468.0,664.0,■,positions,432925,29.0,28,■,96.5,25,29.0,96.5
+468.0,635.0,570.0,664.0,■,positions,-,29.0,29,2046CR,102.0,26,29.0,102.0
+570.0,635.0,672.0,664.0,2046CR,total,-,29.0,30,,0.0,-1,29.0,0.0
+71.0,664.0,275.0,693.0,5.       Dividend       on       Retro.       Premium,positions,6.       Previously       Billed       Dividend,29.5,32,432925,153.0,28,29.5,153.0
+275.0,664.0,377.0,693.0,432925,positions,6.       Previously       Billed       Dividend,29.5,32,-,96.5,29,29.5,96.5
+377.0,664.0,468.0,693.0,-,positions,432618,29.5,33,-,96.5,30,29.5,96.5
+468.0,664.0,570.0,693.0,-,positions,-,29.5,34,432925,102.0,31,29.5,102.0
+570.0,664.0,672.0,693.0,432925,total,-,29.5,35,,0.0,-1,29.5,0.0
+71.0,693.0,275.0,723.0,6.       Previously       Billed       Dividend,positions,7.       Dividend       Offset       (5       -       6),30.0,37,432618,153.0,33,30.0,153.0
+275.0,693.0,377.0,723.0,432618,positions,7.       Dividend       Offset       (5       -       6),30.0,37,-,96.5,34,30.0,96.5
+377.0,693.0,468.0,723.0,-,positions,307       CR,30.0,38,-,96.5,35,30.0,96.5
+468.0,693.0,570.0,723.0,-,positions,-,30.0,39,432618,102.0,36,30.0,102.0
+570.0,693.0,672.0,723.0,432618,total,*,30.0,40,,0.0,-1,30.0,0.0
+71.0,723.0,275.0,753.0,7.       Dividend       Offset       (5       -       6),positions,8.       Balance       Due       Company       (4       +       7),26.5,42,307       CR,153.0,38,26.5,153.0
+275.0,723.0,377.0,753.0,307       CR,positions,8.       Balance       Due       Company       (4       +       7),26.5,42,-,96.5,39,26.5,96.5
+377.0,723.0,468.0,753.0,-,positions,1739       CR,26.5,43,*,96.5,40,26.5,96.5
+468.0,723.0,570.0,753.0,*,positions,•,26.5,44,307       CR,102.0,41,26.5,102.0
+570.0,723.0,672.0,753.0,307       CR,total,.,26.5,45,,0.0,-1,26.5,0.0
+71.0,753.0,275.0,776.0,8.       Balance       Due       Company       (4       +       7),positions,NRD3,144.0,47,1739       CR,153.0,43,144.0,153.0
+275.0,753.0,377.0,776.0,1739       CR,positions,,0.0,-1,•,96.5,44,0.0,96.5
+377.0,753.0,468.0,776.0,•,positions,,0.0,-1,.,96.5,45,0.0,96.5
+468.0,753.0,570.0,776.0,.,positions,,0.0,-1,1       739       CR,102.0,46,0.0,102.0
+570.0,753.0,672.0,776.0,1       739       CR,total,650/1020902,115.0,48,,0.0,-1,115.0,0.0
+74.0,902.0,112.0,915.0,NRD3,other,,0.0,-1,650/1020902,586.0,48,0.0,586.0
+672.0,837.0,686.0,922.0,650/1020902,other,,0.0,-1,,0.0,-1,0.0,0.0

@@ -1,0 +1,27 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+653.0,94.0,695.0,103.0,NEW       YORK,other,DENVER          LOS       ANGELES          LONDON,35.0,2,,0.0,-1,35.0,0.0
+75.0,87.0,505.0,154.0,"ARNOLD       «Sc       PORTER          •       .       355       TWELFTH       STREET,       N.W.          WASHINGTON.       D.C.       20004-1206          <202)       042-3000          STATEMENT       FACSIMILE*       <202>       9^2-3009",supplier,"Philip       Morris       Companies,       Inc.",62.5,3,NEW       YORK,384.0,0,62.5,384.0
+645.0,112.0,703.0,155.0,DENVER          LOS       ANGELES          LONDON,other,"Invoice       #       818073       July       31,       2000          (11250.217)          PM       USA       -       NBD       Bank,       NA,       as          guardian       ad       litem       of       Billy       J.          Mcconbs,       Jr.",153.5,4,,0.0,-1,-1.0,0.0
+72.0,176.0,288.0,190.0,"Philip       Morris       Companies,       Inc.",receiver,"Invoice       #       818073       July       31,       2000          (11250.217)          PM       USA       -       NBD       Bank,       NA,       as          guardian       ad       litem       of       Billy       J.          Mcconbs,       Jr.",104.0,4,,0.0,-1,104.0,0.0
+70.0,251.0,658.0,323.0,"Invoice       #       818073       July       31,       2000          (11250.217)          PM       USA       -       NBD       Bank,       NA,       as          guardian       ad       litem       of       Billy       J.          Mcconbs,       Jr.",other,For       Legal       Services       Rendered       through,94.0,5,,0.0,-1,94.0,0.0
+101.0,371.0,369.0,391.0,For       Legal       Services       Rendered       through,positions,Less:       Discount,25.0,9,"June       30,       2000",197.5,6,25.0,197.5
+369.0,371.0,496.0,391.0,"June       30,       2000",positions,Less:       Discount,25.0,9,$,89.5,7,25.0,89.5
+496.0,371.0,548.0,391.0,$,positions,"1,891.00",25.0,10,"9,455.00",65.5,8,25.0,65.5
+548.0,371.0,627.0,391.0,"9,455.00",positions,"1,891.00",25.0,10,,0.0,-1,25.0,0.0
+101.0,391.0,369.0,421.0,Less:       Discount,positions,Disbursements       Recorded       through       June,30.0,11,"1,891.00",352.5,10,30.0,352.5
+548.0,391.0,627.0,421.0,"1,891.00",positions,118.40,101.5,19,,0.0,-1,101.5,0.0
+101.0,421.0,369.0,451.0,Disbursements       Recorded       through       June,positions,Air       Delivery       Services,26.0,13,"30,       2000:",197.5,12,26.0,197.5
+369.0,421.0,496.0,451.0,"30,       2000:",positions,Air       Delivery       Services,26.0,13,,0.0,-1,26.0,0.0
+101.0,451.0,369.0,473.0,Air       Delivery       Services,positions,Duplicating,19.0,15,47.94,197.5,14,19.0,197.5
+369.0,451.0,496.0,473.0,47.94,positions,Duplicating,19.0,15,,0.0,-1,19.0,0.0
+101.0,473.0,369.0,489.0,Duplicating,positions,Telephone,26.5,17,63.98,197.5,16,26.5,197.5
+369.0,473.0,496.0,489.0,63.98,positions,Telephone,26.5,17,,0.0,-1,26.5,0.0
+101.0,489.0,369.0,526.0,Telephone,positions,TOTAL       AMOUNT       DUE,33.5,20,6.43,197.5,18,33.5,197.5
+369.0,489.0,496.0,526.0,6.43,positions,TOTAL       AMOUNT       DUE,33.5,20,118.40,155.0,19,33.5,155.0
+548.0,489.0,627.0,526.0,118.40,positions,$,33.5,21,,0.0,-1,33.5,0.0
+101.0,526.0,369.0,556.0,TOTAL       AMOUNT       DUE,total,"■FOR       QUARTER       ENDING       JUNE       30,       2000""",25.5,23,$,287.0,21,25.5,287.0
+496.0,526.0,548.0,556.0,$,total,'SDtH*U       T««       IDCNTiriCATION       NUMBC»       33-0200000,389.5,24,"7,682.40",65.5,22,-1.0,65.5
+548.0,526.0,627.0,556.0,"7,682.40",total,,0.0,-1,,0.0,-1,0.0,0.0
+101.0,556.0,369.0,577.0,"■FOR       QUARTER       ENDING       JUNE       30,       2000""",other,'SDtH*U       T««       IDCNTiriCATION       NUMBC»       33-0200000,364.0,24,,0.0,-1,364.0,0.0
+251.0,926.0,531.0,935.0,'SDtH*U       T««       IDCNTiriCATION       NUMBC»       33-0200000,other,,0.0,-1,,0.0,-1,0.0,0.0
+683.0,733.0,708.0,790.0,L<3&       QZ,other,,0.0,-1,,0.0,-1,0.0,0.0

@@ -1,0 +1,58 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+517.0,3.0,707.0,19.0,Philip       Morris       USA       BUSINESS,supplier,DATE:       Oct.       14.       1996,53.0,4,,0.0,-1,53.0,0.0
+26.0,39.0,77.0,52.0,fVOUCW,other,PLEASE       READ       INSTRUCTIONS          ON       PAGE       2.,48.5,5,herT,32.0,2,48.5,32.0
+66.0,28.0,101.0,52.0,herT,other,fVOUCW,5.5,1,PHILIP       MORRIS       USA          VOUCHER,284.5,3,5.5,284.5
+270.0,35.0,466.0,77.0,PHILIP       MORRIS       USA          VOUCHER,other,"PAYEE:       CEHHT?       Inc.       SPECIAL       INSTRUCTIONS:       PLEASE       SEND       THIS          6001       Mohtfose       Boid.       Suite       4o/       /2a/       XI.V/.       CHECK       TO       MARGARET       OPOCENSKY.       R&D       A-2.          ROCk^ile,^lD20852       FOR       TRANSMITTAL.",100.5,6,DATE:       Oct.       14.       1996,225.5,4,-1.0,225.5
+525.0,57.0,662.0,71.0,DATE:       Oct.       14.       1996,invoice_info,"PAYEE:       CEHHT?       Inc.       SPECIAL       INSTRUCTIONS:       PLEASE       SEND       THIS          6001       Mohtfose       Boid.       Suite       4o/       /2a/       XI.V/.       CHECK       TO       MARGARET       OPOCENSKY.       R&D       A-2.          ROCk^ile,^lD20852       FOR       TRANSMITTAL.",92.5,6,,0.0,-1,-1.0,0.0
+25.0,79.0,217.0,109.0,PLEASE       READ       INSTRUCTIONS          ON       PAGE       2.,other,"PAYEE:       CEHHT?       Inc.       SPECIAL       INSTRUCTIONS:       PLEASE       SEND       THIS          6001       Mohtfose       Boid.       Suite       4o/       /2a/       XI.V/.       CHECK       TO       MARGARET       OPOCENSKY.       R&D       A-2.          ROCk^ile,^lD20852       FOR       TRANSMITTAL.",62.5,6,,0.0,-1,62.5,0.0
+25.0,121.0,690.0,192.0,"PAYEE:       CEHHT?       Inc.       SPECIAL       INSTRUCTIONS:       PLEASE       SEND       THIS          6001       Mohtfose       Boid.       Suite       4o/       /2a/       XI.V/.       CHECK       TO       MARGARET       OPOCENSKY.       R&D       A-2.          ROCk^ile,^lD20852       FOR       TRANSMITTAL.",receiver,COST       CENTER          EXPLANATION       OF       PAYMENT       TO       BE       CHARGED       S       AMOUNT,111.5,7,,0.0,-1,111.5,0.0
+136.0,253.0,684.0,283.0,COST       CENTER          EXPLANATION       OF       PAYMENT       TO       BE       CHARGED       S       AMOUNT,positions,"Env.       Tob.       Smoke       Literature       Database       for       July       1-31,1996",28.0,8,,0.0,-1,28.0,0.0
+25.0,283.0,414.0,309.0,"Env.       Tob.       Smoke       Literature       Database       for       July       1-31,1996",positions,"Env.       Tob.       Smoke       Literature       Database       for       Auq.       1-31,1996",25.5,11,2R1,283.0,9,25.5,283.0
+414.0,283.0,591.0,309.0,2R1,positions,"Env.       Tob.       Smoke       Literature       Database       for       Auq.       1-31,1996",25.5,11,"$5,000.00",148.5,10,25.5,148.5
+591.0,283.0,711.0,309.0,"$5,000.00",positions,2R1,25.5,12,,0.0,-1,25.5,0.0
+25.0,309.0,414.0,334.0,"Env.       Tob.       Smoke       Literature       Database       for       Auq.       1-31,1996",positions,Total,25.0,14,2R1,283.0,12,25.0,283.0
+414.0,309.0,591.0,334.0,2R1,positions,Total,25.0,14,SI       5.000.00,148.5,13,25.0,148.5
+591.0,309.0,711.0,334.0,SI       5.000.00,positions,Total,25.0,14,,0.0,-1,25.0,0.0
+414.0,334.0,591.0,359.0,Total,positions,1,78.0,16,S20.000.00,148.5,15,78.0,148.5
+591.0,334.0,711.0,359.0,S20.000.00,positions,1,78.0,16,,0.0,-1,78.0,0.0
+414.0,411.0,711.0,438.0,1,positions,"PREPARED       BY:       Margaret       Opocensky       CHECK       DATE       DUE:       .       Oct/18,-19096          LOCATION:       R&D       -       A-2       Extension:       3882       APPROVED:       M       .          R.       A.       Carchman          FOR       ACCOUNTING       USE       ONLY",80.0,17,,0.0,-1,80.0,0.0
+33.0,463.0,619.0,546.0,"PREPARED       BY:       Margaret       Opocensky       CHECK       DATE       DUE:       .       Oct/18,-19096          LOCATION:       R&D       -       A-2       Extension:       3882       APPROVED:       M       .          R.       A.       Carchman          FOR       ACCOUNTING       USE       ONLY",other,VENDOR:          INVOICE       NO.:       gl       account       amount       (Q),79.5,18,,0.0,-1,79.5,0.0
+32.0,565.0,662.0,603.0,VENDOR:          INVOICE       NO.:       gl       account       amount       (Q),other,i.,24.5,20,,0.0,-1,24.5,0.0
+30.0,597.0,301.0,680.0,111       V       vlvL       1       ivii          INVOICE       AMOUNT:          INVOICE       DATE:          ACTION:,other,3.,12.0,24,VENDOR:          INVOICE       NO.:       gl       account       amount       (Q),181.5,18,12.0,181.5
+301.0,597.0,459.0,620.0,i.,other,2.,22.0,22,1,162.5,21,22.0,162.5
+489.0,597.0,596.0,620.0,1,other,1,22.0,23,,0.0,-1,22.0,0.0
+301.0,620.0,459.0,641.0,2.,other,111       V       vlvL       1       ivii          INVOICE       AMOUNT:          INVOICE       DATE:          ACTION:,8.0,19,1,162.5,23,8.0,162.5
+489.0,620.0,596.0,641.0,1,other,1,20.0,25,,0.0,-1,20.0,0.0
+301.0,641.0,459.0,660.0,3.,other,4.,19.5,26,1,162.5,25,19.5,162.5
+489.0,641.0,596.0,660.0,1,other,1,19.5,27,,0.0,-1,19.5,0.0
+301.0,660.0,459.0,680.0,4.,other,P/O       NBR       (Q):,21.5,28,1,162.5,27,21.5,162.5
+489.0,660.0,596.0,680.0,1,other,1,21.5,30,,0.0,-1,21.5,0.0
+30.0,680.0,301.0,703.0,P/O       NBR       (Q):,other,6.,21.0,32,5.,214.5,29,21.0,214.5
+301.0,680.0,459.0,703.0,5.,other,6.,21.0,32,1,162.5,30,21.0,162.5
+489.0,680.0,596.0,703.0,1,other,1,21.0,33,,0.0,-1,21.0,0.0
+30.0,703.0,301.0,782.0,DUE       DATE       (Q):          CHECK       DESCRIPTION       (1):,other,a,10.0,36,6.,214.5,32,10.0,214.5
+301.0,703.0,459.0,722.0,6.,other,7.,19.5,34,1,162.5,33,19.5,162.5
+489.0,703.0,596.0,722.0,1,other,1,19.5,35,,0.0,-1,19.5,0.0
+301.0,722.0,459.0,742.0,7.,other,DUE       DATE       (Q):          CHECK       DESCRIPTION       (1):,10.5,31,1,162.5,35,10.5,162.5
+489.0,722.0,596.0,742.0,1,other,1,20.5,37,,0.0,-1,20.5,0.0
+301.0,742.0,459.0,763.0,a,other,9.,20.0,38,1,162.5,37,20.0,162.5
+489.0,742.0,596.0,763.0,1,other,1,20.0,39,,0.0,-1,20.0,0.0
+301.0,763.0,459.0,782.0,9.,other,10.,20.5,40,1,162.5,39,20.5,162.5
+489.0,763.0,596.0,782.0,1,other,1,20.5,41,,0.0,-1,20.5,0.0
+301.0,782.0,459.0,804.0,10.,other,ii.,21.0,43,1,162.5,41,21.0,162.5
+489.0,782.0,596.0,804.0,1,other,1,21.0,44,,0.0,-1,21.0,0.0
+30.0,804.0,301.0,863.0,ACCTG.       AUDIT:,other,12,0.5,45,ii.,214.5,43,0.5,214.5
+301.0,804.0,459.0,824.0,ii.,other,ACCTG.       AUDIT:,19.5,42,1,162.5,44,19.5,162.5
+489.0,804.0,596.0,824.0,1,other,1,20.0,46,,0.0,-1,20.0,0.0
+301.0,824.0,459.0,844.0,12,other,13,19.5,47,1,162.5,46,19.5,162.5
+489.0,824.0,596.0,844.0,1,other,1,19.5,48,,0.0,-1,19.5,0.0
+301.0,844.0,459.0,863.0,13,other,ACCTG.       APPROVAL:,19.5,49,1,162.5,48,19.5,162.5
+489.0,844.0,596.0,863.0,1,other,1,19.5,51,2063610122,179.0,56,19.5,179.0
+30.0,863.0,301.0,883.0,ACCTG.       APPROVAL:,other,DATA       ENTRY:,23.0,52,14.,214.5,50,23.0,214.5
+301.0,863.0,459.0,883.0,14.,other,DATA       ENTRY:,23.0,52,1,162.5,51,23.0,162.5
+489.0,863.0,596.0,883.0,1,other,1,23.0,54,2063610122,179.0,56,23.0,179.0
+30.0,883.0,301.0,909.0,DATA       ENTRY:,other,FORWARD       THIS       COPY       TO:       CASH       DISBURSEMENTS       -       FINANCE       CENTER          DOC       CODE:       V0120,47.0,55,15,214.5,53,47.0,214.5
+301.0,883.0,459.0,909.0,15,other,FORWARD       THIS       COPY       TO:       CASH       DISBURSEMENTS       -       FINANCE       CENTER          DOC       CODE:       V0120,47.0,55,1,162.5,54,47.0,162.5
+489.0,883.0,596.0,909.0,1,other,FORWARD       THIS       COPY       TO:       CASH       DISBURSEMENTS       -       FINANCE       CENTER          DOC       CODE:       V0120,47.0,55,2063610122,179.0,56,47.0,179.0
+28.0,921.0,545.0,965.0,FORWARD       THIS       COPY       TO:       CASH       DISBURSEMENTS       -       FINANCE       CENTER          DOC       CODE:       V0120,other,,0.0,-1,2063610122,435.0,56,0.0,-1.0
+714.0,853.0,729.0,944.0,2063610122,other,,0.0,-1,,0.0,-1,0.0,0.0

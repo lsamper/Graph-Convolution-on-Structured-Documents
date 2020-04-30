@@ -1,0 +1,37 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+25.0,92.0,110.0,130.0,"86       MAPLE       AVE.          NEW       CITY,          N       Y,       10956-5036",supplier,Mr.       Andrew       Pasheluk          Lorillard       Tobacco       Co          714       Green       Valley       Rd          Box       10529          Greensboro       NC       27408-7018,182.5,2,914       634-1331          800       767-7967          =AX:914       634-9618,555.0,1,182.5,555.0
+574.0,88.0,671.0,125.0,914       634-1331          800       767-7967          =AX:914       634-9618,supplier,INVOICE       #:       99065516          INV.       DATE:       07/01/99          ACCOUNT       #       5516          BILLING       PERIOD:       06/01/99       to       06/30/99          TERMS:,156.0,4,,0.0,-1,-1.0,0.0
+18.0,258.0,248.0,329.0,Mr.       Andrew       Pasheluk          Lorillard       Tobacco       Co          714       Green       Valley       Rd          Box       10529          Greensboro       NC       27408-7018,receiver,DESCRIPTION,122.0,6,INVOICE       #:       99065516          INV.       DATE:       07/01/99          ACCOUNT       #       5516          BILLING       PERIOD:       06/01/99       to       06/30/99          TERMS:,409.0,4,-1.0,409.0
+407.0,135.0,524.0,230.0,received          jul       i       *          MP1D,other,INVOICE       #:       99065516          INV.       DATE:       07/01/99          ACCOUNT       #       5516          BILLING       PERIOD:       06/01/99       to       06/30/99          TERMS:,80.0,4,,0.0,-1,80.0,0.0
+385.0,200.0,699.0,325.0,INVOICE       #:       99065516          INV.       DATE:       07/01/99          ACCOUNT       #       5516          BILLING       PERIOD:       06/01/99       to       06/30/99          TERMS:,other,TOTAL,150.0,9,,0.0,-1,150.0,0.0
+14.0,400.0,83.0,434.0,#       PCS,positions,1       OZ.       MAIL       PIECES,26.0,11,DESCRIPTION,150.0,6,-1.0,150.0
+83.0,398.0,314.0,433.0,DESCRIPTION,positions,#       PCS,1.5,5,PIECE       RATE          1.55,206.0,7,1.5,206.0
+314.0,397.0,495.0,432.0,PIECE       RATE          1.55,positions,DESCRIPTION,1.0,6,OZ       RATE          0.00,141.5,8,1.0,141.5
+495.0,396.0,597.0,431.0,OZ       RATE          0.00,positions,PIECE       RATE          1.55,1.0,7,TOTAL,101.0,9,1.0,101.0
+597.0,395.0,697.0,430.0,TOTAL,positions,OZ       RATE          0.00,1.0,8,,0.0,-1,1.0,0.0
+14.0,433.0,83.0,455.0,22,positions,2       OZ.       MAIL       PIECES,20.0,15,1       OZ.       MAIL       PIECES,150.0,11,-1.0,150.0
+83.0,432.0,314.0,454.0,1       OZ.       MAIL       PIECES,positions,22,1.0,10,34.10,206.0,12,1.0,206.0
+314.0,431.0,495.0,453.0,34.10,positions,1       OZ.       MAIL       PIECES,1.0,11,34.10,242.5,13,1.0,242.5
+597.0,429.0,697.0,451.0,34.10,positions,124.00,21.0,18,,0.0,-1,21.0,0.0
+14.0,454.0,83.0,476.0,80,positions,TOTAL,23.0,20,2       OZ.       MAIL       PIECES,150.0,15,-1.0,150.0
+83.0,453.0,314.0,475.0,2       OZ.       MAIL       PIECES,positions,80,1.0,14,124.00,206.0,16,1.0,206.0
+314.0,452.0,495.0,474.0,124.00,positions,2       OZ.       MAIL       PIECES,1.0,15,0.00,141.5,17,1.0,141.5
+495.0,451.0,597.0,473.0,0.00,positions,124.00,1.0,16,124.00,101.0,18,1.0,101.0
+597.0,450.0,697.0,472.0,124.00,positions,0.00,1.0,17,,0.0,-1,1.0,0.0
+14.0,475.0,84.0,503.0,102,positions,SERVICE       CHARGE,27.5,25,TOTAL,149.5,20,27.5,149.5
+83.0,474.0,314.0,502.0,TOTAL,positions,102,1.0,19,158.10,206.0,21,1.0,206.0
+314.0,473.0,495.0,501.0,158.10,positions,TOTAL,1.0,20,0.00,141.5,22,1.0,141.5
+495.0,472.0,597.0,500.0,0.00,positions,158.10,1.0,21,158.10,101.0,23,1.0,101.0
+597.0,471.0,697.0,499.0,158.10,positions,0.00,1.0,22,,0.0,-1,1.0,0.0
+15.0,503.0,84.0,533.0,^lUAL,positions,.-TOTALZOSSUBBS.       CHARGES,25.0,27,SERVICE       CHARGE,150.0,25,25.0,-1.0
+84.0,501.0,315.0,532.0,SERVICE       CHARGE,positions,^lUAL,1.5,24,200.00,448.0,26,1.5,448.0
+597.0,498.0,698.0,529.0,200.00,positions,6.20          -6.20          358.10          0.00,133.5,30,,0.0,-1,133.5,0.0
+15.0,531.0,315.0,555.0,.-TOTALZOSSUBBS.       CHARGES,positions,SUMMARY       OF       ACCOUNT,58.5,28,SERVICE       CHARGE,34.5,25,58.5,34.5
+231.0,594.0,388.0,609.0,SUMMARY       OF       ACCOUNT,positions,PAST       DUE          PAYMENTS/CREDITS          CURRENT       BILLING          FINANCE       CHARGE,48.0,29,,0.0,-1,48.0,0.0
+257.0,622.0,397.0,677.0,PAST       DUE          PAYMENTS/CREDITS          CURRENT       BILLING          FINANCE       CHARGE,positions,PAYMENT       DUE       UPON       REC,79.0,32,6.20          -6.20          358.10          0.00,334.5,30,79.0,334.5
+635.0,619.0,688.0,675.0,6.20          -6.20          358.10          0.00,positions,.358.10,49.0,31,,0.0,-1,49.0,0.0
+629.0,686.0,688.0,706.0,.358.10,total,CO          Os          Os          CSJ          O          (>J          o,166.0,34,,0.0,-1,166.0,0.0
+254.0,721.0,425.0,736.0,PAYMENT       DUE       UPON       REC,other,E       INCLUDE       YOUR       ACCOUNT       #       5516       FOR       PROPER       CREDIT.,156.0,33,,0.0,-1,156.0,0.0
+58.0,877.0,472.0,892.0,E       INCLUDE       YOUR       ACCOUNT       #       5516       FOR       PROPER       CREDIT.,other,PAST       DUE       BALANCES       ARE       SUBJECT       TO       A       1.5%       MONTHLY       FINANCE       CHARGE,28.0,35,CO          Os          Os          CSJ          O          (>J          o,407.5,34,28.0,-1.0
+660.0,810.0,685.0,914.0,CO          Os          Os          CSJ          O          (>J          o,other,,0.0,-1,,0.0,-1,0.0,0.0
+14.0,904.0,552.0,921.0,PAST       DUE       BALANCES       ARE       SUBJECT       TO       A       1.5%       MONTHLY       FINANCE       CHARGE,other,,0.0,-1,CO          Os          Os          CSJ          O          (>J          o,389.5,34,0.0,389.5

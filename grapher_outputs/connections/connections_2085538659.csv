@@ -1,0 +1,49 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+34.0,66.0,539.0,84.0,"university       or       California,       davis""",other,Accounting       Office,17.5,1,,0.0,-1,17.5,0.0
+280.0,84.0,539.0,101.0,Accounting       Office,supplier,extramural       Accounting,17.0,2,,0.0,-1,17.0,0.0
+34.0,101.0,539.0,118.0,extramural       Accounting,other,Contractor       s       Invoice,15.0,4,fo-JowIngctomnumfca,327.5,3,15.0,327.5
+539.0,101.0,689.0,118.0,fo-JowIngctomnumfca,other,Contractor       s       Invoice,15.0,4,,0.0,-1,15.0,0.0
+280.0,118.0,539.0,131.0,Contractor       s       Invoice,supplier,'       r,15.0,6,oh       ydiirVomftlanco       advicO;.;       :       :       :       :•,204.5,5,15.0,204.5
+539.0,118.0,689.0,131.0,oh       ydiirVomftlanco       advicO;.;       :       :       :       :•,other,'       r,15.0,6,,0.0,-1,15.0,0.0
+280.0,131.0,539.0,148.0,'       r,other,INVOICE       TO,16.0,8,Claim       No       -X85835,204.5,7,16.0,204.5
+539.0,131.0,689.0,148.0,Claim       No       -X85835,other,'t.       ..       *       •*       *,16.0,9,,0.0,-1,16.0,0.0
+34.0,148.0,280.0,163.0,INVOICE       TO,receiver,Dr.       Bruce       D.       Davies,14.5,10,'t.       ..       *       •*       *,252.5,9,14.5,252.5
+280.0,148.0,539.0,163.0,'t.       ..       *       •*       *,other,Dr.       Bruce       D.       Davies,14.5,10,,0.0,-1,14.5,0.0
+34.0,163.0,280.0,177.0,Dr.       Bruce       D.       Davies,receiver,Philip       Morris       U.S.A.,16.0,11,,0.0,-1,16.0,0.0
+34.0,177.0,280.0,195.0,Philip       Morris       U.S.A.,receiver,4201       Commerce       Road,16.5,14,Invoice       Number:,252.5,12,16.5,252.5
+280.0,177.0,539.0,195.0,Invoice       Number:,other,4201       Commerce       Road,16.5,14,59276-1,204.5,13,16.5,204.5
+539.0,177.0,689.0,195.0,59276-1,invoice_info,Date:,16.5,15,,0.0,-1,16.5,0.0
+34.0,195.0,280.0,210.0,4201       Commerce       Road,receiver,Richmond.       VA       25234,14.5,17,Date:,252.5,15,14.5,252.5
+280.0,195.0,539.0,210.0,Date:,other,Richmond.       VA       25234,14.5,17,October       19.       2001,204.5,16,14.5,204.5
+539.0,195.0,689.0,210.0,October       19.       2001,invoice_info,Amount:,36.0,18,,0.0,-1,-1.0,0.0
+34.0,210.0,280.0,224.0,Richmond.       VA       25234,receiver,Amount:,21.5,18,,0.0,-1,21.5,0.0
+280.0,224.0,539.0,253.0,Amount:,other,Questions       regarding       this       Invoice       should       be       directed       to       Evelyn       Montoya       3       (600)       757-852;       01       enimontoyci^ucdovis.eclu          Fedora.'       Employee       ID       it       94-6036494       '       “““,47.5,19,,0.0,-1,47.5,0.0
+36.0,271.0,669.0,301.0,Questions       regarding       this       Invoice       should       be       directed       to       Evelyn       Montoya       3       (600)       757-852;       01       enimontoyci^ucdovis.eclu          Fedora.'       Employee       ID       it       94-6036494       '       “““,other,Period       Bled,5.5,21,,0.0,-1,5.5,0.0
+39.0,297.0,313.0,314.0,Co       ntia       c       t/Grant/Ag       reement/Pure       ha       so       Order       3323,other,Project       Title:          PI       /Director:,37.5,24,Questions       regarding       this       Invoice       should       be       directed       to       Evelyn       Montoya       3       (600)       757-852;       01       enimontoyci^ucdovis.eclu          Fedora.'       Employee       ID       it       94-6036494       '       “““,176.5,19,37.5,176.5
+497.0,286.0,574.0,297.0,Period       Bled,other,v-FrOrn.          :       06/01/01;,21.5,22,,0.0,-1,21.5,0.0
+445.0,300.0,506.0,326.0,v-FrOrn.          :       06/01/01;,other,Pulmonary       Deposition       of       Ultrafine       Particles          Anthony       S.       Woxter,30.0,25,.•       To          09/30/01,136.5,23,30.0,136.5
+585.0,300.0,639.0,326.0,.•       To          09/30/01,other,$12667.55,359.5,40,,0.0,-1,-1.0,0.0
+124.0,330.0,194.0,356.0,Project       Title:          PI       /Director:,other,Description       of       Services,35.0,26,Pulmonary       Deposition       of       Ultrafine       Particles          Anthony       S.       Woxter,234.5,25,35.0,234.5
+278.0,329.0,509.0,357.0,Pulmonary       Deposition       of       Ultrafine       Particles          Anthony       S.       Woxter,other,"$7,559.80",137.5,28,,0.0,-1,137.5,0.0
+34.0,370.0,267.0,386.0,Description       of       Services,positions,Salaries       and       Wages,102.5,27,,0.0,-1,102.5,0.0
+34.0,386.0,267.0,575.0,Salaries       and       Wages,positions,Supplies       and       Expenses,104.0,29,"$7,559.80",325.5,28,104.0,325.5
+412.0,386.0,540.0,575.0,"$7,559.80",positions,$43.23,104.0,30,N)          O          CO          CJ1          01          w          CO          ay          01          CO,186.0,39,104.0,186.0
+34.0,575.0,267.0,594.0,Supplies       and       Expenses,positions,Travel,18.0,31,$43.23,325.5,30,18.0,325.5
+412.0,575.0,540.0,594.0,$43.23,positions,$0.00,18.0,32,N)          O          CO          CJ1          01          w          CO          ay          01          CO,186.0,39,18.0,186.0
+34.0,594.0,267.0,611.0,Travel,positions,Employee       Benefits,17.5,33,$0.00,325.5,32,17.5,325.5
+412.0,594.0,540.0,611.0,$0.00,positions,$656.19,17.5,34,N)          O          CO          CJ1          01          w          CO          ay          01          CO,186.0,39,17.5,186.0
+34.0,611.0,267.0,629.0,Employee       Benefits,positions,Overhead       <§»       48%          Total       Due,80.5,35,$656.19,325.5,34,80.5,325.5
+412.0,611.0,540.0,629.0,$656.19,positions,"$4,108.33",80.5,36,N)          O          CO          CJ1          01          w          CO          ay          01          CO,186.0,39,80.5,186.0
+34.0,629.0,267.0,772.0,Overhead       <§»       48%          Total       Due,total,Please       Refcjrn       Invoice       Copy       with       Check,83.0,37,"$4,108.33",325.5,36,83.0,325.5
+412.0,629.0,540.0,772.0,"$4,108.33",total,"$12,667.55",82.0,41,$12667.55,168.0,40,82.0,168.0
+34.0,772.0,267.0,795.0,Please       Refcjrn       Invoice       Copy       with       Check,total,Remarks:,16.5,42,PAY       THIS       AMOUNT»>»,253.0,38,16.5,253.0
+267.0,772.0,540.0,795.0,PAY       THIS       AMOUNT»>»,total,Kgthloan       ll-Eo.       C<tiQir<aol       Funds       t/.^ropot,77.0,46,"$12,667.55",207.0,41,77.0,207.0
+650.0,523.0,674.0,627.0,N)          O          CO          CJ1          01          w          CO          ay          01          CO,positions,$12667.55,97.5,40,,0.0,-1,97.5,0.0
+608.0,664.0,680.0,681.0,$12667.55,total,"$12,667.55",110.0,41,,0.0,-1,-1.0,0.0
+540.0,773.0,681.0,792.0,"$12,667.55",total,PAY       THIS       AMOUNT»>»,1.0,38,,0.0,-1,1.0,0.0
+38.0,795.0,90.0,805.0,Remarks:,other,Make       Check       Payobto.onc*       Mail       !o:       .          The       PoQChh       ct       Pio       Unlvorifly       c?       California          CcsMSi^OJfctf          Ono       Slvc!<*       Xvchuo.;          (OavB.       CoWonia       95616,114.5,44,,0.0,-1,-1.0,0.0
+95.0,806.0,218.0,822.0,Outstanding       Invoices:,other,Make       Check       Payobto.onc*       Mail       !o:       .          The       PoQChh       ct       Pio       Unlvorifly       c?       California          CcsMSi^OJfctf          Ono       Slvc!<*       Xvchuo.;          (OavB.       CoWonia       95616,100.5,44,,0.0,-1,100.5,0.0
+32.0,881.0,222.0,948.0,Make       Check       Payobto.onc*       Mail       !o:       .          The       PoQChh       ct       Pio       Unlvorifly       c?       California          CcsMSi^OJfctf          Ono       Slvc!<*       Xvchuo.;          (OavB.       CoWonia       95616,other,,0.0,-1,"ho«Ur/       cvfWy       ttioi       <ji       >;tpQn$K»fy,       imported       (or       Dayev*       ih       requested)       ore       f.x       cwxaprtote          purix-sct       and       m       accordance       will       n»       r>>ecrKii's       sot       lath       tn       ihe       appfecohcn       arw       awcid          dacumenft.",347.0,47,0.0,347.0
+307.0,865.0,380.0,879.0,Certified       by:,other,"ho«Ur/       cvfWy       ttioi       <ji       >;tpQn$K»fy,       imported       (or       Dayev*       ih       requested)       ore       f.x       cwxaprtote          purix-sct       and       m       accordance       will       n»       r>>ecrKii's       sot       lath       tn       ihe       appfecohcn       arw       awcid          dacumenft.",43.0,47,Kgthloan       ll-Eo.       C<tiQir<aol       Funds       t/.^ropot,157.5,46,43.0,157.5
+408.0,840.0,594.0,881.0,Kgthloan       ll-Eo.       C<tiQir<aol       Funds       t/.^ropot,other,"ho«Ur/       cvfWy       ttioi       <ji       >;tpQn$K»fy,       imported       (or       Dayev*       ih       requested)       ore       f.x       cwxaprtote          purix-sct       and       m       accordance       will       n»       r>>ecrKii's       sot       lath       tn       ihe       appfecohcn       arw       awcid          dacumenft.",54.5,47,,0.0,-1,-1.0,0.0
+277.0,895.0,671.0,935.0,"ho«Ur/       cvfWy       ttioi       <ji       >;tpQn$K»fy,       imported       (or       Dayev*       ih       requested)       ore       f.x       cwxaprtote          purix-sct       and       m       accordance       will       n»       r>>ecrKii's       sot       lath       tn       ihe       appfecohcn       arw       awcid          dacumenft.",other,,0.0,-1,,0.0,-1,0.0,0.0

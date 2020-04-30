@@ -1,0 +1,52 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+44.0,971.0,124.0,979.0,r       nnf»       -QJM       MV,other,,0.0,-1,pm       a/qs       ~riMP       ^,159.0,1,0.0,159.0
+143.0,971.0,343.0,979.0,pm       a/qs       ~riMP       ^,other,,0.0,-1,,0.0,-1,0.0,0.0
+263.0,59.0,363.0,105.0,iZDS-fj,other,PHILIP       MORRIS          VOUCHER,50.0,5,FOR       ACCOUNTING       USE       ONLY          VOUCHER       NUMBER       _,222.0,6,50.0,-1.0
+39.0,106.0,218.0,140.0,□       COMPANIES          a       MANAGEMENT       CORPORATION          □       INCORPORATED,other,DATE       VOUCHER       IS       PREPARED          10/27/94,38.0,4,PHILIP       MORRIS          VOUCHER,212.0,5,38.0,-1.0
+47.0,147.0,230.0,175.0,DATE       VOUCHER       IS       PREPARED          10/27/94,invoice_info,PAYEE          Illinois       Republican       Slate       Committee,42.5,8,PHILIP       MORRIS          VOUCHER,202.0,5,42.5,202.0
+252.0,111.0,429.0,153.0,PHILIP       MORRIS          VOUCHER,supplier,PAYEE          Illinois       Republican       Slate       Committee,71.5,8,FOR       ACCOUNTING       USE       ONLY          VOUCHER       NUMBER       _,194.5,6,-1.0,194.5
+446.0,104.0,624.0,133.0,FOR       ACCOUNTING       USE       ONLY          VOUCHER       NUMBER       _,other,"(OMIT       IF       NO       SPECIFIC       DATE       REQUIRED)          DATE       DUE:       11/3,94       TIME:",44.0,7,,0.0,-1,44.0,0.0
+446.0,149.0,704.0,176.0,"(OMIT       IF       NO       SPECIFIC       DATE       REQUIRED)          DATE       DUE:       11/3,94       TIME:",invoice_info,ACCOUNTING       CODE          9-060-451-080-316,41.0,9,,0.0,-1,41.0,0.0
+43.0,188.0,372.0,219.0,PAYEE          Illinois       Republican       Slate       Committee,receiver,188       West       Randobh.       Suite       627,23.5,11,ACCOUNTING       CODE          9-060-451-080-316,277.5,9,23.5,277.5
+372.0,188.0,598.0,219.0,ACCOUNTING       CODE          9-060-451-080-316,other,188       West       Randobh.       Suite       627,23.5,11,"$10,000.00",170.0,10,23.5,170.0
+598.0,188.0,712.0,219.0,"$10,000.00",total,Qm-Cfco-       n       sf       oa       ?>/       u       ”       -,23.5,12,,0.0,-1,23.5,0.0
+43.0,219.0,372.0,235.0,188       West       Randobh.       Suite       627,receiver,Chicago.       IL       60601,16.5,13,Qm-Cfco-       n       sf       oa       ?>/       u       ”       -,277.5,12,16.5,277.5
+372.0,219.0,598.0,235.0,Qm-Cfco-       n       sf       oa       ?>/       u       ”       -,other,Chicago.       IL       60601,16.5,13,,0.0,-1,16.5,0.0
+43.0,235.0,372.0,252.0,Chicago.       IL       60601,receiver,TOTAL,22.5,16,-<•,277.5,14,22.5,277.5
+372.0,235.0,598.0,252.0,-<•,other,TOTAL,22.5,16,V,170.0,15,22.5,170.0
+598.0,235.0,712.0,252.0,V,total,TOTAL,22.5,16,,0.0,-1,22.5,0.0
+43.0,252.0,598.0,280.0,TOTAL,other,APPROVAC^fOR       PAYMENT       EXPLANATION       FOR       PAYMENT:          /!///is?       s—^'Contribution,28.0,18,v       ->S10.000.00,334.5,17,28.0,334.5
+598.0,252.0,712.0,280.0,v       ->S10.000.00,total,/'       V       /          •       -X       1,28.0,19,,0.0,-1,28.0,0.0
+43.0,280.0,518.0,308.0,APPROVAC^fOR       PAYMENT       EXPLANATION       FOR       PAYMENT:          /!///is?       s—^'Contribution,other,/'///',23.0,20,/'       V       /          •       -X       1,334.5,19,23.0,334.5
+518.0,280.0,712.0,308.0,/'       V       /          •       -X       1,other,COMPLETE       THIS       SECTION       IF       RETURNED       CHECK       IS       REQUIRED—.,38.5,21,,0.0,-1,-1.0,0.0
+43.0,308.0,242.0,326.0,/'///',other,COMPLETE       THIS       SECTION       IF       RETURNED       CHECK       IS       REQUIRED—.,15.5,21,,0.0,-1,15.5,0.0
+43.0,326.0,518.0,339.0,COMPLETE       THIS       SECTION       IF       RETURNED       CHECK       IS       REQUIRED—.,other,RETURN       TO:       NAME       /       ]          Hanina       Flournoy       y       ywtT‘       A       ‘,24.0,23,-,334.5,22,24.0,334.5
+518.0,326.0,712.0,339.0,-,other,DEPARTMENT          Corp.       Aff.       Admin,24.0,24,,0.0,-1,24.0,0.0
+43.0,339.0,242.0,374.0,RETURN       TO:       NAME       /       ]          Hanina       Flournoy       y       ywtT‘       A       ‘,other,REASON       FOR       REQUEST:       \|          Must       be       sent       with       transmittal       letter,37.5,27,DEPARTMENT          Corp.       Aff.       Admin,310.0,24,37.5,310.0
+387.0,339.0,518.0,374.0,DEPARTMENT          Corp.       Aff.       Admin,other,REASON       FOR       REQUEST:       \|          Must       be       sent       with       transmittal       letter,37.5,27,BUILDING/FLOOR          120       Park/24,122.5,25,37.5,122.5
+518.0,339.0,632.0,374.0,BUILDING/FLOOR          120       Park/24,other,REASON       FOR       REQUEST:       \|          Must       be       sent       with       transmittal       letter,37.5,27,PHONE       EXT.          2444,97.0,26,37.5,97.0
+632.0,339.0,712.0,374.0,PHONE       EXT.          2444,other,REASON       FOR       REQUEST:       \|          Must       be       sent       with       transmittal       letter,37.5,27,,0.0,-1,37.5,0.0
+43.0,374.0,712.0,414.0,REASON       FOR       REQUEST:       \|          Must       be       sent       with       transmittal       letter,other,ACCOUNTING       USE       ONLY,26.5,28,,0.0,-1,26.5,0.0
+248.0,414.0,449.0,427.0,ACCOUNTING       USE       ONLY,other,VENDOR       #       COMPANY       (005-COMPANIES:       009-MANAGEMENT.       01O-INCORPORATED)          VOUCHER       TYPE_       (1-Reg:       2-P.P.;       3-C.M.:       4-D.M.;       5-C.P.:       6-V.C.;       7-V.A.)       VOUCHER/INVOICE       DATE          BANK       -->       DUE       DATE->       $E?CHK-->_       109SCD-->          1053       AMT       >,53.5,29,,0.0,-1,53.5,0.0
+49.0,434.0,617.0,514.0,VENDOR       #       COMPANY       (005-COMPANIES:       009-MANAGEMENT.       01O-INCORPORATED)          VOUCHER       TYPE_       (1-Reg:       2-P.P.;       3-C.M.:       4-D.M.;       5-C.P.:       6-V.C.;       7-V.A.)       VOUCHER/INVOICE       DATE          BANK       -->       DUE       DATE->       $E?CHK-->_       109SCD-->          1053       AMT       >,other,CASHIER,91.0,31,,0.0,-1,91.0,0.0
+49.0,525.0,273.0,606.0,SEP       HND       -       ->       _       RT/IN       •       >       RT       NAME       -       -       ->          DIST       AP       ->       A       prepqvo:d->          CONTRACT       -       >       FREQUENCY          ALT       PAYEE       -       -       ->       01       OCO,other,LINE       001       CORP/ACCT       fil          AMT/PCT       -       >          DESC       ->,89.0,37,CASHIER,420.0,31,89.0,420.0
+540.0,552.0,622.0,578.0,CASHIER,other,AUDIT,25.5,33,DATE,80.0,32,25.5,80.0
+622.0,552.0,700.0,578.0,DATE,other,AUDIT,25.5,33,,0.0,-1,25.5,0.0
+540.0,578.0,622.0,603.0,AUDIT,other,APPROVAL,26.0,35,DATE,80.0,34,26.0,80.0
+622.0,578.0,700.0,603.0,DATE,other,APPROVAL,26.0,35,,0.0,-1,26.0,0.0
+540.0,603.0,622.0,630.0,APPROVAL,other,"RECEIVED          GOT       9,6       1994",50.5,39,DATE,80.0,36,50.5,80.0
+622.0,603.0,700.0,630.0,DATE,other,"RECEIVED          GOT       9,6       1994",50.5,39,,0.0,-1,50.5,0.0
+66.0,633.0,221.0,676.0,LINE       001       CORP/ACCT       fil          AMT/PCT       -       >          DESC       ->,other,LINE       002       CORP/ACCT       Q±          AMT/PCT       -       >          DESC       •>,62.0,40,A       ID/BRCD       •       ->,193.0,38,62.0,193.0
+293.0,650.0,380.0,662.0,A       ID/BRCD       •       ->,other,A       ID/BRCD-->       CORPORA       AFFAIRS          BUDGETS       &       CCt*       fSCLS,70.5,41,"RECEIVED          GOT       9,6       1994",266.0,39,-1.0,266.0
+559.0,640.0,646.0,694.0,"RECEIVED          GOT       9,6       1994",other,A       ID/BRCD-->       CORPORA       AFFAIRS          BUDGETS       &       CCt*       fSCLS,59.5,41,,0.0,-1,59.5,0.0
+66.0,694.0,221.0,739.0,LINE       002       CORP/ACCT       Q±          AMT/PCT       -       >          DESC       •>,other,LINE       003       CORP/ACCT       fil          AMT/PCT       -       >          DESC       ->       :,61.5,42,A       ID/BRCD-->       CORPORA       AFFAIRS          BUDGETS       &       CCt*       fSCLS,338.5,41,61.5,338.5
+293.0,709.0,671.0,744.0,A       ID/BRCD-->       CORPORA       AFFAIRS          BUDGETS       &       CCt*       fSCLS,other,A       ID/BRCD-,52.5,43,,0.0,-1,52.5,0.0
+66.0,756.0,221.0,800.0,LINE       003       CORP/ACCT       fil          AMT/PCT       -       >          DESC       ->       :,other,LINE       004       CORP/ACCT       fll          AMT/PCT       -       >          DESC       ->,62.0,44,A       ID/BRCD-,186.0,43,62.0,186.0
+293.0,773.0,366.0,785.0,A       ID/BRCD-,other,A       ID/BRCD       ••>,62.0,46,,0.0,-1,62.0,0.0
+66.0,818.0,222.0,862.0,LINE       004       CORP/ACCT       fll          AMT/PCT       -       >          DESC       ->,other,LINE       005       CORP/ACCT       01          AMT/PCT       -       >          DESC       ->,61.5,47,A       ID/BRCD       ••>,192.0,46,61.5,192.0
+566.0,803.0,623.0,826.0,MCU,other,,0.0,-1,ro          o,85.5,49,0.0,85.5
+292.0,835.0,380.0,847.0,A       ID/BRCD       ••>,other,A       ID/BRCD-->,62.0,48,ro          o,344.0,49,62.0,-1.0
+66.0,879.0,221.0,924.0,LINE       005       CORP/ACCT       01          AMT/PCT       -       >          DESC       ->,other,r       nnf»       -QJM       MV,73.5,0,A       ID/BRCD-->,192.5,48,73.5,192.5
+292.0,897.0,380.0,909.0,A       ID/BRCD-->,other,pm       a/qs       ~riMP       ^,72.0,1,cn          CD          r\)          05,344.5,50,72.0,344.5
+670.0,818.0,690.0,851.0,ro          o,other,cn          CD          r\)          05,58.0,50,,0.0,-1,58.0,0.0
+670.0,871.0,691.0,914.0,cn          CD          r\)          05,other,,0.0,-1,,0.0,-1,0.0,0.0

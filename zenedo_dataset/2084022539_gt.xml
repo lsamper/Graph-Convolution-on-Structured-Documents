@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:ns2="http://searchink.com/xml/frankstahlapi/1.0">
+  <Metadata>
+    <Creator>system</Creator>
+    <Created>2019-01-25T17:39:17.718+01:00</Created>
+    <LastChange>2019-01-30T09:12:55Z</LastChange>
+  </Metadata>
+  <Property key="customer" value="actuallCustomerName"/>
+  <Property key="offer"/>
+  <Property key="uuid" value="0078b0c6-46bb-496e-b7dc-455b90864aea"/>
+  <Property key="fileName" value="2084022539.pdf"/>
+  <Property key="type" value="digital"/>
+  <Page imageFilename="2084022539.tif" imageHeight="1000" imageWidth="754">
+    <TextRegion id="page1_pos1">
+      <Property key="entity" value="supplier"/>
+      <Coords points="40.5133,54.4298 263.11,54.4298 263.11,123.125 40.5133,123.125"/>
+    </TextRegion>
+    <TextRegion id="page1_pos2">
+      <Property key="entity" value="receiver"/>
+      <Coords points="145.521,157.472 570.876,157.472 570.876,193.27 145.521,193.27"/>
+    </TextRegion>
+    <TextRegion id="page1_pos3">
+      <Property key="entity" value="invoice_info"/>
+      <Coords points="355.536,129.414 613.941,129.414 613.941,154.085 355.536,154.085"/>
+    </TextRegion>
+    <TextRegion id="page1_pos4">
+      <Property key="entity" value="other"/>
+      <Coords points="356.504,107.644 608.619,107.644 608.619,125.543 356.504,125.543"/>
+    </TextRegion>
+    <TextRegion id="page1_pos5">
+      <Property key="entity" value="other"/>
+      <Coords points="148.853,197.14 594.047,197.14 594.047,236.809 148.853,236.809"/>
+    </TextRegion>
+    <TextRegion id="page1_pos6">
+      <Property key="entity" value="positions"/>
+      <Coords points="152.724,244.549 599.369,244.549 599.369,322.919 152.724,322.919"/>
+    </TextRegion>
+    <TextRegion id="page1_pos7">
+      <Property key="entity" value="total"/>
+      <Coords points="155.628,324.854 598.886,324.854 598.886,350.494 155.628,350.494"/>
+    </TextRegion>
+    <TextRegion id="page1_pos8">
+      <Property key="entity" value="other"/>
+      <Coords points="37.0094,360.684 708.584,360.684 708.584,948.531 37.0094,948.531"/>
+    </TextRegion>
+  </Page>
+</PcGts>

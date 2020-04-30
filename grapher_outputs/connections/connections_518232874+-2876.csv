@@ -1,0 +1,87 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+54.0,36.0,320.0,54.0,BUSINESS       EXPENSE       VOUCHER,other,Employee       Name          Patricia       S.       Clark,29.0,1,Oate       Prepared       Page       Disbursement       Accounting       Uso       ONLY          10/14/97       Ini       1       89.79,354.0,5,29.0,354.0
+53.0,59.0,237.0,89.0,Employee       Name          Patricia       S.       Clark,receiver,Mailing       Address       (If       applicable)          State       Government       Relations          Mail       Code       11101,45.5,3,Account       Number          71564,142.5,2,45.5,142.5
+237.0,59.0,338.0,89.0,Account       Number          71564,receiver,Mailing       Address       (If       applicable)          State       Government       Relations          Mail       Code       11101,45.5,3,Return       lo:,118.5,6,45.5,118.5
+53.0,89.0,237.0,150.0,Mailing       Address       (If       applicable)          State       Government       Relations          Mail       Code       11101,receiver,DEPART       DATEl       DESTINATION(S),50.5,7,Extension       Number          (910)       741-6375,142.5,4,50.5,142.5
+237.0,89.0,338.0,150.0,Extension       Number          (910)       741-6375,receiver,DEPART       DATEl       DESTINATION(S),50.5,7,,0.0,-1,50.5,0.0
+382.0,31.0,700.0,58.0,Oate       Prepared       Page       Disbursement       Accounting       Uso       ONLY          10/14/97       Ini       1       89.79,invoice_info,Return       lo:,21.5,6,,0.0,-1,21.5,0.0
+383.0,62.0,429.0,70.0,Return       lo:,other,RETURN       DATE       PURPOSE       OF       TRIP,104.0,8,,0.0,-1,104.0,0.0
+52.0,162.0,336.0,178.0,DEPART       DATEl       DESTINATION(S),other,"10/08/97       Boone,       NC",15.5,9,RETURN       DATE       PURPOSE       OF       TRIP,327.5,8,15.5,327.5
+336.0,162.0,707.0,178.0,RETURN       DATE       PURPOSE       OF       TRIP,other,"10/08/97       Boone,       NC",15.5,9,,0.0,-1,15.5,0.0
+52.0,178.0,336.0,193.0,"10/08/97       Boone,       NC",other,"10/10/97       Asheville,       NC",20.0,11,|       UNC       Trusteeship       Conference,327.5,10,20.0,327.5
+336.0,178.0,707.0,193.0,|       UNC       Trusteeship       Conference,other,"10/10/97       Asheville,       NC",20.0,11,,0.0,-1,20.0,0.0
+52.0,193.0,336.0,218.0,"10/10/97       Asheville,       NC",other,EXPENSES       PAID       BY       EMPLOYEE,18.0,13,10/12/97       1       Vance-Aycock       Dinner,327.5,12,18.0,-1.0
+336.0,193.0,707.0,218.0,10/12/97       1       Vance-Aycock       Dinner,other,EXPENSES       PAID       BY       EMPLOYEE,18.0,13,,0.0,-1,18.0,0.0
+282.0,217.0,477.0,230.0,EXPENSES       PAID       BY       EMPLOYEE,positions,Thursday,14.0,16,10/12/97       1       Vance-Aycock       Dinner,142.0,12,14.0,142.0
+52.0,229.0,205.0,246.0,DAY       OF       THE       WEEK,positions,DATE,16.0,21,Wednesday,107.0,15,16.0,107.0
+205.0,229.0,266.0,246.0,Wednesday,positions,DATE,16.0,21,Thursday,60.5,16,16.0,60.5
+266.0,229.0,326.0,246.0,Thursday,positions,08-Oc!-97,16.0,22,Friday,60.5,17,16.0,60.5
+326.0,229.0,387.0,246.0,Friday,positions,09-Oct-97,16.0,23,EXPENSES       PAID       BY       EMPLOYEE,23.0,13,16.0,23.0
+387.0,229.0,448.0,246.0,Saturday,positions,IO-Oct-97',16.0,24,Sunday       |       Monday       Tuesday,122.0,19,16.0,122.0
+448.0,229.0,631.0,246.0,Sunday       |       Monday       Tuesday,positions,SUMMARY          AMOUNT,7.5,20,,0.0,-1,7.5,0.0
+631.0,229.0,707.0,261.0,SUMMARY          AMOUNT,positions,13-Oct-97       14-Oct-9       7,8.5,27,,0.0,-1,8.5,0.0
+52.0,246.0,205.0,261.0,DATE,positions,Lodging       (Attach       Receipt),15.0,28,08-Oc!-97,107.0,22,15.0,107.0
+205.0,246.0,266.0,261.0,08-Oc!-97,positions,Lodging       (Attach       Receipt),15.0,28,09-Oct-97,60.5,23,15.0,60.5
+266.0,246.0,326.0,261.0,09-Oct-97,positions,TT,15.0,29,IO-Oct-97',60.5,24,15.0,60.5
+326.0,246.0,387.0,261.0,IO-Oct-97',positions,TT,15.0,29,"TO5ct37""",61.0,25,15.0,61.0
+387.0,246.0,448.0,261.0,"TO5ct37""",positions,”       207.10,15.0,30,12-OCt-97,61.0,26,15.0,61.0
+448.0,246.0,509.0,261.0,12-OCt-97,positions,207.10,15.0,31,13-Oct-97       14-Oct-9       7,91.5,27,15.0,91.5
+509.0,246.0,631.0,261.0,13-Oct-97       14-Oct-9       7,positions,414.20,15.0,32,SUMMARY          AMOUNT,99.0,20,15.0,99.0
+52.0,261.0,205.0,276.0,Lodging       (Attach       Receipt),positions,Breakfast       (Yours       ONLY),15.5,33,TT,167.5,29,15.5,167.5
+266.0,261.0,326.0,276.0,TT,positions,9.25,30.5,38,”       207.10,60.5,30,-1.0,60.5
+326.0,261.0,387.0,276.0,”       207.10,positions,6.2JT,15.5,34,207.10,61.0,31,15.5,61.0
+387.0,261.0,448.0,276.0,207.10,positions,6.2JT,15.5,34,414.20,251.5,32,15.5,251.5
+631.0,261.0,707.0,276.0,414.20,positions,14.25,15.5,36,,0.0,-1,15.5,0.0
+52.0,276.0,205.0,292.0,Breakfast       (Yours       ONLY),positions,Lunch       (Yours       ONLY),15.0,37,6.2JT,289.0,34,15.0,289.0
+387.0,276.0,448.0,292.0,6.2JT,positions,9.25,15.0,38,8.00,61.0,35,15.0,61.0
+448.0,276.0,509.0,292.0,8.00,positions,11.30,15.0,39,14.25,190.5,36,15.0,190.5
+631.0,276.0,707.0,292.0,14.25,positions,20.55,15.0,40,,0.0,-1,15.0,0.0
+52.0,292.0,205.0,306.0,Lunch       (Yours       ONLY),positions,dinner       (Yours       ONLY),14.0,41,9.25,228.0,38,14.0,228.0
+326.0,292.0,387.0,306.0,9.25,positions,25.00,14.0,42,11.30,61.0,39,14.0,61.0
+387.0,292.0,448.0,306.0,11.30,positions,25.00,14.0,42,20.55,251.5,40,14.0,251.5
+631.0,292.0,707.0,306.0,20.55,positions,2535,14.0,43,,0.0,-1,14.0,0.0
+52.0,306.0,205.0,320.0,dinner       (Yours       ONLY),positions,Cab/Bus/Limo,15.0,44,25.00,228.0,42,15.0,228.0
+326.0,306.0,387.0,320.0,25.00,positions,0.50,61.5,48,2535,312.5,43,61.5,312.5
+631.0,306.0,707.0,320.0,2535,positions,f,61.5,49,,0.0,-1,61.5,0.0
+52.0,320.0,205.0,336.0,Cab/Bus/Limo,positions,Parting       Fees,15.5,45,,0.0,-1,15.5,0.0
+52.0,336.0,205.0,351.0,Parting       Fees,positions,Tips       (Not       Included       Elsewhere),15.5,46,,0.0,-1,15.5,0.0
+52.0,351.0,205.0,367.0,Tips       (Not       Included       Elsewhere),positions,Telephone       &       Te'egraph,15.5,47,,0.0,-1,15.5,0.0
+52.0,367.0,205.0,382.0,Telephone       &       Te'egraph,positions,Auto       Rental       (Attach       Agreement),15.0,51,0.50,228.0,48,15.0,228.0
+326.0,367.0,387.0,382.0,0.50,positions,Personal       Auto       (       **       425       miles       X       SO       315),30.0,52,f,244.0,49,-1.0,244.0
+570.0,367.0,631.0,382.0,f,positions,Personal       Auto       (       **       425       miles       X       SO       315),30.0,52,0.50,68.5,50,-1.0,68.5
+631.0,367.0,707.0,382.0,0.50,positions,Personal       Auto       (       **       425       miles       X       SO       315),30.0,52,,0.0,-1,-1.0,0.0
+52.0,382.0,205.0,397.0,Auto       Rental       (Attach       Agreement),positions,Personal       Auto       (       **       425       miles       X       SO       315),15.0,52,,0.0,-1,15.0,0.0
+52.0,397.0,631.0,412.0,Personal       Auto       (       **       425       miles       X       SO       315),positions,Misc.       (Grve       explanation),15.0,54,133.88,327.5,53,15.0,327.5
+631.0,397.0,707.0,412.0,133.88,positions,7.31,30.0,57,,0.0,-1,30.0,0.0
+52.0,412.0,205.0,427.0,Misc.       (Grve       explanation),positions,Beverage,15.0,55,,0.0,-1,15.0,0.0
+52.0,427.0,205.0,442.0,Beverage,positions,*       Personal       Home,15.0,58,7.31,289.0,56,15.0,289.0
+387.0,427.0,448.0,442.0,7.31,positions,241.85,60.5,60,7.31,251.5,57,60.5,251.5
+631.0,427.0,707.0,442.0,7.31,positions,615.68,60.5,62,,0.0,-1,60.5,0.0
+52.0,442.0,205.0,457.0,*       Personal       Home,positions,DAILY       TOTALS,45.5,59,,0.0,-1,45.5,0.0
+52.0,487.0,205.0,503.0,DAILY       TOTALS,positions,"Business       Meeting       or       Entertainment       -       (Show       Date,       Place,       Persons       AH.tated       With       and       Business       Purpose/Discussion)          ^0711/97       -       Beverages       -       Great       Hal       Bar       with       Joanne       Norris,       Public       School       Forum,       and       Jan       Pardue,          Governor       Hunrs       office.       Discussed       governmental       changes       in       personnel.",31.0,63,241.85,228.0,60,31.0,228.0
+326.0,487.0,387.0,503.0,241.85,positions,"Business       Meeting       or       Entertainment       -       (Show       Date,       Place,       Persons       AH.tated       With       and       Business       Purpose/Discussion)          ^0711/97       -       Beverages       -       Great       Hal       Bar       with       Joanne       Norris,       Public       School       Forum,       and       Jan       Pardue,          Governor       Hunrs       office.       Discussed       governmental       changes       in       personnel.",31.0,63,231.95,61.0,61,31.0,61.0
+387.0,487.0,448.0,503.0,231.95,positions,"Business       Meeting       or       Entertainment       -       (Show       Date,       Place,       Persons       AH.tated       With       and       Business       Purpose/Discussion)          ^0711/97       -       Beverages       -       Great       Hal       Bar       with       Joanne       Norris,       Public       School       Forum,       and       Jan       Pardue,          Governor       Hunrs       office.       Discussed       governmental       changes       in       personnel.",31.0,63,615.68,221.0,62,31.0,221.0
+570.0,487.0,707.0,503.0,615.68,positions,■553$,26.5,64,,0.0,-1,26.5,0.0
+51.0,505.0,581.0,547.0,"Business       Meeting       or       Entertainment       -       (Show       Date,       Place,       Persons       AH.tated       With       and       Business       Purpose/Discussion)          ^0711/97       -       Beverages       -       Great       Hal       Bar       with       Joanne       Norris,       Public       School       Forum,       and       Jan       Pardue,          Governor       Hunrs       office.       Discussed       governmental       changes       in       personnel.",positions,G/L       CODES,77.5,68,■553$,368.0,64,77.5,368.0
+667.0,515.0,701.0,528.0,■553$,positions,645.67,84.0,70,,0.0,-1,84.0,0.0
+56.0,599.0,242.0,610.0,TOTAL       EXPENSES       PAID       BY       EMPLOYEE,total,Less       Travel       Advance,19.5,66,OTHER       CODES,135.5,67,19.5,135.5
+55.0,619.0,149.0,629.0,Less       Travel       Advance,total,AMOUNT       OUE       EMPLOYEE,17.5,72,Dated,158.0,71,17.5,158.0
+247.0,598.0,322.0,610.0,OTHER       CODES,total,Dated,20.0,71,G/L       CODES,128.5,68,20.0,128.5
+385.0,598.0,441.0,609.0,G/L       CODES,total,Destination,93.0,77,04       88       0000       9070       867,134.5,69,93.0,134.5
+487.0,599.0,608.0,612.0,04       88       0000       9070       867,total,Commonts(Noto       if       Company       aircraft),91.0,78,645.67,132.0,70,-1.0,132.0
+659.0,599.0,700.0,612.0,645.67,total,645.67,35.5,73,,0.0,-1,35.5,0.0
+245.0,619.0,275.0,629.0,Dated,total,Origin,72.5,76,,0.0,-1,72.5,0.0
+54.0,636.0,180.0,647.0,AMOUNT       OUE       EMPLOYEE,total,AMOUNT       DUE       COMPANY,23.0,74,645.67,555.5,73,23.0,555.5
+647.0,634.0,698.0,648.0,645.67,total,Commonts(Noto       if       Company       aircraft),55.5,78,,0.0,-1,55.5,0.0
+54.0,659.0,176.0,670.0,AMOUNT       DUE       COMPANY,total,Departure       Date,32.0,75,,0.0,-1,32.0,0.0
+96.0,688.0,188.0,705.0,Departure       Date,total,"Other       •       Give       Details          ••       425       Mileage       reflects:       (1)       Winston-Salem       to       Boone/Blowing       Rock       -          100,       (2)       2       trips       from       Blowing       Rock       to       Boone       -       60.       (3)       Blowing       Rock       to          Asheville       -100.       (4)       Around       Asheville       -       21.       (5)       Asheville       to          Winston-Salem       -144",129.0,80,Origin,115.0,76,-1.0,115.0
+188.0,688.0,326.0,705.0,Origin,total,"Other       •       Give       Details          ••       425       Mileage       reflects:       (1)       Winston-Salem       to       Boone/Blowing       Rock       -          100,       (2)       2       trips       from       Blowing       Rock       to       Boone       -       60.       (3)       Blowing       Rock       to          Asheville       -100.       (4)       Around       Asheville       -       21.       (5)       Asheville       to          Winston-Salem       -144",129.0,80,Destination,134.0,77,-1.0,134.0
+326.0,688.0,456.0,705.0,Destination,total,"Other       •       Give       Details          ••       425       Mileage       reflects:       (1)       Winston-Salem       to       Boone/Blowing       Rock       -          100,       (2)       2       trips       from       Blowing       Rock       to       Boone       -       60.       (3)       Blowing       Rock       to          Asheville       -100.       (4)       Around       Asheville       -       21.       (5)       Asheville       to          Winston-Salem       -144",129.0,80,Commonts(Noto       if       Company       aircraft),190.5,78,-1.0,190.5
+456.0,688.0,707.0,705.0,Commonts(Noto       if       Company       aircraft),total,U)          M          to          to          K)          CO,189.0,81,,0.0,-1,189.0,0.0
+74.0,696.0,89.0,763.0,C          H          A          R          G          E,total,"Other       •       Give       Details          ••       425       Mileage       reflects:       (1)       Winston-Salem       to       Boone/Blowing       Rock       -          100,       (2)       2       trips       from       Blowing       Rock       to       Boone       -       60.       (3)       Blowing       Rock       to          Asheville       -100.       (4)       Around       Asheville       -       21.       (5)       Asheville       to          Winston-Salem       -144",96.0,80,Departure       Date,60.5,75,96.0,60.5
+55.0,791.0,432.0,860.0,"Other       •       Give       Details          ••       425       Mileage       reflects:       (1)       Winston-Salem       to       Boone/Blowing       Rock       -          100,       (2)       2       trips       from       Blowing       Rock       to       Boone       -       60.       (3)       Blowing       Rock       to          Asheville       -100.       (4)       Around       Asheville       -       21.       (5)       Asheville       to          Winston-Salem       -144",other,Approval       Authority       Name       (Print       or       Type)          Roger       L.       Mozingo,65.5,83,U)          M          to          to          K)          CO,455.5,81,65.5,-1.0
+690.0,841.0,708.0,930.0,U)          M          to          to          K)          CO,other,,0.0,-1,,0.0,-1,0.0,0.0
+52.0,874.0,251.0,915.0,Employee       Sgnatcren’itle       and       Date,other,1       <27/97,28.0,84,Approval       Authority       Name       (Print       or       Type)          Roger       L.       Mozingo,204.0,83,28.0,204.0
+265.0,873.0,446.0,909.0,Approval       Authority       Name       (Print       or       Type)          Roger       L.       Mozingo,other,,0.0,-1,Approval       Authority       Signature       and       Date,216.5,85,0.0,216.5
+142.0,918.0,170.0,927.0,1       <27/97,other,,0.0,-1,Approval       Authority       Signature       and       Date,416.0,85,0.0,-1.0
+487.0,873.0,657.0,933.0,Approval       Authority       Signature       and       Date,other,,0.0,-1,U)          M          to          to          K)          CO,127.0,81,0.0,127.0

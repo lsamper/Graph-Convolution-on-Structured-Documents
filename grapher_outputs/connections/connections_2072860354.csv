@@ -1,0 +1,24 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+450.0,125.0,557.0,139.0,Invoice       Number:,invoice_info,Invoice       Date:       w/l2/95          Client       Number:       PMOR-01,70.5,2,10050,89.0,1,-1.0,89.0
+574.0,126.0,611.0,140.0,10050,invoice_info,Invoice       Date:       w/l2/95          Client       Number:       PMOR-01,69.5,2,,0.0,-1,69.5,0.0
+457.0,171.0,636.0,234.0,Invoice       Date:       w/l2/95          Client       Number:       PMOR-01,invoice_info,Page:       1,68.0,3,,0.0,-1,68.0,0.0
+522.0,262.0,601.0,279.0,Page:       1,invoice_info,Amount,37.0,6,,0.0,-1,37.0,0.0
+53.0,291.0,256.0,324.0,Invoice       Information,positions,Marketing       Investment,71.0,7,Job       Description,208.0,5,71.0,208.0
+256.0,291.0,469.0,324.0,Job       Description,positions,Marketing       Investment,71.0,7,Amount,198.0,6,71.0,198.0
+469.0,291.0,652.0,324.0,Amount,positions,Professional       Fees       (2nd       half       of,71.0,8,,0.0,-1,71.0,0.0
+53.0,324.0,256.0,433.0,Marketing       Investment,positions,Process       Audit          Cambridge       Brand,97.5,10,Professional       Fees       (2nd       half       of,208.0,8,97.5,208.0
+256.0,324.0,469.0,433.0,Professional       Fees       (2nd       half       of,positions,"$       80,000.00",43.0,9,,0.0,-1,43.0,0.0
+469.0,324.0,652.0,519.0,"$       80,000.00",positions,billing       for       Phase       I)          Reimbursable       Expenses,54.5,11,,0.0,-1,54.5,0.0
+53.0,433.0,256.0,519.0,Process       Audit          Cambridge       Brand,positions,(August       and       September       1995),124.5,12,billing       for       Phase       I)          Reimbursable       Expenses,208.0,11,124.5,208.0
+256.0,433.0,469.0,519.0,billing       for       Phase       I)          Reimbursable       Expenses,positions,(August       and       September       1995),124.5,12,"$       80,000.00",198.0,9,124.5,198.0
+256.0,519.0,469.0,682.0,(August       and       September       1995),positions,TOTAL,130.0,14,"4,65527",198.0,13,130.0,198.0
+469.0,519.0,652.0,682.0,"4,65527",positions,TOTAL,130.0,14,,0.0,-1,130.0,0.0
+256.0,682.0,469.0,779.0,TOTAL,total,"V       •          Net       Due:       Upon       Receipt          Please       remit       payment       to:          Grant       &       Partners       Limited       Partnership          150       Federal       Street,       27th       Floor          Boston,       MA       02110          i",110.5,16,"$       84,655.27",198.0,15,110.5,198.0
+469.0,682.0,652.0,779.0,"$       84,655.27",total,Fax       (617)       330-1399,200.0,21,,0.0,-1,-1.0,0.0
+76.0,783.0,315.0,899.0,"V       •          Net       Due:       Upon       Receipt          Please       remit       payment       to:          Grant       &       Partners       Limited       Partnership          150       Federal       Street,       27th       Floor          Boston,       MA       02110          i",supplier,"150       Federal       Sheet       Boston,       MA       02110",89.5,19,PS£       °98Z10Z,475.5,22,89.5,475.5
+91.0,157.0,234.0,231.0,"Mr.       David       Beran          Vice       President          Philip       Morris,       USA          120       Park       Avenue          New       York,       NY       10017",receiver,Invoice       Information,113.5,4,Invoice       Date:       w/l2/95          Client       Number:       PMOR-01,384.0,2,113.5,384.0
+56.0,925.0,152.0,938.0,Exchange       Partners,supplier,,0.0,-1,"150       Federal       Sheet       Boston,       MA       02110",200.0,19,0.0,200.0
+207.0,924.0,401.0,937.0,"150       Federal       Sheet       Boston,       MA       02110",supplier,,0.0,-1,Phone       (617)737-0505,200.5,20,0.0,200.5
+451.0,925.0,558.0,938.0,Phone       (617)737-0505,supplier,,0.0,-1,Fax       (617)       330-1399,132.0,21,0.0,132.0
+589.0,924.0,684.0,937.0,Fax       (617)       330-1399,supplier,,0.0,-1,,0.0,-1,0.0,0.0
+658.0,790.0,684.0,881.0,PS£       °98Z10Z,other,Fax       (617)       330-1399,95.0,21,,0.0,-1,95.0,0.0

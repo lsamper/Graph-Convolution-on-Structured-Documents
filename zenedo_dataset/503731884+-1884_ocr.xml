@@ -1,0 +1,1786 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15">
+  <Metadata>
+    <Creator>ABBYY FineReader Engine 11 + alto2page.xslt 2018.11.09</Creator>
+    <Created>2019-01-23T00:00:00</Created>
+    <LastChange>2019-01-23T00:00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="503731884+-1884.tif" imageHeight="1000" imageWidth="754">
+    <TextRegion id="Page1_TopMargin">
+      <Property key="Margin" value="Top"/>
+      <Coords points="0,0 754,0 754,80 0,80"/>
+    </TextRegion>
+    <TextRegion id="Page1_RightMargin">
+      <Property key="Margin" value="Right"/>
+      <Coords points="742,80 754,80 754,976 742,976"/>
+    </TextRegion>
+    <TextRegion id="Page1_BottomMargin">
+      <Property key="Margin" value="Bottom"/>
+      <Coords points="0,976 754,976 754,1000 0,1000"/>
+    </TextRegion>
+    <TextRegion id="Page1_PrintSpace">
+      <Property key="Margin" value=""/>
+      <Coords points="0,80 742,80 742,976 0,976"/>
+    </TextRegion>
+    <TextRegion id="Page1_Block1">
+      <Property key="ComposedBlock" value="Page1_Block2 Page1_Block15 Page1_Block70 Page1_Block71 Page1_Block72"/>
+      <Property key="alto-polygon" value="13,92 746,92 746,987 13,987 13,92"/>
+      <Coords points="0,80 742,80 742,976 0,976"/>
+    </TextRegion>
+    <TextRegion id="Page1_Block2">
+      <Property key="ComposedBlock" value="Page1_Block3 Page1_Block4"/>
+      <Property key="alto-polygon" value="23,92 741,92 741,245 23,245 23,92"/>
+      <Coords points="19,80 740,80 740,245 19,245"/>
+    </TextRegion>
+    <TextRegion id="Page1_Block3">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="23,92 738,92 738,107 23,107 23,92"/>
+      <Coords points="22,80 737,80 737,107 22,107"/>
+      <TextLine id="Page1_Block3_l1">
+        <Coords points="23,81 735,81 735,105 23,105"/>
+        <Word id="Page1_Block3_l1_w1">
+          <Coords points="23,81 44,81 44,92 23,92"/>
+          <TextEquiv conf="0.2099999934">
+            <Unicode>IMP</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block3_l1_w2">
+          <Coords points="53,82 148,82 148,93 53,93"/>
+          <TextEquiv conf="0.3769230843">
+            <Unicode>INTERNATIONAL</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block3_l1_w3">
+          <Coords points="156,83 178,83 178,94 156,94"/>
+          <TextEquiv conf="0.5033333302">
+            <Unicode>LTD</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block3_l1_w4">
+          <Coords points="598,93 671,93 671,104 598,104"/>
+          <TextEquiv conf="0.5299999714">
+            <Unicode>PRODUCTION</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block3_l1_w5">
+          <Coords points="679,94 735,94 735,105 679,105"/>
+          <TextEquiv conf="0.5287500024">
+            <Unicode>EST1MATI</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block4">
+      <Property key="ComposedBlock" value="Page1_Block5 Page1_Block6 Page1_Block7 Page1_Block8 Page1_Block9 Page1_Block10 Page1_Block11 Page1_Block12 Page1_Block13 Page1_Block14"/>
+      <Coords points="19,100 739,100 739,245 19,245"/>
+    </TextRegion>
+    <TextRegion id="Page1_Block5">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="23,112 92,112 92,206 23,206 23,112"/>
+      <Coords points="20,100 90,100 90,195 20,195"/>
+      <TextLine id="Page1_Block5_l1">
+        <Coords points="22,110 71,110 71,122 22,122"/>
+        <Word id="Page1_Block5_l1_w1">
+          <Coords points="22,110 71,110 71,122 22,122"/>
+          <TextEquiv conf="0.7114285827">
+            <Unicode>CLIENT}</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Page1_Block5_l2">
+        <Coords points="21,126 63,126 63,137 21,137"/>
+        <Word id="Page1_Block5_l2_w1">
+          <Coords points="21,126 63,126 63,137 21,137"/>
+          <TextEquiv conf="0.4350000024">
+            <Unicode>MEDIA:</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Page1_Block5_l3">
+        <Coords points="22,140 64,140 64,153 22,153"/>
+        <Word id="Page1_Block5_l3_w1">
+          <Coords points="22,141 43,141 43,153 22,153"/>
+          <TextEquiv conf="0.75">
+            <Unicode>BST</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block5_l3_w2">
+          <Coords points="52,141 64,141 64,153 52,153"/>
+          <TextEquiv conf="0.2849999964">
+            <Unicode>#:</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Page1_Block5_l4">
+        <Coords points="21,157 56,157 56,168 21,168"/>
+        <Word id="Page1_Block5_l4_w1">
+          <Coords points="21,157 56,157 56,168 21,168"/>
+          <TextEquiv conf="0.6079999804">
+            <Unicode>DESC:</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block6">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="92,112 275,112 275,206 92,206 92,112"/>
+      <Coords points="89,101 273,101 273,198 89,198"/>
+      <TextLine id="Page1_Block6_l1">
+        <Coords points="111,112 213,112 213,127 111,127"/>
+        <Word id="Page1_Block6_l1_w1">
+          <Coords points="111,112 162,112 162,124 111,124"/>
+          <TextEquiv conf="0.3857142925">
+            <Unicode>RJR/Now</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block6_l1_w2">
+          <Coords points="171,114 213,114 213,127 171,127"/>
+          <TextEquiv conf="0.348333329">
+            <Unicode>Family</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Page1_Block6_l2">
+        <Coords points="110,128 169,128 169,142 110,142"/>
+        <Word id="Page1_Block6_l2_w1">
+          <Coords points="110,128 169,128 169,142 110,142"/>
+          <TextEquiv conf="0.4487499893">
+            <Unicode>Magazine</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Page1_Block6_l3">
+        <Coords points="111,143 213,143 213,155 111,155"/>
+        <Word id="Page1_Block6_l3_w1">
+          <Coords points="111,143 213,143 213,155 111,155"/>
+          <TextEquiv conf="0.4914285839">
+            <Unicode>M4-NF-0101W-4C</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Page1_Block6_l4">
+        <Coords points="110,159 176,159 176,170 110,170"/>
+        <Word id="Page1_Block6_l4_w1">
+          <Coords points="110,159 146,159 146,169 110,169"/>
+          <TextEquiv conf="0.6499999762">
+            <Unicode>ABOVE</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block6_l4_w2">
+          <Coords points="154,159 176,159 176,170 154,170"/>
+          <TextEquiv conf="0.6666666865">
+            <Unicode>ALL</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Page1_Block6_l5">
+        <Coords points="111,174 210,174 210,189 111,189"/>
+        <Word id="Page1_Block6_l5_w1">
+          <Coords points="111,174 160,174 160,186 111,186"/>
+          <TextEquiv conf="0.4699999988">
+            <Unicode>(M)-’W'</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block6_l5_w2">
+          <Coords points="169,176 182,176 182,186 169,186"/>
+          <TextEquiv conf="0.2700000107">
+            <Unicode>Jr</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block6_l5_w3">
+          <Coords points="191,176 210,176 210,189 191,189"/>
+          <TextEquiv conf="0.3766666651">
+            <Unicode>Pg.</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block7">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="474,112 564,112 564,206 474,206 474,112"/>
+      <Coords points="471,108 562,108 562,203 471,203"/>
+      <TextLine id="Page1_Block7_l1">
+        <Coords points="480,120 514,120 514,130 480,130"/>
+        <Word id="Page1_Block7_l1_w1">
+          <Coords points="480,120 514,120 514,130 480,130"/>
+          <TextEquiv conf="0.7940000296">
+            <Unicode>DATE:</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Page1_Block7_l2">
+        <Coords points="480,135 545,135 545,146 480,146"/>
+        <Word id="Page1_Block7_l2_w1">
+          <Coords points="480,135 509,135 509,145 480,145"/>
+          <TextEquiv conf="0.6750000119">
+            <Unicode>PAGE</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block7_l2_w2">
+          <Coords points="517,135 523,135 523,145 517,145"/>
+          <TextEquiv conf="0.25">
+            <Unicode>1</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block7_l2_w3">
+          <Coords points="532,135 545,135 545,146 532,146"/>
+          <TextEquiv conf="0.6949999928">
+            <Unicode>OF</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Page1_Block7_l3">
+        <Coords points="480,149 558,149 558,161 480,161"/>
+        <Word id="Page1_Block7_l3_w1">
+          <Coords points="480,150 538,150 538,161 480,161"/>
+          <TextEquiv conf="0.5625">
+            <Unicode>INTERNAL</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block7_l3_w2">
+          <Coords points="547,150 558,150 558,161 547,161"/>
+          <TextEquiv conf="0.1700000018">
+            <Unicode>#2</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block8">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="564,112 741,112 741,206 564,206 564,112"/>
+      <Coords points="561,109 739,109 739,206 561,206"/>
+      <TextLine id="Page1_Block8_l1">
+        <Coords points="635,153 642,153 642,163 635,163"/>
+        <Word id="Page1_Block8_l1_w1">
+          <Coords points="635,153 642,153 642,163 635,163"/>
+          <TextEquiv conf="0.2666666806">
+            <Unicode>»/&gt;</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Page1_Block8_l2">
+        <Coords points="598,121 619,121 619,163 598,163"/>
+        <Word id="Page1_Block8_l2_w1">
+          <Coords points="599,121 619,121 619,133 599,133"/>
+          <TextEquiv conf="0.2300000042">
+            <Unicode>€</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block8_l2_w2">
+          <Coords points="598,152 612,152 612,163 598,163"/>
+          <TextEquiv conf="0.2399999946">
+            <Unicode>s</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Page1_Block8_l3">
+        <Coords points="591,121 598,121 598,163 591,163"/>
+        <Word id="Page1_Block8_l3_w1">
+          <Coords points="592,121 598,121 598,132 592,132"/>
+          <TextEquiv conf="0">
+            <Unicode>O</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block8_l3_w2">
+          <Coords points="591,151 598,151 598,163 591,163"/>
+          <TextEquiv conf="0.2800000012">
+            <Unicode>H</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Page1_Block8_l4">
+        <Coords points="584,121 590,121 590,161 584,161"/>
+        <Word id="Page1_Block8_l4_w1">
+          <Coords points="584,121 590,121 590,131 584,131"/>
+          <TextEquiv conf="0.2700000107">
+            <Unicode>N</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block8_l4_w2">
+          <Coords points="584,151 590,151 590,161 584,161"/>
+          <TextEquiv conf="1">
+            <Unicode>^</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block9">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="23,206 92,206 92,245 23,245 23,206"/>
+      <Coords points="19,194 89,194 89,234 19,234"/>
+      <TextLine id="Page1_Block9_l1">
+        <Coords points="20,219 50,219 50,231 20,231"/>
+        <Word id="Page1_Block9_l1_w1">
+          <Coords points="20,219 50,219 50,231 20,231"/>
+          <TextEquiv conf="0.6800000072">
+            <Unicode>CODE</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block10">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="92,206 275,206 275,245 92,245 92,206"/>
+      <Coords points="88,195 272,195 272,237 88,237"/>
+      <TextLine id="Page1_Block10_l1">
+        <Coords points="110,221 226,221 226,234 110,234"/>
+        <Word id="Page1_Block10_l1_w1">
+          <Coords points="110,222 160,222 160,232 110,232"/>
+          <TextEquiv conf="0.4085714221">
+            <Unicode>EXPENSE</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block10_l1_w2">
+          <Coords points="169,222 226,222 226,234 169,234"/>
+          <TextEquiv conf="0.7425000072">
+            <Unicode>CATEGORY</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block11">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="275,206 391,206 391,245 275,245 275,206"/>
+      <Coords points="271,198 388,198 388,239 271,239"/>
+      <TextLine id="Page1_Block11_l1">
+        <Coords points="316,209 375,209 375,220 316,220"/>
+        <Word id="Page1_Block11_l1_w1">
+          <Coords points="316,209 375,209 375,220 316,220"/>
+          <TextEquiv conf="0.6987500191">
+            <Unicode>ORICINAL</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Page1_Block11_l2">
+        <Coords points="315,225 373,225 373,236 315,236"/>
+        <Word id="Page1_Block11_l2_w1">
+          <Coords points="315,225 373,225 373,236 315,236"/>
+          <TextEquiv conf="0.7337499857">
+            <Unicode>ESTIMATE</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block12">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="391,206 474,206 474,245 391,245 391,206"/>
+      <Coords points="387,200 471,200 471,240 387,240"/>
+      <TextLine id="Page1_Block12_l1">
+        <Coords points="404,210 456,210 456,222 404,222"/>
+        <Word id="Page1_Block12_l1_w1">
+          <Coords points="404,210 456,210 456,222 404,222"/>
+          <TextEquiv conf="0.5757142901">
+            <Unicode>REVISED</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Page1_Block12_l2">
+        <Coords points="404,226 462,226 462,238 404,238"/>
+        <Word id="Page1_Block12_l2_w1">
+          <Coords points="404,226 462,226 462,238 404,238"/>
+          <TextEquiv conf="0.7674999833">
+            <Unicode>ESTIMATE</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block13">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="474,206 564,206 564,245 474,245 474,206"/>
+      <Coords points="470,201 561,201 561,242 470,242"/>
+      <TextLine id="Page1_Block13_l1">
+        <Coords points="500,212 544,212 544,224 500,224"/>
+        <Word id="Page1_Block13_l1_w1">
+          <Coords points="500,212 544,212 544,224 500,224"/>
+          <TextEquiv conf="0.8899999857">
+            <Unicode>ACTUAL</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Page1_Block13_l2">
+        <Coords points="500,228 536,228 536,240 500,240"/>
+        <Word id="Page1_Block13_l2_w1">
+          <Coords points="500,228 536,228 536,240 500,240"/>
+          <TextEquiv conf="0.7300000191">
+            <Unicode>COSTS</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block14">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="564,206 741,206 741,245 564,245 564,206"/>
+      <Coords points="560,203 738,203 738,245 560,245"/>
+      <TextLine id="Page1_Block14_l1">
+        <Coords points="669,217 721,217 721,228 669,228"/>
+        <Word id="Page1_Block14_l1_w1">
+          <Coords points="669,217 721,217 721,228 669,228"/>
+          <TextEquiv conf="0.7200000286">
+            <Unicode>PERCENT</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Page1_Block14_l2">
+        <Coords points="573,230 735,230 735,243 573,243"/>
+        <Word id="Page1_Block14_l2_w1">
+          <Coords points="573,230 647,230 647,241 573,241"/>
+          <TextEquiv conf="0.5040000081">
+            <Unicode>DIFFERENCE</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block14_l2_w2">
+          <Coords points="662,232 735,232 735,243 662,243"/>
+          <TextEquiv conf="0.6529999971">
+            <Unicode>DIFFERENCE</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block15">
+      <Property key="ComposedBlock" value="Page1_Block16 Page1_Block17 Page1_Block18 Page1_Block19 Page1_Block20 Page1_Block21 Page1_Block22 Page1_Block23 Page1_Block24 Page1_Block25 Page1_Block26 Page1_Block27 Page1_Block28 Page1_Block29 Page1_Block30 Page1_Block31 Page1_Block32 Page1_Block33 Page1_Block34 Page1_Block35 Page1_Block36 Page1_Block37 Page1_Block38 Page1_Block39 Page1_Block40 Page1_Block41 Page1_Block42 Page1_Block43 Page1_Block44 Page1_Block45 Page1_Block46 Page1_Block47 Page1_Block48 Page1_Block49 Page1_Block50 Page1_Block51 Page1_Block52 Page1_Block53 Page1_Block54 Page1_Block55 Page1_Block56 Page1_Block57 Page1_Block58 Page1_Block59 Page1_Block60 Page1_Block61 Page1_Block62 Page1_Block63 Page1_Block64 Page1_Block65 Page1_Block66 Page1_Block67 Page1_Block68 Page1_Block69"/>
+      <Coords points="14,265 742,265 742,595 14,595"/>
+    </TextRegion>
+    <TextRegion id="Page1_Block16">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="23,277 61,277 61,292 23,292 23,277"/>
+      <Coords points="19,265 57,265 57,281 19,281"/>
+      <TextLine id="Page1_Block16_l1">
+        <Coords points="20,266 42,266 42,278 20,278"/>
+        <Word id="Page1_Block16_l1_w1">
+          <Coords points="20,266 42,266 42,278 20,278"/>
+          <TextEquiv conf="0.6633333564">
+            <Unicode>CMC</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block17">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="61,277 270,277 270,292 61,292 61,277"/>
+      <Coords points="57,266 266,266 266,284 57,284"/>
+      <TextLine id="Page1_Block17_l1">
+        <Coords points="72,268 145,268 145,279 72,279"/>
+        <Word id="Page1_Block17_l1_w1">
+          <Coords points="72,268 145,268 145,279 72,279"/>
+          <TextEquiv conf="0.5680000186">
+            <Unicode>Mechanical</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block18">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="270,277 413,277 413,292 270,292 270,277"/>
+      <Coords points="265,269 409,269 409,286 265,286"/>
+      <TextLine id="Page1_Block18_l1">
+        <Coords points="329,270 381,270 381,284 329,284"/>
+        <Word id="Page1_Block18_l1_w1">
+          <Coords points="329,270 381,270 381,284 329,284"/>
+          <TextEquiv conf="0.5185714364">
+            <Unicode>i350.00</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block19">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="590,277 681,277 681,292 590,292 590,277"/>
+      <Coords points="585,274 677,274 677,291 585,291"/>
+      <TextLine id="Page1_Block19_l1">
+        <Coords points="616,278 646,278 646,288 616,288"/>
+        <Word id="Page1_Block19_l1_w1">
+          <Coords points="616,278 646,278 646,288 616,288"/>
+          <TextEquiv conf="0.6600000262">
+            <Unicode>0.00</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block20">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="681,277 746,277 746,292 681,292 681,277"/>
+      <Coords points="676,276 742,276 742,292 676,292"/>
+      <TextLine id="Page1_Block20_l1">
+        <Coords points="705,279 735,279 735,290 705,290"/>
+        <Word id="Page1_Block20_l1_w1">
+          <Coords points="705,279 735,279 735,290 705,290"/>
+          <TextEquiv conf="0.7375000119">
+            <Unicode>0.00</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block21">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="23,292 61,292 61,308 23,308 23,292"/>
+      <Coords points="18,280 56,280 56,297 18,297"/>
+      <TextLine id="Page1_Block21_l1">
+        <Coords points="19,282 41,282 41,292 19,292"/>
+        <Word id="Page1_Block21_l1_w1">
+          <Coords points="19,282 41,282 41,292 19,292"/>
+          <TextEquiv conf="0.1899999976">
+            <Unicode>PPP</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block22">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="61,292 270,292 270,308 61,308 61,292"/>
+      <Coords points="56,281 265,281 265,300 56,300"/>
+      <TextLine id="Page1_Block22_l1">
+        <Coords points="71,283 202,283 202,298 71,298"/>
+        <Word id="Page1_Block22_l1_w1">
+          <Coords points="71,283 136,283 136,297 71,297"/>
+          <TextEquiv conf="0.4488888979">
+            <Unicode>Engraving</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block22_l1_w2">
+          <Coords points="145,286 152,286 152,290 145,290"/>
+          <TextEquiv conf="0.2300000042">
+            <Unicode>-</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block22_l1_w3">
+          <Coords points="160,284 202,284 202,294 160,294"/>
+          <TextEquiv conf="0.5799999833">
+            <Unicode>Offset</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block23">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="270,292 413,292 413,308 270,308 270,292"/>
+      <Coords points="265,284 408,284 408,302 265,302"/>
+      <TextLine id="Page1_Block23_l1">
+        <Coords points="323,286 379,286 379,300 323,300"/>
+        <Word id="Page1_Block23_l1_w1">
+          <Coords points="323,286 379,286 379,300 323,300"/>
+          <TextEquiv conf="0.4824999869">
+            <Unicode>1,300.00</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block24">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="590,292 681,292 681,308 590,308 590,292"/>
+      <Coords points="585,289 676,289 676,307 585,307"/>
+      <TextLine id="Page1_Block24_l1">
+        <Coords points="616,292 645,292 645,303 616,303"/>
+        <Word id="Page1_Block24_l1_w1">
+          <Coords points="616,292 645,292 645,303 616,303"/>
+          <TextEquiv conf="0.7475000024">
+            <Unicode>0.00</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block25">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="681,292 746,292 746,308 681,308 681,292"/>
+      <Coords points="676,291 741,291 741,308 676,308"/>
+      <TextLine id="Page1_Block25_l1">
+        <Coords points="706,293 734,293 734,305 706,305"/>
+        <Word id="Page1_Block25_l1_w1">
+          <Coords points="706,293 734,293 734,305 706,305"/>
+          <TextEquiv conf="0.8025000095">
+            <Unicode>0.00</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block26">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="23,308 61,308 61,323 23,323 23,308"/>
+      <Coords points="18,296 56,296 56,312 18,312"/>
+      <TextLine id="Page1_Block26_l1">
+        <Coords points="19,298 41,298 41,309 19,309"/>
+        <Word id="Page1_Block26_l1_w1">
+          <Coords points="19,298 41,298 41,309 19,309"/>
+          <TextEquiv conf="0.3199999928">
+            <Unicode>PST</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block27">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="61,308 270,308 270,323 61,323 61,308"/>
+      <Coords points="56,297 265,297 265,315 56,315"/>
+      <TextLine id="Page1_Block27_l1">
+        <Coords points="72,299 137,299 137,310 72,310"/>
+        <Word id="Page1_Block27_l1_w1">
+          <Coords points="72,299 137,299 137,310 72,310"/>
+          <TextEquiv conf="0.5644444227">
+            <Unicode>Photostat</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block28">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="270,308 413,308 413,323 270,323 270,308"/>
+      <Coords points="265,300 408,300 408,317 265,317"/>
+      <TextLine id="Page1_Block28_l1">
+        <Coords points="337,303 380,303 380,315 337,315"/>
+        <Word id="Page1_Block28_l1_w1">
+          <Coords points="337,303 380,303 380,315 337,315"/>
+          <TextEquiv conf="0.5383333564">
+            <Unicode>150.00</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block29">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="590,308 681,308 681,323 590,323 590,308"/>
+      <Coords points="585,305 676,305 676,322 585,322"/>
+      <TextLine id="Page1_Block29_l1">
+        <Coords points="616,309 645,309 645,319 616,319"/>
+        <Word id="Page1_Block29_l1_w1">
+          <Coords points="616,309 645,309 645,319 616,319"/>
+          <TextEquiv conf="0.7425000072">
+            <Unicode>0.00</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block30">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="681,308 746,308 746,323 681,323 681,308"/>
+      <Coords points="676,307 741,307 741,323 676,323"/>
+      <TextLine id="Page1_Block30_l1">
+        <Coords points="705,310 734,310 734,321 705,321"/>
+        <Word id="Page1_Block30_l1_w1">
+          <Coords points="705,310 734,310 734,321 705,321"/>
+          <TextEquiv conf="0.7450000048">
+            <Unicode>0.00</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block31">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="61,323 270,323 270,338 61,338 61,323"/>
+      <Coords points="56,312 265,312 265,330 56,330"/>
+      <TextLine id="Page1_Block31_l1">
+        <Coords points="76,317 78,317 78,319 76,319"/>
+        <Word id="Page1_Block31_l1_w1">
+          <Coords points="76,317 78,317 78,319 76,319"/>
+          <TextEquiv conf="0.3600000143">
+            <Unicode>■</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block32">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="270,323 413,323 413,338 270,338 270,323"/>
+      <Coords points="265,315 408,315 408,332 265,332"/>
+      <TextLine id="Page1_Block32_l1">
+        <Coords points="402,316 405,316 405,319 402,319"/>
+        <Word id="Page1_Block32_l1_w1">
+          <Coords points="402,316 405,316 405,319 402,319"/>
+          <TextEquiv conf="1">
+            <Unicode>•</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block33">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="590,323 681,323 681,338 590,338 590,323"/>
+      <Coords points="585,320 676,320 676,337 585,337"/>
+      <TextLine id="Page1_Block33_l1">
+        <Coords points="617,323 645,323 645,334 617,334"/>
+        <Word id="Page1_Block33_l1_w1">
+          <Coords points="617,323 645,323 645,334 617,334"/>
+          <TextEquiv conf="0.7475000024">
+            <Unicode>0.00</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block34">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="681,323 746,323 746,338 681,338 681,323"/>
+      <Coords points="676,322 741,322 741,338 676,338"/>
+      <TextLine id="Page1_Block34_l1">
+        <Coords points="705,324 734,324 734,336 705,336"/>
+        <Word id="Page1_Block34_l1_w1">
+          <Coords points="705,324 734,324 734,336 705,336"/>
+          <TextEquiv conf="0.7149999738">
+            <Unicode>0.00</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block35">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="61,338 270,338 270,354 61,354 61,338"/>
+      <Coords points="56,327 265,327 265,346 56,346"/>
+      <TextLine id="Page1_Block35_l1">
+        <Coords points="162,329 164,329 164,333 162,333"/>
+        <Word id="Page1_Block35_l1_w1">
+          <Coords points="162,329 164,329 164,333 162,333"/>
+          <TextEquiv conf="0.7400000095">
+            <Unicode>'</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block36">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="590,338 681,338 681,354 590,354 590,338"/>
+      <Coords points="584,335 676,335 676,353 584,353"/>
+      <TextLine id="Page1_Block36_l1">
+        <Coords points="616,338 645,338 645,349 616,349"/>
+        <Word id="Page1_Block36_l1_w1">
+          <Coords points="616,338 645,338 645,349 616,349"/>
+          <TextEquiv conf="0.8725000024">
+            <Unicode>0.00</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block37">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="681,338 746,338 746,354 681,354 681,338"/>
+      <Coords points="675,337 741,337 741,354 675,354"/>
+      <TextLine id="Page1_Block37_l1">
+        <Coords points="705,339 734,339 734,351 705,351"/>
+        <Word id="Page1_Block37_l1_w1">
+          <Coords points="705,339 734,339 734,351 705,351"/>
+          <TextEquiv conf="0.75">
+            <Unicode>0.00</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block38">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="590,354 681,354 681,370 590,370 590,354"/>
+      <Coords points="584,351 675,351 675,369 584,369"/>
+      <TextLine id="Page1_Block38_l1">
+        <Coords points="615,354 644,354 644,365 615,365"/>
+        <Word id="Page1_Block38_l1_w1">
+          <Coords points="615,354 644,354 644,365 615,365"/>
+          <TextEquiv conf="0.6025000215">
+            <Unicode>0.00</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block39">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="681,354 746,354 746,370 681,370 681,354"/>
+      <Coords points="675,353 740,353 740,370 675,370"/>
+      <TextLine id="Page1_Block39_l1">
+        <Coords points="704,355 733,355 733,367 704,367"/>
+        <Word id="Page1_Block39_l1_w1">
+          <Coords points="704,355 733,355 733,367 704,367"/>
+          <TextEquiv conf="0.6625000238">
+            <Unicode>0.00</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block40">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="590,370 681,370 681,385 590,385 590,370"/>
+      <Coords points="584,367 675,367 675,384 584,384"/>
+      <TextLine id="Page1_Block40_l1">
+        <Coords points="616,370 644,370 644,380 616,380"/>
+        <Word id="Page1_Block40_l1_w1">
+          <Coords points="616,370 644,370 644,380 616,380"/>
+          <TextEquiv conf="0.5575000048">
+            <Unicode>0.00</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block41">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="681,370 746,370 746,385 681,385 681,370"/>
+      <Coords points="675,369 740,369 740,385 675,385"/>
+      <TextLine id="Page1_Block41_l1">
+        <Coords points="704,371 733,371 733,383 704,383"/>
+        <Word id="Page1_Block41_l1_w1">
+          <Coords points="704,371 733,371 733,383 704,383"/>
+          <TextEquiv conf="0.6025000215">
+            <Unicode>0.00</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block42">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="590,385 681,385 681,400 590,400 590,385"/>
+      <Coords points="584,382 675,382 675,399 584,399"/>
+      <TextLine id="Page1_Block42_l1">
+        <Coords points="615,385 644,385 644,396 615,396"/>
+        <Word id="Page1_Block42_l1_w1">
+          <Coords points="615,385 644,385 644,396 615,396"/>
+          <TextEquiv conf="0.6499999762">
+            <Unicode>0.00</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block43">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="681,385 746,385 746,400 681,400 681,385"/>
+      <Coords points="675,384 740,384 740,400 675,400"/>
+      <TextLine id="Page1_Block43_l1">
+        <Coords points="704,386 734,386 734,398 704,398"/>
+        <Word id="Page1_Block43_l1_w1">
+          <Coords points="704,386 734,386 734,398 704,398"/>
+          <TextEquiv conf="0.8199999928">
+            <Unicode>0.00</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block44">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="590,400 681,400 681,416 590,416 590,400"/>
+      <Coords points="583,397 675,397 675,415 583,415"/>
+      <TextLine id="Page1_Block44_l1">
+        <Coords points="615,400 644,400 644,411 615,411"/>
+        <Word id="Page1_Block44_l1_w1">
+          <Coords points="615,400 644,400 644,411 615,411"/>
+          <TextEquiv conf="0.7699999809">
+            <Unicode>0.00</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block45">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="681,400 746,400 746,416 681,416 681,400"/>
+      <Coords points="674,399 740,399 740,416 674,416"/>
+      <TextLine id="Page1_Block45_l1">
+        <Coords points="704,401 734,401 734,414 704,414"/>
+        <Word id="Page1_Block45_l1_w1">
+          <Coords points="704,401 734,401 734,414 704,414"/>
+          <TextEquiv conf="0.8924999833">
+            <Unicode>0.00</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block46">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="590,416 681,416 681,431 590,431 590,416"/>
+      <Coords points="583,413 674,413 674,430 583,430"/>
+      <TextLine id="Page1_Block46_l1">
+        <Coords points="615,416 643,416 643,426 615,426"/>
+        <Word id="Page1_Block46_l1_w1">
+          <Coords points="615,416 643,416 643,426 615,426"/>
+          <TextEquiv conf="0.6175000072">
+            <Unicode>0.00</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block47">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="681,416 746,416 746,431 681,431 681,416"/>
+      <Coords points="674,415 739,415 739,431 674,431"/>
+      <TextLine id="Page1_Block47_l1">
+        <Coords points="704,417 735,417 735,429 704,429"/>
+        <Word id="Page1_Block47_l1_w1">
+          <Coords points="704,417 735,417 735,429 704,429"/>
+          <TextEquiv conf="0.7400000095">
+            <Unicode>o.oo:</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block48">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="590,431 681,431 681,447 590,447 590,431"/>
+      <Coords points="583,428 674,428 674,446 583,446"/>
+      <TextLine id="Page1_Block48_l1">
+        <Coords points="614,431 643,431 643,442 614,442"/>
+        <Word id="Page1_Block48_l1_w1">
+          <Coords points="614,431 643,431 643,442 614,442"/>
+          <TextEquiv conf="0.6050000191">
+            <Unicode>0.00</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block49">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="681,431 746,431 746,447 681,447 681,431"/>
+      <Coords points="674,430 739,430 739,447 674,447"/>
+      <TextLine id="Page1_Block49_l1">
+        <Coords points="703,432 735,432 735,444 703,444"/>
+        <Word id="Page1_Block49_l1_w1">
+          <Coords points="703,432 735,432 735,444 703,444"/>
+          <TextEquiv conf="0.7179999948">
+            <Unicode>o.oo:</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block50">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="590,447 681,447 681,463 590,463 590,447"/>
+      <Coords points="583,444 674,444 674,462 583,462"/>
+      <TextLine id="Page1_Block50_l1">
+        <Coords points="615,447 643,447 643,458 615,458"/>
+        <Word id="Page1_Block50_l1_w1">
+          <Coords points="615,447 643,447 643,458 615,458"/>
+          <TextEquiv conf="0.7574999928">
+            <Unicode>0.00</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block51">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="681,447 746,447 746,463 681,463 681,447"/>
+      <Coords points="674,446 739,446 739,463 674,463"/>
+      <TextLine id="Page1_Block51_l1">
+        <Coords points="704,448 735,448 735,460 704,460"/>
+        <Word id="Page1_Block51_l1_w1">
+          <Coords points="704,448 735,448 735,460 704,460"/>
+          <TextEquiv conf="0.6539999843">
+            <Unicode>o.oo:</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block52">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="590,463 681,463 681,478 590,478 590,463"/>
+      <Coords points="582,460 674,460 674,477 582,477"/>
+      <TextLine id="Page1_Block52_l1">
+        <Coords points="613,463 643,463 643,473 613,473"/>
+        <Word id="Page1_Block52_l1_w1">
+          <Coords points="613,463 643,463 643,473 613,473"/>
+          <TextEquiv conf="0.8149999976">
+            <Unicode>0.00</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block53">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="681,463 746,463 746,478 681,478 681,463"/>
+      <Coords points="673,462 739,462 739,478 673,478"/>
+      <TextLine id="Page1_Block53_l1">
+        <Coords points="703,464 736,464 736,475 703,475"/>
+        <Word id="Page1_Block53_l1_w1">
+          <Coords points="703,464 736,464 736,475 703,475"/>
+          <TextEquiv conf="0.4659999907">
+            <Unicode>o.oo:</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block54">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="590,478 681,478 681,493 590,493 590,478"/>
+      <Coords points="582,475 673,475 673,492 582,492"/>
+      <TextLine id="Page1_Block54_l1">
+        <Coords points="614,478 642,478 642,488 614,488"/>
+        <Word id="Page1_Block54_l1_w1">
+          <Coords points="614,478 642,478 642,488 614,488"/>
+          <TextEquiv conf="0.4774999917">
+            <Unicode>0.00</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block55">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="681,478 746,478 746,493 681,493 681,478"/>
+      <Coords points="673,477 738,477 738,493 673,493"/>
+      <TextLine id="Page1_Block55_l1">
+        <Coords points="703,479 735,479 735,491 703,491"/>
+        <Word id="Page1_Block55_l1_w1">
+          <Coords points="703,479 735,479 735,491 703,491"/>
+          <TextEquiv conf="0.6420000196">
+            <Unicode>o.oo:</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block56">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="23,493 61,493 61,509 23,509 23,493"/>
+      <Coords points="15,481 53,481 53,498 15,498"/>
+      <TextLine id="Page1_Block56_l1">
+        <Coords points="19,487 20,487 20,491 19,491"/>
+        <Word id="Page1_Block56_l1_w1">
+          <Coords points="19,487 20,487 20,491 19,491"/>
+          <TextEquiv conf="0.25">
+            <Unicode>l</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block57">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="590,493 681,493 681,509 590,509 590,493"/>
+      <Coords points="582,490 673,490 673,508 582,508"/>
+      <TextLine id="Page1_Block57_l1">
+        <Coords points="614,493 642,493 642,505 614,505"/>
+        <Word id="Page1_Block57_l1_w1">
+          <Coords points="614,493 642,493 642,505 614,505"/>
+          <TextEquiv conf="0.4850000143">
+            <Unicode>0.00</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block58">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="681,493 746,493 746,509 681,509 681,493"/>
+      <Coords points="673,492 738,492 738,509 673,509"/>
+      <TextLine id="Page1_Block58_l1">
+        <Coords points="702,494 735,494 735,507 702,507"/>
+        <Word id="Page1_Block58_l1_w1">
+          <Coords points="702,494 735,494 735,507 702,507"/>
+          <TextEquiv conf="0.5619999766">
+            <Unicode>o.oo:</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block59">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="23,509 61,509 61,531 23,531 23,509"/>
+      <Coords points="15,497 53,497 53,520 15,520"/>
+      <TextLine id="Page1_Block59_l1">
+        <Coords points="16,498 37,498 37,509 16,509"/>
+        <Word id="Page1_Block59_l1_w1">
+          <Coords points="16,498 37,498 37,509 16,509"/>
+          <TextEquiv conf="0.3774999976">
+            <Unicode>Tfc4</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block60">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="61,509 270,509 270,531 61,531 61,509"/>
+      <Coords points="53,498 262,498 262,523 53,523"/>
+      <TextLine id="Page1_Block60_l1">
+        <Coords points="67,499 214,499 214,514 67,514"/>
+        <Word id="Page1_Block60_l1_w1">
+          <Coords points="67,499 90,499 90,509 67,509"/>
+          <TextEquiv conf="0.5266666412">
+            <Unicode>NYC</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block60_l1_w2">
+          <Coords points="98,500 133,500 133,510 98,510"/>
+          <TextEquiv conf="0.6740000248">
+            <Unicode>Sales</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block60_l1_w3">
+          <Coords points="142,501 163,501 163,511 142,511"/>
+          <TextEquiv conf="0.6399999857">
+            <Unicode>Tax</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block60_l1_w4">
+          <Coords points="171,502 214,502 214,514 171,514"/>
+          <TextEquiv conf="0.5">
+            <Unicode>Exempt</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block61">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="270,509 413,509 413,531 270,531 270,509"/>
+      <Coords points="262,501 405,501 405,525 262,525"/>
+      <TextLine id="Page1_Block61_l1">
+        <Coords points="341,503 376,503 376,514 341,514"/>
+        <Word id="Page1_Block61_l1_w1">
+          <Coords points="341,503 376,503 376,514 341,514"/>
+          <TextEquiv conf="0.7839999795">
+            <Unicode>50.00</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block62">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="590,509 681,509 681,531 590,531 590,509"/>
+      <Coords points="582,506 673,506 673,530 582,530"/>
+      <TextLine id="Page1_Block62_l1">
+        <Coords points="614,509 642,509 642,519 614,519"/>
+        <Word id="Page1_Block62_l1_w1">
+          <Coords points="614,509 642,509 642,519 614,519"/>
+          <TextEquiv conf="0.6999999881">
+            <Unicode>0.00</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block63">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="681,509 746,509 746,531 681,531 681,509"/>
+      <Coords points="673,508 738,508 738,531 673,531"/>
+      <TextLine id="Page1_Block63_l1">
+        <Coords points="703,510 735,510 735,521 703,521"/>
+        <Word id="Page1_Block63_l1_w1">
+          <Coords points="703,510 735,510 735,521 703,521"/>
+          <TextEquiv conf="0.5699999928">
+            <Unicode>o.oo:</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block64">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="61,531 270,531 270,563 61,563 61,531"/>
+      <Coords points="52,520 262,520 262,555 52,555"/>
+      <TextLine id="Page1_Block64_l1">
+        <Coords points="178,532 215,532 215,542 178,542"/>
+        <Word id="Page1_Block64_l1_w1">
+          <Coords points="178,532 215,532 215,542 178,542"/>
+          <TextEquiv conf="0.7459999919">
+            <Unicode>TOTAL</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block65">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="270,531 413,531 413,563 270,563 270,531"/>
+      <Coords points="261,523 405,523 405,557 261,557"/>
+      <TextLine id="Page1_Block65_l1">
+        <Coords points="311,532 376,532 376,548 311,548"/>
+        <Word id="Page1_Block65_l1_w1">
+          <Coords points="311,532 376,532 376,548 311,548"/>
+          <TextEquiv conf="0.545555532">
+            <Unicode>*1,850.00</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block66">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="413,531 501,531 501,563 413,563 413,531"/>
+      <Coords points="404,525 493,525 493,559 404,559"/>
+      <TextLine id="Page1_Block66_l1">
+        <Coords points="429,534 465,534 465,547 429,547"/>
+        <Word id="Page1_Block66_l1_w1">
+          <Coords points="429,534 465,534 465,547 429,547"/>
+          <TextEquiv conf="0.3140000105">
+            <Unicode>io.oo</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block67">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="501,531 590,531 590,563 501,563 501,531"/>
+      <Coords points="492,527 582,527 582,560 492,560"/>
+      <TextLine id="Page1_Block67_l1">
+        <Coords points="518,535 553,535 553,549 518,549"/>
+        <Word id="Page1_Block67_l1_w1">
+          <Coords points="518,535 553,535 553,549 518,549"/>
+          <TextEquiv conf="0.4959999919">
+            <Unicode>*0.00</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block68">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="590,531 681,531 681,563 590,563 590,531"/>
+      <Coords points="581,528 673,528 673,562 581,562"/>
+      <TextLine id="Page1_Block68_l1">
+        <Coords points="613,539 641,539 641,550 613,550"/>
+        <Word id="Page1_Block68_l1_w1">
+          <Coords points="613,539 641,539 641,550 613,550"/>
+          <TextEquiv conf="0.4399999976">
+            <Unicode>0.00</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block69">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="681,531 746,531 746,563 681,563 681,531"/>
+      <Coords points="672,530 738,530 738,563 672,563"/>
+      <TextLine id="Page1_Block69_l1">
+        <Coords points="701,540 735,540 735,552 701,552"/>
+        <Word id="Page1_Block69_l1_w1">
+          <Coords points="701,540 735,540 735,552 701,552"/>
+          <TextEquiv conf="0.6480000019">
+            <Unicode>0.003</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block70">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="15,602 327,602 327,679 15,679 15,602"/>
+      <Coords points="4,590 317,590 317,672 4,672"/>
+      <TextLine id="Page1_Block70_l1">
+        <Coords points="6,590 285,590 285,608 6,608"/>
+        <Word id="Page1_Block70_l1_w1">
+          <Coords points="6,594 9,594 9,601 6,601"/>
+          <TextEquiv conf="0.2399999946">
+            <Unicode>;</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block70_l1_w2">
+          <Coords points="14,590 79,590 79,602 14,602"/>
+          <TextEquiv conf="0.4933333397">
+            <Unicode>COMMENTS:</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block70_l1_w3">
+          <Coords points="103,593 140,593 140,603 103,603"/>
+          <TextEquiv conf="0.5066666603">
+            <Unicode>TAN</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block70_l1_w4">
+          <Coords points="149,596 169,596 169,606 149,606"/>
+          <TextEquiv conf="0.3833333254">
+            <Unicode>per</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block70_l1_w5">
+          <Coords points="178,594 204,594 204,604 178,604"/>
+          <TextEquiv conf="0.5425000191">
+            <Unicode>Feb.</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block70_l1_w6">
+          <Coords points="214,593 227,593 227,604 214,604"/>
+          <TextEquiv conf="0.5049999952">
+            <Unicode>84</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block70_l1_w7">
+          <Coords points="237,597 285,597 285,608 237,608"/>
+          <TextEquiv conf="0.395714283">
+            <Unicode>report.</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Page1_Block70_l2">
+        <Coords points="6,601 167,601 167,618 6,618"/>
+        <Word id="Page1_Block70_l2_w1">
+          <Coords points="6,601 95,601 95,616 6,616"/>
+          <TextEquiv conf="0.4724999964">
+            <Unicode>*EXPLANATION</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block70_l2_w2">
+          <Coords points="103,607 117,607 117,617 103,617"/>
+          <TextEquiv conf="0.6100000143">
+            <Unicode>OF</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block70_l2_w3">
+          <Coords points="126,607 167,607 167,618 126,618"/>
+          <TextEquiv conf="0.7733333111">
+            <Unicode>COSTS:</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Page1_Block70_l3">
+        <Coords points="5,616 218,616 218,641 5,641"/>
+        <Word id="Page1_Block70_l3_w1">
+          <Coords points="5,616 42,616 42,639 5,639"/>
+          <TextEquiv conf="0.3766666651">
+            <Unicode>j'TRCT</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block70_l3_w2">
+          <Coords points="60,622 66,622 66,632 60,632"/>
+          <TextEquiv conf="0.3799999952">
+            <Unicode>1</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block70_l3_w3">
+          <Coords points="74,622 132,622 132,636 74,636"/>
+          <TextEquiv conf="0.3462499976">
+            <Unicode>original</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block70_l3_w4">
+          <Coords points="140,624 218,624 218,635 140,635"/>
+          <TextEquiv conf="0.4372727275">
+            <Unicode>mechanical.</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Page1_Block70_l4">
+        <Coords points="7,636 315,636 315,654 7,654"/>
+        <Word id="Page1_Block70_l4_w1">
+          <Coords points="7,636 41,636 41,647 7,647"/>
+          <TextEquiv conf="0.3120000064">
+            <Unicode>.PFF:</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block70_l4_w2">
+          <Coords points="59,637 65,637 65,647 59,647"/>
+          <TextEquiv conf="0.349999994">
+            <Unicode>1</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block70_l4_w3">
+          <Coords points="74,639 94,639 94,647 74,647"/>
+          <TextEquiv conf="0.676666677">
+            <Unicode>set</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block70_l4_w4">
+          <Coords points="103,638 116,638 116,648 103,648"/>
+          <TextEquiv conf="0.5099999905">
+            <Unicode>of</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block70_l4_w5">
+          <Coords points="126,638 160,638 160,652 126,652"/>
+          <TextEquiv conf="0.3819999993">
+            <Unicode>film,</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block70_l4_w6">
+          <Coords points="169,642 183,642 183,649 169,649"/>
+          <TextEquiv conf="0.7749999762">
+            <Unicode>no</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block70_l4_w7">
+          <Coords points="192,639 242,639 242,653 192,653"/>
+          <TextEquiv conf="0.3442857265">
+            <Unicode>proofs*</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block70_l4_w8">
+          <Coords points="250,643 264,643 264,651 250,651"/>
+          <TextEquiv conf="0.4099999964">
+            <Unicode>no</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block70_l4_w9">
+          <Coords points="273,643 315,643 315,654 273,654"/>
+          <TextEquiv conf="0.7866666913">
+            <Unicode>progs.</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Page1_Block70_l5">
+        <Coords points="4,650 284,650 284,670 4,670"/>
+        <Word id="Page1_Block70_l5_w1">
+          <Coords points="4,650 41,650 41,664 4,664"/>
+          <TextEquiv conf="0.326000005">
+            <Unicode>TPST:</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block70_l5_w2">
+          <Coords points="59,653 64,653 64,663 59,663"/>
+          <TextEquiv conf="1">
+            <Unicode>7</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block70_l5_w3">
+          <Coords points="73,654 94,654 94,664 73,664"/>
+          <TextEquiv conf="0.4933333397">
+            <Unicode>for</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block70_l5_w4">
+          <Coords points="104,655 145,655 145,667 104,667"/>
+          <TextEquiv conf="0.5749999881">
+            <Unicode>legal;</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block70_l5_w5">
+          <Coords points="155,654 168,654 168,666 155,666"/>
+          <TextEquiv conf="0.6800000072">
+            <Unicode>10</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block70_l5_w6">
+          <Coords points="177,656 197,656 197,666 177,666"/>
+          <TextEquiv conf="0.6700000167">
+            <Unicode>for</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block70_l5_w7">
+          <Coords points="205,656 284,656 284,668 205,668"/>
+          <TextEquiv conf="0.4518181682">
+            <Unicode>mechanical.</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block71">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="14,727 26,727 26,808 14,808 14,727"/>
+      <Coords points="1,715 14,715 14,796 1,796"/>
+      <TextLine id="Page1_Block71_l1">
+        <Coords points="2,716 8,716 8,718 2,718"/>
+        <Word id="Page1_Block71_l1_w1">
+          <Coords points="2,716 4,716 4,718 2,718"/>
+          <TextEquiv conf="0.2599999905">
+            <Unicode>•</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block71_l1_w2">
+          <Coords points="6,717 8,717 8,718 6,718"/>
+          <TextEquiv conf="0.5500000119">
+            <Unicode>-</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Page1_Block71_l2">
+        <Coords points="3,739 11,739 11,748 3,748"/>
+        <Word id="Page1_Block71_l2_w1">
+          <Coords points="3,739 11,739 11,748 3,748"/>
+          <TextEquiv conf="0.2949999869">
+            <Unicode>if</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Page1_Block71_l3">
+        <Coords points="4,750 8,750 8,754 4,754"/>
+        <Word id="Page1_Block71_l3_w1">
+          <Coords points="4,750 8,750 8,754 4,754"/>
+          <TextEquiv conf="0.5899999738">
+            <Unicode>•5</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Page1_Block71_l4">
+        <Coords points="3,757 12,757 12,764 3,764"/>
+        <Word id="Page1_Block71_l4_w1">
+          <Coords points="3,758 5,758 5,761 3,761"/>
+          <TextEquiv conf="0.09000000358">
+            <Unicode>%</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block71_l4_w2">
+          <Coords points="6,757 12,757 12,764 6,764"/>
+          <TextEquiv conf="0.1299999952">
+            <Unicode>h</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Page1_Block71_l5">
+        <Coords points="4,768 11,768 11,769 4,769"/>
+        <Word id="Page1_Block71_l5_w1">
+          <Coords points="4,768 11,768 11,769 4,769"/>
+          <TextEquiv conf="0.400000006">
+            <Unicode>..</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Page1_Block71_l6">
+        <Coords points="2,784 4,784 4,792 2,792"/>
+        <Word id="Page1_Block71_l6_w1">
+          <Coords points="2,784 4,784 4,792 2,792"/>
+          <TextEquiv conf="0.3600000143">
+            <Unicode>j</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block72">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="13,839 90,839 90,987 13,987 13,839"/>
+      <Coords points="0,827 77,827 77,976 0,976"/>
+      <TextLine id="Page1_Block72_l1">
+        <Coords points="2,829 4,829 4,831 2,831"/>
+        <Word id="Page1_Block72_l1_w1">
+          <Coords points="2,829 4,829 4,831 2,831"/>
+          <TextEquiv conf="0.1700000018">
+            <Unicode>r</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Page1_Block72_l2">
+        <Coords points="0,833 13,833 13,849 0,849"/>
+        <Word id="Page1_Block72_l2_w1">
+          <Coords points="0,833 13,833 13,849 0,849"/>
+          <TextEquiv conf="0.2899999917">
+            <Unicode>t</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Page1_Block72_l3">
+        <Coords points="0,852 9,852 9,861 0,861"/>
+        <Word id="Page1_Block72_l3_w1">
+          <Coords points="0,852 9,852 9,861 0,861"/>
+          <TextEquiv conf="0.1899999976">
+            <Unicode>V</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Page1_Block72_l4">
+        <Coords points="0,888 75,888 75,911 0,911"/>
+        <Word id="Page1_Block72_l4_w1">
+          <Coords points="0,888 75,888 75,911 0,911"/>
+          <TextEquiv conf="0.2160000056">
+            <Unicode>1BJBI-CAI;</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Page1_Block72_l5">
+        <Coords points="0,926 8,926 8,938 0,938"/>
+        <Word id="Page1_Block72_l5_w1">
+          <Coords points="0,926 8,926 8,938 0,938"/>
+          <TextEquiv conf="0.05000000075">
+            <Unicode>l</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Page1_Block72_l6">
+        <Coords points="1,940 9,940 9,952 1,952"/>
+        <Word id="Page1_Block72_l6_w1">
+          <Coords points="1,940 9,940 9,952 1,952"/>
+          <TextEquiv conf="0.5400000215">
+            <Unicode>i-</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block73">
+      <Property key="ComposedBlock" value="Page1_Block74 Page1_Block75 Page1_Block76 Page1_Block77 Page1_Block78"/>
+      <Property key="alto-polygon" value="273,860 742,860 742,964 273,964 273,860"/>
+      <Coords points="258,852 728,852 728,964 258,964"/>
+    </TextRegion>
+    <TextRegion id="Page1_Block74">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="493,880 648,880 648,893 493,893 493,880"/>
+      <Coords points="479,876 634,876 634,891 479,891"/>
+      <TextLine id="Page1_Block74_l1">
+        <Coords points="483,877 629,877 629,889 483,889"/>
+        <Word id="Page1_Block74_l1_w1">
+          <Coords points="483,877 517,877 517,887 483,887"/>
+          <TextEquiv conf="0.5419999957">
+            <Unicode>AUTH.</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block74_l1_w2">
+          <Coords points="528,877 546,877 546,888 528,888"/>
+          <TextEquiv conf="0.3533333242">
+            <Unicode>BY:</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block74_l1_w3">
+          <Coords points="556,878 583,878 583,888 556,888"/>
+          <TextEquiv conf="0.5749999881">
+            <Unicode>J.C.</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="Page1_Block74_l1_w4">
+          <Coords points="593,879 629,879 629,889 593,889"/>
+          <TextEquiv conf="0.6399999857">
+            <Unicode>Tobin</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block75">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="273,909 693,909 693,925 273,925 273,909"/>
+      <Coords points="258,901 678,901 678,924 258,924"/>
+      <TextLine id="Page1_Block75_l1">
+        <Coords points="258,904 677,904 677,922 258,922"/>
+        <Word id="Page1_Block75_l1_w1">
+          <Coords points="393,906 489,906 489,919 393,919"/>
+          <TextEquiv conf="0.3518181741">
+            <Unicode>BJBI-CODE;—</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block76">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="645,936 682,936 682,958 645,958 645,936"/>
+      <Coords points="630,934 667,934 667,957 630,957"/>
+      <TextLine id="Page1_Block76_l1">
+        <Coords points="630,937 662,937 662,955 630,955"/>
+        <Word id="Page1_Block76_l1_w1">
+          <Coords points="630,937 662,937 662,955 630,955"/>
+          <TextEquiv conf="0.09000000358">
+            <Unicode>\C&amp;</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block77">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="722,860 741,860 741,906 722,906 722,860"/>
+      <Coords points="707,859 727,859 727,906 707,906"/>
+      <TextLine id="Page1_Block77_l1">
+        <Coords points="712,860 721,860 721,867 712,867"/>
+        <Word id="Page1_Block77_l1_w1">
+          <Coords points="712,860 721,860 721,867 712,867"/>
+          <TextEquiv conf="0.1449999958">
+            <Unicode>vi</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Page1_Block77_l2">
+        <Coords points="712,869 722,869 722,876 712,876"/>
+        <Word id="Page1_Block77_l2_w1">
+          <Coords points="712,869 722,869 722,876 712,876"/>
+          <TextEquiv conf="0">
+            <Unicode>o</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Page1_Block77_l3">
+        <Coords points="712,879 722,879 722,886 712,886"/>
+        <Word id="Page1_Block77_l3_w1">
+          <Coords points="712,879 722,879 722,886 712,886"/>
+          <TextEquiv conf="0.5">
+            <Unicode>UJ</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Page1_Block77_l4">
+        <Coords points="713,887 722,887 722,895 713,895"/>
+        <Word id="Page1_Block77_l4_w1">
+          <Coords points="713,887 722,887 722,895 713,895"/>
+          <TextEquiv conf="0.3950000107">
+            <Unicode>-J</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Page1_Block77_l5">
+        <Coords points="713,896 722,896 722,904 713,904"/>
+        <Word id="Page1_Block77_l5_w1">
+          <Coords points="713,896 722,896 722,904 713,904"/>
+          <TextEquiv conf="0.2800000012">
+            <Unicode>w</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="Page1_Block78">
+      <Property key="language" value="en-US"/>
+      <Property key="alto-polygon" value="724,924 742,924 742,942 724,942 724,924"/>
+      <Coords points="709,923 727,923 727,942 709,942"/>
+      <TextLine id="Page1_Block78_l1">
+        <Coords points="713,924 722,924 722,931 713,931"/>
+        <Word id="Page1_Block78_l1_w1">
+          <Coords points="713,924 722,924 722,931 713,931"/>
+          <TextEquiv conf="0.3600000143">
+            <Unicode>CO</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+      <TextLine id="Page1_Block78_l2">
+        <Coords points="713,933 722,933 722,940 713,940"/>
+        <Word id="Page1_Block78_l2_w1">
+          <Coords points="713,933 722,933 722,940 713,940"/>
+          <TextEquiv conf="0.275000006">
+            <Unicode>CD</Unicode>
+          </TextEquiv>
+        </Word>
+      </TextLine>
+    </TextRegion>
+    <ImageRegion id="Page1_Block79">
+      <Property key="alto-polygon" value="485,657 701,657 701,739 485,739 485,657"/>
+      <Coords points="473,653 690,653 690,738 473,738"/>
+    </ImageRegion>
+    <SeparatorRegion id="Page1_Block80">
+      <Coords points="45,101 656,101 656,115 45,115"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="Page1_Block81">
+      <Coords points="657,113 730,113 730,118 657,118"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="Page1_Block82">
+      <Coords points="21,192 397,192 397,202 21,202"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="Page1_Block83">
+      <Coords points="406,198 736,198 736,209 406,209"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="Page1_Block84">
+      <Coords points="21,238 286,238 286,246 21,246"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="Page1_Block85">
+      <Coords points="375,245 426,245 426,249 375,249"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="Page1_Block86">
+      <Coords points="545,249 588,249 588,252 545,252"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="Page1_Block87">
+      <Coords points="670,251 721,251 721,255 670,255"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="Page1_Block88">
+      <Coords points="305,522 385,522 385,527 305,527"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="Page1_Block89">
+      <Coords points="393,523 474,523 474,529 393,529"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="Page1_Block90">
+      <Coords points="482,525 562,525 562,530 482,530"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="Page1_Block91">
+      <Coords points="570,527 651,527 651,532 570,532"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="Page1_Block92">
+      <Coords points="659,529 736,529 736,534 659,534"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="Page1_Block93">
+      <Coords points="16,578 723,578 723,595 16,595"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="Page1_Block94">
+      <Coords points="32,620 162,620 162,626 32,626"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="Page1_Block95">
+      <Coords points="11,888 107,888 107,894 11,894"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="Page1_Block96">
+      <Coords points="137,890 217,890 217,894 137,894"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="Page1_Block97">
+      <Coords points="469,896 520,896 520,899 469,899"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="Page1_Block98">
+      <Coords points="70,908 184,908 184,914 70,914"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="Page1_Block99">
+      <Coords points="461,915 511,915 511,919 461,919"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="Page1_Block100">
+      <Coords points="0,80 10,80 10,435 0,435"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="Page1_Block101">
+      <Coords points="0,435 5,435 5,620 0,620"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="Page1_Block102">
+      <Coords points="0,620 3,620 3,682 0,682"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="Page1_Block103">
+      <Coords points="0,705 2,705 2,744 0,744"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="Page1_Block104">
+      <Coords points="475,598 478,598 478,656 475,656"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="Page1_Block105">
+      <Coords points="319,553 724,553 724,566 319,566"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="Page1_Block106">
+      <Coords points="7,602 12,602 12,655 7,655"/>
+    </SeparatorRegion>
+    <SeparatorRegion id="Page1_Block107">
+      <Coords points="471,690 477,690 477,888 471,888"/>
+    </SeparatorRegion>
+  </Page>
+</PcGts>

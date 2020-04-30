@@ -1,0 +1,34 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+83.0,76.0,251.0,111.0,LEO       BURNETT       U.S.A.          A       w\oii.       of       ISO       tanm       «Oi          ADVERTISING,supplier,CLIFMT:       P.M.       INC.       OFFICE:       10       DESC:       703       BENSON       &       HEDGES          EST       NO:       0040       REVISES       EST       DTD       OB/10/90       HISPANIC       EVENTS,79.0,3,,0.0,-1,-1.0,0.0
+375.0,113.0,592.0,124.0,UMfSHAFtB       ESTIMATE       DCCAP       -       PNOb,other,PERIOD       •       OATE       OC/I4/9C          01/01/96       TO       12/31/06       PAGE       1,24.0,2,,0.0,-1,24.0,0.0
+364.0,131.0,592.0,154.0,PERIOD       •       OATE       OC/I4/9C          01/01/96       TO       12/31/06       PAGE       1,invoice_info,CLIFMT:       P.M.       INC.       OFFICE:       10       DESC:       703       BENSON       &       HEDGES          EST       NO:       0040       REVISES       EST       DTD       OB/10/90       HISPANIC       EVENTS,30.0,3,,0.0,-1,30.0,0.0
+159.0,161.0,556.0,184.0,CLIFMT:       P.M.       INC.       OFFICE:       10       DESC:       703       BENSON       &       HEDGES          EST       NO:       0040       REVISES       EST       DTD       OB/10/90       HISPANIC       EVENTS,receiver,TOTALS       BY       MRKT/S       ZON       /PROOUCT/KONTH,43.0,4,,0.0,-1,43.0,0.0
+158.0,209.0,366.0,222.0,TOTALS       BY       MRKT/S       ZON       /PROOUCT/KONTH,other,PRODUCT,47.0,6,MRKT/S:ZON          30O-MIDIAN0,255.0,5,47.0,255.0
+484.0,202.0,550.0,233.0,MRKT/S:ZON          30O-MIDIAN0,other,EST       AMT          CHANGE,46.5,9,,0.0,-1,-1.0,0.0
+177.0,250.0,269.0,275.0,PRODUCT,positions,P6RI00,0.5,7,CST       AMT          AKOUfT,164.0,8,0.5,-1.0
+268.0,251.0,345.0,275.0,P6RI00,positions,CST       AMT          AKOUfT,0.5,8,EST       AMT          CHANGE,165.5,9,0.5,165.5
+344.0,251.0,430.0,276.0,CST       AMT          AKOUfT,positions,EST       AMT          CHANGE,0.5,9,EST       AMT          LESS       C/0,162.5,10,0.5,-1.0
+429.0,252.0,515.0,276.0,EST       AMT          CHANGE,positions,EST       AMT          LESS       C/0,0.5,10,,0.0,-1,0.5,0.0
+514.0,252.0,585.0,277.0,EST       AMT          LESS       C/0,positions,1.892.27,19.5,14,,0.0,-1,19.5,0.0
+177.0,274.0,268.0,290.0,12-BEN&ME0       100S,positions,APR       1996,0.5,12,PRODUCT,0.5,6,0.5,0.5
+268.0,275.0,344.0,290.0,APR       1996,positions,1.926.00,0.5,13,CST       AMT          AKOUfT,81.0,8,0.5,-1.0
+344.0,275.0,429.0,291.0,1.926.00,positions,KAY,12.0,15,CST       AMT          AKOUfT,0.5,8,12.0,0.5
+514.0,276.0,584.0,292.0,1.892.27,positions,1.925.00,12.0,17,EST       AMT          LESS       C/0,0.5,10,-1.0,0.5
+268.0,290.0,344.0,300.0,KAY,positions,"1,829.00",0.5,16,1.926.00,80.5,13,0.5,80.5
+344.0,290.0,429.0,301.0,"1,829.00",positions,1.925.00,0.5,17,1.892.27,162.5,14,0.5,-1.0
+429.0,291.0,514.0,301.0,1.925.00,positions,1.892.27,0.5,18,1.892.27,77.5,14,0.5,77.5
+514.0,291.0,584.0,302.0,1.892.27,positions,2.250.00,9.5,21,,0.0,-1,-1.0,0.0
+268.0,300.0,344.0,310.0,s*JN,positions,"2,260.00",0.5,20,"1,829.00",80.5,16,0.5,80.5
+344.0,300.0,429.0,311.0,"2,260.00",positions,2.250.00,0.5,21,1.925.00,85.0,17,0.5,85.0
+429.0,301.0,514.0,311.0,2.250.00,positions,2.211.7S,0.5,22,1.892.27,77.5,18,0.5,77.5
+514.0,301.0,584.0,312.0,2.211.7S,positions,"4,175.00",11.5,25,,0.0,-1,-1.0,0.0
+268.0,310.0,344.0,324.0,QUARTER       2,positions,"6,100.00",0.5,24,"2,260.00",80.5,20,0.5,80.5
+344.0,310.0,429.0,325.0,"6,100.00",positions,"4,175.00",0.5,25,2.250.00,85.0,21,0.5,85.0
+429.0,311.0,514.0,325.0,"4,175.00",positions,B.900.29,0.5,26,2.211.7S,77.5,22,0.5,77.5
+514.0,311.0,584.0,326.0,B.900.29,positions,"4,175.00",14.5,29,,0.0,-1,-1.0,0.0
+268.0,324.0,344.0,340.0,TOTAL,total,"6,100.00",0.5,28,"6,100.00",80.5,24,0.5,80.5
+344.0,324.0,429.0,341.0,"6,100.00",total,"4,175.00",0.5,29,"4,175.00",85.0,25,0.5,85.0
+429.0,325.0,514.0,341.0,"4,175.00",total,B.906.29,0.5,30,B.900.29,77.5,26,0.5,77.5
+514.0,325.0,584.0,342.0,B.906.29,total,,0.0,-1,,0.0,-1,0.0,0.0
+42.0,903.0,151.0,913.0,fCAM       MOIA       RSV       04-14-53,other,,0.0,-1,,0.0,-1,0.0,0.0
+600.0,674.0,631.0,780.0,(       2084022539,other,,0.0,-1,,0.0,-1,0.0,0.0

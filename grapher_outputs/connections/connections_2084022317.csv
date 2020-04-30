@@ -1,0 +1,28 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+42.0,910.0,151.0,919.0,«ORM       M01A       RFV       M-14-0J,other,,0.0,-1,,0.0,-1,0.0,0.0
+76.0,86.0,239.0,119.0,LEO       BURNETT       U.S.A.          K       MVMMM       01       t»0       *U»»tn       CO       Mr       AMY.       INC.          ADVERTISING,supplier,PERIOD       DATE       07/12/96          01/01/96       TO       12/31/96       PAGE       I          CLIENT:       P.M.       INC.       OFFICE:       10       DESC:       703A       MILITARY       NEWSPAPERS          EST       NO:       6004       REVISES       EST       DTD       06/14/06,62.5,3,,0.0,-1,-1.0,0.0
+368.0,121.0,584.0,130.0,NEWSPAPER       ESTIMATE       RECAP       -       PNOS,other,PERIOD       DATE       07/12/96          01/01/96       TO       12/31/96       PAGE       I          CLIENT:       P.M.       INC.       OFFICE:       10       DESC:       703A       MILITARY       NEWSPAPERS          EST       NO:       6004       REVISES       EST       DTD       06/14/06,39.5,3,,0.0,-1,39.5,0.0
+150.0,140.0,584.0,190.0,PERIOD       DATE       07/12/96          01/01/96       TO       12/31/96       PAGE       I          CLIENT:       P.M.       INC.       OFFICE:       10       DESC:       703A       MILITARY       NEWSPAPERS          EST       NO:       6004       REVISES       EST       DTD       06/14/06,receiver,TOTALS       BY       MRKT/S       ZON       /PR00UCT/H3NTH,58.5,4,,0.0,-1,58.5,0.0
+151.0,218.0,359.0,229.0,TOTALS       BY       MRKT/S       ZON       /PR00UCT/H3NTH,other,EST       AMT       EST       AMT       EST       AMT,39.5,6,KRKT/S:ZON          5E0-DENVER,253.0,5,39.5,253.0
+478.0,209.0,538.0,238.0,KRKT/S:ZON          5E0-DENVER,other,EST       AMT       EST       AMT       EST       AMT,39.5,6,,0.0,-1,39.5,0.0
+357.0,258.0,578.0,268.0,EST       AMT       EST       AMT       EST       AMT,positions,AMOUNT,12.0,9,,0.0,-1,12.0,0.0
+170.0,268.0,251.0,282.0,PRODUCT,positions,10-MARL30RO,22.0,12,PERIOD,84.5,8,22.0,84.5
+251.0,268.0,339.0,282.0,PERIOD,positions,10-MARL30RO,22.0,12,AMOUNT,87.5,9,22.0,87.5
+339.0,268.0,426.0,282.0,AMOUNT,positions,FEB       199G          QUARTER       1,22.0,13,CHANGE,81.5,10,22.0,81.5
+426.0,268.0,502.0,282.0,CHANGE,positions,892.10          092.10,22.0,14,LESS       C/D,76.5,11,22.0,76.5
+502.0,268.0,579.0,282.0,LESS       C/D,positions,892.10          892.10,22.0,15,,0.0,-1,22.0,0.0
+170.0,282.0,251.0,312.0,10-MARL30RO,positions,MAY          JUN          QUARTER       2,35.0,16,FEB       199G          QUARTER       1,84.5,13,35.0,84.5
+251.0,282.0,339.0,312.0,FEB       199G          QUARTER       1,positions,MAY          JUN          QUARTER       2,35.0,16,892.10          092.10,87.5,14,35.0,87.5
+339.0,282.0,426.0,312.0,892.10          092.10,positions,MAY          JUN          QUARTER       2,35.0,16,892.10          892.10,158.0,15,35.0,158.0
+502.0,282.0,579.0,312.0,892.10          892.10,positions,"1.591.68          892.10          2,483.78",35.0,18,,0.0,-1,35.0,0.0
+251.0,312.0,339.0,352.0,MAY          JUN          QUARTER       2,positions,JUL          AUG          SEP          OUARTER       3,44.5,19,"1,591.68          892.10          2,483.78",87.5,17,44.5,87.5
+339.0,312.0,426.0,352.0,"1,591.68          892.10          2,483.78",positions,JUL          AUG          SEP          OUARTER       3,44.5,19,"1.591.68          892.10          2,483.78",158.0,18,44.5,158.0
+502.0,312.0,579.0,352.0,"1.591.68          892.10          2,483.78",positions,■,44.5,21,,0.0,-1,44.5,0.0
+251.0,352.0,339.0,401.0,JUL          AUG          SEP          OUARTER       3,positions,TOTAL,32.5,23,892.10          892.10          892.10          2.676.30,87.5,20,32.5,87.5
+339.0,352.0,426.0,401.0,892.10          892.10          892.10          2.676.30,positions,TOTAL,32.5,23,■,81.5,21,32.5,81.5
+426.0,352.0,502.0,401.0,■,positions,6.052.18,32.5,24,"892.10          892.10          892.10          2,676.30",76.5,22,32.5,76.5
+502.0,352.0,579.0,401.0,"892.10          892.10          892.10          2,676.30",positions,6.052.18,32.5,25,,0.0,-1,32.5,0.0
+251.0,401.0,339.0,417.0,TOTAL,total,,0.0,-1,6.052.18,87.5,24,0.0,87.5
+339.0,401.0,426.0,417.0,6.052.18,total,,0.0,-1,6.052.18,158.0,25,0.0,158.0
+502.0,401.0,579.0,417.0,6.052.18,total,,0.0,-1,,0.0,-1,0.0,0.0
+647.0,762.0,669.0,847.0,2084022317,other,,0.0,-1,,0.0,-1,0.0,0.0

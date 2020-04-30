@@ -1,0 +1,37 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+55.0,77.0,66.0,120.0,>          i,supplier,DATE       OR       STAFF,290.5,6,,0.0,-1,-1.0,0.0
+243.0,182.0,460.0,252.0,"SMITH/FLOYD,       LAWYERS,       P.A.          P.0.       BOX       308          512       SOUTH       WALNUT       STREET          PAMPLICO,       S.C.       29583          (803)       493-5122",supplier,FILE       #:       2432-89          RE:,82.5,3,,0.0,-1,82.5,0.0
+82.0,280.0,250.0,351.0,"Henry       Turner          Philip       Morris       U.S.A.          Three       Ravinia       Drive,          Suite       1560          Atlanta,       GA       30346",receiver,ATTORNEY,55.0,5,FILE       #:       2432-89          RE:,270.5,3,55.0,270.5
+369.0,279.0,504.0,320.0,FILE       #:       2432-89          RE:,invoice_info,SERVICE,89.5,7,AS       OF:       12/28/93          PAGE       #       1,201.5,4,89.5,201.5
+571.0,280.0,705.0,307.0,AS       OF:       12/28/93          PAGE       #       1,invoice_info,TIME,95.5,8,,0.0,-1,95.5,0.0
+107.0,365.0,176.0,376.0,ATTORNEY,positions,DATE       OR       STAFF,18.5,6,,0.0,-1,18.5,0.0
+33.0,379.0,187.0,399.0,DATE       OR       STAFF,positions,12/09/93,37.5,10,SERVICE,230.5,7,37.5,230.5
+187.0,379.0,494.0,399.0,SERVICE,positions,12/09/93,37.5,10,TIME,205.0,8,37.5,205.0
+494.0,379.0,597.0,399.0,TIME,positions,Clipping       service:       South          Carolina       Press       Service.,37.5,11,AMOUNT,104.5,9,37.5,104.5
+597.0,379.0,703.0,399.0,AMOUNT,positions,54.37,37.5,12,,0.0,-1,37.5,0.0
+33.0,399.0,187.0,454.0,12/09/93,positions,12/09/93,49.0,13,Clipping       service:       South          Carolina       Press       Service.,230.5,11,49.0,230.5
+187.0,399.0,494.0,454.0,Clipping       service:       South          Carolina       Press       Service.,positions,12/09/93,49.0,13,54.37,309.5,12,49.0,309.5
+597.0,399.0,703.0,454.0,54.37,positions,49.65,49.0,15,,0.0,-1,49.0,0.0
+33.0,454.0,187.0,497.0,12/09/93,positions,12/28/93,36.0,16,Clipping       service:       Carolina          Clipping       Service,230.5,14,36.0,230.5
+187.0,454.0,494.0,497.0,Clipping       service:       Carolina          Clipping       Service,positions,12/28/93,36.0,16,49.65,309.5,15,36.0,309.5
+597.0,454.0,703.0,497.0,49.65,positions,36.75,36.0,18,,0.0,-1,36.0,0.0
+33.0,497.0,187.0,526.0,12/28/93,positions,12/28/93,28.5,19,Copies,230.5,17,28.5,230.5
+187.0,497.0,494.0,526.0,Copies,positions,12/28/93,28.5,19,36.75,309.5,18,28.5,309.5
+597.0,497.0,703.0,526.0,36.75,positions,1.16,28.5,21,,0.0,-1,28.5,0.0
+33.0,526.0,187.0,554.0,12/28/93,positions,12/28/93,28.0,22,Postage,230.5,20,28.0,230.5
+187.0,526.0,494.0,554.0,Postage,positions,12/28/93,28.0,22,1.16,309.5,21,28.0,309.5
+597.0,526.0,703.0,554.0,1.16,positions,4.57,28.0,24,,0.0,-1,28.0,0.0
+33.0,554.0,187.0,582.0,12/28/93,positions,*       TOTAL       COST       ADVANCES,28.0,25,Total       phone       calls,230.5,23,28.0,230.5
+187.0,554.0,494.0,582.0,Total       phone       calls,positions,*       TOTAL       COST       ADVANCES,28.0,25,4.57,309.5,24,28.0,309.5
+597.0,554.0,703.0,582.0,4.57,positions,146.50,28.0,26,,0.0,-1,28.0,0.0
+187.0,582.0,494.0,610.0,*       TOTAL       COST       ADVANCES,positions,12/09/93,29.0,27,146.50,309.5,26,29.0,309.5
+597.0,582.0,703.0,610.0,146.50,positions,(645.63),29.0,29,,0.0,-1,29.0,0.0
+33.0,610.0,187.0,640.0,12/09/93,positions,*       TOTAL       PAYMENTS       RECEIVED,32.0,30,Payment       Received       -       Thank       You,230.5,28,32.0,230.5
+187.0,610.0,494.0,640.0,Payment       Received       -       Thank       You,positions,*       TOTAL       PAYMENTS       RECEIVED,32.0,30,(645.63),309.5,29,32.0,309.5
+597.0,610.0,703.0,640.0,(645.63),positions,(645.63),32.0,31,,0.0,-1,32.0,0.0
+187.0,640.0,494.0,674.0,*       TOTAL       PAYMENTS       RECEIVED,positions,PREVIOUS       BALANCE:          CURRENT       CHARGES:          LESS       PAYMENTS:,48.5,32,(645.63),309.5,31,48.5,309.5
+597.0,640.0,703.0,674.0,(645.63),positions,"7,238.93          146.50          (645.63)",48.5,33,,0.0,-1,48.5,0.0
+187.0,674.0,494.0,737.0,PREVIOUS       BALANCE:          CURRENT       CHARGES:          LESS       PAYMENTS:,positions,TOTAL       AMOUNT       DUE:,43.5,34,"7,238.93          146.50          (645.63)",309.5,33,43.5,309.5
+597.0,674.0,703.0,737.0,"7,238.93          146.50          (645.63)",positions,"$6,739.80",43.5,35,,0.0,-1,43.5,0.0
+187.0,737.0,494.0,761.0,TOTAL       AMOUNT       DUE:,total,,0.0,-1,"$6,739.80",309.5,35,0.0,309.5
+597.0,737.0,703.0,761.0,"$6,739.80",total,,0.0,-1,,0.0,-1,0.0,0.0

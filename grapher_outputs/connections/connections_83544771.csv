@@ -1,0 +1,22 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+325.0,104.0,384.0,113.0,LAW       OFFICES,supplier,"GABLE       &       GOTWALS          2000       NationsBank       Center          15       West       Sixth       Street          Tulsa,       Oklahoma       74119-5447          918-582-9201",41.0,1,,0.0,-1,41.0,0.0
+272.0,115.0,437.0,184.0,"GABLE       &       GOTWALS          2000       NationsBank       Center          15       West       Sixth       Street          Tulsa,       Oklahoma       74119-5447          918-582-9201",supplier,"July       9,1999          ID:       003881       00001          Invoice       No:       362334          1317          Jones,       Day,       Reavis       &       Pogue          77       West       Wacker          Chicago       IL       60601-1692",133.5,2,,0.0,-1,-1.0,0.0
+51.0,231.0,613.0,335.0,"July       9,1999          ID:       003881       00001          Invoice       No:       362334          1317          Jones,       Day,       Reavis       &       Pogue          77       West       Wacker          Chicago       IL       60601-1692",other,RE:       Attorney       Fees,89.5,4,,0.0,-1,89.5,0.0
+51.0,231.0,255.0,290.0,"Philip       Morris,       R.       J.       Reynolds,          Brown       &       Williamson       Tabacco       Corp.       &          Lorillard,       Inc.          Attn:       Thomas       F.       Gardner,       Esq.",receiver,"July       9,1999          ID:       003881       00001          Invoice       No:       362334          1317          Jones,       Day,       Reavis       &       Pogue          77       West       Wacker          Chicago       IL       60601-1692",22.5,2,,0.0,-1,22.5,0.0
+51.0,365.0,168.0,380.0,RE:       Attorney       Fees,other,Fees       For       Professional       Services,117.0,6,,0.0,-1,-1.0,0.0
+215.0,439.0,499.0,453.0,"BILLING       SUMMARY       THROUGH       JULY       9,1999",other,Fees       For       Professional       Services,43.5,6,,0.0,-1,43.5,0.0
+127.0,483.0,412.0,496.0,Fees       For       Professional       Services,positions,Expenses       and       Advances,18.0,8,"102,270.00",221.0,7,18.0,221.0
+412.0,483.0,569.0,496.0,"102,270.00",positions,Expenses       and       Advances,18.0,8,,0.0,-1,18.0,0.0
+127.0,496.0,412.0,519.0,Expenses       and       Advances,positions,CURRENT       BILL,30.0,10,"12,24226",221.0,9,30.0,221.0
+412.0,496.0,569.0,519.0,"12,24226",positions,CURRENT       BILL,30.0,10,,0.0,-1,30.0,0.0
+127.0,519.0,412.0,556.0,CURRENT       BILL,positions,Unpaid       Balance       Due       for       Prior       Periods,33.5,12,"114,51226",221.0,11,33.5,221.0
+412.0,519.0,569.0,556.0,"114,51226",positions,Unpaid       Balance       Due       for       Prior       Periods,33.5,12,,0.0,-1,33.5,0.0
+127.0,556.0,412.0,586.0,Unpaid       Balance       Due       for       Prior       Periods,positions,Payments/Adjustments,26.0,14,"77,021.91",221.0,13,26.0,221.0
+412.0,556.0,569.0,586.0,"77,021.91",positions,Payments/Adjustments,26.0,14,,0.0,-1,26.0,0.0
+127.0,586.0,412.0,608.0,Payments/Adjustments,positions,TOTAL       BALANCE       DUE,21.5,16,"<77,021.9!>",221.0,15,21.5,221.0
+412.0,586.0,569.0,608.0,"<77,021.9!>",positions,TOTAL       BALANCE       DUE,21.5,16,,0.0,-1,21.5,0.0
+127.0,608.0,412.0,629.0,TOTAL       BALANCE       DUE,total,REMITTANCE       COPY,272.0,18,"114,512.26",221.0,17,272.0,221.0
+412.0,608.0,569.0,629.0,"114,512.26",total,REMITTANCE       COPY,272.0,18,,0.0,-1,272.0,0.0
+264.0,884.0,453.0,897.0,REMITTANCE       COPY,other,PLEASE       INCLUDE       THIS       PAGE       WITH       YOUR       PAYMENT,31.5,19,83544771,301.5,20,31.5,-1.0
+177.0,916.0,542.0,928.0,PLEASE       INCLUDE       THIS       PAGE       WITH       YOUR       PAYMENT,other,,0.0,-1,83544771,300.5,20,0.0,300.5
+648.0,837.0,672.0,935.0,83544771,other,,0.0,-1,,0.0,-1,0.0,0.0

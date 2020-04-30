@@ -1,0 +1,81 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+260.0,112.0,336.0,132.0,"AVRETT,",supplier,800       Third       Avenue       .       New       York.       NY       10022       .       (212)832-3800,23.0,3,AF       &       G          TFREEVXGINS,92.0,1,23.0,92.0
+319.0,55.0,461.0,130.0,AF       &       G          TFREEVXGINS,supplier,"GINSBERG,       INC.",29.0,2,,0.0,-1,29.0,0.0
+421.0,112.0,555.0,131.0,"GINSBERG,       INC.",supplier,800       Third       Avenue       .       New       York.       NY       10022       .       (212)832-3800,23.5,3,,0.0,-1,-1.0,0.0
+259.0,138.0,556.0,152.0,800       Third       Avenue       .       New       York.       NY       10022       .       (212)832-3800,supplier,ESTI       HATE       FGR:       CREATIVE       DEVELOPMENT,36.0,5,PAGE:       1,306.0,4,36.0,306.0
+681.0,145.0,746.0,156.0,PAGE:       1,invoice_info,DATE:       8/12/91          REV       NO:       00          REVISION       DATE:       8/09/91          DESCRIPTION:       TO       COVER       EXPENSES       INCURRED       FOR       PRODUCTION       OF       HARLEY       DAVIDSON          COMPREHENSIVE       LAYOUTS       PRESENTED       8/9/91.       35       COMPS:       BORN       TO          BE       MILD;       HANNA       HARLEY;       HARLEY       L16HTNI       NS/THUNDER,104.5,6,,0.0,-1,-1.0,0.0
+313.0,175.0,515.0,187.0,ESTI       HATE       FGR:       CREATIVE       DEVELOPMENT,other,DATE:       8/12/91          REV       NO:       00          REVISION       DATE:       8/09/91          DESCRIPTION:       TO       COVER       EXPENSES       INCURRED       FOR       PRODUCTION       OF       HARLEY       DAVIDSON          COMPREHENSIVE       LAYOUTS       PRESENTED       8/9/91.       35       COMPS:       BORN       TO          BE       MILD;       HANNA       HARLEY;       HARLEY       L16HTNI       NS/THUNDER,74.0,6,,0.0,-1,-1.0,0.0
+95.0,205.0,746.0,305.0,DATE:       8/12/91          REV       NO:       00          REVISION       DATE:       8/09/91          DESCRIPTION:       TO       COVER       EXPENSES       INCURRED       FOR       PRODUCTION       OF       HARLEY       DAVIDSON          COMPREHENSIVE       LAYOUTS       PRESENTED       8/9/91.       35       COMPS:       BORN       TO          BE       MILD;       HANNA       HARLEY;       HARLEY       L16HTNI       NS/THUNDER,other,COMMISSION,87.0,8,,0.0,-1,87.0,0.0
+36.0,203.0,212.0,245.0,CLIENT:       LORILLARD       TOBACCO       CO.          PRODUCT:       HARLEY       DAVIDSON-          JOB       NO:       055HLD1C049,receiver,DATE:       8/12/91          REV       NO:       00          REVISION       DATE:       8/09/91          DESCRIPTION:       TO       COVER       EXPENSES       INCURRED       FOR       PRODUCTION       OF       HARLEY       DAVIDSON          COMPREHENSIVE       LAYOUTS       PRESENTED       8/9/91.       35       COMPS:       BORN       TO          BE       MILD;       HANNA       HARLEY;       HARLEY       L16HTNI       NS/THUNDER,31.0,6,,0.0,-1,31.0,0.0
+224.0,336.0,393.0,348.0,COMMISSION,positions,CATEGORY,12.5,11,TAX,126.0,9,12.5,126.0
+393.0,336.0,476.0,348.0,TAX,positions,AMOUNT,12.5,12,NON-CONK,76.0,10,12.5,76.0
+476.0,336.0,545.0,348.0,NON-CONK,positions,AMOUNT,12.5,13,TAX          AMOUNT,105.5,74,12.5,105.5
+95.0,348.0,224.0,361.0,CATEGORY,positions,001,44.5,15,AMOUNT,149.0,12,44.5,149.0
+224.0,348.0,393.0,361.0,AMOUNT,positions,COMPREHENSIVE       LAYOJT,44.5,16,AMOUNT,126.0,13,44.5,126.0
+393.0,348.0,476.0,361.0,AMOUNT,positions,288.75,44.5,18,AMOUNT,76.0,14,44.5,76.0
+476.0,348.0,545.0,361.0,AMOUNT,positions,288.75,44.5,18,TAX          AMOUNT,105.5,74,44.5,105.5
+94.0,392.0,129.0,406.0,001,positions,002,14.5,19,COMPREHENSIVE       LAYOJT,100.5,16,14.5,100.5
+129.0,392.0,295.0,406.0,COMPREHENSIVE       LAYOJT,positions,002,14.5,19,"3,500.00",131.5,17,14.5,131.5
+295.0,392.0,392.0,406.0,"3,500.00",positions,ILLUSTRATION,14.5,20,288.75,125.5,18,14.5,125.5
+392.0,392.0,546.0,406.0,288.75,positions,5.000.00,14.5,21,,0.0,-1,14.5,0.0
+94.0,406.0,129.0,421.0,002,positions,003,15.0,23,ILLUSTRATION,100.5,20,15.0,100.5
+129.0,406.0,295.0,421.0,ILLUSTRATION,positions,003,15.0,23,5.000.00,131.5,21,15.0,131.5
+295.0,406.0,392.0,421.0,5.000.00,positions,PHOTOGRAPHY       FEE,15.0,24,412.50,125.5,22,15.0,125.5
+392.0,406.0,546.0,421.0,412.50,positions,750.00,15.0,25,,0.0,-1,15.0,0.0
+94.0,421.0,129.0,436.0,003,positions,050,15.0,27,PHOTOGRAPHY       FEE,100.5,24,15.0,100.5
+129.0,421.0,295.0,436.0,PHOTOGRAPHY       FEE,positions,050,15.0,27,750.00,131.5,25,15.0,131.5
+295.0,421.0,392.0,436.0,750.00,positions,PHOTOGRAPHERS       EXPENSES,15.0,28,61.88,125.5,26,15.0,125.5
+392.0,421.0,546.0,436.0,61.88,positions,"3,500.00",15.0,29,,0.0,-1,15.0,0.0
+94.0,436.0,129.0,451.0,050,positions,047,15.0,31,PHOTOGRAPHERS       EXPENSES,100.5,28,15.0,100.5
+129.0,436.0,295.0,451.0,PHOTOGRAPHERS       EXPENSES,positions,047,15.0,31,"3,500.00",131.5,29,15.0,131.5
+295.0,436.0,392.0,451.0,"3,500.00",positions,MISCELLANEOUS       EXPENSES,15.0,32,288.75,125.5,30,15.0,125.5
+392.0,436.0,546.0,451.0,288.75,positions,450.00,15.0,33,,0.0,-1,15.0,0.0
+94.0,451.0,129.0,466.0,047,positions,054,14.5,35,MISCELLANEOUS       EXPENSES,100.5,32,14.5,100.5
+129.0,451.0,295.0,466.0,MISCELLANEOUS       EXPENSES,positions,054,14.5,35,450.00,131.5,33,14.5,131.5
+295.0,451.0,392.0,466.0,450.00,positions,PROPS,14.5,36,37.13,125.5,34,14.5,125.5
+392.0,451.0,546.0,466.0,37.13,positions,500.00,14.5,37,,0.0,-1,14.5,0.0
+94.0,466.0,129.0,480.0,054,positions,ooe,14.0,39,PROPS,100.5,36,14.0,100.5
+129.0,466.0,295.0,480.0,PROPS,positions,ooe,14.0,39,500.00,131.5,37,14.0,131.5
+295.0,466.0,392.0,480.0,500.00,positions,STYLIST,14.0,40,*1.25,125.5,38,14.0,125.5
+392.0,466.0,546.0,480.0,*1.25,positions,500.00,14.0,41,,0.0,-1,14.0,0.0
+94.0,480.0,129.0,494.0,ooe,positions,051,14.5,43,STYLIST,100.5,40,14.5,100.5
+129.0,480.0,295.0,494.0,STYLIST,positions,051,14.5,43,500.00,131.5,41,14.5,131.5
+295.0,480.0,392.0,494.0,500.00,positions,C-PRINTS,14.5,44,41.25,125.5,42,14.5,125.5
+392.0,480.0,546.0,494.0,41.25,positions,"3,500.00",14.5,45,,0.0,-1,14.5,0.0
+94.0,494.0,129.0,509.0,051,positions,017,15.0,47,C-PRINTS,100.5,44,15.0,100.5
+129.0,494.0,295.0,509.0,C-PRINTS,positions,017,15.0,47,"3,500.00",131.5,45,15.0,131.5
+295.0,494.0,392.0,509.0,"3,500.00",positions,PHOTOSTATS,15.0,48,288.75,125.5,46,15.0,125.5
+392.0,494.0,546.0,509.0,288.75,positions,300.00,15.0,49,,0.0,-1,15.0,0.0
+94.0,509.0,129.0,524.0,017,positions,015,14.5,51,PHOTOSTATS,100.5,48,14.5,100.5
+129.0,509.0,295.0,524.0,PHOTOSTATS,positions,015,14.5,51,300.00,131.5,49,14.5,131.5
+295.0,509.0,392.0,524.0,300.00,positions,RETOUCHING,14.5,52,24.75,125.5,50,14.5,125.5
+392.0,509.0,546.0,524.0,24.75,positions,2.COO.00,14.5,53,,0.0,-1,14.5,0.0
+94.0,524.0,129.0,538.0,015,positions,020,14.5,55,RETOUCHING,100.5,52,14.5,100.5
+129.0,524.0,295.0,538.0,RETOUCHING,positions,020,14.5,55,2.COO.00,131.5,53,14.5,131.5
+295.0,524.0,392.0,538.0,2.COO.00,positions,TY?06PA?HY/LET7ERiN=,14.5,56,165.00,125.5,54,14.5,125.5
+392.0,524.0,546.0,538.0,165.00,positions,750.00,14.5,57,,0.0,-1,14.5,0.0
+94.0,538.0,129.0,553.0,020,positions,067,14.5,59,TY?06PA?HY/LET7ERiN=,100.5,56,14.5,100.5
+129.0,538.0,295.0,553.0,TY?06PA?HY/LET7ERiN=,positions,067,14.5,59,750.00,131.5,57,14.5,131.5
+295.0,538.0,392.0,553.0,750.00,positions,COLOR       ZEnOX,14.5,60,61.88,125.5,58,14.5,125.5
+392.0,538.0,546.0,553.0,61.88,positions,2.000.00,14.5,61,,0.0,-1,14.5,0.0
+94.0,553.0,129.0,567.0,067,positions,041,14.5,63,COLOR       ZEnOX,100.5,60,14.5,100.5
+129.0,553.0,295.0,567.0,COLOR       ZEnOX,positions,041,14.5,63,2.000.00,131.5,61,14.5,131.5
+295.0,553.0,392.0,567.0,2.000.00,positions,STUDIO       TIKE,14.5,64,165.00,125.5,62,14.5,125.5
+392.0,553.0,546.0,567.0,165.00,positions,4.000.00,14.5,65,,0.0,-1,14.5,0.0
+94.0,567.0,129.0,582.0,041,positions,021,19.0,67,STUDIO       TIKE,100.5,64,19.0,100.5
+129.0,567.0,295.0,582.0,STUDIO       TIKE,positions,021,19.0,67,4.000.00,131.5,65,19.0,131.5
+295.0,567.0,392.0,582.0,4.000.00,positions,TYPE       ACETATES,19.0,68,330.00,125.5,66,19.0,125.5
+392.0,567.0,546.0,582.0,330.00,positions,2.000.CO,19.0,69,,0.0,-1,19.0,0.0
+94.0,582.0,129.0,605.0,021,positions,t       TOTALS,21.5,71,TYPE       ACETATES,100.5,68,21.5,100.5
+129.0,582.0,295.0,605.0,TYPE       ACETATES,positions,t       TOTALS,21.5,71,2.000.CO,131.5,69,21.5,131.5
+295.0,582.0,392.0,605.0,2.000.CO,positions,t       TOTALS,21.5,71,165.00,125.5,70,21.5,125.5
+392.0,582.0,546.0,605.0,165.00,positions,28.750.00,21.5,72,,0.0,-1,21.5,0.0
+129.0,605.0,295.0,625.0,t       TOTALS,total,"SUB-TOTAL       28,750.00          AGENCY       COMMISSION       .00          SALES       TAXES       2,371.88          TOTAL       ESTIMATE       31,121.88",215.5,75,28.750.00,131.5,72,215.5,131.5
+295.0,605.0,392.0,625.0,28.750.00,total,"SUB-TOTAL       28,750.00          AGENCY       COMMISSION       .00          SALES       TAXES       2,371.88          TOTAL       ESTIMATE       31,121.88",215.5,75,2.371.88,125.5,73,215.5,125.5
+392.0,605.0,546.0,625.0,2.371.88,other,DATED,310.5,77,,0.0,-1,310.5,0.0
+598.0,335.0,634.0,361.0,TAX          AMOUNT,positions,"THIS       IS       AN       ESTIMATE       BASED       ON       SPECIFICATIONS          AS       OF       THIS       DATE       AND       IS       SUBJECT       TO       REVISION,          AND       A       CONTINGENCY       OF       10’i",592.5,78,,0.0,-1,592.5,0.0
+94.0,802.0,296.0,859.0,"SUB-TOTAL       28,750.00          AGENCY       COMMISSION       .00          SALES       TAXES       2,371.88          TOTAL       ESTIMATE       31,121.88",total,liUtyL          CLIENT       AUTHORIZATION,84.5,76,coczgcr^,554.0,79,84.5,554.0
+58.0,883.0,289.0,947.0,liUtyL          CLIENT       AUTHORIZATION,other,,0.0,-1,DATED,206.5,77,0.0,206.5
+349.0,904.0,411.0,947.0,DATED,other,,0.0,-1,"THIS       IS       AN       ESTIMATE       BASED       ON       SPECIFICATIONS          AS       OF       THIS       DATE       AND       IS       SUBJECT       TO       REVISION,          AND       A       CONTINGENCY       OF       10’i",214.5,78,0.0,214.5
+467.0,920.0,722.0,961.0,"THIS       IS       AN       ESTIMATE       BASED       ON       SPECIFICATIONS          AS       OF       THIS       DATE       AND       IS       SUBJECT       TO       REVISION,          AND       A       CONTINGENCY       OF       10’i",other,,0.0,-1,,0.0,-1,0.0,0.0
+742.0,832.0,756.0,902.0,coczgcr^,other,,0.0,-1,,0.0,-1,0.0,0.0

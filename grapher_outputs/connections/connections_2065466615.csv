@@ -1,0 +1,26 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+49.0,99.0,107.0,113.0,NVLR30AA,other,REMIT       TO:,97.5,1,PHILIP       MORRIS       USA          LOCAL       PROMOTION       INVOICE          INVOICE       STATUS       -       Held,258.0,3,97.5,258.0
+31.0,199.0,94.0,208.0,REMIT       TO:,receiver,"PINEVILLE       MART          20110       PINEVILLE       ROAD          LONG       BEACH,       MS       39560-3217",42.0,2,"MAIL       TO:          PINEVILLE       MART          20110       PINEVILLE       ROAD          LONG       BEACH,       MS       39560-3217",379.0,5,42.0,-1.0
+31.0,226.0,207.0,265.0,"PINEVILLE       MART          20110       PINEVILLE       ROAD          LONG       BEACH,       MS       39560-3217",receiver,ACCOUNT:       686252          PAY       PERIOD:       01/1998,60.0,6,"MAIL       TO:          PINEVILLE       MART          20110       PINEVILLE       ROAD          LONG       BEACH,       MS       39560-3217",322.5,5,60.0,322.5
+247.0,101.0,425.0,175.0,PHILIP       MORRIS       USA          LOCAL       PROMOTION       INVOICE          INVOICE       STATUS       -       Held,other,"MAIL       TO:          PINEVILLE       MART          20110       PINEVILLE       ROAD          LONG       BEACH,       MS       39560-3217",94.0,5,INVOICE#:       9801173533          PRINT       DATE:       05/19/1998          PAGE       NO:       1,232.0,4,94.0,232.0
+491.0,101.0,645.0,145.0,INVOICE#:       9801173533          PRINT       DATE:       05/19/1998          PAGE       NO:       1,invoice_info,"MAIL       TO:          PINEVILLE       MART          20110       PINEVILLE       ROAD          LONG       BEACH,       MS       39560-3217",109.0,5,,0.0,-1,-1.0,0.0
+354.0,199.0,529.0,265.0,"MAIL       TO:          PINEVILLE       MART          20110       PINEVILLE       ROAD          LONG       BEACH,       MS       39560-3217",receiver,TERRITORY:       320103          CALL       #:       120,73.5,8,,0.0,-1,73.5,0.0
+31.0,292.0,168.0,319.0,ACCOUNT:       686252          PAY       PERIOD:       01/1998,invoice_info,ADJ.       EFF       PROMO,47.5,9,TAX       ID:       425-51-5629          INC:       No,182.5,7,47.5,182.5
+215.0,291.0,349.0,319.0,TAX       ID:       425-51-5629          INC:       No,invoice_info,PROMO       DESCRIPTION,70.5,14,TERRITORY:       320103          CALL       #:       120,278.5,8,70.5,278.5
+500.0,292.0,621.0,319.0,TERRITORY:       320103          CALL       #:       120,invoice_info,PROMO,47.5,11,,0.0,-1,47.5,0.0
+32.0,343.0,179.0,363.0,ADJ.       EFF       PROMO,positions,IND.       DATE       CODE,22.5,13,PROMO,330.0,10,22.5,330.0
+398.0,343.0,473.0,363.0,PROMO,positions,QTY,22.5,15,PROMO,85.0,11,22.5,85.0
+473.0,343.0,568.0,363.0,PROMO,positions,QTY,22.5,15,PAYMENT,98.0,12,22.5,98.0
+568.0,343.0,669.0,363.0,PAYMENT,positions,RATE,22.5,16,,0.0,-1,22.5,0.0
+32.0,363.0,179.0,388.0,IND.       DATE       CODE,positions,03/74/1490       634B          V       03/24/1998       634B,30.5,18,PROMO       DESCRIPTION,150.0,14,30.5,150.0
+179.0,363.0,332.0,388.0,PROMO       DESCRIPTION,positions,03/74/1490       634B          V       03/24/1998       634B,30.5,18,QTY,180.0,15,30.5,180.0
+398.0,363.0,473.0,388.0,QTY,positions,$2.50       P_          $2.50       P_,30.5,20,RATE,85.0,16,30.5,85.0
+473.0,363.0,568.0,388.0,RATE,positions,"1,396          <600,",30.5,21,AMOUNT,98.0,17,30.5,98.0
+568.0,363.0,669.0,388.0,AMOUNT,positions,$2.50          $2.50          Total:,30.5,22,,0.0,-1,30.5,0.0
+32.0,388.0,179.0,424.0,03/74/1490       634B          V       03/24/1998       634B,positions,,0.0,-1,MARCH       MARL       PRICE       OFF-NRM          MARCH       MARL       PRICE       OFF-NRM,150.0,19,0.0,150.0
+179.0,388.0,332.0,424.0,MARCH       MARL       PRICE       OFF-NRM          MARCH       MARL       PRICE       OFF-NRM,positions,,0.0,-1,$2.50       P_          $2.50       P_,109.5,20,0.0,109.5
+332.0,388.0,398.0,424.0,$2.50       P_          $2.50       P_,positions,,0.0,-1,"1,396          <600,",70.5,21,0.0,70.5
+398.0,388.0,473.0,424.0,"1,396          <600,",positions,,0.0,-1,$2.50          $2.50          Total:,85.0,22,0.0,85.0
+473.0,388.0,568.0,424.0,$2.50          $2.50          Total:,positions,,0.0,-1,"*3.490.00          ($1,500.00)          $T,99O.C0",98.0,23,0.0,98.0
+568.0,388.0,669.0,424.0,"*3.490.00          ($1,500.00)          $T,99O.C0",positions,51999^9902,449.5,24,,0.0,-1,449.5,0.0
+666.0,814.0,680.0,897.0,51999^9902,other,,0.0,-1,,0.0,-1,0.0,0.0

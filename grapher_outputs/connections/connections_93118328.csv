@@ -1,0 +1,29 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+601.0,821.0,624.0,838.0,2,other,,0.0,-1,,0.0,-1,0.0,0.0
+100.0,937.0,221.0,946.0,A       irirmbri       cCthe       Ofsr.Kc**       Gwp.       Inc.,supplier,,0.0,-1,,0.0,-1,0.0,0.0
+99.0,126.0,202.0,186.0,Rapp       Collini       Worldwide          4SS       Mtdhas       Avenue          New       York.       NY       10022-5702          212       371-9100          ?»       212       371-9270,supplier,INVOICE       DATE          CLIENT          PRODUCT          MEDIA          JOB,198.0,3,,0.0,-1,198.0,0.0
+51.0,310.0,141.0,398.0,INVOICE       DATE          CLIENT          PRODUCT          MEDIA          JOB,other,DESCRIPTION,58.0,6,11/18/94          LORILLA.RD          KENT          DIRECT       MAIL          D58607       MAILING       2,124.5,4,58.0,124.5
+141.0,310.0,300.0,398.0,11/18/94          LORILLA.RD          KENT          DIRECT       MAIL          D58607       MAILING       2,other,DESCRIPTION,58.0,6,"BILL       NUMBER       D-11-0313          DUE       DATE       OEC18/94          LORILLARD          ONE       PARK       AVENUE          NEW       YORK,       NY       10016          ATTN.:       MR       ALAN       SADOVNICK",252.5,5,58.0,252.5
+300.0,310.0,646.0,398.0,"BILL       NUMBER       D-11-0313          DUE       DATE       OEC18/94          LORILLARD          ONE       PARK       AVENUE          NEW       YORK,       NY       10016          ATTN.:       MR       ALAN       SADOVNICK",other,NET       AMOUNTS,58.0,7,,0.0,-1,58.0,0.0
+51.0,398.0,141.0,426.0,DESCRIPTION,other,3V       KEYLINE       ASSEMBLY,30.0,10,NET       AMOUNTS,266.0,7,30.0,266.0
+300.0,398.0,424.0,426.0,NET       AMOUNTS,other,3V       KEYLINE       ASSEMBLY,30.0,10,COMMISSION,131.0,8,30.0,131.0
+424.0,398.0,562.0,426.0,COMMISSION,other,455.C0,59.5,13,TOTAL,111.0,9,59.5,111.0
+562.0,398.0,646.0,426.0,TOTAL,other,80.30,59.5,14,,0.0,-1,59.5,0.0
+51.0,426.0,300.0,458.0,3V       KEYLINE       ASSEMBLY,positions,0805C6,29.5,11,,0.0,-1,29.5,0.0
+51.0,458.0,141.0,485.0,0805C6,positions,100377,44.5,16,STUDIO       15,124.5,12,44.5,124.5
+141.0,458.0,300.0,485.0,STUDIO       15,positions,100377,44.5,16,455.C0,141.5,13,44.5,141.5
+300.0,458.0,424.0,485.0,455.C0,positions,STUDIO       15,44.5,17,80.30,131.0,14,44.5,131.0
+424.0,458.0,562.0,485.0,80.30,positions,26C.C0,44.5,18,535.30,111.0,15,44.5,111.0
+562.0,458.0,646.0,485.0,535.30,positions,45.89,44.5,19,,0.0,-1,44.5,0.0
+51.0,485.0,141.0,547.0,100377,positions,TOTAL       AMOUNT       DUE,40.5,21,STUDIO       15,124.5,17,40.5,124.5
+141.0,485.0,300.0,547.0,STUDIO       15,positions,TOTAL       AMOUNT       DUE,40.5,21,26C.C0,141.5,18,40.5,141.5
+300.0,485.0,424.0,547.0,26C.C0,positions,TOTAL       AMOUNT       DUE,40.5,21,45.89,131.0,19,40.5,131.0
+424.0,485.0,562.0,547.0,45.89,positions,715X0,40.5,22,305.89,111.0,20,40.5,111.0
+562.0,485.0,646.0,547.0,305.89,positions,126.19,40.5,23,,0.0,-1,40.5,0.0
+51.0,547.0,300.0,566.0,TOTAL       AMOUNT       DUE,total,CD          CO,256.0,27,715X0,186.5,22,-1.0,186.5
+300.0,547.0,424.0,566.0,715X0,total,PAY       ABOVE       AMOUNT,15.5,25,126.19,131.0,23,15.5,131.0
+424.0,547.0,562.0,566.0,126.19,total,PAY       ABOVE       AMOUNT,15.5,25,841.19,111.0,24,15.5,111.0
+562.0,547.0,646.0,566.0,841.19,total,PAY       ABOVE       AMOUNT,15.5,25,,0.0,-1,15.5,0.0
+424.0,566.0,646.0,578.0,PAY       ABOVE       AMOUNT,total,8,210.0,26,,0.0,-1,210.0,0.0
+609.0,774.0,629.0,790.0,8,other,CD          CO,30.5,27,,0.0,-1,30.5,0.0
+51.0,805.0,646.0,820.0,CD          CO,other,2,17.0,0,,0.0,-1,17.0,0.0

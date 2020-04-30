@@ -1,0 +1,40 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+255.0,45.0,504.0,70.0,McCANN-ERICKSON,supplier,750       THIRD       AVENUE.          NEW       YORK.       NY          .1003       7-0000          PRODUCTION       ESTIMATE,68.5,1,,0.0,-1,68.5,0.0
+305.0,91.0,478.0,161.0,750       THIRD       AVENUE.          NEW       YORK.       NY          .1003       7-0000          PRODUCTION       ESTIMATE,supplier,RJT       R.J.       REYNOLDS.       TOBACCO          Cf       CAMEL       FAMILY          PROMOTION,72.5,3,,0.0,-1,72.5,0.0
+26.0,181.0,89.0,216.0,CLIFNI          F       ROM       JOT          MEDIA,receiver,JOB       P90031       PROMOT       ION       EXPLORATORY       MATERIALS          (MYSTERIES       Of       THE       PACK.       HARD       PACK),50.5,4,RJT       R.J.       REYNOLDS.       TOBACCO          Cf       CAMEL       FAMILY          PROMOTION,158.5,3,50.5,158.5
+98.0,181.0,334.0,216.0,RJT       R.J.       REYNOLDS.       TOBACCO          Cf       CAMEL       FAMILY          PROMOTION,receiver,JOB       P90031       PROMOT       ION       EXPLORATORY       MATERIALS          (MYSTERIES       Of       THE       PACK.       HARD       PACK),50.5,4,DATE       5/05/89          PAGE       1,488.5,5,50.5,488.5
+27.0,237.0,495.0,261.0,JOB       P90031       PROMOT       ION       EXPLORATORY       MATERIALS          (MYSTERIES       Of       THE       PACK.       HARD       PACK),receiver,Ct       ItNT       REFERENCE       P9CF003J,40.0,6,,0.0,-1,40.0,0.0
+650.0,191.0,759.0,215.0,DATE       5/05/89          PAGE       1,invoice_info,CLIENT       BUDGET       (       CODE       901438020X01,89.0,7,,0.0,-1,89.0,0.0
+27.0,283.0,259.0,295.0,Ct       ItNT       REFERENCE       P9CF003J,receiver,DESCRIPTION,158.5,10,CLIENT       BUDGET       (       CODE       901438020X01,389.0,7,-1.0,389.0
+387.0,282.0,677.0,302.0,CLIENT       BUDGET       (       CODE       901438020X01,receiver,1,130.0,8,,0.0,-1,130.0,0.0
+303.0,412.0,412.0,432.0,1,other,DESCRIPTION,25.5,10,;       n,344.5,9,25.5,344.5
+638.0,412.0,766.0,432.0,;       n,other,CURRENT       LESS          ORIGINAL,25.5,13,,0.0,-1,25.5,0.0
+12.0,432.0,303.0,463.0,DESCRIPTION,other,G1       COMP-ILLUSTRATN,42.5,14,ORIGINAL          ESTIMATE,200.0,11,42.5,200.0
+303.0,432.0,412.0,463.0,ORIGINAL          ESTIMATE,other,G1       COMP-ILLUSTRATN,42.5,14,CURRENT          ESTIMATE,108.5,12,42.5,108.5
+412.0,432.0,520.0,463.0,CURRENT          ESTIMATE,other,3300.00,42.5,15,CURRENT       LESS          ORIGINAL,236.0,13,42.5,236.0
+638.0,432.0,766.0,463.0,CURRENT       LESS          ORIGINAL,other,A,101.5,20,,0.0,-1,101.5,0.0
+12.0,463.0,303.0,517.0,G1       COMP-ILLUSTRATN,positions,TOTAL       (NET)       1          TAX          COMMISSION       «       X,59.0,17,3300.00,200.0,15,59.0,200.0
+303.0,463.0,412.0,517.0,3300.00,positions,TOTAL       (NET)       1          TAX          COMMISSION       «       X,59.0,17,3300.00,108.5,16,59.0,108.5
+412.0,463.0,520.0,517.0,3300.00,positions,3300.00,59.0,18,,0.0,-1,59.0,0.0
+12.0,517.0,303.0,581.0,TOTAL       (NET)       1          TAX          COMMISSION       «       X,positions,GRAND       TOTAL,49.0,22,3300.00,200.0,18,49.0,200.0
+303.0,517.0,412.0,581.0,3300.00,positions,GRAND       TOTAL,49.0,22,3300.00,108.5,19,49.0,108.5
+412.0,517.0,520.0,581.0,3300.00,positions,3300.00,49.0,23,A,113.0,20,49.0,113.0
+520.0,517.0,638.0,581.0,A,other,3300.00,49.0,24,•,123.0,21,49.0,123.0
+638.0,517.0,766.0,581.0,•,other,••,49.0,25,,0.0,-1,49.0,0.0
+12.0,581.0,303.0,615.0,GRAND       TOTAL,total,»AX       DETAIL.,34.0,26,3300.00,200.0,23,34.0,200.0
+303.0,581.0,412.0,615.0,3300.00,total,»AX       DETAIL.,34.0,26,3300.00,108.5,24,34.0,108.5
+412.0,581.0,520.0,615.0,3300.00,total,)       COVER       THE          WNELL       W/G       3/,121.0,29,••,236.0,25,121.0,236.0
+638.0,581.0,766.0,615.0,••,other,COMP-ILLUBTR,121.0,31,,0.0,-1,121.0,0.0
+12.0,615.0,303.0,649.0,»AX       DETAIL.,other,**       TOTAL       TAX,34.0,27,,0.0,-1,34.0,0.0
+12.0,649.0,303.0,683.0,**       TOTAL       TAX,other,901438020101          (31       COMP—       ILLIJSTR       T          AUTHORIZED       BY       CLIFF       PEI,53.0,28,,0.0,-1,53.0,0.0
+12.0,683.0,303.0,755.0,901438020101          (31       COMP—       ILLIJSTR       T          AUTHORIZED       BY       CLIFF       PEI,other,NO       WAR          MEETING       AT       MCCANN-ERIC          ROBERT       DUNN,97.0,32,)       COVER       THE          WNELL       W/G       3/,200.0,29,97.0,200.0
+303.0,683.0,412.0,755.0,)       COVER       THE          WNELL       W/G       3/,other,NO       WAR          MEETING       AT       MCCANN-ERIC          ROBERT       DUNN,97.0,32,:OST       OF       <33>          >0.,108.5,30,97.0,108.5
+412.0,683.0,520.0,755.0,:OST       OF       <33>          >0.,other,(TNG       STATEMEI          :SON       IN       NEW,97.0,33,COMP-ILLUBTR,113.0,31,97.0,113.0
+520.0,683.0,638.0,755.0,COMP-ILLUBTR,other,\iT       REQUIRED          OF<K.       CLIFF,97.0,34,,0.0,-1,97.0,0.0
+12.0,755.0,303.0,877.0,NO       WAR          MEETING       AT       MCCANN-ERIC          ROBERT       DUNN,other,,0.0,-1,(TNG       STATEMEI          :SON       IN       NEW,200.0,33,0.0,200.0
+303.0,755.0,412.0,877.0,(TNG       STATEMEI          :SON       IN       NEW,other,COPY       5,176.5,38,\iT       REQUIRED          OF<K.       CLIFF,108.5,34,176.5,108.5
+412.0,755.0,520.0,877.0,\iT       REQUIRED          OF<K.       CLIFF,other,COPY       5,176.5,38,•ENNELL       AND,113.0,35,176.5,113.0
+520.0,755.0,638.0,877.0,•ENNELL       AND,other,vj          M          v£),114.5,37,51316,123.0,36,114.5,123.0
+638.0,755.0,766.0,877.0,51316,other,vj          M          v£),114.5,37,,0.0,-1,114.5,0.0
+638.0,877.0,766.0,984.0,vj          M          v£),other,,0.0,-1,,0.0,-1,0.0,0.0
+397.0,987.0,437.0,998.0,COPY       5,other,,0.0,-1,,0.0,-1,0.0,0.0

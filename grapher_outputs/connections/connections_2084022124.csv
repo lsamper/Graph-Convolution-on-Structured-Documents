@@ -1,0 +1,26 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+71.0,67.0,236.0,101.0,LEO       BURNETT       U.S.A.          A       MVWOM       OF       IM       SQRMKTf       COUrANT.       I*C.          ADVERTISING,supplier,PERIOD       DATE       09/13/96          01/01/96       TO       12/31/96       PAGE       1          CLIENT:       P.M.       INC.       OFFICE:       10       DESC:       703A       MILITARY       NEWSPAPERS          EST       NO:       6004       REVISES       EST       DTD       07/12/96,62.5,2,,0.0,-1,-1.0,0.0
+362.0,102.0,583.0,112.0,NEWSPAPER       ESTIMATE       RECAP       -       PN05,invoice_info,PERIOD       DATE       09/13/96          01/01/96       TO       12/31/96       PAGE       1          CLIENT:       P.M.       INC.       OFFICE:       10       DESC:       703A       MILITARY       NEWSPAPERS          EST       NO:       6004       REVISES       EST       DTD       07/12/96,39.5,2,,0.0,-1,39.5,0.0
+148.0,122.0,583.0,171.0,PERIOD       DATE       09/13/96          01/01/96       TO       12/31/96       PAGE       1          CLIENT:       P.M.       INC.       OFFICE:       10       DESC:       703A       MILITARY       NEWSPAPERS          EST       NO:       6004       REVISES       EST       DTD       07/12/96,receiver,TOTALS       BY       MRXT/S       20N       /PROOUCT/MONIH,59.5,3,,0.0,-1,59.5,0.0
+147.0,200.0,352.0,212.0,TOTALS       BY       MRXT/S       20N       /PROOUCT/MONIH,other,PROOUCT,47.5,5,MRKT/S:ZON          280'WASHINGTON,266.5,4,47.5,266.5
+473.0,191.0,559.0,222.0,MRKT/S:ZON          280'WASHINGTON,other,EST       AMT          CHANGE,47.0,8,,0.0,-1,47.0,0.0
+166.0,241.0,245.0,266.0,PROOUCT,other,tO-MARLBORO,27.0,10,PERIOD,82.0,6,27.0,82.0
+245.0,241.0,330.0,266.0,PERIOD,other,tO-MARLBORO,27.0,10,EST       AMT          AMOUNT,86.5,7,27.0,86.5
+330.0,241.0,418.0,266.0,EST       AMT          AMOUNT,other,FEB       1996          QUARTER       1,27.0,11,EST       AMT          CHANGE,85.0,8,27.0,85.0
+418.0,241.0,500.0,266.0,EST       AMT          CHANGE,other,4.181.82          4.181.82,27.0,12,EST       AMT          LESS       C/D,79.0,9,27.0,79.0
+500.0,241.0,576.0,266.0,EST       AMT          LESS       C/D,other,4.181.82          4.181.82,27.0,13,,0.0,-1,27.0,0.0
+166.0,266.0,245.0,295.0,tO-MARLBORO,positions,MAY          GUN          OUARTER       2,34.5,14,FEB       1996          QUARTER       1,82.0,11,34.5,82.0
+245.0,266.0,330.0,295.0,FEB       1996          QUARTER       1,positions,MAY          GUN          OUARTER       2,34.5,14,4.181.82          4.181.82,86.5,12,34.5,86.5
+330.0,266.0,418.0,295.0,4.181.82          4.181.82,positions,MAY          GUN          OUARTER       2,34.5,14,4.181.82          4.181.82,164.0,13,34.5,164.0
+500.0,266.0,576.0,295.0,4.181.82          4.181.82,positions,"6.135.48          4,181.82          10,317.30",34.5,16,,0.0,-1,34.5,0.0
+245.0,295.0,330.0,335.0,MAY          GUN          OUARTER       2,positions,UUL          AUG          SEP          OUARTER       3,44.5,17,"6.135.48          4.181.82          10,317.30",86.5,15,44.5,86.5
+330.0,295.0,418.0,335.0,"6.135.48          4.181.82          10,317.30",positions,UUL          AUG          SEP          OUARTER       3,44.5,17,"6.135.48          4,181.82          10,317.30",164.0,16,44.5,164.0
+500.0,295.0,576.0,335.0,"6.135.48          4,181.82          10,317.30",positions,"4.181.82          4.       181.82          4.181.82          12,545.46",44.5,19,,0.0,-1,44.5,0.0
+245.0,335.0,330.0,384.0,UUL          AUG          SEP          OUARTER       3,positions,TOTAL,33.0,20,"4.181.82          4.181.82          4.181.82          12,545.46",86.5,18,33.0,86.5
+330.0,335.0,418.0,384.0,"4.181.82          4.181.82          4.181.82          12,545.46",positions,TOTAL,33.0,20,"4.181.82          4.       181.82          4.181.82          12,545.46",164.0,19,33.0,164.0
+500.0,335.0,576.0,384.0,"4.181.82          4.       181.82          4.181.82          12,545.46",positions,27.044.58,33.0,22,,0.0,-1,33.0,0.0
+245.0,384.0,330.0,401.0,TOTAL,total,,0.0,-1,"27,044.58",86.5,21,0.0,86.5
+330.0,384.0,418.0,401.0,"27,044.58",total,,0.0,-1,27.044.58,164.0,22,0.0,164.0
+500.0,384.0,576.0,401.0,27.044.58,total,,0.0,-1,,0.0,-1,0.0,0.0
+35.0,894.0,144.0,902.0,FORM       M01A       REV       04-14.03,other,,0.0,-1,,0.0,-1,0.0,0.0
+639.0,722.0,657.0,811.0,2084022124,other,,0.0,-1,,0.0,-1,0.0,0.0

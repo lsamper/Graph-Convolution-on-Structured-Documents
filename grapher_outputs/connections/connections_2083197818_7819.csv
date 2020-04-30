@@ -1,0 +1,60 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+50.0,58.0,333.0,130.0,FEB       0?       ’*4       0&:i2Rl       iTPolTUPHL       DliPLAr          PURCHASE       ORDER          *5bV»       443.W,other,PKrlLlP       MORRIS          U.ft.A.          IWWK       W<Jh\>i.       N*«       *)*K.       M       Y.       '«*'»,41.0,2,CAJL«       A00*111:       POLO       MW       *0»»          ►KOWf:       MIA       COOI       ItMWHH,349.5,3,41.0,-1.0
+48.0,151.0,221.0,160.0,rWflWU       #MU4A       ACVl^l       COM*       $0(4,other,VENDOR       NO.       310308,22.0,6,PKrlLlP       MORRIS          U.ft.A.          IWWK       W<Jh\>i.       N*«       *)*K.       M       Y.       '«*'»,250.0,2,22.0,250.0
+310.0,116.0,459.0,154.0,PKrlLlP       MORRIS          U.ft.A.          IWWK       W<Jh\>i.       N*«       *)*K.       M       Y.       '«*'»,supplier,"PHILIP       MORRIS       U.S.A.          ATTENTION:       SEE       RELOW          120       PARK       AVENUE          NEW       YORK,       NY",91.5,8,CAJL«       A00*111:       POLO       MW       *0»»          ►KOWf:       MIA       COOI       ItMWHH,156.5,3,-1.0,156.5
+477.0,114.0,605.0,134.0,CAJL«       A00*111:       POLO       MW       *0»»          ►KOWf:       MIA       COOI       ItMWHH,other,DAIS,23.5,4,P.6          IHOWTH1SOBMRNO          ON       YO       JR       INVOICE          N82512       «          06/30/93,117.0,5,23.5,-1.0
+538.0,142.0,566.0,153.0,DAIS,other,"PHILIP       MORRIS       U.S.A.          ATTENTION:       SEE       RELOW          120       PARK       AVENUE          NEW       YORK,       NY",79.0,8,P.6          IHOWTH1SOBMRNO          ON       YO       JR       INVOICE          N82512       «          06/30/93,106.0,5,79.0,106.0
+603.0,59.0,713.0,155.0,P.6          IHOWTH1SOBMRNO          ON       YO       JR       INVOICE          N82512       «          06/30/93,invoice_info,CAJL«       A00*111:       POLO       MW       *0»»          ►KOWf:       MIA       COOI       ItMWHH,17.0,3,,0.0,-1,17.0,0.0
+173.0,171.0,303.0,184.0,VENDOR       NO.       310308,receiver,"VENDOR:       STRUCTURAL       DISPLAY       COMPANY,       INC       SHIP          12-52       33RD       AVENUE       TO          LONG       ISLAND       CITY,       NY       11106          mot",51.5,7,,0.0,-1,51.5,0.0
+41.0,199.0,444.0,259.0,"VENDOR:       STRUCTURAL       DISPLAY       COMPANY,       INC       SHIP          12-52       33RD       AVENUE       TO          LONG       ISLAND       CITY,       NY       11106          mot",receiver,REQUISITIONER,52.0,10,"PHILIP       MORRIS       U.S.A.          ATTENTION:       SEE       RELOW          120       PARK       AVENUE          NEW       YORK,       NY",308.0,8,52.0,308.0
+458.0,199.0,643.0,254.0,"PHILIP       MORRIS       U.S.A.          ATTENTION:       SEE       RELOW          120       PARK       AVENUE          NEW       YORK,       NY",supplier,BIO       REP./EXP.       INT.,54.5,12,,0.0,-1,54.5,0.0
+653.0,254.0,702.0,267.0,50017,other,TAXABLE,20.5,14,,0.0,-1,20.5,0.0
+26.0,271.0,219.0,291.0,REQUISITIONER,invoice_info,D.       GROSS,23.0,15,BUYER,167.5,11,23.0,167.5
+219.0,271.0,361.0,291.0,BUYER,invoice_info,D.       GROSS,23.0,15,BIO       REP./EXP.       INT.,125.5,12,23.0,125.5
+361.0,271.0,470.0,291.0,BIO       REP./EXP.       INT.,invoice_info,NDC,23.0,16,CONFIRMING       TO,134.5,13,23.0,134.5
+470.0,271.0,630.0,291.0,CONFIRMING       TO,invoice_info,NDC,23.0,16,TAXABLE,122.5,14,23.0,122.5
+630.0,271.0,715.0,291.0,TAXABLE,invoice_info,ALLOWED,23.0,17,,0.0,-1,23.0,0.0
+26.0,291.0,219.0,317.0,D.       GROSS,invoice_info,P.O.B.,21.0,18,NDC,293.0,16,21.0,293.0
+361.0,291.0,470.0,317.0,NDC,invoice_info,ROUTE       VIA,21.0,19,ALLOWED,257.0,17,21.0,257.0
+630.0,291.0,715.0,317.0,ALLOWED,invoice_info,TERMS,21.0,21,,0.0,-1,21.0,0.0
+26.0,317.0,219.0,333.0,P.O.B.,invoice_info,DESTINATION,21.0,22,ROUTE       VIA,167.5,19,21.0,167.5
+219.0,317.0,361.0,333.0,ROUTE       VIA,invoice_info,DESTINATION,21.0,22,1       PREPAID,119.5,20,21.0,119.5
+361.0,317.0,458.0,333.0,1       PREPAID,invoice_info,|frt       PAID,21.0,23,TERMS,177.0,21,21.0,177.0
+458.0,317.0,715.0,333.0,TERMS,invoice_info,|frt       PAID,21.0,23,,0.0,-1,21.0,0.0
+26.0,333.0,219.0,359.0,DESTINATION,invoice_info,I       PurcA6lt0^r       Awe»fmvll«Pp#lrOAUil*«**%4       CM»       *#6WAQ       l»l       %r*       CCTMp?%#»'K*          7       t***<mt       W'*)       on       10011-—-          y       »o       PM       utA       A6vl*0       au.flo       Ift'cHI’wC***       0*       cvntI       MlK       CA       ^       c,29.5,25,|frt       PAID,216.0,23,29.5,216.0
+219.0,333.0,458.0,359.0,|frt       PAID,invoice_info,I       PurcA6lt0^r       Awe»fmvll«Pp#lrOAUil*«**%4       CM»       *#6WAQ       l»l       %r*       CCTMp?%#»'K*          7       t***<mt       W'*)       on       10011-—-          y       »o       PM       utA       A6vl*0       au.flo       Ift'cHI’wC***       0*       cvntI       MlK       CA       ^       c,29.5,25,NET       30,248.0,24,29.5,248.0
+458.0,333.0,715.0,359.0,NET       30,invoice_info,AMOUNT,62.0,30,,0.0,-1,62.0,0.0
+42.0,361.0,396.0,390.0,I       PurcA6lt0^r       Awe»fmvll«Pp#lrOAUil*«**%4       CM»       *#6WAQ       l»l       %r*       CCTMp?%#»'K*          7       t***<mt       W'*)       on       10011-—-          y       »o       PM       utA       A6vl*0       au.flo       Ift'cHI’wC***       0*       cvntI       MlK       CA       ^       c,other,LINE,33.0,26,,0.0,-1,33.0,0.0
+40.0,403.0,71.0,414.0,LINE,positions,001,76.5,32,QUANTITY,158.0,27,76.5,158.0
+183.0,403.0,244.0,415.0,QUANTITY,positions,*■*       THE       DISTRIBUTION       INFORMATION       FUR       THIS       ORDER       IS          DJST       ACCT       NY2200       0A32Q9       330110I3F0,41.0,31,UM,94.0,28,41.0,94.0
+295.0,403.0,320.0,415.0,UM,positions,*■*       THE       DISTRIBUTION       INFORMATION       FUR       THIS       ORDER       IS          DJST       ACCT       NY2200       0A32Q9       330110I3F0,41.0,31,UNIT       PRICE,185.0,29,41.0,185.0
+459.0,403.0,526.0,414.0,UNIT       PRICE,positions,*■*       THE       DISTRIBUTION       INFORMATION       FUR       THIS       ORDER       IS          DJST       ACCT       NY2200       0A32Q9       330110I3F0,41.5,31,AMOUNT,177.5,30,-1.0,177.5
+643.0,402.0,697.0,414.0,AMOUNT,positions,"4,000",75.5,36,,0.0,-1,75.5,0.0
+78.0,436.0,511.0,464.0,*■*       THE       DISTRIBUTION       INFORMATION       FUR       THIS       ORDER       IS          DJST       ACCT       NY2200       0A32Q9       330110I3F0,positions,10.00,33.5,35,,0.0,-1,33.5,0.0
+27.0,479.0,57.0,491.0,001,positions,000       1       FA          PART/DESC       HANDLING       CHARGE          FOR       ••HILLY*'       PANEL          SUbLiNK       SUBLINE       QUANTITY          00001,146.0,41,400,198.0,33,-1.0,198.0
+224.0,478.0,256.0,490.0,400,positions,PART/DESC       MARL       BORO       BLANKETS,28.5,37,EA,55.0,34,28.5,55.0
+283.0,478.0,307.0,490.0,EA,positions,PART/DESC       MARL       BORO       BLANKETS,28.5,37,10.00,192.0,35,28.5,192.0
+463.0,477.0,511.0,490.0,10.00,positions,DELIVERY       DATE          06/16/93,63.5,40,"4,000",201.5,36,63.5,201.5
+664.0,477.0,713.0,490.0,"4,000",positions,100,96.5,44,,0.0,-1,96.5,0.0
+79.0,506.0,324.0,519.0,PART/DESC       MARL       BORO       BLANKETS,positions,SUPLINE       QUANTITY          400,34.0,39,,0.0,-1,34.0,0.0
+70.0,535.0,138.0,561.0,SUER.       INK          00001,positions,000       1       FA          PART/DESC       HANDLING       CHARGE          FOR       ••HILLY*'       PANEL          SUbLiNK       SUBLINE       QUANTITY          00001,83.0,41,SUPLINE       QUANTITY          400,175.0,39,83.0,175.0
+199.0,534.0,359.0,559.0,SUPLINE       QUANTITY          400,positions,000       1       FA          PART/DESC       HANDLING       CHARGE          FOR       ••HILLY*'       PANEL          SUbLiNK       SUBLINE       QUANTITY          00001,84.5,41,DELIVERY       DATE          06/16/93,200.5,40,-1.0,200.5
+421.0,533.0,538.0,561.0,DELIVERY       DATE          06/16/93,positions,100.00,34.0,42,,0.0,-1,34.0,0.0
+28.0,576.0,343.0,686.0,000       1       FA          PART/DESC       HANDLING       CHARGE          FOR       ••HILLY*'       PANEL          SUbLiNK       SUBLINE       QUANTITY          00001,positions,"003       30       EA          PART/DEEC       SPANISH       AWNINGS          22       ""BILL       V          8       MAT       LOGO",111.0,45,DELIVERY       DATE          06/16/93,295.0,43,111.0,295.0
+456.0,575.0,512.0,587.0,100.00,positions,DELIVERY       DATE          06/16/93,90.0,43,100,214.5,44,90.0,214.5
+422.0,658.0,539.0,684.0,DELIVERY       DATE          06/16/93,positions,7S7.50,35.0,46,,0.0,-1,35.0,0.0
+683.0,574.0,714.0,586.0,100,positions,"22,?2Z",125.5,47,,0.0,-1,125.5,0.0
+29.0,701.0,310.0,783.0,"003       30       EA          PART/DEEC       SPANISH       AWNINGS          22       ""BILL       V          8       MAT       LOGO",positions,Sll&l.l.Nr,63.0,50,7S7.50,316.0,46,63.0,316.0
+457.0,700.0,514.0,712.0,7S7.50,positions,SUB-LINE       QUANTITY       DELIVERY       DATE          (CONTINUED       NEXT       PAGE),104.5,51,"22,?2Z",201.5,47,104.5,201.5
+659.0,699.0,715.0,712.0,"22,?2Z",positions,r*,36.5,48,,0.0,-1,36.5,0.0
+704.0,739.0,719.0,745.0,r*,positions,to          o          CO          w,25.5,49,,0.0,-1,25.5,0.0
+687.0,748.0,708.0,787.0,to          o          CO          w,positions,CD          CO          -a          CO,51.5,52,,0.0,-1,51.5,0.0
+74.0,799.0,142.0,811.0,Sll&l.l.Nr,positions,By.,83.0,53,SUB-LINE       QUANTITY       DELIVERY       DATE          (CONTINUED       NEXT       PAGE),263.0,51,83.0,263.0
+203.0,797.0,539.0,824.0,SUB-LINE       QUANTITY       DELIVERY       DATE          (CONTINUED       NEXT       PAGE),positions,PHILIP       MORRIS       U       S       A.,88.0,54,CD          CO          -a          CO,326.0,52,88.0,326.0
+687.0,796.0,707.0,842.0,CD          CO          -a          CO,positions,fr,45.0,55,,0.0,-1,45.0,0.0
+68.0,882.0,89.0,894.0,By.,positions,/       TTh£^*,55.5,56,PHILIP       MORRIS       U       S       A.,146.5,54,55.5,146.5
+166.0,893.0,284.0,904.0,PHILIP       MORRIS       U       S       A.,supplier,,0.0,-1,,0.0,-1,0.0,0.0
+703.0,852.0,720.0,876.0,fr,positions,,0.0,-1,,0.0,-1,0.0,0.0
+69.0,933.0,138.0,954.0,/       TTh£^*,other,,0.0,-1,".       >Alil          5       ANY       OH""          lACONSTriTCti",303.5,57,0.0,303.5
+364.0,932.0,450.0,952.0,".       >Alil          5       ANY       OH""          lACONSTriTCti",other,,0.0,-1,*S‘c       tu,155.5,58,0.0,155.5
+547.0,937.0,578.0,951.0,*S‘c       tu,other,,0.0,-1,,0.0,-1,0.0,0.0

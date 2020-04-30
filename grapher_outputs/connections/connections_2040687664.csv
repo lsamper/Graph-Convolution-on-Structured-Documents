@@ -1,0 +1,26 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+25.0,53.0,199.0,114.0,"PLEASE       MAIL       REMITTANCE       TO          LEO       BURNETT       COMPANY,       INC.          P.O.       BOX       SI451          CHICAGO.       ILLINOIS       60693",supplier,"PHILIP       MORRIS       INC.          NEW       YORK,       NEW       YORK",73.0,1,LEO       BURNETT       U.S.A.          A       DIVISION       OF       I.EO       BURNETT       COMPANY.       INC.          ADVERTISING          PRUDENTIAL       PLAZA       •       CHICAGO.       1LLI       NOIS       60601       •       312-S65-S959,303.0,2,73.0,303.0
+7.0,140.0,160.0,173.0,"PHILIP       MORRIS       INC.          NEW       YORK,       NEW       YORK",receiver,CORPORATE,55.5,3,,0.0,-1,55.5,0.0
+248.0,59.0,582.0,117.0,LEO       BURNETT       U.S.A.          A       DIVISION       OF       I.EO       BURNETT       COMPANY.       INC.          ADVERTISING          PRUDENTIAL       PLAZA       •       CHICAGO.       1LLI       NOIS       60601       •       312-S65-S959,supplier,MED,153.0,4,,0.0,-1,153.0,0.0
+7.0,205.0,86.0,219.0,CORPORATE,receiver,REFERENCE          NUNBER,78.5,14,,0.0,-1,78.5,0.0
+333.0,230.0,364.0,252.0,MED,invoice_info,DESCRIPTION,48.5,15,SCHEDULE       NO.,96.0,5,48.5,96.0
+364.0,230.0,525.0,252.0,SCHEDULE       NO.,invoice_info,12-53-0020,23.0,10,INVOICE       NUMBER,130.5,6,23.0,130.5
+525.0,230.0,625.0,252.0,INVOICE       NUMBER,invoice_info,12-53-0020,23.0,10,NVOICE       DATE,88.5,7,23.0,88.5
+625.0,230.0,702.0,252.0,NVOICE       DATE,invoice_info,12-53-0020,23.0,10,DUE       DATE,75.0,8,23.0,75.0
+702.0,230.0,775.0,252.0,DUE       DATE,invoice_info,12-31-82,23.0,11,PA>,46.0,9,23.0,46.0
+775.0,230.0,794.0,252.0,PA>,invoice_info,01-15-83,23.0,12,,0.0,-1,23.0,0.0
+525.0,252.0,625.0,276.0,12-53-0020,invoice_info,"$783,250.00          861,850.00",125.0,17,12-31-82,88.5,11,125.0,88.5
+625.0,252.0,702.0,276.0,12-31-82,invoice_info,GROSS          AMOUNT,23.0,18,01-15-83,75.0,12,23.0,75.0
+702.0,252.0,775.0,276.0,01-15-83,invoice_info,CASH          DISCOUNT,22.5,19,0,46.0,13,22.5,-1.0
+775.0,252.0,794.0,276.0,0,invoice_info,CASH          DISCOUNT,22.5,19,,0.0,-1,22.5,0.0
+15.0,279.0,81.0,302.0,REFERENCE          NUNBER,other,"FORM       M0       'T.r*""       5/77",678.5,24,DESCRIPTION,301.0,15,-1.0,301.0
+299.0,284.0,399.0,295.0,DESCRIPTION,other,1982       ALLOWANCE       PER       AGREEMENT          LESS       JULY       CREDIT          NET       AMOUNT       DUE       LEO       BURNETT,116.0,16,GROSS          AMOUNT,323.0,18,116.0,323.0
+91.0,366.0,350.0,445.0,1982       ALLOWANCE       PER       AGREEMENT          LESS       JULY       CREDIT          NET       AMOUNT       DUE       LEO       BURNETT,positions,"FORM       M0       'T.r*""       5/77",563.5,24,"$783,250.00          861,850.00",267.0,17,563.5,267.0
+440.0,363.0,535.0,415.0,"$783,250.00          861,850.00",positions,,0.0,-1,,0.0,-1,0.0,0.0
+645.0,276.0,699.0,298.0,GROSS          AMOUNT,other,"78,600.00",147.5,20,CASH          DISCOUNT,95.0,19,147.5,95.0
+736.0,275.0,798.0,298.0,CASH          DISCOUNT,other,to          O          o          0-          Co          -J          O'          o*-,442.0,22,0,17.5,13,442.0,17.5
+634.0,425.0,712.0,444.0,"78,600.00",positions,"$78,600.00",441.5,23,,0.0,-1,441.5,0.0
+548.0,873.0,591.0,885.0,TOTAL,total,,0.0,-1,"$78,600.00",105.5,23,0.0,105.5
+760.0,687.0,781.0,770.0,to          O          o          0-          Co          -J          O'          o*-,other,,0.0,-1,,0.0,-1,0.0,0.0
+632.0,867.0,718.0,885.0,"$78,600.00",total,,0.0,-1,,0.0,-1,0.0,0.0
+24.0,962.0,134.0,976.0,"FORM       M0       'T.r*""       5/77",other,,0.0,-1,,0.0,-1,0.0,0.0

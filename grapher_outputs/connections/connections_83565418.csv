@@ -1,0 +1,22 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+98.0,163.0,155.0,177.0,Invoice,other,To:,35.0,2,,0.0,-1,35.0,0.0
+556.0,73.0,663.0,159.0,DECEIVED          DEC       ^       1998          DJM,other,"November       18,       1998",88.5,3,,0.0,-1,88.5,0.0
+98.0,199.0,119.0,211.0,To:,receiver,"Attorney       David       MacDougall          Brennan,       Steil,       Basting       ane       MacDougall          PO       Box       1148          Janesville,       Wisconsin       53547",42.0,4,"November       18,       1998",486.0,3,42.0,486.0
+537.0,197.0,652.0,212.0,"November       18,       1998",invoice_info,Hours,233.0,8,,0.0,-1,233.0,0.0
+98.0,215.0,325.0,279.0,"Attorney       David       MacDougall          Brennan,       Steil,       Basting       ane       MacDougall          PO       Box       1148          Janesville,       Wisconsin       53547",receiver,From:,74.0,5,,0.0,-1,74.0,0.0
+98.0,315.0,133.0,327.0,From:,supplier,"Patricia       J.       O’Campo       Ph       D          563-23-7979          8820       Castlebury       Court          Laurel,       Maryland       20723",42.5,6,,0.0,-1,42.5,0.0
+98.0,331.0,245.0,396.0,"Patricia       J.       O’Campo       Ph       D          563-23-7979          8820       Castlebury       Court          Laurel,       Maryland       20723",supplier,Tasks       and       Dates       for       work       on       Tobacco       Litigation,75.5,7,,0.0,-1,75.5,0.0
+98.0,431.0,374.0,447.0,Tasks       and       Dates       for       work       on       Tobacco       Litigation,positions,Retrieving       articles       and       books       10/14,50.0,9,Hours,304.0,8,50.0,304.0
+521.0,431.0,559.0,444.0,Hours,positions,2,50.0,10,,0.0,-1,50.0,0.0
+98.0,481.0,298.0,497.0,Retrieving       articles       and       books       10/14,positions,Reviewing       articles       and       books       10/21       &       10/22,33.5,11,2,327.5,10,33.5,327.5
+521.0,482.0,530.0,493.0,2,positions,3,33.5,12,,0.0,-1,33.5,0.0
+98.0,515.0,350.0,530.0,Reviewing       articles       and       books       10/21       &       10/22,positions,Writing       brief       10/23       &       10/24,33.5,13,3,301.5,12,33.5,301.5
+522.0,515.0,529.0,527.0,3,positions,2,33.0,14,,0.0,-1,33.0,0.0
+98.0,548.0,257.0,564.0,Writing       brief       10/23       &       10/24,positions,Total       Hours,98.5,15,2,348.0,14,98.5,348.0
+521.0,548.0,530.0,560.0,2,positions,yn,99.0,16,,0.0,-1,99.0,0.0
+98.0,648.0,168.0,661.0,Total       Hours,total,,0.0,-1,yn,401.0,16,0.0,401.0
+519.0,645.0,549.0,661.0,yn,total,$1250.00       M,50.5,18,,0.0,-1,50.5,0.0
+353.0,665.0,446.0,681.0,@S250       per       hour,total,TOTAL,32.0,19,,0.0,-1,32.0,0.0
+501.0,695.0,576.0,712.0,$1250.00       M,total,,0.0,-1,,0.0,-1,0.0,0.0
+353.0,699.0,400.0,711.0,TOTAL,total,,0.0,-1,$1250.00       M,162.0,18,0.0,162.0
+621.0,766.0,644.0,867.0,83565418,other,,0.0,-1,,0.0,-1,0.0,0.0

@@ -1,0 +1,18 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+219.0,185.0,486.0,270.0,"THOMAS       E.       SMITH,       JR.          ATTORNEY       AT       LAW          512       SOUTH       WALNUT       STREET          P.O.       BOX       308          PAMPLICO,       SOUTH       CAROLINA       29583          (803)       493-5122",supplier,FILE       #:       2432-89-01          RE:       Retainer       fee,76.0,2,,0.0,-1,76.0,0.0
+84.0,283.0,258.0,354.0,"Philip       Morris       U.S.A.          Henry       Turner          Three       Ravinia       Drive          Suite       1560          Atlanta,       GA       30346",receiver,ATTORNEY          OR       STAFF,62.5,4,FILE       #:       2432-89-01          RE:       Retainer       fee,291.5,2,62.5,291.5
+371.0,283.0,554.0,324.0,FILE       #:       2432-89-01          RE:       Retainer       fee,other,TIME,83.5,7,AS       OF:          PAGE       #,141.0,6,83.5,141.0
+51.0,382.0,92.0,394.0,DATE,positions,07/01/96       TES,43.0,8,ATTORNEY          OR       STAFF,75.5,4,43.0,75.5
+109.0,368.0,185.0,394.0,ATTORNEY          OR       STAFF,positions,07/01/96       TES,50.0,8,SERVICE,89.0,5,-1.0,89.0
+203.0,381.0,269.0,394.0,SERVICE,positions,"Retainer       for       July,       1996.          *       TOTAL       SERVICES       RENDERED",56.5,9,TIME,323.5,7,56.5,323.5
+572.0,284.0,635.0,310.0,AS       OF:          PAGE       #,invoice_info,TIME,90.0,7,07/01/96          1,73.0,11,-1.0,73.0
+539.0,381.0,580.0,393.0,TIME,positions,,0.0,-1,AMOUNT,116.5,12,0.0,116.5
+36.0,424.0,159.0,438.0,07/01/96       TES,positions,,0.0,-1,"Retainer       for       July,       1996.          *       TOTAL       SERVICES       RENDERED",230.0,9,0.0,230.0
+202.0,423.0,453.0,465.0,"Retainer       for       July,       1996.          *       TOTAL       SERVICES       RENDERED",positions,PREVIOUS       BALANCE:          CURRENT       CHARGES:          LESS       PAYMENTS:,71.5,10,"6,666.67",340.5,13,71.5,340.5
+315.0,496.0,456.0,535.0,PREVIOUS       BALANCE:          CURRENT       CHARGES:          LESS       PAYMENTS:,positions,TOTAL       AMOUNT       DUE:,42.5,15,".00          6,666.67          .00",283.0,14,42.5,283.0
+643.0,284.0,710.0,310.0,07/01/96          1,invoice_info,AMOUNT,91.5,12,,0.0,-1,91.5,0.0
+650.0,383.0,702.0,394.0,AMOUNT,positions,"6,666.67",71.5,13,,0.0,-1,71.5,0.0
+635.0,453.0,701.0,467.0,"6,666.67",positions,".00          6,666.67          .00",56.0,14,,0.0,-1,56.0,0.0
+635.0,496.0,702.0,536.0,".00          6,666.67          .00",positions,"$6,666.67",42.5,16,,0.0,-1,42.5,0.0
+314.0,552.0,456.0,564.0,TOTAL       AMOUNT       DUE:,total,,0.0,-1,"$6,666.67",278.5,16,0.0,278.5
+626.0,551.0,701.0,566.0,"$6,666.67",total,,0.0,-1,,0.0,-1,0.0,0.0

@@ -1,0 +1,32 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+188.0,158.0,522.0,173.0,POLITICAL       CAMPAIGN       CONTRIBUTION       REQUEST,other,Date:       4/28/98,46.0,1,,0.0,-1,46.0,0.0
+110.0,205.0,194.0,218.0,Date:       4/28/98,invoice_info,Name          (Ifdivkkul       Candi&lc       Fuodraising       Org),105.0,4,State:       ^       Local:       Q,343.5,2,-1.0,343.5
+434.0,203.0,557.0,220.0,State:       ^       Local:       Q,invoice_info,RECIPIENT       INFORMATON,48.5,3,,0.0,-1,48.5,0.0
+267.0,254.0,440.0,266.0,RECIPIENT       INFORMATON,receiver,Name          (Ifdivkkul       Candi&lc       Fuodraising       Org),56.5,4,,0.0,-1,56.5,0.0
+103.0,300.0,273.0,333.0,Name          (Ifdivkkul       Candi&lc       Fuodraising       Org),receiver,Address,49.5,6,Mark       Simmons,250.5,5,49.5,250.5
+273.0,300.0,604.0,333.0,Mark       Simmons,receiver,Address,49.5,6,,0.0,-1,49.5,0.0
+103.0,333.0,273.0,399.0,Address,receiver,Current       Office       and       District,41.5,8,"P.O.       Box       572          Elgin,       OR       97827",250.5,7,41.5,250.5
+273.0,333.0,604.0,399.0,"P.O.       Box       572          Elgin,       OR       97827",receiver,Current       Office       and       District,41.5,8,,0.0,-1,41.5,0.0
+103.0,399.0,273.0,416.0,Current       Office       and       District,receiver,Aspired       Office       and       District,17.0,10,"State       Representative,       District       58",250.5,9,17.0,250.5
+273.0,399.0,604.0,416.0,"State       Representative,       District       58",receiver,Aspired       Office       and       District,17.0,10,,0.0,-1,17.0,0.0
+103.0,416.0,273.0,433.0,Aspired       Office       and       District,receiver,Party,17.0,12,"State       Representative,       District       58",250.5,11,17.0,250.5
+273.0,416.0,604.0,433.0,"State       Representative,       District       58",receiver,Party,17.0,12,,0.0,-1,17.0,0.0
+103.0,433.0,273.0,450.0,Party,receiver,Leadership       Position,17.5,14,R,250.5,13,17.5,250.5
+273.0,433.0,604.0,450.0,R,receiver,Leadership       Position,17.5,14,,0.0,-1,17.5,0.0
+103.0,450.0,273.0,468.0,Leadership       Position,receiver,Committees          (Noic       Chi^mjruhipi),23.0,15,,0.0,-1,23.0,0.0
+103.0,468.0,273.0,496.0,Committees          (Noic       Chi^mjruhipi),receiver,CONTRIBUTION       INFORMATION,70.5,17,"Children       &       Families,       Environment       &       Energy;       Revenue",250.5,16,70.5,250.5
+273.0,468.0,604.0,496.0,"Children       &       Families,       Environment       &       Energy;       Revenue",receiver,CONTRIBUTION       INFORMATION,70.5,17,,0.0,-1,70.5,0.0
+248.0,546.0,459.0,559.0,CONTRIBUTION       INFORMATION,other,Amount,48.5,18,,0.0,-1,48.5,0.0
+102.0,592.0,342.0,610.0,Amount,other,Account       Code,17.5,20,$       250.00,246.0,19,17.5,246.0
+342.0,592.0,594.0,610.0,$       250.00,other,Account       Code,17.5,20,,0.0,-1,17.5,0.0
+102.0,610.0,342.0,627.0,Account       Code,other,Check       Payable       to,17.0,22,1401-7710-OR-01,246.0,21,17.0,246.0
+342.0,610.0,594.0,627.0,1401-7710-OR-01,other,Check       Payable       to,17.0,22,,0.0,-1,17.0,0.0
+102.0,627.0,342.0,644.0,Check       Payable       to,other,Address          (Only       if       different       from       address       above),41.0,24,Committee       to       Re-Elect       Mark       Simmons,246.0,23,41.0,246.0
+342.0,627.0,594.0,644.0,Committee       to       Re-Elect       Mark       Simmons,other,Address          (Only       if       different       from       address       above),41.0,24,,0.0,-1,41.0,0.0
+102.0,644.0,342.0,709.0,Address          (Only       if       different       from       address       above),other,Notes:          (Date       needed;       fundraiser       date;       other       info.,50.5,25,,0.0,-1,50.5,0.0
+102.0,709.0,342.0,745.0,Notes:          (Date       needed;       fundraiser       date;       other       info.,other,Approved       by:,56.5,27,Need       by       5-8-98,246.0,26,56.5,246.0
+342.0,709.0,594.0,745.0,Need       by       5-8-98,other,(Regional       Vice       President's       signature),74.0,28,,0.0,-1,74.0,0.0
+105.0,775.0,186.0,792.0,Approved       by:,other,Revised       2/95,93.5,29,,0.0,-1,93.5,0.0
+358.0,793.0,567.0,809.0,(Regional       Vice       President's       signature),other,(Senior       Vice       President’s       signature),63.5,30,,0.0,-1,63.5,0.0
+104.0,871.0,171.0,883.0,Revised       2/95,other,,0.0,-1,(Senior       Vice       President’s       signature),334.0,30,0.0,334.0
+375.0,857.0,568.0,872.0,(Senior       Vice       President’s       signature),other,,0.0,-1,,0.0,-1,0.0,0.0

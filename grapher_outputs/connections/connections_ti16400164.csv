@@ -1,0 +1,33 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+97.0,105.0,380.0,155.0,THE       TOBACCO       INSTITUTE          1875       I       STREET.       NORTHWEST          WASHINGTON.       DC       20006,supplier,PAY       IN       DOLLARS          One       Thousand       and       no/100       Dollars,62.5,10,CHECK,186.5,3,62.5,186.5
+450.0,87.0,550.0,111.0,T*E       «KiGS       HATKW.       BANK          VC,invoice_info,CHECK,23.0,3,'S-2,119.0,2,23.0,119.0
+608.0,89.0,630.0,108.0,'S-2,invoice_info,AMOUNT,23.5,5,,0.0,-1,23.5,0.0
+386.0,114.0,464.0,130.0,CHECK,invoice_info,D27009,23.0,6,CHECK       DATE,87.0,4,23.0,87.0
+464.0,114.0,560.0,130.0,CHECK       DATE,invoice_info,D27009,23.0,6,AMOUNT,110.0,5,23.0,110.0
+560.0,114.0,684.0,130.0,AMOUNT,invoice_info,02/18/97,23.0,7,,0.0,-1,23.0,0.0
+386.0,130.0,464.0,160.0,D27009,invoice_info,"""•o^ooq**       i:osuoooo30i:       ia-Oflaiq?*?*       1",194.0,14,02/18/97,87.0,7,-1.0,87.0
+464.0,130.0,560.0,160.0,02/18/97,invoice_info,Hwse       fcpesii,164.0,12,"u          I‘**•—*1,000.00",110.0,8,164.0,110.0
+560.0,130.0,684.0,160.0,"u          I‘**•—*1,000.00",invoice_info,*8*5\.,162.5,13,,0.0,-1,162.5,0.0
+55.0,191.0,135.0,202.0,TO       THE       ORDER       OF,other,"NEW       YORK       STATE       SENATE          REPUBLICAN       CAMPAIGN       CNTE          P0       BOX       729          ALBANY,       NY       12224",87.0,11,PAY       IN       DOLLARS          One       Thousand       and       no/100       Dollars,150.0,10,87.0,150.0
+138.0,176.0,352.0,209.0,PAY       IN       DOLLARS          One       Thousand       and       no/100       Dollars,other,"NEW       YORK       STATE       SENATE          REPUBLICAN       CAMPAIGN       CNTE          P0       BOX       729          ALBANY,       NY       12224",91.0,11,,0.0,-1,-1.0,0.0
+103.0,259.0,272.0,308.0,"NEW       YORK       STATE       SENATE          REPUBLICAN       CAMPAIGN       CNTE          P0       BOX       729          ALBANY,       NY       12224",receiver,"""•o^ooq**       i:osuoooo30i:       ia-Oflaiq?*?*       1",55.5,14,Hwse       fcpesii,329.5,12,-1.0,329.5
+468.0,296.0,566.0,322.0,Hwse       fcpesii,other,"""•o^ooq**       i:osuoooo30i:       ia-Oflaiq?*?*       1",30.0,14,*8*5\.,100.5,13,30.0,100.5
+581.0,298.0,654.0,317.0,*8*5\.,other,—          02/18/97,92.0,18,,0.0,-1,92.0,0.0
+166.0,332.0,500.0,346.0,"""•o^ooq**       i:osuoooo30i:       ia-Oflaiq?*?*       1",other,DCTACM       ozronc       OGPOSITIWG       NO       OTHER       RECOPT       RCOUWCD,34.5,15,,0.0,-1,34.5,0.0
+246.0,369.0,496.0,378.0,DCTACM       ozronc       OGPOSITIWG       NO       OTHER       RECOPT       RCOUWCD,other,14039,26.0,17,,0.0,-1,26.0,0.0
+97.0,394.0,297.0,433.0,THE       TOBACCO       INSTITUTE          1875       I       STREET.       NORTHWEST          WASHINGTON.       DC       20006,supplier,ICE       DATE       INVOICE       NO.,82.0,23,14039,250.0,17,82.0,250.0
+383.0,378.0,511.0,421.0,14039,invoice_info,VENDOR       NUMBER,28.5,20,—          02/18/97,102.5,18,28.5,102.5
+511.0,378.0,588.0,421.0,—          02/18/97,invoice_info,VENDOR       NUMBER,28.5,20,027009,83.0,19,28.5,83.0
+588.0,378.0,677.0,421.0,027009,invoice_info,CHECK       DATE,28.5,21,,0.0,-1,28.5,0.0
+383.0,421.0,511.0,435.0,VENDOR       NUMBER,invoice_info,INVOICE       AMOUNT       |       NET       AMOUNT,68.5,27,CHECK       DATE,102.5,21,68.5,102.5
+511.0,421.0,588.0,435.0,CHECK       DATE,invoice_info,INVOICE       AMOUNT       |       NET       AMOUNT,68.5,27,CHECK       NUMBER,83.0,22,68.5,83.0
+588.0,421.0,677.0,435.0,CHECK       NUMBER,invoice_info,INVOICE       AMOUNT       |       NET       AMOUNT,68.5,27,,0.0,-1,68.5,0.0
+69.0,491.0,185.0,500.0,ICE       DATE       INVOICE       NO.,positions,102/14/97       NY       PC       97          1401-7710-NY01,13.0,24,DESCRIPTION,208.0,25,13.0,208.0
+42.0,485.0,204.0,532.0,102/14/97       NY       PC       97          1401-7710-NY01,positions,,0.0,-1,ICE       DATE       INVOICE       NO.,4.0,23,0.0,4.0
+301.0,491.0,369.0,500.0,DESCRIPTION,positions,STATE       CAMPAIGN       CONTRIBUTIONS,31.0,26,INVOICE       AMOUNT       |       NET       AMOUNT,232.0,27,31.0,232.0
+207.0,521.0,399.0,532.0,STATE       CAMPAIGN       CONTRIBUTIONS,positions,THE       TOBACCO       INSTITUTE       'NC,423.5,30,"$1,000.00          $1,000.00",229.5,28,423.5,229.5
+481.0,492.0,653.0,501.0,INVOICE       AMOUNT       |       NET       AMOUNT,positions,"$1,000.0",18.5,29,,0.0,-1,18.5,0.0
+499.0,509.0,566.0,533.0,"$1,000.00          $1,000.00",positions,,0.0,-1,"$1,000.0",102.0,29,0.0,102.0
+606.0,509.0,663.0,521.0,"$1,000.0",total,Tl       1640-0164,455.0,31,,0.0,-1,455.0,0.0
+300.0,945.0,435.0,955.0,THE       TOBACCO       INSTITUTE       'NC,other,,0.0,-1,,0.0,-1,0.0,0.0
+643.0,964.0,724.0,976.0,Tl       1640-0164,other,,0.0,-1,,0.0,-1,0.0,0.0

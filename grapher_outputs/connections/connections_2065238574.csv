@@ -1,0 +1,29 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+194.0,115.0,423.0,186.0,"AUTO       DRIVEAWAY       CO.          225       West       34lh       Street.       Suite       1605          New       York,       NY       10122          PH       (212)967-2344       •       FAX(212)967-3893",supplier,NEIL       SELTER          PHILIP       MORRIS       CORP.          120       PARK       AVENUE          NEW       YORK       CITY       NY       1C017,100.5,2,,0.0,-1,100.5,0.0
+64.0,212.0,87.0,315.0,r          L,receiver,DATE,105.5,8,NEIL       SELTER          PHILIP       MORRIS       CORP.          120       PARK       AVENUE          NEW       YORK       CITY       NY       1C017,165.0,2,105.5,165.0
+130.0,225.0,351.0,277.0,NEIL       SELTER          PHILIP       MORRIS       CORP.          120       PARK       AVENUE          NEW       YORK       CITY       NY       1C017,receiver,REFERENCE,116.0,9,INVOICE          No.,282.0,3,116.0,282.0
+476.0,214.0,569.0,256.0,INVOICE          No.,invoice_info,DATE;,49.5,5,12954907,89.0,4,49.5,89.0
+578.0,225.0,645.0,236.0,12954907,invoice_info,i/22/98,68.5,6,,0.0,-1,68.5,0.0
+476.0,278.0,515.0,291.0,DATE;,invoice_info,CHARGES,82.5,20,,0.0,-1,82.5,0.0
+587.0,293.0,646.0,305.0,i/22/98,invoice_info,b/l       a       /aa       7f/,42.0,7,,0.0,-1,42.0,0.0
+540.0,332.0,676.0,350.0,b/l       a       /aa       7f/,invoice_info,CREDO'S,26.0,24,,0.0,-1,26.0,0.0
+37.0,363.0,74.0,375.0,DATE,positions,,0.0,-1,REFERENCE,203.5,9,0.0,203.5
+225.0,361.0,293.0,373.0,REFERENCE,positions,Cost       of       transporting       a          19       5       VANS          Owner       MARL30R0          VIN#          Plates,68.0,10,CHARGES,231.5,20,68.0,231.5
+170.0,401.0,362.0,469.0,Cost       of       transporting       a          19       5       VANS          Owner       MARL30R0          VIN#          Plates,positions,Del       Date       /,45.5,11,,0.0,-1,45.5,0.0
+173.0,471.0,299.0,490.0,Del       Date       /,positions,Pick       up       from:,19.5,13,f,89.0,12,19.5,89.0
+299.0,471.0,351.0,490.0,f,positions,Pick       up       from:,19.5,13,,0.0,-1,19.5,0.0
+173.0,490.0,299.0,510.0,Pick       up       from:,positions,ENGELIJOOD,17.5,14,,0.0,-1,17.5,0.0
+173.0,510.0,299.0,525.0,ENGELIJOOD,positions,Deliver       to:,14.0,16,CO,89.0,15,14.0,89.0
+299.0,510.0,351.0,525.0,CO,positions,Deliver       to:,14.0,16,,0.0,-1,14.0,0.0
+173.0,525.0,299.0,538.0,Deliver       to:,positions,RIVERSIDE,13.0,17,,0.0,-1,13.0,0.0
+173.0,538.0,299.0,551.0,RIVERSIDE,positions,Base       Tariff:          TOTAL       AMOUNT       NOW       DUE          THANKS       .-OR       THE       OROER       .,81.5,19,CA,89.0,18,81.5,89.0
+299.0,538.0,351.0,551.0,CA,positions,Base       Tariff:          TOTAL       AMOUNT       NOW       DUE          THANKS       .-OR       THE       OROER       .,81.5,19,,0.0,-1,81.5,0.0
+171.0,579.0,363.0,673.0,Base       Tariff:          TOTAL       AMOUNT       NOW       DUE          THANKS       .-OR       THE       OROER       .,other,A44       YEAR       SERVICE       TO       THE       100       YEAR       AUTOMOBILE       INDUSTRY.          WE       ARE       PLEASED       TO       BE       OP       SERVICE       TO       YOU       ONCE       AGAIN.          ALL       INVOICES       TO       BE       PAID       WITHIN       SEVEN       (7)       DAYS.,272.0,22,"3,000       .00",234.0,21,272.0,234.0
+462.0,361.0,519.0,373.0,CHARGES,positions,"3,000       .00",220.0,21,CREDO'S,92.5,24,220.0,92.5
+465.0,580.0,537.0,594.0,"3,000       .00",positions,1302,337.5,23,,0.0,-1,337.5,0.0
+140.0,876.0,463.0,920.0,A44       YEAR       SERVICE       TO       THE       100       YEAR       AUTOMOBILE       INDUSTRY.          WE       ARE       PLEASED       TO       BE       OP       SERVICE       TO       YOU       ONCE       AGAIN.          ALL       INVOICES       TO       BE       PAID       WITHIN       SEVEN       (7)       DAYS.,other,,0.0,-1,1302,176.5,23,0.0,176.5
+464.0,919.0,492.0,930.0,1302,other,,0.0,-1,t^S8ess9oa,190.5,27,0.0,190.5
+557.0,361.0,609.0,373.0,CREDO'S,positions,,0.0,-1,BALANCE,94.5,25,0.0,94.5
+648.0,362.0,707.0,374.0,BALANCE,positions,"2,00C.0<",246.5,26,,0.0,-1,246.5,0.0
+650.0,608.0,719.0,621.0,"2,00C.0<",total,t^S8ess9oa,267.0,27,,0.0,-1,267.0,0.0
+660.0,840.0,677.0,923.0,t^S8ess9oa,other,,0.0,-1,,0.0,-1,0.0,0.0

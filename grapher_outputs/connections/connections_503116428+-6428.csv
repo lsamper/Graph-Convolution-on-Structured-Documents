@@ -1,0 +1,89 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+14.0,122.0,170.0,135.0,LKP       INTERNATIONAL       LTD,supplier,CLIENT          MEDIA:          EST       #:          DESC:,59.5,2,PRODUCTION       ESTIMATE,551.0,1,59.5,551.0
+571.0,119.0,715.0,132.0,PRODUCTION       ESTIMATE,other,6/14/84          1          410105110,62.5,6,,0.0,-1,62.5,0.0
+17.0,140.0,62.0,236.0,CLIENT          MEDIA:          EST       #:          DESC:,receiver,CODE,83.5,11,:       RJR/More       Family       Black          Out-of-Home          H4-ME-0044E          VOILE       DRESS       100's          14x48       Printed       Bulletin,130.0,3,83.5,130.0
+62.0,140.0,277.0,236.0,:       RJR/More       Family       Black          Out-of-Home          H4-ME-0044E          VOILE       DRESS       100's          14x48       Printed       Bulletin,receiver,ORIGINAL,60.0,7,•,247.5,4,60.0,247.5
+378.0,140.0,456.0,236.0,•,invoice_info,ORIGINAL,60.0,7,DATE:          PAGE       1       OF          INTERNAL       #:,82.5,5,60.0,82.5
+456.0,140.0,543.0,236.0,DATE:          PAGE       1       OF          INTERNAL       #:,invoice_info,REVISED,60.0,8,6/14/84          1          410105110,89.5,6,60.0,89.5
+543.0,140.0,635.0,236.0,6/14/84          1          410105110,invoice_info,ACTUAL       ',60.0,9,,0.0,-1,60.0,0.0
+277.0,236.0,378.0,260.0,ORIGINAL,positions,EXPENSE       CATEGORY,23.5,12,REVISED,89.5,8,23.5,89.5
+378.0,236.0,456.0,260.0,REVISED,positions,ESTIMATE,23.5,13,ACTUAL       ',82.5,9,23.5,82.5
+456.0,236.0,543.0,260.0,ACTUAL       ',positions,ESTIMATE,23.5,14,PERCENT          •,178.5,10,23.5,178.5
+635.0,236.0,721.0,260.0,PERCENT          •,positions,DIFFERENCE,23.5,16,,0.0,-1,23.5,0.0
+17.0,260.0,62.0,283.0,CODE,positions,ADT,31.0,18,EXPENSE       CATEGORY,130.0,12,31.0,130.0
+62.0,260.0,277.0,283.0,EXPENSE       CATEGORY,positions,ADT,31.0,18,ESTIMATE,158.0,13,31.0,158.0
+277.0,260.0,378.0,283.0,ESTIMATE,positions,Dye       Transfer/Dupe       Chrome,31.0,19,ESTIMATE,89.5,14,31.0,89.5
+378.0,260.0,456.0,283.0,ESTIMATE,positions,"Jl,150.00",31.0,20,COSTS,82.5,15,31.0,82.5
+456.0,260.0,543.0,283.0,COSTS,positions,0.00,31.0,21,DIFFERENCE,89.5,16,31.0,89.5
+543.0,260.0,635.0,283.0,DIFFERENCE,positions,0.00,31.0,21,DIFFERENCE,89.0,17,31.0,89.0
+635.0,260.0,721.0,283.0,DIFFERENCE,positions,0.00,31.0,21,,0.0,-1,31.0,0.0
+17.0,283.0,62.0,322.0,ADT,positions,AOR,27.0,23,Dye       Transfer/Dupe       Chrome,130.0,19,27.0,130.0
+62.0,283.0,277.0,322.0,Dye       Transfer/Dupe       Chrome,positions,AOR,27.0,23,"Jl,150.00",158.0,20,27.0,158.0
+277.0,283.0,378.0,322.0,"Jl,150.00",positions,Art       -       Other,27.0,24,0.00,261.5,21,27.0,261.5
+543.0,283.0,635.0,322.0,0.00,positions,0.00,27.0,27,0.002,89.0,22,27.0,89.0
+635.0,283.0,721.0,322.0,0.002,positions,0.00,27.0,27,,0.0,-1,27.0,0.0
+17.0,322.0,62.0,337.0,AOR,positions,ART,15.5,29,Art       -       Other,130.0,24,15.5,130.0
+62.0,322.0,277.0,337.0,Art       -       Other,positions,ART,15.5,29,350.00,158.0,25,15.5,158.0
+277.0,322.0,378.0,337.0,350.00,positions,Retouching,15.5,30,*       •       _,89.5,26,15.5,89.5
+378.0,322.0,456.0,337.0,*       •       _,positions,"6,000.00",15.5,31,0.00,172.0,27,15.5,172.0
+543.0,322.0,635.0,337.0,0.00,positions,0.00,15.5,33,0.002,89.0,28,15.5,89.0
+635.0,322.0,721.0,337.0,0.002,positions,0.00,15.5,33,,0.0,-1,15.5,0.0
+17.0,337.0,62.0,353.0,ART,positions,CMC,15.5,35,Retouching,130.0,30,15.5,130.0
+62.0,337.0,277.0,353.0,Retouching,positions,CMC,15.5,35,"6,000.00",158.0,31,15.5,158.0
+277.0,337.0,378.0,353.0,"6,000.00",positions,Mechanical,15.5,36,•,89.5,32,15.5,89.5
+378.0,337.0,456.0,353.0,•,positions,400.00,15.5,37,0.00,172.0,33,15.5,172.0
+543.0,337.0,635.0,353.0,0.00,positions,0.00,15.5,38,0.002,89.0,34,15.5,89.0
+635.0,337.0,721.0,353.0,0.002,positions,0.00,15.5,38,,0.0,-1,15.5,0.0
+17.0,353.0,62.0,368.0,CMC,positions,PPT,16.0,40,Mechanical,130.0,36,16.0,130.0
+62.0,353.0,277.0,368.0,Mechanical,positions,PPT,16.0,40,400.00,158.0,37,16.0,158.0
+277.0,353.0,378.0,368.0,400.00,positions,Printing,16.0,41,0.00,261.5,38,16.0,261.5
+543.0,353.0,635.0,368.0,0.00,positions,t       #,16.0,43,0.002,89.0,39,16.0,89.0
+635.0,353.0,721.0,368.0,0.002,positions,0.00,16.0,44,,0.0,-1,16.0,0.0
+17.0,368.0,62.0,385.0,PPT,positions,PST,15.5,46,Printing,130.0,41,15.5,130.0
+62.0,368.0,277.0,385.0,Printing,positions,PST,15.5,46,"27,000.00",158.0,42,15.5,158.0
+277.0,368.0,378.0,385.0,"27,000.00",positions,Photostat,15.5,47,t       #,172.0,43,15.5,172.0
+456.0,368.0,543.0,385.0,t       #,positions,0.00,15.5,49,0.00,89.5,44,15.5,89.5
+543.0,368.0,635.0,385.0,0.00,positions,0.00,15.5,49,0.002,89.0,45,15.5,89.0
+635.0,368.0,721.0,385.0,0.002,positions,0.00,15.5,49,,0.0,-1,15.5,0.0
+17.0,385.0,62.0,399.0,PST,positions,TNE,156.5,70,Photostat,130.0,47,156.5,130.0
+62.0,385.0,277.0,399.0,Photostat,positions,TNE,156.5,70,100.00,158.0,48,156.5,158.0
+277.0,385.0,378.0,399.0,100.00,positions,f,43.5,55,0.00,261.5,49,43.5,261.5
+543.0,385.0,635.0,399.0,0.00,positions,0.00,13.5,51,0.002,89.0,50,13.5,89.0
+635.0,385.0,721.0,399.0,0.002,positions,0.00,13.5,51,,0.0,-1,13.5,0.0
+543.0,399.0,635.0,412.0,0.00,positions,0.00,14.5,53,0.002,89.0,52,14.5,89.0
+635.0,399.0,721.0,412.0,0.002,positions,0.00,14.5,53,,0.0,-1,14.5,0.0
+543.0,412.0,635.0,428.0,0.00,positions,0.00,15.5,56,0.002,89.0,54,15.5,89.0
+635.0,412.0,721.0,428.0,0.002,positions,0.00,15.5,56,,0.0,-1,15.5,0.0
+378.0,428.0,456.0,443.0,f,positions,625.00,113.0,72,0.00,172.0,56,113.0,172.0
+543.0,428.0,635.0,443.0,0.00,positions,0.00,15.5,58,0.002,89.0,57,15.5,89.0
+635.0,428.0,721.0,443.0,0.002,positions,0.00,15.5,58,,0.0,-1,15.5,0.0
+543.0,443.0,635.0,459.0,0.00,positions,0.00,16.0,60,0.002,89.0,59,16.0,89.0
+635.0,443.0,721.0,459.0,0.002,positions,0.00,16.0,60,,0.0,-1,16.0,0.0
+543.0,459.0,635.0,475.0,0.00,positions,0.00,15.5,62,0.002,89.0,61,15.5,89.0
+635.0,459.0,721.0,475.0,0.002,positions,0.00,15.5,62,,0.0,-1,15.5,0.0
+543.0,475.0,635.0,490.0,0.00,positions,0.00,15.0,64,0.002,89.0,63,15.0,89.0
+635.0,475.0,721.0,490.0,0.002,positions,0.00,15.0,64,,0.0,-1,15.0,0.0
+543.0,490.0,635.0,505.0,0.00,positions,0.00,15.5,66,0.002,89.0,65,15.5,89.0
+635.0,490.0,721.0,505.0,0.002,positions,0.00,15.5,66,,0.0,-1,15.5,0.0
+543.0,505.0,635.0,521.0,0.00,positions,0.00,16.0,68,0.002,89.0,67,16.0,89.0
+635.0,505.0,721.0,521.0,0.002,positions,0.00,16.0,68,,0.0,-1,16.0,0.0
+543.0,521.0,635.0,537.0,0.00,positions,0.00,19.5,73,0.002,89.0,69,19.5,89.0
+635.0,521.0,721.0,537.0,0.002,positions,0.00,19.5,73,,0.0,-1,19.5,0.0
+17.0,537.0,62.0,560.0,TNE,positions,TOTAL,27.0,75,NY       State       Tax       Non-Exempt,130.0,71,27.0,130.0
+62.0,537.0,277.0,560.0,NY       State       Tax       Non-Exempt,positions,TOTAL,27.0,75,625.00,158.0,72,27.0,158.0
+277.0,537.0,378.0,560.0,625.00,positions,TOTAL,27.0,75,0.00,261.5,73,27.0,261.5
+543.0,537.0,635.0,560.0,0.00,positions,Jo.00,27.0,78,0.002,89.0,74,27.0,89.0
+635.0,537.0,721.0,560.0,0.002,positions,0.00,27.0,79,,0.0,-1,27.0,0.0
+62.0,560.0,277.0,591.0,TOTAL,total,COMMENTS:       For       September/October       posting.          EXPLANATION       OF       COSTS:          ADT:       I       dye       of       visual       and       I       dye       of       pack.          AOR:       Overlay       for       pack       art.          ART:       Retouching       of       dyes.          CMC:       1       original       00H       mechanical.          PPT:       55-14x48       Printed       Bulletin       units.          PST:       6       for       legal;       8       for       mechanical.          (Shipping       costs       on       H4-MF-0071P),134.0,84,"J35,625.00",158.0,76,134.0,158.0
+277.0,560.0,378.0,591.0,"J35,625.00",total,COMMENTS:       For       September/October       posting.          EXPLANATION       OF       COSTS:          ADT:       I       dye       of       visual       and       I       dye       of       pack.          AOR:       Overlay       for       pack       art.          ART:       Retouching       of       dyes.          CMC:       1       original       00H       mechanical.          PPT:       55-14x48       Printed       Bulletin       units.          PST:       6       for       legal;       8       for       mechanical.          (Shipping       costs       on       H4-MF-0071P),134.0,84,Jo.00,89.5,77,134.0,89.5
+378.0,560.0,456.0,591.0,Jo.00,total,•,33.5,81,Jo.00,82.5,78,33.5,82.5
+456.0,560.0,543.0,591.0,Jo.00,total,•,33.5,81,0.00,89.5,79,33.5,89.5
+543.0,560.0,635.0,591.0,0.00,total,•,33.5,81,0.002,89.0,80,33.5,89.0
+635.0,560.0,721.0,591.0,0.002,total,•,33.5,82,,0.0,-1,33.5,0.0
+456.0,591.0,543.0,627.0,•,total,Ul       I-CATi       BJ       31-CODE;,338.0,85,•,89.5,82,-1.0,89.5
+543.0,591.0,635.0,627.0,•,total,TRIPlirATt,386.0,87,,0.0,-1,386.0,0.0
+0.0,367.0,14.0,375.0,t       -,other,COMMENTS:       For       September/October       posting.          EXPLANATION       OF       COSTS:          ADT:       I       dye       of       visual       and       I       dye       of       pack.          AOR:       Overlay       for       pack       art.          ART:       Retouching       of       dyes.          CMC:       1       original       00H       mechanical.          PPT:       55-14x48       Printed       Bulletin       units.          PST:       6       for       legal;       8       for       mechanical.          (Shipping       costs       on       H4-MF-0071P),338.5,84,CMC,32.5,35,-1.0,32.5
+2.0,631.0,315.0,788.0,COMMENTS:       For       September/October       posting.          EXPLANATION       OF       COSTS:          ADT:       I       dye       of       visual       and       I       dye       of       pack.          AOR:       Overlay       for       pack       art.          ART:       Retouching       of       dyes.          CMC:       1       original       00H       mechanical.          PPT:       55-14x48       Printed       Bulletin       units.          PST:       6       for       legal;       8       for       mechanical.          (Shipping       costs       on       H4-MF-0071P),other,Ul       I-CATi       BJ       31-CODE;,237.5,85,,0.0,-1,237.5,0.0
+16.0,940.0,461.0,954.0,Ul       I-CATi       BJ       31-CODE;,other,,0.0,-1,,0.0,-1,0.0,0.0
+697.0,960.0,715.0,977.0,to          CD,other,,0.0,-1,,0.0,-1,0.0,0.0
+625.0,990.0,686.0,1000.0,TRIPlirATt,other,,0.0,-1,,0.0,-1,0.0,0.0

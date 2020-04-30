@@ -1,0 +1,32 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+240.0,6.0,277.0,45.0,#,other,DENVER          DENVER       TECH       CENTER          COLORADO       SPRINGS          ASPEN       *       BOULDER,106.0,3,,0.0,-1,-1.0,0.0
+89.0,51.0,232.0,60.0,IRS       EMPLOYER       NO.       84-GM2S0S,supplier,DENVER          DENVER       TECH       CENTER          COLORADO       SPRINGS          ASPEN       *       BOULDER,76.0,3,,0.0,-1,76.0,0.0
+306.0,64.0,465.0,95.0,Holland       &c       Hartixp          ATTORNEYS       AT       LAW,supplier,"PLEASE       REMIT       TO:          DEPT.       400          DENVER,       CO       S07.91-0400          TELEPHONE       (303)       29S-8000          FACSIMILE       (303)       295-8261",59.5,4,,0.0,-1,59.5,0.0
+141.0,108.0,257.0,155.0,DENVER          DENVER       TECH       CENTER          COLORADO       SPRINGS          ASPEN       *       BOULDER,supplier,"Lorillard,       Inc.",115.0,7,"PLEASE       REMIT       TO:          DEPT.       400          DENVER,       CO       S07.91-0400          TELEPHONE       (303)       29S-8000          FACSIMILE       (303)       295-8261",186.5,4,-1.0,186.5
+321.0,108.0,450.0,170.0,"PLEASE       REMIT       TO:          DEPT.       400          DENVER,       CO       S07.91-0400          TELEPHONE       (303)       29S-8000          FACSIMILE       (303)       295-8261",supplier,"March       11,       1998",71.0,6,BIUJNGS       *       BOLSF.          CHEYENNE          JACKSON       HOLE          SALT       LAKE       CITY,163.5,5,71.0,163.5
+505.0,109.0,593.0,155.0,BIUJNGS       *       BOLSF.          CHEYENNE          JACKSON       HOLE          SALT       LAKE       CITY,supplier,Invoice       No.,114.5,8,,0.0,-1,114.5,0.0
+327.0,201.0,445.0,219.0,"March       11,       1998",invoice_info,"Lorillard,       Inc.",36.5,7,,0.0,-1,36.5,0.0
+92.0,235.0,448.0,258.0,"Lorillard,       Inc.",receiver,"Shook,       Hardy       &       Bacon",21.0,10,Invoice       No.,231.5,8,21.0,231.5
+448.0,235.0,555.0,258.0,Invoice       No.,invoice_info,"Shook,       Hardy       &       Bacon",21.0,10,336106,116.0,9,21.0,116.0
+555.0,235.0,680.0,258.0,336106,invoice_info,H&H       Ref.       No.,21.0,11,,0.0,-1,21.0,0.0
+92.0,258.0,448.0,277.0,"Shook,       Hardy       &       Bacon",receiver,One       Kansas       City       Place,17.5,13,H&H       Ref.       No.,231.5,11,17.5,231.5
+448.0,258.0,555.0,277.0,H&H       Ref.       No.,invoice_info,One       Kansas       City       Place,17.5,13,27746,116.0,12,17.5,116.0
+555.0,258.0,680.0,277.0,27746,invoice_info,Client       No.,17.5,14,,0.0,-1,17.5,0.0
+92.0,277.0,448.0,293.0,One       Kansas       City       Place,receiver,1200       Main       Street,17.0,16,Client       No.,231.5,14,17.0,231.5
+448.0,277.0,555.0,293.0,Client       No.,invoice_info,1200       Main       Street,17.0,16,18926,116.0,15,17.0,116.0
+555.0,277.0,680.0,293.0,18926,invoice_info,Attorney:,17.0,17,,0.0,-1,17.0,0.0
+92.0,293.0,448.0,311.0,1200       Main       Street,receiver,"Kansas       City,       MO       65105-2118",22.0,19,Attorney:,231.5,17,22.0,231.5
+448.0,293.0,555.0,311.0,Attorney:,invoice_info,"Kansas       City,       MO       65105-2118",22.0,19,PLGlantz,116.0,18,22.0,116.0
+555.0,293.0,680.0,311.0,PLGlantz,invoice_info,$164.50,142.5,23,,0.0,-1,142.5,0.0
+92.0,311.0,448.0,337.0,"Kansas       City,       MO       65105-2118",other,Regarding:       Matter       No.       2004       -       Lorillard/Colorado,39.0,20,,0.0,-1,39.0,0.0
+137.0,355.0,435.0,371.0,Regarding:       Matter       No.       2004       -       Lorillard/Colorado,other,Invoice       Summary,47.5,22,,0.0,-1,47.5,0.0
+156.0,438.0,237.0,451.0,Current       fees,positions,Current       disbursements,53.5,24,$164.50,402.0,23,53.5,402.0
+324.0,402.0,455.0,419.0,Invoice       Summary,positions,Current       charges       this       invoice,142.5,26,,0.0,-1,-1.0,0.0
+573.0,438.0,624.0,451.0,$164.50,positions,$13.20,53.5,25,,0.0,-1,53.5,0.0
+156.0,491.0,306.0,505.0,Current       disbursements,positions,Current       charges       this       invoice,55.0,26,$13.20,371.0,25,55.0,371.0
+580.0,492.0,624.0,504.0,$13.20,positions,$177.70,53.5,27,,0.0,-1,53.5,0.0
+156.0,545.0,339.0,561.0,Current       charges       this       invoice,positions,"Total       outstanding       invoices       $1,032.00          Total       current       charges       plus       outstanding       balance       $1,209.70",75.0,28,$177.70,351.0,27,75.0,351.0
+573.0,545.0,624.0,558.0,$177.70,positions,"Total       outstanding       invoices       $1,032.00          Total       current       charges       plus       outstanding       balance       $1,209.70",76.5,28,,0.0,-1,-1.0,0.0
+156.0,602.0,624.0,654.0,"Total       outstanding       invoices       $1,032.00          Total       current       charges       plus       outstanding       balance       $1,209.70",total,Balance       due       in       30       days          Please       return       this       page       with       your       remittance.,287.5,29,,0.0,-1,287.5,0.0
+252.0,889.0,521.0,942.0,Balance       due       in       30       days          Please       return       this       page       with       your       remittance.,other,,0.0,-1,83962761,312.0,30,0.0,312.0
+685.0,802.0,712.0,907.0,83962761,other,,0.0,-1,,0.0,-1,0.0,0.0

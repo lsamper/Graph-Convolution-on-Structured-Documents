@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:ns2="http://searchink.com/xml/frankstahlapi/1.0">
+  <Metadata>
+    <Creator>system</Creator>
+    <Created>2019-01-25T17:49:39.477+01:00</Created>
+    <LastChange>2019-02-02T01:46:35Z</LastChange>
+  </Metadata>
+  <Property key="customer" value="actuallCustomerName"/>
+  <Property key="offer"/>
+  <Property key="uuid" value="442d896d-cc6b-40d2-a862-751c6896dd1c"/>
+  <Property key="fileName" value="ti09922229.pdf"/>
+  <Property key="type" value="digital"/>
+  <Page imageFilename="ti09922229.tif" imageHeight="1000" imageWidth="754">
+    <TextRegion id="page1_pos1">
+      <Property key="entity" value="supplier"/>
+      <Coords points="9.21486,8.26814 740.756,8.26814 740.756,216.312 9.21486,216.312"/>
+    </TextRegion>
+    <TextRegion id="page1_pos2">
+      <Property key="entity" value="receiver"/>
+      <Coords points="11.1295,221.249 460.495,221.249 460.495,361.591 11.1295,361.591"/>
+    </TextRegion>
+    <TextRegion id="page1_pos3">
+      <Property key="entity" value="invoice_info"/>
+      <Coords points="471.077,229.006 732.089,229.006 732.089,361.591 471.077,361.591"/>
+    </TextRegion>
+    <TextRegion id="page1_pos4">
+      <Property key="entity" value="invoice_info"/>
+      <Coords points="11.0303,367.232 743.277,367.232 743.277,405.317 11.0303,405.317"/>
+    </TextRegion>
+    <TextRegion id="page1_pos5">
+      <Property key="entity" value="positions"/>
+      <Coords points="12.9427,410.958 739.349,410.958 739.349,652.149 12.9427,652.149"/>
+    </TextRegion>
+    <TextRegion id="page1_pos6">
+      <Property key="entity" value="total"/>
+      <Coords points="13.1495,656.379 739.755,656.379 739.755,738.891 13.1495,738.891"/>
+    </TextRegion>
+    <TextRegion id="page1_pos7">
+      <Property key="entity" value="other"/>
+      <Coords points="14.9627,745.245 736.63,745.245 736.63,985.731 14.9627,985.731"/>
+    </TextRegion>
+  </Page>
+</PcGts>

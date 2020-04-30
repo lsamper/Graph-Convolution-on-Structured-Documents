@@ -1,0 +1,58 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+368.0,18.0,426.0,30.0,INVOICE,other,CASE       WESTERN       RESERVE       UNIVERSITY          10900       EUCLID       AVENUE       CLEVELAND.       OHIO       44106-7006,66.0,2,,0.0,-1,66.0,0.0
+51.0,71.0,214.0,84.0,CONTROLLER’S       OFFICE,other,To       Philip       Morris-USA       Research       Center       DATE       April       5.1995          Attn:       Richard       Carchman          4201       Commerce       Road          Richmond.       VA       23234,161.0,5,CASE       WESTERN       RESERVE       UNIVERSITY          10900       EUCLID       AVENUE       CLEVELAND.       OHIO       44106-7006,265.5,2,-1.0,265.5
+230.0,46.0,566.0,134.0,CASE       WESTERN       RESERVE       UNIVERSITY          10900       EUCLID       AVENUE       CLEVELAND.       OHIO       44106-7006,supplier,To       Philip       Morris-USA       Research       Center       DATE       April       5.1995          Attn:       Richard       Carchman          4201       Commerce       Road          Richmond.       VA       23234,148.5,5,51662          PLEASE       SHOW          THIS       NUMBER          ON       ALL       REMITTANCES,283.0,4,-1.0,283.0
+633.0,109.0,730.0,119.0,INVOICE       NUMBER,invoice_info,51662          PLEASE       SHOW          THIS       NUMBER          ON       ALL       REMITTANCES,41.5,4,,0.0,-1,41.5,0.0
+635.0,129.0,727.0,182.0,51662          PLEASE       SHOW          THIS       NUMBER          ON       ALL       REMITTANCES,invoice_info,To       Philip       Morris-USA       Research       Center       DATE       April       5.1995          Attn:       Richard       Carchman          4201       Commerce       Road          Richmond.       VA       23234,83.0,5,,0.0,-1,83.0,0.0
+62.0,209.0,747.0,268.0,To       Philip       Morris-USA       Research       Center       DATE       April       5.1995          Attn:       Richard       Carchman          4201       Commerce       Road          Richmond.       VA       23234,receiver,ACCOUNT       NO.,75.5,6,,0.0,-1,75.5,0.0
+605.0,308.0,674.0,320.0,ACCOUNT       NO.,positions,221-3500-9090,13.5,8,,0.0,-1,13.5,0.0
+61.0,320.0,169.0,332.0,NOI       -A1       -35173-121,positions,"As       per       the       agreement       between       Case       Western       Reserve       University       and       Philip       Morris       -       USA       Research       Center       for       the       support       of          the       project       entitled       'Cigarette       -       for       Alzheimer""       for       the       final       expenditures       for       the       period       1/1/95       to       2/28/95.",71.5,9,221-3500-9090,591.0,8,-1.0,591.0
+662.0,322.0,750.0,333.0,221-3500-9090,positions,"As       per       the       agreement       between       Case       Western       Reserve       University       and       Philip       Morris       -       USA       Research       Center       for       the       support       of          the       project       entitled       'Cigarette       -       for       Alzheimer""       for       the       final       expenditures       for       the       period       1/1/95       to       2/28/95.",70.0,9,,0.0,-1,70.0,0.0
+59.0,382.0,730.0,413.0,"As       per       the       agreement       between       Case       Western       Reserve       University       and       Philip       Morris       -       USA       Research       Center       for       the       support       of          the       project       entitled       'Cigarette       -       for       Alzheimer""       for       the       final       expenditures       for       the       period       1/1/95       to       2/28/95.",positions,Current,69.5,10,,0.0,-1,69.5,0.0
+432.0,461.0,479.0,473.0,Current,positions,S35.878.51,33.0,13,Cumulative,81.5,11,33.0,81.5
+503.0,461.0,571.0,473.0,Cumulative,positions,S35.878.51,33.0,14,,0.0,-1,33.0,0.0
+297.0,493.0,402.0,507.0,Salaries,positions,Fringe,15.0,15,S35.878.51,96.0,13,15.0,96.0
+402.0,493.0,489.0,507.0,S35.878.51,positions,Fringe,15.0,15,S35.878.51,84.0,14,15.0,84.0
+489.0,493.0,570.0,507.0,S35.878.51,positions,S8.053.23,15.0,16,,0.0,-1,15.0,0.0
+297.0,507.0,402.0,523.0,Fringe,positions,Supplies,15.5,18,S8.053.23,96.0,16,15.5,96.0
+402.0,507.0,489.0,523.0,S8.053.23,positions,Supplies,15.5,18,S8.053.23,84.0,17,15.5,84.0
+489.0,507.0,570.0,523.0,S8.053.23,positions,"$7,636.51",15.5,19,,0.0,-1,15.5,0.0
+297.0,523.0,402.0,538.0,Supplies,positions,Internal       Services,15.0,21,"$7,636.51",96.0,19,15.0,96.0
+402.0,523.0,489.0,538.0,"$7,636.51",positions,Internal       Services,15.0,21,"$7,636.51",84.0,20,15.0,84.0
+489.0,523.0,570.0,538.0,"$7,636.51",positions,SI       91.70,15.0,22,,0.0,-1,15.0,0.0
+297.0,538.0,402.0,553.0,Internal       Services,positions,Outside       Services,15.5,24,SI       91.70,96.0,22,15.5,96.0
+402.0,538.0,489.0,553.0,SI       91.70,positions,Outside       Services,15.5,24,SI       91.70,84.0,23,15.5,84.0
+489.0,538.0,570.0,553.0,SI       91.70,positions,$230.00,15.5,25,,0.0,-1,15.5,0.0
+297.0,553.0,402.0,569.0,Outside       Services,positions,Travel,16.0,27,$230.00,96.0,25,16.0,96.0
+402.0,553.0,489.0,569.0,$230.00,positions,Travel,16.0,27,$230.00,84.0,26,16.0,84.0
+489.0,553.0,570.0,569.0,$230.00,positions,$27.50,16.0,28,,0.0,-1,16.0,0.0
+297.0,569.0,402.0,585.0,Travel,positions,Comm       &       Shipping,16.0,30,$27.50,96.0,28,16.0,96.0
+402.0,569.0,489.0,585.0,$27.50,positions,Comm       &       Shipping,16.0,30,S27.50,84.0,29,16.0,84.0
+489.0,569.0,570.0,585.0,S27.50,positions,$145.43,16.0,31,,0.0,-1,16.0,0.0
+297.0,585.0,402.0,601.0,Comm       &       Shipping,positions,Equipment,16.0,33,$145.43,96.0,31,16.0,96.0
+402.0,585.0,489.0,601.0,$145.43,positions,Equipment,16.0,33,$145.43,84.0,32,16.0,84.0
+489.0,585.0,570.0,601.0,$145.43,positions,SO.OO,16.0,34,,0.0,-1,16.0,0.0
+297.0,601.0,402.0,617.0,Equipment,positions,Rentals,15.5,36,SO.OO,96.0,34,15.5,96.0
+402.0,601.0,489.0,617.0,SO.OO,positions,Rentals,15.5,36,SO.OO,84.0,35,15.5,84.0
+489.0,601.0,570.0,617.0,SO.OO,positions,SO       00,15.5,37,,0.0,-1,15.5,0.0
+297.0,617.0,402.0,632.0,Rentals,positions,Maint       &       Repairs,15.5,39,SO       00,96.0,37,15.5,96.0
+402.0,617.0,489.0,632.0,SO       00,positions,Maint       &       Repairs,15.5,39,$0.00,84.0,38,15.5,84.0
+489.0,617.0,570.0,632.0,$0.00,positions,S3.698.45,15.5,40,,0.0,-1,15.5,0.0
+297.0,632.0,402.0,648.0,Maint       &       Repairs,positions,Fellowship,15.5,42,S3.698.45,96.0,40,15.5,96.0
+402.0,632.0,489.0,648.0,S3.698.45,positions,Fellowship,15.5,42,"$3,698.45",84.0,41,15.5,84.0
+489.0,632.0,570.0,648.0,"$3,698.45",positions,SO.OO,15.5,43,,0.0,-1,15.5,0.0
+297.0,648.0,402.0,663.0,Fellowship,positions,"$55,861.33",15.0,45,SO.OO,96.0,43,15.0,96.0
+402.0,648.0,489.0,663.0,SO.OO,positions,"$55,861.33",15.0,45,SO.OO,84.0,44,15.0,84.0
+489.0,648.0,570.0,663.0,SO.OO,positions,"$55,861.33",15.0,45,,0.0,-1,15.0,0.0
+402.0,663.0,489.0,678.0,"$55,861.33",positions,Overhead,15.5,47,S55.361.33,84.0,46,15.5,84.0
+489.0,663.0,570.0,678.0,S55.361.33,positions,S27.930.69,15.5,48,,0.0,-1,15.5,0.0
+297.0,678.0,402.0,694.0,Overhead,positions,S83.792.02,15.5,50,S27.930.69,96.0,48,15.5,96.0
+402.0,678.0,489.0,694.0,S27.930.69,positions,S83.792.02,15.5,50,S27.930.69,84.0,49,15.5,84.0
+489.0,678.0,570.0,694.0,S27.930.69,positions,S83.792.02,15.5,50,,0.0,-1,15.5,0.0
+402.0,694.0,489.0,709.0,S83.792.02,positions,Hossein       Sadid.       Associate       Vice       President       &       Controller          (216)       368-4280,170.0,52,S83.792.02,84.0,51,170.0,84.0
+489.0,694.0,570.0,709.0,S83.792.02,positions,Hossein       Sadid.       Associate       Vice       President       &       Controller          (216)       368-4280,170.0,52,,0.0,-1,170.0,0.0
+270.0,857.0,562.0,886.0,Hossein       Sadid.       Associate       Vice       President       &       Controller          (216)       368-4280,other,MAKE       ALL       CHECKS       PAYABLE       TO       CASE       WESTERN       RESERVE       UNIVERSITY       -       ATTENTION       CONTROLLER’S       OFFICE,59.0,54,M          O          o          cn          o          er*,295.0,53,59.0,295.0
+696.0,739.0,726.0,880.0,M          O          o          cn          o          er*,other,MAKE       ALL       CHECKS       PAYABLE       TO       CASE       WESTERN       RESERVE       UNIVERSITY       -       ATTENTION       CONTROLLER’S       OFFICE,121.0,54,,0.0,-1,-1.0,0.0
+89.0,924.0,705.0,937.0,MAKE       ALL       CHECKS       PAYABLE       TO       CASE       WESTERN       RESERVE       UNIVERSITY       -       ATTENTION       CONTROLLER’S       OFFICE,other,Pink       -       Numerical       Copy       Golder.rcd       -       Department       Copy,26.0,56,,0.0,-1,26.0,0.0
+151.0,951.0,339.0,964.0,White       -       Original       Canary       -       Duplicate,other,,0.0,-1,Pink       -       Numerical       Copy       Golder.rcd       -       Department       Copy,260.5,56,0.0,260.5
+368.0,950.0,643.0,963.0,Pink       -       Numerical       Copy       Golder.rcd       -       Department       Copy,other,,0.0,-1,,0.0,-1,0.0,0.0

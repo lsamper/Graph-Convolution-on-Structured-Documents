@@ -1,0 +1,47 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+13.0,34.0,87.0,47.0,Mall       Chock       lo:,supplier,AMERICAN       BUSINESS       LISTS          P.       O.       BOX       27347          OMAHA       NE       60127—0347          YourCuelomerllepreeofllatfyo:       SUSAN       ANDERSEN,65.5,1,INVOICE          TOT!,578.0,3,65.5,578.0
+53.0,75.0,343.0,137.0,AMERICAN       BUSINESS       LISTS          P.       O.       BOX       27347          OMAHA       NE       60127—0347          YourCuelomerllepreeofllatfyo:       SUSAN       ANDERSEN,supplier,SOU)       to          FLEISCHMAN       HILLARD       INC          200       N       BROADWAY,53.5,6,ORIGINAL          402/331-7169,265.0,2,53.5,265.0
+396.0,58.0,530.0,114.0,ORIGINAL          402/331-7169,invoice_info,TO,56.0,10,9201-          011565,120.0,4,56.0,120.0
+575.0,44.0,681.0,83.0,INVOICE          TOT!,invoice_info,9201-          011565,33.5,4,,0.0,-1,33.5,0.0
+553.0,84.0,613.0,110.0,9201-          011565,invoice_info,TT5UT,147.5,16,2/04/92,92.5,5,147.5,92.5
+641.0,96.0,710.0,109.0,2/04/92,invoice_info,AMER.       EXPRESS,162.0,17,,0.0,-1,162.0,0.0
+25.0,140.0,247.0,179.0,SOU)       to          FLEISCHMAN       HILLARD       INC          200       N       BROADWAY,receiver,MO       63102,39.5,8,TO,271.0,10,39.5,271.0
+47.0,194.0,124.0,208.0,ST       LOUIS,receiver,ATTN:       CHARLENE       MEADOWS          So,39.5,9,MO       63102,149.5,8,39.5,149.5
+196.0,192.0,274.0,206.0,MO       63102,receiver,ATTN:       CHARLENE       MEADOWS          So,41.5,9,,0.0,-1,-1.0,0.0
+50.0,222.0,245.0,259.0,ATTN:       CHARLENE       MEADOWS          So,other,0*»«          2/04/92,21.0,12,>VI*,182.0,13,21.0,-1.0
+399.0,137.0,415.0,147.0,TO,receiver,NEXT       DAY       AIR,127.5,14,,0.0,-1,-1.0,0.0
+65.0,267.0,178.0,281.0,314/902-1770,invoice_info,uoSTr,13.0,19,0*»«          2/04/92,125.5,12,13.0,125.5
+202.0,244.0,292.0,279.0,0*»«          2/04/92,invoice_info,uoSTr,25.5,19,>VI*,82.5,13,-1.0,82.5
+320.0,247.0,339.0,254.0,>VI*,invoice_info,NEXT       DAY       AIR,19.0,14,cut»OM»-#o       -J,145.5,15,19.0,145.5
+320.0,262.0,432.0,277.0,NEXT       DAY       AIR,invoice_info,"|C""       ct       cocx",13.5,20,cocooi,171.0,21,-1.0,-1.0
+439.0,240.0,511.0,252.0,cut»OM»-#o       -J,invoice_info,cocooi,35.5,21,TT5UT,84.0,16,-1.0,84.0
+544.0,239.0,574.0,250.0,TT5UT,invoice_info,cocooi,37.0,21,,0.0,-1,-1.0,0.0
+592.0,257.0,713.0,272.0,AMER.       EXPRESS,invoice_info,C3S,15.5,22,,0.0,-1,15.5,0.0
+19.0,281.0,140.0,297.0,zrzi,invoice_info,999XX,17.5,24,uoSTr,119.0,19,-1.0,119.0
+140.0,279.0,257.0,295.0,uoSTr,invoice_info,zrzi,2.0,18,"|C""       ct       cocx",226.5,20,2.0,226.5
+361.0,275.0,489.0,291.0,"|C""       ct       cocx",invoice_info,01,18.0,27,cocooi,122.0,21,-1.0,122.0
+488.0,274.0,606.0,289.0,cocooi,invoice_info,"|C""       ct       cocx",1.5,20,C3S,116.5,22,1.5,116.5
+605.0,272.0,722.0,288.0,C3S,invoice_info,cocooi,1.5,21,,0.0,-1,1.5,0.0
+19.0,295.0,140.0,322.0,01122,invoice_info,5164       RECORDS          150       RECORDS       WITH       CONTACT       NAMES,45.5,29,999XX,119.0,24,45.5,119.0
+140.0,293.0,257.0,320.0,999XX,invoice_info,01122,2.0,23,999C0N,111.0,25,2.0,111.0
+257.0,291.0,362.0,318.0,999C0N,invoice_info,999XX,2.0,24,01,116.0,26,2.0,116.0
+362.0,289.0,489.0,316.0,01,invoice_info,999C0N,2.0,25,01,122.0,27,2.0,122.0
+489.0,288.0,606.0,314.0,01,invoice_info,01,1.5,26,016,116.5,28,1.5,116.5
+606.0,286.0,722.0,312.0,016,invoice_info,01,2.0,27,,0.0,-1,2.0,0.0
+74.0,339.0,355.0,369.0,5164       RECORDS          150       RECORDS       WITH       CONTACT       NAMES,positions,ONE       TAPE       AT       *25.00,109.5,31,469.       26,478.5,30,109.5,478.5
+663.0,330.0,723.0,344.0,469.       26,positions,25.,117.5,32,,0.0,-1,117.5,0.0
+93.0,456.0,259.0,471.0,ONE       TAPE       AT       *25.00,positions,SHIPPING          ***       INV.       :CC       TOTAL          AMOUNT       RECEIVED       -       AMEX       I       370244464011007       AIJTH       #       003207,151.0,34,25.,511.5,32,151.0,511.5
+674.0,448.0,701.0,461.0,25.,positions,19.       00          M3.       26          513.       26,153.5,35,00,26.5,33,-1.0,26.5
+703.0,444.0,725.0,477.0,00,positions,19.       00          M3.       26          513.       26,147.5,35,,0.0,-1,147.5,0.0
+59.0,584.0,595.0,645.0,SHIPPING          ***       INV.       :CC       TOTAL          AMOUNT       RECEIVED       -       AMEX       I       370244464011007       AIJTH       #       003207,total,BALANCE       ^,48.0,36,19.       00          M3.       26          513.       26,368.0,35,48.0,368.0
+665.0,580.0,725.0,636.0,19.       00          M3.       26          513.       26,total,.       OC,49.5,37,,0.0,-1,49.5,0.0
+508.0,650.0,592.0,675.0,BALANCE       ^,total,FEDERAL       ID       ♦       47-054580*,40.5,40,.       OC,159.0,37,40.5,159.0
+692.0,651.0,726.0,664.0,.       OC,total,FEDERAL       ID       ♦       47-054580*,45.5,40,,0.0,-1,-1.0,0.0
+57.0,722.0,176.0,737.0,Remittance       Form:,other,^FLEISCHMAN       HILLARD       INC       |       314/902-1770       |       011565       |       ■       Qoj,79.5,42,V-       PIMM       Detach       Here       J          i       your       payment       to       anew*,260.5,39,79.5,260.5
+314.0,689.0,440.0,734.0,V-       PIMM       Detach       Here       J          i       your       payment       to       anew*,other,^FLEISCHMAN       HILLARD       INC       |       314/902-1770       |       011565       |       ■       Qoj,97.5,42,lo       your,140.0,41,-1.0,140.0
+535.0,695.0,740.0,711.0,FEDERAL       ID       ♦       47-054580*,other,^FLEISCHMAN       HILLARD       INC       |       314/902-1770       |       011565       |       ■       Qoj,106.0,42,,0.0,-1,-1.0,0.0
+500.0,720.0,534.0,731.0,lo       your,other,^FLEISCHMAN       HILLARD       INC       |       314/902-1770       |       011565       |       ■       Qoj,83.5,42,,0.0,-1,-1.0,0.0
+60.0,793.0,634.0,825.0,^FLEISCHMAN       HILLARD       INC       |       314/902-1770       |       011565       |       ■       Qoj,other,I.II..U....II..I.II...III       II..I..II...U.II,39.0,43,,0.0,-1,39.0,0.0
+465.0,838.0,701.0,858.0,I.II..U....II..I.II...III       II..I..II...U.II,other,AMERICAN       BUSINESS       LISTS          P.O.       BOX       27347          OMAHA       NE       60127-0347,58.0,44,,0.0,-1,58.0,0.0
+443.0,884.0,716.0,928.0,AMERICAN       BUSINESS       LISTS          P.O.       BOX       27347          OMAHA       NE       60127-0347,supplier,2029370804,34.5,45,,0.0,-1,34.5,0.0
+523.0,930.0,662.0,951.0,2029370804,supplier,,0.0,-1,,0.0,-1,0.0,0.0

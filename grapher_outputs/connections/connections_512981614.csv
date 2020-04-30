@@ -1,0 +1,29 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+74.0,52.0,714.0,140.0,PROMOTIONAL       MARKETING.INC.          152       WEST       HURON       STREET.       CHICAGO.       ILLINOIS       60610.312/943-0900          Invoice,supplier,TO:       Ms.       Louise       Norman,113.5,1,,0.0,-1,113.5,0.0
+119.0,202.0,297.0,217.0,TO:       Ms.       Louise       Norman,receiver,"R.       J.       Reynolds       Tobacco       Co.          401       N.       Main       Street          Winston-Salem,       NC       27102",40.0,2,,0.0,-1,40.0,0.0
+165.0,222.0,347.0,277.0,"R.       J.       Reynolds       Tobacco       Co.          401       N.       Main       Street          Winston-Salem,       NC       27102",receiver,"Exchange       Initiative          73769-E       Box       Lighter       Retail       POS          Original       Estimate/Contract       $15,796.00",187.0,3,,0.0,-1,187.0,0.0
+117.0,399.0,417.0,474.0,"Exchange       Initiative          73769-E       Box       Lighter       Retail       POS          Original       Estimate/Contract       $15,796.00",other,"For       the       mechanical       art       of       (4)       Camel       pieces       and       (3)       Salem       pieces,       and       finished          illustrations       (for       reproduction),       for       the       Box       Lighter       Retail       Offer       POS.          Indirect       Costs:",93.5,4,,0.0,-1,93.5,0.0
+119.0,494.0,625.0,566.0,"For       the       mechanical       art       of       (4)       Camel       pieces       and       (3)       Salem       pieces,       and       finished          illustrations       (for       reproduction),       for       the       Box       Lighter       Retail       Offer       POS.          Indirect       Costs:",other,Item,73.5,5,,0.0,-1,73.5,0.0
+118.0,590.0,350.0,617.0,Item,positions,Ex.       Creative       Director,32.5,9,Hours,173.0,6,32.5,173.0
+350.0,590.0,464.0,617.0,Hours,positions,Ex.       Creative       Director,32.5,9,Rate,101.5,7,32.5,101.5
+464.0,590.0,553.0,617.0,Rate,positions,7.50,32.5,10,Total,83.0,8,32.5,83.0
+553.0,590.0,630.0,617.0,Total,positions,$125.00,32.5,11,,0.0,-1,32.5,0.0
+118.0,617.0,350.0,655.0,Ex.       Creative       Director,positions,Asst.       Art       Director,38.5,13,7.50,173.0,10,38.5,173.0
+350.0,617.0,464.0,655.0,7.50,positions,Asst.       Art       Director,38.5,13,$125.00,101.5,11,38.5,101.5
+464.0,617.0,553.0,655.0,$125.00,positions,13.00,38.5,14,•0.00,83.0,12,38.5,83.0
+553.0,617.0,630.0,655.0,•0.00,positions,85.00,38.5,15,,0.0,-1,38.5,0.0
+118.0,655.0,350.0,694.0,Asst.       Art       Director,positions,Art       Prod.       Manager,38.5,17,13.00,173.0,14,38.5,173.0
+350.0,655.0,464.0,694.0,13.00,positions,Art       Prod.       Manager,38.5,17,85.00,101.5,15,38.5,101.5
+464.0,655.0,553.0,694.0,85.00,positions,1.50,38.5,18,"1,105.00",83.0,16,38.5,83.0
+553.0,655.0,630.0,694.0,"1,105.00",positions,85.00,38.5,19,,0.0,-1,38.5,0.0
+118.0,694.0,350.0,732.0,Art       Prod.       Manager,positions,Art       Apprentice,39.0,21,1.50,173.0,18,39.0,173.0
+350.0,694.0,464.0,732.0,1.50,positions,Art       Apprentice,39.0,21,85.00,101.5,19,39.0,101.5
+464.0,694.0,553.0,732.0,85.00,positions,.50,39.0,22,127.50,83.0,20,39.0,83.0
+553.0,694.0,630.0,732.0,127.50,positions,25.00,39.0,23,,0.0,-1,39.0,0.0
+118.0,732.0,350.0,772.0,Art       Apprentice,positions,SUBTOTAL       INDIRECT,33.0,24,.50,173.0,22,33.0,173.0
+350.0,732.0,464.0,772.0,.50,positions,SUBTOTAL       INDIRECT,33.0,24,25.00,101.5,23,33.0,101.5
+464.0,732.0,553.0,772.0,25.00,positions,"$1,245.00",33.0,25,,0.0,-1,33.0,0.0
+118.0,772.0,350.0,798.0,SUBTOTAL       INDIRECT,total,"(*       Hours       Included       in       Retainer       -       Based       on       Invoicing       Procedures       after       July       1,1991.)",44.0,26,"$1,245.00",357.5,25,44.0,357.5
+553.0,772.0,630.0,798.0,"$1,245.00",total,"(*       Hours       Included       in       Retainer       -       Based       on       Invoicing       Procedures       after       July       1,1991.)",44.0,26,,0.0,-1,44.0,0.0
+119.0,820.0,632.0,838.0,"(*       Hours       Included       in       Retainer       -       Based       on       Invoicing       Procedures       after       July       1,1991.)",other,,0.0,-1,51298       1614,345.0,27,0.0,345.0
+714.0,802.0,727.0,893.0,51298       1614,other,,0.0,-1,,0.0,-1,0.0,0.0

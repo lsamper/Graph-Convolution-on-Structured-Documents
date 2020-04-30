@@ -1,0 +1,70 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+72.0,212.0,374.0,309.0,"Tod       Botes       a       company,       inc       /advertising          1515       •       He*       *<r>       n*.       Vw*       low*       USA          ‘       211       M»))31       •       C*MsBo»Mwo>d       N»»       *or«          piM       w*       *w-o«/Tv       tr       i«.34       pRcaxiiuH       nill          iCLiCNI       BW",other,bkJ*i*       C       WILLIAMSOM       rO&ACCO       CORP          [PRODUCT       KM       KGOL       MILOS          |JJB       PNS0I2       KOUL       MILOS       PACK       PKESi.NTAIIOfJ          KEOIA       P       PRINT       PROON          tSTlMAfc       HOMBtKi       KM-MISC-78-IRI       BCK       CODE-       N/A,60.5,2,1600       M       HILL       ST          LOUlSVILLk       KY       40701,244.5,3,-1.0,-1.0
+400.0,258.0,578.0,283.0,tiu       HUHetK       P-02-093A       PACE       1          UATC       0U1       AUS2->/79,invoice_info,1600       M       HILL       ST          LOUlSVILLk       KY       40701,31.0,3,,0.0,-1,31.0,0.0
+77.0,294.0,449.0,348.0,bkJ*i*       C       WILLIAMSOM       rO&ACCO       CORP          [PRODUCT       KM       KGOL       MILOS          |JJB       PNS0I2       KOUL       MILOS       PACK       PKESi.NTAIIOfJ          KEOIA       P       PRINT       PROON          tSTlMAfc       HOMBtKi       KM-MISC-78-IRI       BCK       CODE-       N/A,receiver,COMMISSION,47.0,7,1600       M       HILL       ST          LOUlSVILLk       KY       40701,204.5,3,-1.0,204.5
+405.0,290.0,530.0,313.0,1600       M       HILL       ST          LOUlSVILLk       KY       40701,receiver,bkJ*i*       C       WILLIAMSOM       rO&ACCO       CORP          [PRODUCT       KM       KGOL       MILOS          |JJB       PNS0I2       KOUL       MILOS       PACK       PKESi.NTAIIOfJ          KEOIA       P       PRINT       PROON          tSTlMAfc       HOMBtKi       KM-MISC-78-IRI       BCK       CODE-       N/A,19.5,2,,0.0,-1,19.5,0.0
+75.0,353.0,200.0,389.0,•ASCRIPTION,positions,THOM       OL       SAMTO,53.0,12,VcNOiM       NAM*,111.5,5,-1.0,111.5
+199.0,352.0,299.0,388.0,VcNOiM       NAM*,positions,•ASCRIPTION,1.0,4,MET       AMOUNT,98.0,6,1.0,98.0
+298.0,351.0,396.0,387.0,MET       AMOUNT,positions,VcNOiM       NAM*,1.0,5,COMMISSION,97.5,7,1.0,97.5
+395.0,350.0,494.0,386.0,COMMISSION,positions,MET       AMOUNT,1.0,6,TOTAL,98.5,8,1.0,98.5
+493.0,349.0,593.0,385.0,TOTAL,total,COMMISSION,1.0,7,,0.0,-1,1.0,0.0
+396.0,385.0,494.0,414.0,TEST.COPY       PROD,positions,I5UO.OO,21.5,14,7CTI0N,98.5,10,21.5,98.5
+494.0,384.0,593.0,413.0,7CTI0N,total,TEST.COPY       PROD,1.0,9,,0.0,-1,1.0,0.0
+76.0,416.0,200.0,434.0,172176       PU       NU       3936,positions,SH16       IKCOA,18.0,16,THOM       OL       SAMTO,111.5,12,-1.0,111.5
+200.0,415.0,299.0,433.0,THOM       OL       SAMTO,positions,172176       PU       NU       3936,1.0,11,1500.00,98.0,13,1.0,98.0
+299.0,414.0,396.0,432.0,1500.00,positions,THOM       OL       SAMTO,1.0,12,I5UO.OO,196.0,14,1.0,196.0
+494.0,412.0,593.0,430.0,I5UO.OO,total,1000.00,19.0,18,,0.0,-1,19.0,0.0
+76.0,433.0,200.0,455.0,781011       PO       HO       JTOO,positions,010479       PO       MO       4042          K/C04-       INCLUDES          ifcXPtMiES       FOR          •1396.04,35.5,19,SH16       IKCOA,111.5,16,-1.0,111.5
+200.0,432.0,299.0,454.0,SH16       IKCOA,positions,781011       PO       HO       JTOO,1.0,15,1000.00,98.0,17,1.0,98.0
+299.0,431.0,396.0,453.0,1000.00,positions,SH16       IKCOA,1.0,16,1000.00,196.0,18,1.0,196.0
+494.0,429.0,593.0,451.0,1000.00,total,1146.04,35.5,22,,0.0,-1,35.5,0.0
+77.0,454.0,201.0,505.0,010479       PO       MO       4042          K/C04-       INCLUDES          ifcXPtMiES       FOR          •1396.04,positions,J.       KJOOLPM       T2SA,35.5,24,J.       HOOGLPM       TESA,111.5,20,-1.0,111.5
+201.0,453.0,300.0,504.0,J.       HOOGLPM       TESA,positions,010479       PO       MO       4042          K/C04-       INCLUDES          ifcXPtMiES       FOR          •1396.04,1.0,19,1146.04,98.0,21,1.0,98.0
+300.0,452.0,397.0,503.0,1146.04,positions,J.       HOOGLPM       TESA,1.0,20,1146.04,195.5,22,1.0,195.5
+494.0,450.0,594.0,501.0,1146.04,total,2640.65,36.5,27,,0.0,-1,36.5,0.0
+77.0,504.0,201.0,528.0,!       112076       PO       MO       37*3          y/C&4—       iN&UPtS,positions,EXPENSES       FOR,18.0,28,J.       KJOOLPM       T2SA,111.5,24,18.0,111.5
+201.0,503.0,300.0,527.0,J.       KJOOLPM       T2SA,positions,!       112076       PO       MO       37*3          y/C&4—       iN&UPtS,1.0,23,7640.66,98.0,25,1.0,98.0
+300.0,502.0,397.0,526.0,7640.66,positions,J.       KJOOLPM       T2SA,1.0,24,4       r-       a       n       r       r\,97.5,26,1.0,97.5
+397.0,501.0,495.0,525.0,4       r-       a       n       r       r\,positions,7640.66,1.0,25,2640.65,98.5,27,1.0,98.5
+495.0,500.0,594.0,524.0,2640.65,total,4       r-       a       n       r       r\,1.0,26,,0.0,-1,1.0,0.0
+77.0,527.0,201.0,541.0,EXPENSES       FOR,positions,>1140.6$,16.0,31,R,209.5,29,16.0,209.5
+300.0,525.0,397.0,539.0,R,positions,AU627T979,15.0,32,:LEASLD,97.5,30,15.0,97.5
+397.0,524.0,495.0,538.0,:LEASLD,positions,R,1.0,29,,0.0,-1,1.0,0.0
+77.0,540.0,202.0,560.0,>1140.6$,positions,•NOVK-CUM       TOTALS*,21.0,33,6286.69,210.0,34,21.0,-1.0
+397.0,537.0,496.0,557.0,AU627T979,positions,6266.69,20.0,36,,0.0,-1,20.0,0.0
+78.0,559.0,202.0,583.0,•NOVK-CUM       TOTALS*,positions,UYE       TRANSFER,20.5,37,6286.69,209.5,34,20.5,209.5
+301.0,557.0,398.0,581.0,6286.69,positions,1900.00,47.5,40,UcKf.,97.5,35,47.5,97.5
+398.0,556.0,496.0,580.0,UcKf.,positions,6286.69,1.0,34,6266.69,98.5,36,1.0,98.5
+496.0,555.0,595.0,579.0,6266.69,total,UcKf.,1.0,35,,0.0,-1,1.0,0.0
+78.0,582.0,202.0,601.0,UYE       TRANSFER,positions,AU       f       ML       4TICOLQR          INC,26.0,39,1900.00,209.5,40,-1.0,-1.0
+78.0,600.0,202.0,637.0,7691*.       AO       NO       6452,positions,GERRY       M1Y3       6          ASSOCIATES,32.0,43,AU       f       ML       4TICOLQR          INC,111.5,39,-1.0,111.5
+202.0,599.0,301.0,636.0,AU       f       ML       4TICOLQR          INC,positions,7691*.       AO       NO       6452,1.0,38,1900.00,98.0,40,1.0,98.0
+301.0,598.0,398.0,635.0,1900.00,positions,AU       f       ML       4TICOLQR          INC,1.0,39,1930.00,196.0,41,1.0,196.0
+496.0,596.0,595.0,633.0,1930.00,total,1625.00,33.0,45,,0.0,-1,33.0,0.0
+78.0,636.0,203.0,667.0,26226       PO       NO       *030,positions,•MuSK-CODt       TOTALS*,25.5,46,GERRY       M1Y3       6          ASSOCIATES,111.5,43,25.5,111.5
+202.0,635.0,302.0,666.0,GERRY       M1Y3       6          ASSOCIATES,positions,26226       PO       NO       *030,1.0,42,1625.00,98.0,44,1.0,98.0
+301.0,634.0,399.0,665.0,1625.00,positions,GERRY       M1Y3       6          ASSOCIATES,1.0,43,1625.00,196.0,45,1.0,196.0
+496.0,632.0,596.0,663.0,1625.00,total,3525.00,25.5,48,,0.0,-1,25.5,0.0
+79.0,666.0,203.0,688.0,•MuSK-CODt       TOTALS*,positions,'STOCK       PHOTOUPHY,23.0,49,3525.00,209.5,47,23.0,209.5
+302.0,664.0,399.0,686.0,3525.00,positions,250.00,46.0,52,3525.00,196.0,48,46.0,196.0
+497.0,662.0,596.0,684.0,3525.00,total,26U.OO,46.0,53,,0.0,-1,46.0,0.0
+79.0,687.0,203.0,713.0,'STOCK       PHOTOUPHY,positions,TOM,22.0,51,250.00,209.5,52,-1.0,-1.0
+79.0,712.0,203.0,734.0,12526       PO       i»'<B,positions,YcULYSCMHANOt*,16.5,54,TOM,111.5,51,16.5,111.5
+203.0,711.0,302.0,733.0,TOM,positions,12526       PO       i»'<B,1.0,50,250.00,98.0,52,1.0,98.0
+302.0,710.0,399.0,732.0,250.00,positions,TOM,1.0,51,26U.OO,196.0,53,1.0,196.0
+497.0,708.0,596.0,730.0,26U.OO,total,250.00,32.5,57,,0.0,-1,32.5,0.0
+203.0,732.0,303.0,747.0,YcULYSCMHANOt*,positions,250.oC,14.0,56,250.00,294.5,57,14.0,-1.0
+80.0,747.0,204.0,764.0,•MCXK-C60.       TUT       *i-S*,positions,LOC       SCOUT       P’iC,23.0,58,250.oC,209.5,56,23.0,209.5
+303.0,745.0,400.0,762.0,250.oC,positions,■f       y,22.0,59,250.00,196.0,57,22.0,196.0
+498.0,743.0,597.0,760.0,250.00,total,■f       y,24.0,59,,0.0,-1,-1.0,0.0
+80.0,763.0,204.0,794.0,LOC       SCOUT       P’iC,positions,r“”,42.0,61,sio.on,210.0,62,-1.0,-1.0
+400.0,760.0,498.0,791.0,■f       y,positions,810.00,42.0,63,,0.0,-1,42.0,0.0
+80.0,793.0,205.0,850.0,010474       PO       MO       AO*.3,positions,*ootv       00•       ».;*,31.0,64,r“”,111.5,61,31.0,111.5
+204.0,792.0,304.0,849.0,r“”,positions,010474       PO       MO       AO*.3,1.0,60,sio.on,98.0,62,1.0,-1.0
+303.0,791.0,401.0,848.0,sio.on,positions,r“”,1.0,61,810.00,196.0,63,1.0,196.0
+498.0,789.0,598.0,846.0,810.00,total,*ootv       00•       ».;*,35.0,64,,0.0,-1,-1.0,0.0
+81.0,845.0,598.0,860.0,*ootv       00•       ».;*,positions,:ui       UAll,15.5,65,sio.on,12.5,62,15.5,12.5
+93.0,864.0,139.0,872.0,:ui       UAll,positions,"90TICL       If       TUF       TllM       !«Ai;c       II       IISS       CL£A2          3&S       U       or       mrnt       ‘       ,T       ,S       “       ro",63.0,66,,0.0,-1,63.0,0.0
+6.0,915.0,200.0,947.0,"90TICL       If       TUF       TllM       !«Ai;c       II       IISS       CL£A2          3&S       U       or       mrnt       ‘       ,T       ,S       “       ro",other,Docwcift       being       riuco.,11.5,67,66507       9       7       5       8,205.5,68,11.5,-1.0
+79.0,937.0,197.0,948.0,Docwcift       being       riuco.,other,,0.0,-1,66507       9       7       5       8,170.5,68,0.0,170.5
+203.0,906.0,414.0,940.0,66507       9       7       5       8,other,,0.0,-1,,0.0,-1,0.0,0.0

@@ -1,0 +1,24 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+198.0,109.0,524.0,124.0,POLITICAL       CAMPAIGN       CONTRIBUTION       REQUEST,other,1994       State       or       Local:       State,53.5,2,,0.0,-1,53.5,0.0
+41.0,164.0,210.0,181.0,"Date:       September       20,",invoice_info,RECIPIENT       INFORMATION,71.0,3,1994       State       or       Local:       State,315.5,2,71.0,315.5
+209.0,161.0,673.0,179.0,1994       State       or       Local:       State,invoice_info,"Date:       September       20,",2.5,1,,0.0,-1,2.5,0.0
+210.0,230.0,673.0,257.0,RECIPIENT       INFORMATION,receiver,"william       R.       -Bill""       Minor",29.5,5,,0.0,-1,29.5,0.0
+42.0,257.0,210.0,294.0,Name:,receiver,"P.O.       Box       5849          Holly       Springs,       MS       38634",39.5,7,"william       R.       -Bill""       Minor",315.5,5,39.5,315.5
+210.0,254.0,673.0,292.0,"william       R.       -Bill""       Minor",receiver,Name:,2.5,4,,0.0,-1,2.5,0.0
+42.0,292.0,211.0,343.0,Address:,receiver,Senator-District       2,58.5,9,"P.O.       Box       5849          Holly       Springs,       MS       38634",315.5,7,58.5,315.5
+210.0,289.0,674.0,341.0,"P.O.       Box       5849          Holly       Springs,       MS       38634",receiver,Address:,2.5,6,,0.0,-1,2.5,0.0
+43.0,341.0,211.0,416.0,Current       Office          and       District:          Aspired       Office          and       District:,receiver,Democrat,48.0,11,Senator-District       2,315.5,9,48.0,315.5
+211.0,338.0,674.0,414.0,Senator-District       2,receiver,Current       Office          and       District:          Aspired       Office          and       District:,2.5,8,,0.0,-1,2.5,0.0
+43.0,414.0,212.0,444.0,Party,receiver,Chairman       Senate       Finance       Committee,25.5,13,Democrat,315.5,11,25.5,315.5
+211.0,411.0,675.0,442.0,Democrat,receiver,Party,2.5,10,,0.0,-1,2.5,0.0
+44.0,442.0,212.0,472.0,Leadership       Position:,receiver,n/a,31.5,15,Chairman       Senate       Finance       Committee,315.5,13,31.5,315.5
+212.0,439.0,675.0,470.0,Chairman       Senate       Finance       Committee,receiver,Leadership       Position:,2.5,12,,0.0,-1,2.5,0.0
+44.0,470.0,212.0,512.0,Committees:,receiver,CONTRIBUTION       INFORMATION          Account       Code:       1401-7710-MS01,54.5,17,n/a,315.5,15,54.5,315.5
+212.0,467.0,675.0,510.0,n/a,receiver,Committees:,2.5,14,,0.0,-1,2.5,0.0
+44.0,510.0,213.0,586.0,Amount:       $100.00,other,"Check       Pay       to:       Senator       William       R.       ""Bill”       Minor       Campaign       Fund          Address:          (Only       if       different       from       address       above)          Notes:          (Date       needed;       fundraiser       date;       other       information)",112.5,18,CONTRIBUTION       INFORMATION          Account       Code:       1401-7710-MS01,315.5,17,112.5,315.5
+212.0,507.0,676.0,584.0,CONTRIBUTION       INFORMATION          Account       Code:       1401-7710-MS01,other,Amount:       $100.00,2.5,16,,0.0,-1,2.5,0.0
+45.0,595.0,565.0,726.0,"Check       Pay       to:       Senator       William       R.       ""Bill”       Minor       Campaign       Fund          Address:          (Only       if       different       from       address       above)          Notes:          (Date       needed;       fundraiser       date;       other       information)",other,(Regional       Vice       President's       signature),96.5,20,,0.0,-1,96.5,0.0
+46.0,723.0,214.0,796.0,Approved       by:,other,(Senior       Vice       President's       signature),51.0,21,"Check       Pay       to:       Senator       William       R.       ""Bill”       Minor       Campaign       Fund          Address:          (Only       if       different       from       address       above)          Notes:          (Date       needed;       fundraiser       date;       other       information)",175.0,18,51.0,175.0
+214.0,720.0,677.0,794.0,(Regional       Vice       President's       signature),other,Approved       by:,2.5,19,,0.0,-1,2.5,0.0
+214.0,791.0,677.0,830.0,(Senior       Vice       President's       signature),other,Til       631-0857,159.5,22,,0.0,-1,159.5,0.0
+640.0,963.0,724.0,977.0,Til       631-0857,other,,0.0,-1,,0.0,-1,0.0,0.0

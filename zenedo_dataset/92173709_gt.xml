@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:ns2="http://searchink.com/xml/frankstahlapi/1.0">
+  <Metadata>
+    <Creator>system</Creator>
+    <Created>2019-01-25T17:47:51.372+01:00</Created>
+    <LastChange>2019-02-02T02:01:36Z</LastChange>
+  </Metadata>
+  <Property key="customer" value="actuallCustomerName"/>
+  <Property key="offer"/>
+  <Property key="uuid" value="528c3c1e-364b-48d8-8112-1a1f1c12473b"/>
+  <Property key="fileName" value="92173709.pdf"/>
+  <Property key="type" value="digital"/>
+  <Page imageFilename="92173709.tif" imageHeight="1000" imageWidth="802">
+    <TextRegion id="page1_pos1">
+      <Property key="entity" value="other"/>
+      <Coords points="26.8591,298.315 783.768,298.315 783.768,871.994 26.8591,871.994"/>
+    </TextRegion>
+  </Page>
+</PcGts>

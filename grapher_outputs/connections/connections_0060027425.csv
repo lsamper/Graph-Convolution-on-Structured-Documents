@@ -1,0 +1,33 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+172.0,29.0,418.0,77.0,Invoice       Bemit       U:          CUnrra       Marketing       «nd       Comraunkauam          pa       few       77204          Detroit.       MI       48278,supplier,$          ((.V       -       mnrr_       fW)          htr\       '       rvtmr-          Sort'''-          February       23.       1993       ^,102.5,3,"CUrton       Itateiing       *ixl       ComiiHiuicatioiu          340       rtmheru       ici       H«d          Ctwowh,       C^uvoxui       06831          203.ML360O       EkX:       201532*116",256.5,1,102.5,256.5
+474.0,31.0,629.0,87.0,"CUrton       Itateiing       *ixl       ComiiHiuicatioiu          340       rtmheru       ici       H«d          Ctwowh,       C^uvoxui       06831          203.ML360O       EkX:       201532*116",supplier,Mr.       Michael       Burns,159.0,4,,0.0,-1,-1.0,0.0
+40.0,191.0,124.0,214.0,Clarion,supplier,,0.0,-1,$          ((.V       -       mnrr_       fW)          htr\       '       rvtmr-          Sort'''-          February       23.       1993       ^,219.0,3,0.0,219.0
+170.0,112.0,432.0,199.0,$          ((.V       -       mnrr_       fW)          htr\       '       rvtmr-          Sort'''-          February       23.       1993       ^,other,Mr.       Michael       Burns,62.5,4,,0.0,-1,62.5,0.0
+167.0,207.0,483.0,229.0,Mr.       Michael       Burns,receiver,Product       Manager,20.0,6,....,234.5,5,20.0,234.5
+483.0,207.0,636.0,229.0,....,other,Product       Manager,20.0,6,,0.0,-1,20.0,0.0
+167.0,229.0,483.0,247.0,Product       Manager,receiver,The       American       Tobacco       Company,17.5,7,,0.0,-1,17.5,0.0
+167.0,247.0,483.0,264.0,The       American       Tobacco       Company,receiver,Six       Stamford       Forum,17.0,8,,0.0,-1,17.0,0.0
+167.0,264.0,483.0,281.0,Six       Stamford       Forum,receiver,P.O.       Box       10380,17.0,9,,0.0,-1,17.0,0.0
+167.0,281.0,483.0,298.0,P.O.       Box       10380,receiver,Slamford.       CT       06904-2380,26.0,11,-       ’       1       **-•       ■■■«««■       «,234.5,10,26.0,234.5
+483.0,281.0,636.0,298.0,-       ’       1       **-•       ■■■«««■       «,other,Slamford.       CT       06904-2380,26.0,11,,0.0,-1,26.0,0.0
+167.0,298.0,483.0,333.0,Slamford.       CT       06904-2380,other,Invoice       #02-0188       Job       #AMT-Q-7052,40.5,12,,0.0,-1,40.5,0.0
+167.0,333.0,483.0,379.0,Invoice       #02-0188       Job       #AMT-Q-7052,other,AVA       Coupon       Mechanicals       -       Production,41.0,14,*,234.5,13,41.0,234.5
+483.0,333.0,636.0,379.0,*,other,AVA       Coupon       Mechanicals       -       Production,41.0,14,,0.0,-1,41.0,0.0
+167.0,379.0,483.0,415.0,AVA       Coupon       Mechanicals       -       Production,other,"This       invoice       is       for       3       AVA       Coupon       Mechanicals:       Free       Pack,",31.0,15,,0.0,-1,31.0,0.0
+167.0,415.0,483.0,441.0,"This       invoice       is       for       3       AVA       Coupon       Mechanicals:       Free       Pack,",positions,"$1.00       off       2       Packs       or       Carton.       Original       estimate       $8,650.00.",21.5,17,Free       Carton       and,234.5,16,21.5,234.5
+483.0,415.0,636.0,441.0,Free       Carton       and,positions,"$1.00       off       2       Packs       or       Carton.       Original       estimate       $8,650.00.",21.5,17,,0.0,-1,21.5,0.0
+167.0,441.0,483.0,458.0,"$1.00       off       2       Packs       or       Carton.       Original       estimate       $8,650.00.",positions,"lo       add       Summit,       revise       T       &       rrs       twice.",21.5,19,Mechanical       returned,234.5,18,21.5,234.5
+483.0,441.0,636.0,458.0,Mechanical       returned,positions,"lo       add       Summit,       revise       T       &       rrs       twice.",21.5,19,,0.0,-1,21.5,0.0
+167.0,458.0,483.0,484.0,"lo       add       Summit,       revise       T       &       rrs       twice.",positions,Production,25.5,20,,0.0,-1,25.5,0.0
+167.0,484.0,483.0,509.0,Production,positions,Typography,21.5,22,$823.50,234.5,21,21.5,234.5
+483.0,484.0,636.0,509.0,$823.50,positions,Typography,21.5,22,,0.0,-1,21.5,0.0
+167.0,509.0,483.0,527.0,Typography,positions,Mechanicals,22.5,24,1.455.25,234.5,23,22.5,234.5
+483.0,509.0,636.0,527.0,1.455.25,positions,Mechanicals,22.5,24,,0.0,-1,22.5,0.0
+167.0,527.0,483.0,554.0,Mechanicals,positions,S7.435.63,27.0,26,5.156.88,234.5,25,27.0,234.5
+483.0,527.0,636.0,554.0,5.156.88,positions,S7.435.63,27.0,26,,0.0,-1,27.0,0.0
+483.0,554.0,636.0,581.0,S7.435.63,positions,Conn.       Tax       -       6%,27.0,27,,0.0,-1,27.0,0.0
+167.0,581.0,483.0,608.0,Conn.       Tax       -       6%,positions,Total       Due       &       Payable       Upon       Receipt,30.5,29,446.14,234.5,28,30.5,234.5
+483.0,581.0,636.0,608.0,446.14,positions,"$7,881.77",30.0,30,,0.0,-1,30.0,0.0
+168.0,618.0,355.0,632.0,Total       Due       &       Payable       Upon       Receipt,total,"Please       remit       :o:       Ciaron       Marketing       and       Communications,       P.O.       Bex       7720-1.       Detroit.       Ml       46270",246.5,31,"$7,881.77",345.0,30,246.5,345.0
+579.0,618.0,634.0,631.0,"$7,881.77",total,"Please       remit       :o:       Ciaron       Marketing       and       Communications,       P.O.       Bex       7720-1.       Detroit.       Ml       46270",247.0,31,,0.0,-1,-1.0,0.0
+168.0,865.0,610.0,878.0,"Please       remit       :o:       Ciaron       Marketing       and       Communications,       P.O.       Bex       7720-1.       Detroit.       Ml       46270",supplier,,0.0,-1,,0.0,-1,0.0,0.0

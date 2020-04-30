@@ -1,0 +1,31 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+193.0,150.0,531.0,164.0,POLITICAL       CAMPAIGN       CONTRIBUTION       REQUEST,other,State:       ^       Local:       f~l,46.0,2,,0.0,-1,46.0,0.0
+116.0,198.0,193.0,210.0,Date:       3/4/97,invoice_info,Name          (Individual       Candida!*       o*       FUndmUinj       Org),102.5,4,State:       ^       Local:       f~l,310.5,2,-1.0,310.5
+404.0,195.0,526.0,211.0,State:       ^       Local:       f~l,invoice_info,RECIPIENT       INFORMATON,47.5,3,,0.0,-1,47.5,0.0
+274.0,244.0,450.0,257.0,RECIPIENT       INFORMATON,other,Name          (Individual       Candida!*       o*       FUndmUinj       Org),56.0,4,,0.0,-1,56.0,0.0
+109.0,289.0,280.0,324.0,Name          (Individual       Candida!*       o*       FUndmUinj       Org),receiver,Address,50.0,6,Anthony       Harris,253.0,5,50.0,253.0
+280.0,289.0,615.0,324.0,Anthony       Harris,receiver,Address,50.0,6,,0.0,-1,50.0,0.0
+109.0,324.0,280.0,389.0,Address,receiver,Current       Office       and       District,41.0,8,PO       Box       511       *          Cheraw.       SC       29520,253.0,7,41.0,253.0
+280.0,324.0,615.0,389.0,PO       Box       511       *          Cheraw.       SC       29520,receiver,Current       Office       and       District,41.0,8,,0.0,-1,41.0,0.0
+109.0,389.0,280.0,406.0,Current       Office       and       District,receiver,Aspired       Office       and       District,16.5,9,,0.0,-1,16.5,0.0
+109.0,406.0,280.0,422.0,Aspired       Office       and       District,receiver,Party,16.5,11,Representative       -       District       53,253.0,10,16.5,253.0
+280.0,406.0,615.0,422.0,Representative       -       District       53,receiver,Party,16.5,11,,0.0,-1,16.5,0.0
+109.0,422.0,280.0,439.0,Party,receiver,Leadership       Position,17.0,13,Democrat,253.0,12,17.0,253.0
+280.0,422.0,615.0,439.0,Democrat,receiver,Leadership       Position,17.0,13,,0.0,-1,17.0,0.0
+109.0,439.0,280.0,456.0,Leadership       Position,receiver,Committees          (Note       Chiimun&hps),22.5,14,,0.0,-1,22.5,0.0
+109.0,456.0,280.0,484.0,Committees          (Note       Chiimun&hps),receiver,CONTRIBUTION       INFORMATION,69.5,15,,0.0,-1,69.5,0.0
+255.0,533.0,469.0,546.0,CONTRIBUTION       INFORMATION,other,Amount,47.5,16,,0.0,-1,47.5,0.0
+108.0,578.0,351.0,596.0,Amount,other,Account       Code,17.0,18,S       200.00,248.0,17,17.0,248.0
+351.0,578.0,604.0,596.0,S       200.00,other,Account       Code,17.0,18,,0.0,-1,17.0,0.0
+108.0,596.0,351.0,612.0,Account       Code,other,Check       Payable       to,16.5,20,1401-7710-SC-OI,248.0,19,16.5,248.0
+351.0,596.0,604.0,612.0,1401-7710-SC-OI,other,Check       Payable       to,16.5,20,,0.0,-1,16.5,0.0
+108.0,612.0,351.0,629.0,Check       Payable       to,other,Address,17.0,22,Anthony       Harris       Campaign,248.0,21,17.0,248.0
+351.0,612.0,604.0,629.0,Anthony       Harris       Campaign,other,Address,17.0,22,,0.0,-1,17.0,0.0
+108.0,629.0,351.0,646.0,Address,other,(Only       if       different       from       address       above)          •       ■       *,32.5,23,,0.0,-1,32.5,0.0
+108.0,646.0,351.0,694.0,(Only       if       different       from       address       above)          •       ■       *,other,Notes:          (Date       needed;       fundraiser       date;       other       info.,41.5,24,,0.0,-1,41.5,0.0
+108.0,694.0,351.0,729.0,Notes:          (Date       needed;       fundraiser       date;       other       info.,other,Approved       by:,56.0,26,Next       Round,248.0,25,56.0,248.0
+351.0,694.0,604.0,729.0,Next       Round,other,(Senior       Vice       President’s       signature),137.0,28,,0.0,-1,137.0,0.0
+112.0,759.0,193.0,776.0,Approved       by:,other,Revised       2/95,92.5,27,,0.0,-1,92.5,0.0
+111.0,854.0,178.0,866.0,Revised       2/95,other,,0.0,-1,(Senior       Vice       President’s       signature),337.0,28,0.0,337.0
+385.0,841.0,578.0,856.0,(Senior       Vice       President’s       signature),other,,0.0,-1,,0.0,-1,0.0,0.0
+642.0,964.0,724.0,976.0,Til       640-0238,other,,0.0,-1,,0.0,-1,0.0,0.0

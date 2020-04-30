@@ -1,0 +1,55 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+42.0,64.0,64.0,74.0,*,supplier,CLIENT       RJT          PRODUCT       CL          MEDIA       it,119.0,3,McCANN-ERICKSON          485       LEXINGTON       AVENUE          NEW       YORK.       NY          10017-0000          PEQDUCIIQN       BILL,340.0,1,119.0,340.0
+268.0,48.0,518.0,151.0,McCANN-ERICKSON          485       LEXINGTON       AVENUE          NEW       YORK.       NY          10017-0000          PEQDUCIIQN       BILL,supplier,R.J.       REYNOLDS       TOBACCO          CAMEL       LIGHTS          BILLBOARD,89.0,4,PAGE       1          BILL       NUMBER       04-0392          BILL       DATE       15APR87,292.5,2,89.0,292.5
+598.0,83.0,773.0,129.0,PAGE       1          BILL       NUMBER       04-0392          BILL       DATE       15APR87,invoice_info,BILL       R.J.       REYNOLDS          TO?       401       NORTH       MAIN       STREET          •       WINS!0N-8ALEM       NC          27102-0000,89.0,5,,0.0,-1,89.0,0.0
+32.0,171.0,133.0,205.0,CLIENT       RJT          PRODUCT       CL          MEDIA       it,receiver,JOB       B7C018          CLIENT       REFERENCE,75.0,6,R.J.       REYNOLDS       TOBACCO          CAMEL       LIGHTS          BILLBOARD,164.5,4,-1.0,164.5
+151.0,171.0,343.0,206.0,R.J.       REYNOLDS       TOBACCO          CAMEL       LIGHTS          BILLBOARD,receiver,JOB       B7C018          CLIENT       REFERENCE,74.5,6,BILL       R.J.       REYNOLDS          TO?       401       NORTH       MAIN       STREET          •       WINS!0N-8ALEM       NC          27102-0000,333.5,5,74.5,333.5
+452.0,172.0,709.0,218.0,BILL       R.J.       REYNOLDS          TO?       401       NORTH       MAIN       STREET          •       WINS!0N-8ALEM       NC          27102-0000,receiver,"B7CLC.018A       ""FIRESTICK       /       LIGHT8""          30       SHEET       POSTER       FEB.       16       -       MAR.       31,       1987          B7CLC018A       BUDGET       CODE       047246008070855",68.5,7,ui          H*          ro          'O          CO          cn          O'          ui          O',165.0,8,68.5,165.0
+32.0,240.0,177.0,286.0,JOB       B7C018          CLIENT       REFERENCE,other,DESCRIPTION,173.0,9,"B7CLC.018A       ""FIRESTICK       /       LIGHT8""          30       SHEET       POSTER       FEB.       16       -       MAR.       31,       1987          B7CLC018A       BUDGET       CODE       047246008070855",348.0,7,-1.0,348.0
+196.0,240.0,709.0,287.0,"B7CLC.018A       ""FIRESTICK       /       LIGHT8""          30       SHEET       POSTER       FEB.       16       -       MAR.       31,       1987          B7CLC018A       BUDGET       CODE       047246008070855",other,DESCRIPTION,172.5,9,ui          H*          ro          'O          CO          cn          O'          ui          O',293.0,8,172.5,-1.0
+739.0,211.0,752.0,302.0,ui          H*          ro          'O          CO          cn          O'          ui          O',other,TOTAL,179.5,13,,0.0,-1,179.5,0.0
+21.0,413.0,313.0,459.0,DESCRIPTION,positions,33095          MACNAUGHTON       LITHOGRAPH       CQ.1NC.,47.0,14,NET       AMOUNT,200.5,10,47.0,200.5
+313.0,413.0,422.0,459.0,NET       AMOUNT,positions,33095          MACNAUGHTON       LITHOGRAPH       CQ.1NC.,47.0,14,COMMISSION,109.5,11,47.0,109.5
+422.0,413.0,532.0,459.0,COMMISSION,positions,y          682.74^(^4,47.0,15,TAX,114.0,12,47.0,114.0
+532.0,413.0,650.0,459.0,TAX,positions,y          682.74^(^4,47.0,15,TOTAL,120.5,13,47.0,120.5
+650.0,413.0,773.0,459.0,TOTAL,positions,y          682.74^(^4,47.0,15,,0.0,-1,47.0,0.0
+21.0,459.0,313.0,507.0,33095          MACNAUGHTON       LITHOGRAPH       CQ.1NC.,positions,33895          MACNAUGHTON       LITHOGRAPH       CO.INC.,41.0,18,y          682.74^(^4,424.0,15,41.0,424.0
+532.0,459.0,650.0,507.0,y          682.74^(^4,positions,135.65       70,41.0,19,AT,76.0,16,41.0,76.0
+650.0,459.0,684.0,507.0,AT,positions,135.65       70,41.0,19,682.74,61.5,17,41.0,61.5
+684.0,459.0,773.0,507.0,682.74,positions,Pin,41.0,20,,0.0,-1,41.0,0.0
+21.0,507.0,313.0,541.0,33895          MACNAUGHTON       LITHOGRAPH       CO.INC.,positions,48       PRUD.CU       HER,29.0,22,135.65       70,424.0,19,29.0,424.0
+532.0,507.0,650.0,541.0,135.65       70,positions,818.39,356.5,46,Pin,76.0,20,356.5,76.0
+650.0,507.0,684.0,541.0,Pin,positions,52.50,57.5,25,135.65,61.5,21,57.5,61.5
+684.0,507.0,773.0,541.0,135.65,positions,52.50,57.5,25,,0.0,-1,57.5,0.0
+21.0,541.0,313.0,565.0,48       PRUD.CU       HER,positions,"017372          NAEGLE       OUTDOOR       -CHARLOTTE,       N.C.",28.5,23,,0.0,-1,28.5,0.0
+21.0,565.0,313.0,598.0,"017372          NAEGLE       OUTDOOR       -CHARLOTTE,       N.C.",positions,TOTAL       PROD       -OTHER       /,30.5,26,52.50,200.5,24,30.5,200.5
+313.0,565.0,422.0,598.0,52.50,positions,TOTAL       PROD       -OTHER       /,30.5,26,52.50,361.0,25,30.5,361.0
+684.0,565.0,773.0,598.0,52.50,positions,52.50,30.5,28,,0.0,-1,30.5,0.0
+21.0,598.0,313.0,626.0,TOTAL       PROD       -OTHER       /,positions,51       OOIJ..t:RINIING_.V^,28.5,29,52.50,200.5,27,28.5,200.5
+313.0,598.0,422.0,626.0,52.50,positions,51       OOIJ..t:RINIING_.V^,28.5,29,52.50,361.0,28,28.5,361.0
+684.0,598.0,773.0,626.0,52.50,positions,24349.92,60.5,32,,0.0,-1,60.5,0.0
+21.0,626.0,313.0,655.0,51       OOIJ..t:RINIING_.V^,positions,i       6033          MACNAllOm       ON       l       3       TKUGRAL'H       CO.       INC.,32.0,30,,0.0,-1,32.0,0.0
+21.0,655.0,313.0,690.0,i       6033          MACNAllOm       ON       l       3       TKUGRAL'H       CO.       INC.,positions,TOTAL       CIUH       PRINTING,32.0,33,24349.92,200.5,31,32.0,200.5
+313.0,655.0,422.0,690.0,24349.92,positions,TOTAL       CIUH       PRINTING,32.0,33,24349.92,361.0,32,32.0,361.0
+684.0,655.0,773.0,690.0,24349.92,positions,24349.92,32.0,35,,0.0,-1,32.0,0.0
+21.0,690.0,313.0,719.0,TOTAL       CIUH       PRINTING,positions,50       ClTHER-Stlietxm„,28.5,36,24349.92,200.5,34,28.5,200.5
+313.0,690.0,422.0,719.0,24349.92,positions,50       ClTHER-Stlietxm„,28.5,36,24349.92,361.0,35,28.5,361.0
+684.0,690.0,773.0,719.0,24349.92,positions,2312.24,59.5,39,,0.0,-1,59.5,0.0
+21.0,719.0,313.0,747.0,50       ClTHER-Stlietxm„,positions,33895          MACNAUGHTON       LITHOGRAPH       CO.INC.,31.0,37,,0.0,-1,31.0,0.0
+21.0,747.0,313.0,781.0,33895          MACNAUGHTON       LITHOGRAPH       CO.INC.,positions,TOTAL.       OTHER       SHIPPING,31.5,40,2312.24,200.5,38,31.5,200.5
+313.0,747.0,422.0,781.0,2312.24,positions,TOTAL.       OTHER       SHIPPING,31.5,40,2312.24,361.0,39,31.5,361.0
+684.0,747.0,773.0,781.0,2312.24,positions,2312.24,31.5,42,,0.0,-1,31.5,0.0
+21.0,781.0,313.0,810.0,TOTAL.       OTHER       SHIPPING,positions,EXPLANATION       .ClE-lAX          64       6.5*/       CALIFORNIA          70       6.5y.       WASI       i       INOT       ON,40.0,43,2312.24,200.5,41,40.0,200.5
+313.0,781.0,422.0,810.0,2312.24,positions,EXPLANATION       .ClE-lAX          64       6.5*/       CALIFORNIA          70       6.5y.       WASI       i       INOT       ON,40.0,43,2312.24,361.0,42,40.0,361.0
+684.0,781.0,773.0,810.0,2312.24,positions,27533.05,85.0,47,,0.0,-1,85.0,0.0
+21.0,810.0,313.0,861.0,EXPLANATION       .ClE-lAX          64       6.5*/       CALIFORNIA          70       6.5y.       WASI       i       INOT       ON,positions,IQT.AL.       .CHARGES,45.0,44,,0.0,-1,45.0,0.0
+21.0,861.0,313.0,900.0,IQT.AL.       .CHARGES,positions,TOTAL.       DUE       23APRS7,41.5,48,26714.66,200.5,45,41.5,200.5
+313.0,861.0,422.0,900.0,26714.66,positions,TOTAL.       DUE       23APRS7,41.5,48,818.39,223.5,46,41.5,223.5
+532.0,861.0,650.0,900.0,818.39,positions,818.39          PAY,41.5,50,27533.05,137.5,47,41.5,137.5
+684.0,861.0,773.0,900.0,27533.05,positions,27533.05          THIS       AMOUN',41.5,51,,0.0,-1,41.5,0.0
+21.0,900.0,313.0,944.0,TOTAL.       DUE       23APRS7,total,,0.0,-1,26714.66,200.5,49,0.0,200.5
+313.0,900.0,422.0,944.0,26714.66,total,ORIGINAL,61.5,53,818.39          PAY,223.5,50,61.5,223.5
+532.0,900.0,650.0,944.0,818.39          PAY,total,1,37.5,52,27533.05          THIS       AMOUN',120.5,51,37.5,120.5
+650.0,900.0,773.0,944.0,27533.05          THIS       AMOUN',total,1,37.5,52,,0.0,-1,37.5,0.0
+650.0,944.0,773.0,975.0,1,total,,0.0,-1,,0.0,-1,0.0,0.0
+381.0,978.0,433.0,989.0,ORIGINAL,other,,0.0,-1,,0.0,-1,0.0,0.0

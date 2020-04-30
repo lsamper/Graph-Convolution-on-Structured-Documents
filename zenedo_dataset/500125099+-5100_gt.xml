@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:ns2="http://searchink.com/xml/frankstahlapi/1.0">
+  <Metadata>
+    <Creator>system</Creator>
+    <Created>2019-01-25T17:40:52.335+01:00</Created>
+    <LastChange>2019-02-02T02:08:10Z</LastChange>
+  </Metadata>
+  <Property key="customer" value="actuallCustomerName"/>
+  <Property key="offer"/>
+  <Property key="uuid" value="588ac017-3be1-47e5-a33a-1e44b3821119"/>
+  <Property key="fileName" value="500125099+-5100.pdf"/>
+  <Property key="type" value="digital"/>
+  <Page imageFilename="500125099+-5100.tif" imageHeight="1000" imageWidth="754">
+    <TextRegion id="page1_pos1">
+      <Property key="entity" value="supplier"/>
+      <Coords points="61.7815,90.4946 259.703,90.4946 259.703,110.281 61.7815,110.281"/>
+    </TextRegion>
+    <TextRegion id="page1_pos2">
+      <Property key="entity" value="invoice_info"/>
+      <Coords points="266.301,90.4946 638.581,90.4946 638.581,108.396 266.301,108.396"/>
+    </TextRegion>
+    <TextRegion id="page1_pos3">
+      <Property key="entity" value="positions"/>
+      <Coords points="55.1839,177.178 605.594,177.178 605.594,294.954 55.1839,294.954"/>
+    </TextRegion>
+    <TextRegion id="page1_pos4">
+      <Property key="entity" value="total"/>
+      <Coords points="60.8389,303.434 611.251,303.434 611.251,329.816 60.8389,329.816"/>
+    </TextRegion>
+    <TextRegion id="page1_pos5">
+      <Property key="entity" value="other"/>
+      <Coords points="57.0689,135.721 331.332,135.721 331.332,160.218 57.0689,160.218"/>
+    </TextRegion>
+    <TextRegion id="page1_pos6">
+      <Property key="entity" value="other"/>
+      <Coords points="612.195,157.391 679.111,157.391 679.111,241.248 612.195,241.248"/>
+    </TextRegion>
+    <TextRegion id="page1_pos7">
+      <Property key="entity" value="other"/>
+      <Coords points="56.6289,471.148 725.266,471.148 725.266,920.583 56.6289,920.583"/>
+    </TextRegion>
+  </Page>
+</PcGts>

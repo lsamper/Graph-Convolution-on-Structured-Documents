@@ -1,0 +1,30 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+68.0,68.0,233.0,102.0,"LEO       BURNETT       U.S.A.          A       MV1MMI       OF       HO       BUBNrrr       comtant,       INC          ADVERTISING",supplier,PERIOO       DATE       09/13/96          01/01/06       TO       12/3t/96       PAGE       1          CLIENT:       P.M.       INC.       OFFICE:       10       DESC:       703A       MILITARY       NEWSPAPERS          ESI       NO:       6004       REVISES       EST       DTD       07/12/36,61.5,2,,0.0,-1,-1.0,0.0
+359.0,103.0,579.0,112.0,NEWSPAPER       ESTIMATE       RECAP       -       PN05,other,PERIOO       DATE       09/13/96          01/01/06       TO       12/3t/96       PAGE       1          CLIENT:       P.M.       INC.       OFFICE:       10       DESC:       703A       MILITARY       NEWSPAPERS          ESI       NO:       6004       REVISES       EST       DTD       07/12/36,39.0,2,,0.0,-1,39.0,0.0
+143.0,121.0,579.0,172.0,PERIOO       DATE       09/13/96          01/01/06       TO       12/3t/96       PAGE       1          CLIENT:       P.M.       INC.       OFFICE:       10       DESC:       703A       MILITARY       NEWSPAPERS          ESI       NO:       6004       REVISES       EST       DTD       07/12/36,other,KRKT/S:2CN          2LO-SAVANNAH,59.5,4,,0.0,-1,59.5,0.0
+142.0,201.0,350.0,212.0,TOTALS       BY       MRKT/S       ZON       /PRODUCT/MONTH,other,PROOUCT,46.5,5,KRKT/S:2CN          2LO-SAVANNAH,262.0,4,46.5,262.0
+472.0,191.0,544.0,221.0,KRKT/S:2CN          2LO-SAVANNAH,other,EST       AMT          CHANGE,47.0,8,,0.0,-1,47.0,0.0
+160.0,241.0,242.0,265.0,PROOUCT,positions,10-MARLB0R0          ■,26.5,10,PERIOO,84.5,6,26.5,84.5
+242.0,241.0,329.0,265.0,PERIOO,positions,10-MARLB0R0          ■,26.5,10,EST       AMT          AMOUNT,87.5,7,26.5,87.5
+329.0,241.0,417.0,265.0,EST       AMT          AMOUNT,positions,FEB       1896          OUARTGR       1,26.5,11,EST       AMT          CHANGE,86.5,8,26.5,86.5
+417.0,241.0,502.0,265.0,EST       AMT          CHANGE,positions,"1,415.80          1,415.80",26.5,12,EST       AMT          LESS       C/D,78.0,9,26.5,78.0
+502.0,241.0,573.0,265.0,EST       AMT          LESS       C/D,positions,"1,415.80          1,415.80",26.5,13,,0.0,-1,26.5,0.0
+160.0,265.0,242.0,294.0,10-MARLB0R0          ■,positions,MAY          JUN          QUARTER       2,34.5,14,FEB       1896          OUARTGR       1,84.5,11,34.5,84.5
+242.0,265.0,329.0,294.0,FEB       1896          OUARTGR       1,positions,MAY          JUN          QUARTER       2,34.5,14,"1,415.80          1,415.80",87.5,12,34.5,87.5
+329.0,265.0,417.0,294.0,"1,415.80          1,415.80",positions,MAY          JUN          QUARTER       2,34.5,14,"1,415.80          1,415.80",164.5,13,34.5,164.5
+502.0,265.0,573.0,294.0,"1,415.80          1,415.80",positions,86.89          30.       HB          117.77,34.5,16,,0.0,-1,34.5,0.0
+242.0,294.0,329.0,334.0,MAY          JUN          QUARTER       2,positions,JUL          AUG          SEP          OUARTER       3,45.0,18,"2.631.06          1.446.68          4,077.74",87.5,15,45.0,87.5
+329.0,294.0,417.0,334.0,"2.631.06          1.446.68          4,077.74",positions,JUL          AUG          SEP          OUARTER       3,45.0,18,86.89          30.       HB          117.77,86.5,16,45.0,86.5
+417.0,294.0,502.0,334.0,86.89          30.       HB          117.77,positions,"1.415.80          1.415.80          1.415.80          4,247.40",45.0,19,"2,631.06          1.446.88          4.077.74",78.0,17,45.0,78.0
+502.0,294.0,573.0,334.0,"2,631.06          1.446.88          4.077.74",positions,•,45.0,20,,0.0,-1,45.0,0.0
+242.0,334.0,329.0,384.0,JUL          AUG          SEP          OUARTER       3,positions,TOTAL,33.0,22,"1.415.80          1.415.80          1.415.80          4,247.40",87.5,19,33.0,87.5
+329.0,334.0,417.0,384.0,"1.415.80          1.415.80          1.415.80          4,247.40",positions,TOTAL,33.0,22,•,86.5,20,33.0,86.5
+417.0,334.0,502.0,384.0,•,positions,"9,740.94",33.0,23,"1,415.HO          1,415.80          1,415.80          4,247.40",78.0,21,33.0,78.0
+502.0,334.0,573.0,384.0,"1,415.HO          1,415.80          1,415.80          4,247.40",positions,117.77,33.0,24,,0.0,-1,33.0,0.0
+242.0,384.0,329.0,400.0,TOTAL,total,,0.0,-1,"9,740.94",87.5,23,0.0,87.5
+329.0,384.0,417.0,400.0,"9,740.94",total,,0.0,-1,117.77,86.5,24,0.0,86.5
+417.0,384.0,502.0,400.0,117.77,total,,0.0,-1,"9,740.84",78.0,25,0.0,78.0
+502.0,384.0,573.0,400.0,"9,740.84",total,,0.0,-1,,0.0,-1,0.0,0.0
+599.0,809.0,603.0,826.0,I,other,,0.0,-1,2084022128,29.0,28,0.0,29.0
+33.0,898.0,140.0,906.0,rOflY       M01A       REV       04-1A-Q3,other,,0.0,-1,,0.0,-1,0.0,0.0
+622.0,732.0,638.0,821.0,2084022128,other,,0.0,-1,,0.0,-1,0.0,0.0

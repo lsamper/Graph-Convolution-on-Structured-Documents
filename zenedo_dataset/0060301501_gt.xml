@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:ns2="http://searchink.com/xml/frankstahlapi/1.0">
+  <Metadata>
+    <Creator>system</Creator>
+    <Created>2019-01-25T17:27:52.592+01:00</Created>
+    <LastChange>2019-02-01T08:51:07Z</LastChange>
+  </Metadata>
+  <Property key="customer" value="actuallCustomerName"/>
+  <Property key="offer"/>
+  <Property key="uuid" value="256b4e76-013d-475a-a333-f1e1f396adcb"/>
+  <Property key="fileName" value="0060301501.pdf"/>
+  <Property key="type" value="digital"/>
+  <Page imageFilename="0060301501.tif" imageHeight="1000" imageWidth="762">
+    <TextRegion id="page1_pos1">
+      <Property key="entity" value="supplier"/>
+      <Coords points="7.34212,10.4066 758.224,10.4066 758.224,110.281 7.34212,110.281"/>
+    </TextRegion>
+    <TextRegion id="page1_pos2">
+      <Property key="entity" value="supplier"/>
+      <Coords points="7.87372,116.221 249.992,116.221 249.992,259.003 7.87372,259.003"/>
+    </TextRegion>
+    <TextRegion id="page1_pos3">
+      <Property key="entity" value="supplier"/>
+      <Coords points="489.48,116.221 751.335,116.221 751.335,251.765 489.48,251.765"/>
+    </TextRegion>
+    <TextRegion id="page1_pos4">
+      <Property key="entity" value="invoice_info"/>
+      <Coords points="257.887,120.168 471.713,120.168 471.713,258.345 257.887,258.345"/>
+    </TextRegion>
+    <TextRegion id="page1_pos5">
+      <Property key="entity" value="receiver"/>
+      <Coords points="7.21578,268.214 744.755,268.214 744.755,366.253 7.21578,366.253"/>
+    </TextRegion>
+    <TextRegion id="page1_pos6">
+      <Property key="entity" value="positions"/>
+      <Coords points="10.4173,370.86 742.034,370.86 742.034,666.951 10.4173,666.951"/>
+    </TextRegion>
+    <TextRegion id="page1_pos7">
+      <Property key="entity" value="other"/>
+      <Coords points="8.34978,670.234 745.921,670.234 745.921,984.748 8.34978,984.748"/>
+    </TextRegion>
+  </Page>
+</PcGts>

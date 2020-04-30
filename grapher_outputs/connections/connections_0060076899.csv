@@ -1,0 +1,38 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+218.0,27.0,438.0,89.0,"Kubin-Nicholson       Corporation          P.O.       Box       18674          5880       North       60th       Street          Milwaukee,       Wl       53?       18          (414)       461       8100",supplier,r,77.0,2,INVOICE,234.0,4,77.0,234.0
+302.0,142.0,325.0,148.0,f       4,supplier,YOUR       ORDER       NUMBER,145.5,15,r,28.5,2,145.5,28.5
+335.0,126.0,349.0,144.0,r,supplier,YOUR       ORDER       NUMBER,155.5,15,i,41.0,3,-1.0,41.0
+374.0,135.0,392.0,172.0,i,supplier,DATE       SHIPPED          .       ••       --.•is*-       '       •,137.0,16,KUBIN-NICHOLSON          BIN       313          MILWAUKEE.       WISCONSIN       53288          PLEASE       RETURN       DUPLICATE       WITH       PAVMEVT,188.5,6,137.0,188.5
+530.0,38.0,594.0,52.0,INVOICE,other,PLEA9E       HEUITfO:,47.5,5,,0.0,-1,47.5,0.0
+518.0,86.0,608.0,99.0,PLEA9E       HEUITfO:,supplier,KUBIN-NICHOLSON          BIN       313          MILWAUKEE.       WISCONSIN       53288          PLEASE       RETURN       DUPLICATE       WITH       PAVMEVT,36.0,6,,0.0,-1,36.0,0.0
+474.0,102.0,669.0,155.0,KUBIN-NICHOLSON          BIN       313          MILWAUKEE.       WISCONSIN       53288          PLEASE       RETURN       DUPLICATE       WITH       PAVMEVT,supplier,.       NUMBER,70.0,8,,0.0,-1,70.0,0.0
+72.0,186.0,298.0,242.0,AMERICAN       TOBACCO       CO          GENERAL       ACCOUNTING          P.O.       BOX       1100          CHESTER       VA       23831,receiver,'       .       OUR       JOB       NUMBER,76.5,13,.       NUMBER,310.5,8,76.5,310.5
+464.0,191.0,527.0,206.0,.       NUMBER,invoice_info,030456,30.5,11,DATE       ;,85.5,9,30.5,85.5
+527.0,191.0,635.0,206.0,DATE       ;,invoice_info,030456,30.5,11,PAGE,72.0,10,30.5,72.0
+635.0,191.0,671.0,206.0,PAGE,invoice_info,J0/26/90,30.5,12,,0.0,-1,30.5,0.0
+464.0,206.0,527.0,252.0,030456,invoice_info,CUSTOMER,89.5,21,J0/26/90,85.5,12,-1.0,85.5
+527.0,206.0,635.0,252.0,J0/26/90,invoice_info,9H*»PPEDVIA,61.5,17,,0.0,-1,61.5,0.0
+0.0,278.0,128.0,303.0,'       .       OUR       JOB       NUMBER,invoice_info,5140,28.0,18,ORDER       DATE,115.0,14,28.0,115.0
+128.0,278.0,230.0,303.0,ORDER       DATE,invoice_info,5140,28.0,18,YOUR       ORDER       NUMBER,114.5,15,28.0,114.5
+230.0,278.0,357.0,303.0,YOUR       ORDER       NUMBER,invoice_info,9/26/90,28.0,19,DATE       SHIPPED          .       ••       --.•is*-       '       •,114.0,16,28.0,114.0
+357.0,278.0,458.0,303.0,DATE       SHIPPED          .       ••       --.•is*-       '       •,invoice_info,Ml       1996,28.0,20,9H*»PPEDVIA,204.5,17,28.0,204.5
+536.0,278.0,688.0,303.0,9H*»PPEDVIA,invoice_info,CUSTOMER,28.0,21,,0.0,-1,28.0,0.0
+0.0,303.0,128.0,334.0,5140,invoice_info,NT1TY,29.0,24,9/26/90,115.0,19,29.0,115.0
+128.0,303.0,230.0,334.0,9/26/90,invoice_info,AMERICAN       (’•FOXY'’)       LIGHTS          WARNING       #13-B          14’       X       48’       BULLETIN       RERUN,69.5,27,Ml       1996,114.5,20,-1.0,114.5
+230.0,303.0,357.0,334.0,Ml       1996,invoice_info,DESCRIPTION,31.0,25,CUSTOMER,203.5,21,31.0,203.5
+458.0,303.0,536.0,334.0,CUSTOMER,invoice_info,UNIT       PRICE,31.0,29,REQ.,115.0,22,31.0,115.0
+536.0,303.0,688.0,334.0,REQ.,invoice_info,UNIT       PRICE,31.0,29,,0.0,-1,31.0,0.0
+4.0,348.0,24.0,361.0,m,positions,'t       “Mb,288.0,33,NT1TY,49.5,24,-1.0,49.5
+49.0,342.0,78.0,353.0,NT1TY,positions,170,24.5,26,DESCRIPTION,222.0,25,24.5,222.0
+254.0,345.0,317.0,354.0,DESCRIPTION,positions,AMERICAN       (’•FOXY'’)       LIGHTS          WARNING       #13-B          14’       X       48’       BULLETIN       RERUN,38.5,27,UNIT       PRICE,232.0,29,38.5,232.0
+32.0,365.0,74.0,379.0,170,positions,'t       “Mb,270.5,33,AMERICAN       (’•FOXY'’)       LIGHTS          WARNING       #13-B          14’       X       48’       BULLETIN       RERUN,159.5,27,270.5,159.5
+109.0,367.0,316.0,409.0,AMERICAN       (’•FOXY'’)       LIGHTS          WARNING       #13-B          14’       X       48’       BULLETIN       RERUN,positions,PREPAID       FREIGHT       TO       FOLLOW,56.5,28,142.4500,303.0,30,56.5,303.0
+109.0,438.0,325.0,451.0,PREPAID       FREIGHT       TO       FOLLOW,positions,NET       30       DAYS,207.5,34,,0.0,-1,207.5,0.0
+490.0,344.0,545.0,355.0,UNIT       PRICE,positions,142.4500,28.0,30,AMOUNT,110.5,31,28.0,110.5
+479.0,371.0,552.0,384.0,142.4500,positions,,0.0,-1,"24,216.50",121.5,32,0.0,121.5
+606.0,346.0,650.0,355.0,AMOUNT,total,"24,216.50",28.5,32,,0.0,-1,28.5,0.0
+596.0,371.0,678.0,387.0,"24,216.50",total,-a4-.-21ti.5Q,277.5,35,,0.0,-1,277.5,0.0
+17.0,639.0,46.0,646.0,'t       “Mb,other,,0.0,-1,,0.0,-1,0.0,0.0
+115.0,646.0,215.0,658.0,NET       30       DAYS,other,,0.0,-1,-a4-.-21ti.5Q,474.0,35,0.0,474.0
+598.0,650.0,680.0,663.0,-a4-.-21ti.5Q,total,,0.0,-1,,0.0,-1,0.0,0.0
+251.0,665.0,440.0,676.0,POINTERS       OF       OUTDOOR       ADVERTISING,other,,0.0,-1,,0.0,-1,0.0,0.0

@@ -1,0 +1,25 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+498.0,155.0,579.0,166.0,INVOICE       NO,other,J,214.5,9,,0.0,-1,-1.0,0.0
+286.0,188.0,342.0,204.0,11/1       /80,invoice_info,"Corroon       &       Black       Company       of       New       York,       Inc.          Insurance       Brokers/Consultants/Average       Adjuster*          ISO       William       Street,       New       York.       New       York       10038          212-732-4900       Cable       Address       Noorroc",52.0,2,10487,368.5,3,52.0,368.5
+92.0,225.0,327.0,271.0,"Corroon       &       Black       Company       of       New       York,       Inc.          Insurance       Brokers/Consultants/Average       Adjuster*          ISO       William       Street,       New       York.       New       York       10038          212-732-4900       Cable       Address       Noorroc",supplier,r,65.0,5,,0.0,-1,65.0,0.0
+655.0,189.0,710.0,211.0,10487,invoice_info,80       PCI       48,175.0,10,,0.0,-1,175.0,0.0
+18.0,446.0,75.0,460.0,11/1/80,positions,Corroon       &       Black       Company       of       New       York.       Inc.          ISO       William       Street.       New       York.       New       York       10038       P       18858       renmi       this       stub          with       your       remittance.,244.0,22,NATL       UNION,92.5,17,-1.0,92.5
+87.0,304.0,107.0,322.0,r,other,"100       PARK       AVE          NEW       YORK,       NEW       YORK       10017          L",62.0,8,PHILIP       MORRIS,68.5,6,-1.0,68.5
+117.0,315.0,214.0,332.0,PHILIP       MORRIS,receiver,"100       PARK       AVE          NEW       YORK,       NEW       YORK       10017          L",51.5,8,1,260.5,7,51.5,260.5
+416.0,306.0,436.0,323.0,1,other,J,60.5,9,,0.0,-1,60.5,0.0
+26.0,330.0,363.0,420.0,"100       PARK       AVE          NEW       YORK,       NEW       YORK       10017          L",other,EFFECTIVE,54.0,11,J,276.5,9,54.0,276.5
+363.0,330.0,579.0,420.0,J,other,EXPIRATION,54.0,14,80       PCI       48,166.0,10,54.0,166.0
+579.0,330.0,695.0,420.0,80       PCI       48,other,COVERAGE       AMOUNT       O*       INSURANCE,54.0,15,,0.0,-1,54.0,0.0
+26.0,420.0,91.0,438.0,EFFECTIVE,positions,11/1/80,24.0,4,COMPANY,74.5,12,24.0,74.5
+91.0,420.0,175.0,438.0,COMPANY,positions,NATL       UNION,24.0,17,POLICY       NO.,93.5,13,24.0,93.5
+175.0,420.0,278.0,438.0,POLICY       NO.,positions,NATL       UNION,24.0,17,EXPIRATION,94.0,14,24.0,94.0
+278.0,420.0,363.0,438.0,EXPIRATION,positions,11th       INST,23.5,19,COVERAGE       AMOUNT       O*       INSURANCE,150.5,15,23.5,150.5
+363.0,420.0,579.0,438.0,COVERAGE       AMOUNT       O*       INSURANCE,positions,SERVICE       FEE       FOR       CASUALTY       PROGRAM,22.5,20,PREMIUM,186.0,16,22.5,186.0
+619.0,420.0,695.0,438.0,PREMIUM,positions,"$13,750.00",23.0,21,,0.0,-1,23.0,0.0
+103.0,447.0,175.0,459.0,NATL       UNION,positions,Corroon       &       Black       Company       of       New       York.       Inc.          ISO       William       Street.       New       York.       New       York       10038       P       18858       renmi       this       stub          with       your       remittance.,244.0,22,GL1270251,82.5,18,-1.0,82.5
+188.0,447.0,255.0,461.0,GL1270251,positions,Corroon       &       Black       Company       of       New       York.       Inc.          ISO       William       Street.       New       York.       New       York       10038       P       18858       renmi       this       stub          with       your       remittance.,243.0,22,11th       INST,106.0,19,243.0,106.0
+294.0,446.0,361.0,459.0,11th       INST,positions,Corroon       &       Black       Company       of       New       York.       Inc.          ISO       William       Street.       New       York.       New       York       10038       P       18858       renmi       this       stub          with       your       remittance.,244.5,22,SERVICE       FEE       FOR       CASUALTY       PROGRAM,168.5,20,-1.0,168.5
+379.0,445.0,613.0,458.0,SERVICE       FEE       FOR       CASUALTY       PROGRAM,positions,Corroon       &       Black       Company       of       New       York.       Inc.          ISO       William       Street.       New       York.       New       York       10038       P       18858       renmi       this       stub          with       your       remittance.,245.5,22,"$13,750.00",177.0,21,-1.0,177.0
+634.0,444.0,712.0,460.0,"$13,750.00",positions,INVOICE       NO.       F”       10487          •       •       •,252.5,23,,0.0,-1,252.5,0.0
+14.0,680.0,381.0,714.0,Corroon       &       Black       Company       of       New       York.       Inc.          ISO       William       Street.       New       York.       New       York       10038       P       18858       renmi       this       stub          with       your       remittance.,supplier,,0.0,-1,INVOICE       NO.       F”       10487          •       •       •,408.0,23,0.0,408.0
+497.0,693.0,714.0,716.0,INVOICE       NO.       F”       10487          •       •       •,invoice_info,,0.0,-1,,0.0,-1,0.0,0.0

@@ -1,0 +1,43 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+30.0,117.0,63.0,252.0,c          c          c          '       *          €,other,rr.          w*          □          □,404.0,23,REMIT       TO:       HEARST       MAGAZINE*          ATTN:       ACCTS       REC4TH       FL          250       WEST       55TH       STREET          NEW       YORK.       N.Y.       10C10,131.5,6,404.0,131.5
+189.0,162.0,265.0,175.0,PUBLICATION,other,REMIT       TO:       HEARST       MAGAZINE*          ATTN:       ACCTS       REC4TH       FL          250       WEST       55TH       STREET          NEW       YORK.       N.Y.       10C10,54.5,6,"HEARST       MAGAZINES          959       EIGHTH       AVENUE          NEW       YORK,       N.Y.       10019          *•       REOBOOK‘       :       ^*",131.0,2,54.5,131.0
+285.0,109.0,431.0,172.0,"HEARST       MAGAZINES          959       EIGHTH       AVENUE          NEW       YORK,       N.Y.       10019          *•       REOBOOK‘       :       ^*",supplier,IN       ORDER       TO       INSURE       PROPER       CREDIT       TO          YOUR       ACCOUNT.       PLEASE       RETURN       PINK          COPY       WITH       YOUR       REMITTANCE,84.0,7,INVOICE          DUNS       194-2077,188.0,3,-1.0,188.0
+510.0,118.0,582.0,148.0,INVOICE          DUNS       194-2077,other,PAYABLE       IN       US.CURRENC          PAYABLE       30       DAYS          FROM       BILLING       DATE,40.5,4,&,104.0,5,40.5,-1.0
+510.0,158.0,634.0,189.0,PAYABLE       IN       US.CURRENC          PAYABLE       30       DAYS          FROM       BILLING       DATE,other,IN       ORDER       TO       INSURE       PROPER       CREDIT       TO          YOUR       ACCOUNT.       PLEASE       RETURN       PINK          COPY       WITH       YOUR       REMITTANCE,51.0,7,&,78.0,5,51.0,78.0
+623.0,96.0,677.0,167.0,&,other,PAYABLE       IN       US.CURRENC          PAYABLE       30       DAYS          FROM       BILLING       DATE,42.0,4,,0.0,-1,-1.0,0.0
+78.0,196.0,278.0,250.0,REMIT       TO:       HEARST       MAGAZINE*          ATTN:       ACCTS       REC4TH       FL          250       WEST       55TH       STREET          NEW       YORK.       N.Y.       10C10,supplier,r,37.0,8,1,228.0,10,37.0,228.0
+407.0,205.0,640.0,244.0,IN       ORDER       TO       INSURE       PROPER       CREDIT       TO          YOUR       ACCOUNT.       PLEASE       RETURN       PINK          COPY       WITH       YOUR       REMITTANCE,other,1,32.0,10,r          f          i,153.0,40,32.0,153.0
+77.0,252.0,99.0,268.0,r,other,CLASS       OF       AD       NATIOhAL       OISPLAY,235.0,22,NS       BETTY       EPPERSON          CIO       LCRILLARO       NE01A          666       FIFTH       AVE       NY       NY,114.5,9,-1.0,114.5
+126.0,264.0,279.0,303.0,NS       BETTY       EPPERSON          CIO       LCRILLARO       NE01A          666       FIFTH       AVE       NY       NY,receiver,ADVERTISER       LORILLARO,66.5,11,SERVICES          10103,113.5,12,-1.0,113.5
+395.0,247.0,417.0,266.0,1,other,INVOICE       NUMBER       50       -5041-0224          AGENCY       NUMBER       12561          ADVERTISER       NUMOER       L2025          BILLING       DATE       02/10/85          _J       ISSUE       MARCH,41.5,13,r          f          i,270.5,40,41.5,-1.0
+126.0,343.0,287.0,357.0,ADVERTISER       LORILLARO,other,PAGE,17.5,15,,0.0,-1,-1.0,0.0
+282.0,276.0,350.0,302.0,SERVICES          10103,receiver,ADVERTISER       LORILLARO,61.0,11,INVOICE       NUMBER       50       -5041-0224          AGENCY       NUMBER       12561          ADVERTISER       NUMOER       L2025          BILLING       DATE       02/10/85          _J       ISSUE       MARCH,203.0,13,61.0,203.0
+395.0,263.0,643.0,333.0,INVOICE       NUMBER       50       -5041-0224          AGENCY       NUMBER       12561          ADVERTISER       NUMOER       L2025          BILLING       DATE       02/10/85          _J       ISSUE       MARCH,invoice_info,DESCRIPTION       |       AMOUNT,68.0,17,r          f          i,157.5,40,68.0,-1.0
+209.0,359.0,282.0,377.0,co       .on,positions,041,63.5,19,PAGE,67.0,15,63.5,67.0
+281.0,359.0,344.0,376.0,PAGE,positions,co       .on,0.5,14,AIO:ON,67.0,16,0.5,67.0
+343.0,358.0,416.0,376.0,AIO:ON,positions,PAGE,0.5,15,DESCRIPTION       |       AMOUNT,146.5,17,0.5,-1.0
+415.0,357.0,637.0,375.0,DESCRIPTION       |       AMOUNT,positions,AIO:ON,1.0,16,,0.0,-1,1.0,0.0
+210.0,376.0,282.0,488.0,4C,positions,CLASS       OF       AD       NATIOhAL       OISPLAY,63.0,22,041,67.0,19,63.0,67.0
+282.0,376.0,344.0,487.0,041,positions,4C,0.5,18,TRUE,165.5,20,0.5,165.5
+416.0,374.0,541.0,486.0,TRUE,positions,$       51.400.00          7.710.00          S       43.6S0.00,74.5,25,DESCRIPTION       |       AMOUNT,47.5,17,74.5,47.5
+541.0,374.0,637.0,485.0,"51,400.00",positions,TRUE,0.5,20,,0.0,-1,0.5,0.0
+82.0,488.0,327.0,502.0,CLASS       OF       AD       NATIOhAL       OISPLAY,total,"IF       >PAID       BY       02/20/e5       DEDUCT       2Z       CASH       DISCOUNT          OF       S       873.80       AND       REMIT       $       42,816.20",98.0,26,TOTAL       CHARGES          LESS       AGENCY       COMM          NET       AMOUNT       DUE,238.0,24,-1.0,238.0
+30.0,527.0,57.0,650.0,rr.          w*          □          □,other,,0.0,-1,77       1       L3561       L2025       50       *       0410224       01       030195          It       t       4       •       t       13       14—14       17       M       332(37       *31,182.0,27,0.0,182.0
+375.0,487.0,510.0,525.0,TOTAL       CHARGES          LESS       AGENCY       COMM          NET       AMOUNT       DUE,total,"IF       >PAID       BY       02/20/e5       DEDUCT       2Z       CASH       DISCOUNT          OF       S       873.80       AND       REMIT       $       42,816.20",87.0,26,$       51.400.00          7.710.00          S       43.6S0.00,138.5,25,87.0,138.5
+534.0,486.0,628.0,523.0,$       51.400.00          7.710.00          S       43.6S0.00,total,,0.0,-1,,0.0,-1,0.0,0.0
+84.0,578.0,430.0,608.0,"IF       >PAID       BY       02/20/e5       DEDUCT       2Z       CASH       DISCOUNT          OF       S       873.80       AND       REMIT       $       42,816.20",other,77       1       L3561       L2025       50       *       0410224       01       030195          It       t       4       •       t       13       14—14       17       M       332(37       *31,38.5,27,,0.0,-1,38.5,0.0
+67.0,618.0,384.0,645.0,77       1       L3561       L2025       50       *       0410224       01       030195          It       t       4       •       t       13       14—14       17       M       332(37       *31,other,p£J>,50.5,30,•n       73-,290.5,28,50.5,290.5
+501.0,631.0,531.0,640.0,•n       73-,other,,0.0,-1,,0.0,-1,0.0,0.0
+96.0,671.0,160.0,695.0,MAGAZINE,other,BRAND,21.0,31,p£J>,84.5,30,21.0,84.5
+160.0,670.0,265.0,694.0,p£J>,other,MAGAZINE,1.0,29,,0.0,-1,1.0,0.0
+96.0,694.0,160.0,714.0,BRAND,other,3-1-       S’,17.5,33,,0.0,-1,17.5,0.0
+96.0,713.0,160.0,732.0,ISSUE,other,INSERTION,18.5,34,3-1-       S’,84.5,33,18.5,84.5
+160.0,712.0,265.0,731.0,3-1-       S’,other,ISSUE,1.0,32,,0.0,-1,1.0,0.0
+96.0,731.0,160.0,751.0,INSERTION,other,ESTIMATE,19.5,35,,0.0,-1,19.5,0.0
+96.0,750.0,160.0,771.0,ESTIMATE,other,SoZolion       i,18.0,37,,0.0,-1,18.0,0.0
+96.0,770.0,161.0,789.0,IMV       HO,other,"INY       OATE          *jr.3ii.ir       ""          PA3          OMI",39.0,38,SoZolion       i,84.5,37,39.0,84.5
+160.0,769.0,266.0,788.0,SoZolion       i,other,IMV       HO,1.0,36,►          -0          2       I       !          U          •P       .          “       I,453.0,41,1.0,453.0
+97.0,788.0,161.0,849.0,"INY       OATE          *jr.3ii.ir       ""          PA3          OMI",other,CHECK       #,41.5,39,►          -0          2       I       !          U          •P       .          “       I,537.0,41,41.5,-1.0
+97.0,848.0,161.0,872.0,CHECK       #,other,,0.0,-1,►          -0          2       I       !          U          •P       .          “       I,537.0,41,0.0,-1.0
+661.0,198.0,692.0,325.0,r          f          i,other,►          -0          2       I       !          U          •P       .          “       I,576.0,41,,0.0,-1,576.0,0.0
+643.0,777.0,689.0,898.0,►          -0          2       I       !          U          •P       .          “       I,other,,0.0,-1,,0.0,-1,0.0,0.0

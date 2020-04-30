@@ -1,0 +1,95 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+33.0,33.0,69.0,47.0,RJR,other,|       EMPLOYEE       NAME       (TYPE       CR       HUNT)          II       Patrick       M.       Lippidlo,43.5,5,6-12,153.0,1,-1.0,153.0
+186.0,36.0,222.0,50.0,6-12,invoice_info,|       EMPLOYEE       NAME       (TYPE       CR       HUNT)          II       Patrick       M.       Lippidlo,40.5,5,Business       Expense       Voucher          19       92,169.0,2,40.5,169.0
+275.0,20.0,471.0,47.0,Business       Expense       Voucher          19       92,other,CHECK       HANDLING       INSTRUCTIONS       (IF       APPLICABLE),42.5,7,Page,183.5,3,-1.0,183.5
+543.0,37.0,570.0,50.0,Page,invoice_info,CHECK       HANDLING       INSTRUCTIONS       (IF       APPLICABLE),32.5,7,of,87.0,4,32.5,87.0
+635.0,37.0,652.0,48.0,of,invoice_info,CHECK       HANDLING       INSTRUCTIONS       (IF       APPLICABLE),33.5,7,,0.0,-1,-1.0,0.0
+25.0,65.0,239.0,102.0,|       EMPLOYEE       NAME       (TYPE       CR       HUNT)          II       Patrick       M.       Lippidlo,receiver,■-tailing       Address       (IF       APPLICABLE),35.0,9,Account          67630,141.5,6,35.0,141.5
+239.0,65.0,308.0,102.0,Account          67630,receiver,IX       Return       to:       Name       Patrick       M.       I       Jppicllo,11.0,8,CHECK       HANDLING       INSTRUCTIONS       (IF       APPLICABLE),238.0,7,11.0,238.0
+308.0,65.0,715.0,87.0,CHECK       HANDLING       INSTRUCTIONS       (IF       APPLICABLE),receiver,Account          67630,7.5,6,,0.0,-1,7.5,0.0
+308.0,87.0,715.0,102.0,IX       Return       to:       Name       Patrick       M.       I       Jppicllo,receiver,Extn       No.          Carol-4447,24.0,10,,0.0,-1,24.0,0.0
+25.0,102.0,239.0,135.0,■-tailing       Address       (IF       APPLICABLE),receiver,Departure       Date,72.5,13,Extn       No.          Carol-4447,141.5,10,72.5,141.5
+239.0,102.0,308.0,135.0,Extn       No.          Carol-4447,receiver,□       Call       for       Rckup:       Name          Extn.,37.0,12,Dept       R*D          Location       Bldg.       630-2,238.0,11,37.0,238.0
+308.0,102.0,715.0,135.0,Dept       R*D          Location       Bldg.       630-2,receiver,□       Call       for       Rckup:       Name          Extn.,37.0,12,,0.0,-1,37.0,0.0
+308.0,135.0,715.0,176.0,□       Call       for       Rckup:       Name          Extn.,receiver,Return       Date,35.5,15,,0.0,-1,35.5,0.0
+27.0,182.0,173.0,200.0,Departure       Date,positions,1,35.0,17,Destination,137.0,14,35.0,137.0
+173.0,182.0,301.0,200.0,Destination,positions,1,35.0,17,Return       Date,119.5,15,35.0,119.5
+301.0,182.0,412.0,200.0,Return       Date,positions,"t:       ""...",58.5,18,.       V;       ;       Purposc(s)       of       Trip,206.0,16,58.5,206.0
+412.0,182.0,713.0,200.0,.       V;       ;       Purposc(s)       of       Trip,positions,"t:       ""...",58.5,18,,0.0,-1,58.5,0.0
+27.0,216.0,173.0,236.0,1,positions,EXPENSES       PAID       BY       EMPLOYEE       (U.S.       S),29.5,19,,0.0,-1,29.5,0.0
+311.0,245.0,419.0,254.0,"t:       ""...",positions,0.00,344.5,55,w.          Summary,316.0,20,344.5,316.0
+33.0,249.0,226.0,262.0,EXPENSES       PAID       BY       EMPLOYEE       (U.S.       S),positions,DAY       OF       V/EEK,16.5,21,"t:       ""...",235.5,18,16.5,235.5
+657.0,246.0,705.0,263.0,w.          Summary,positions,•p       Amouif,17.5,22,,0.0,-1,17.5,0.0
+25.0,263.0,203.0,281.0,DAY       OF       V/EEK,positions,DATE,16.5,23,•p       Amouif,573.0,22,16.5,573.0
+663.0,263.0,711.0,281.0,•p       Amouif,positions,0.00,33.0,25,,0.0,-1,33.0,0.0
+25.0,281.0,203.0,296.0,DATE,positions,Lodging       -       Attach       Receipt?-       1       .:,16.5,24,,0.0,-1,16.5,0.0
+25.0,296.0,203.0,314.0,Lodging       -       Attach       Receipt?-       1       .:,positions,Breakfast       -       Yours       Only,17.0,26,0.00,573.0,25,17.0,573.0
+663.0,296.0,711.0,314.0,0.00,positions,0.00,17.0,27,,0.0,-1,17.0,0.0
+25.0,314.0,203.0,330.0,Breakfast       -       Yours       Only,positions,Lunch-Yours       Only,16.5,28,0.00,573.0,27,16.5,573.0
+663.0,314.0,711.0,330.0,0.00,positions,0.00,16.5,29,,0.0,-1,16.5,0.0
+25.0,330.0,203.0,347.0,Lunch-Yours       Only,positions,Dinner-Yours       Only       /:-•,17.0,30,0.00,573.0,29,17.0,573.0
+663.0,330.0,711.0,347.0,0.00,positions,0.00,17.0,31,,0.0,-1,17.0,0.0
+25.0,347.0,203.0,364.0,Dinner-Yours       Only       /:-•,positions,C.Hb/2js/Limo,16.5,32,0.00,573.0,31,16.5,573.0
+663.0,347.0,711.0,364.0,0.00,positions,0.00,16.5,33,,0.0,-1,16.5,0.0
+25.0,364.0,203.0,380.0,C.Hb/2js/Limo,positions,Parking       Fees       \       -       \;-       y       •,16.5,34,0.00,573.0,33,16.5,573.0
+663.0,364.0,711.0,380.0,0.00,positions,0.00,16.5,35,,0.0,-1,16.5,0.0
+25.0,380.0,203.0,397.0,Parking       Fees       \       -       \;-       y       •,positions,Tips       -       Not       deluded       Elsewhere,17.0,36,0.00,573.0,35,17.0,573.0
+663.0,380.0,711.0,397.0,0.00,positions,0.00,17.0,37,,0.0,-1,17.0,0.0
+25.0,397.0,203.0,414.0,Tips       -       Not       deluded       Elsewhere,positions,Telephone       and       Telegraph,17.0,38,0.00,573.0,37,17.0,573.0
+663.0,397.0,711.0,414.0,0.00,positions,0.00,17.0,39,,0.0,-1,17.0,0.0
+25.0,414.0,203.0,431.0,Telephone       and       Telegraph,positions,Auto       Rental       'AttachAgreement,16.5,40,0.00,573.0,39,16.5,573.0
+663.0,414.0,711.0,431.0,0.00,positions,0.00,16.5,41,,0.0,-1,16.5,0.0
+25.0,431.0,203.0,447.0,Auto       Rental       'AttachAgreement,positions,Pcrs.       AuioOOO       mi.e.OO       eper          •:       -       rrA&‘-,18.0,42,0.00,573.0,41,18.0,573.0
+663.0,431.0,711.0,447.0,0.00,positions,0.00,18.0,43,,0.0,-1,18.0,0.0
+25.0,447.0,203.0,467.0,Pcrs.       AuioOOO       mi.e.OO       eper          •:       -       rrA&‘-,positions,.       Misc.       •       (Give.       Explanation),19.0,44,0.00,573.0,43,19.0,573.0
+663.0,447.0,711.0,467.0,0.00,positions,0.00,19.0,45,,0.0,-1,19.0,0.0
+25.0,467.0,203.0,485.0,.       Misc.       •       (Give.       Explanation),positions,|,17.0,46,0.00,573.0,45,17.0,573.0
+663.0,467.0,711.0,485.0,0.00,positions,0.00,17.0,47,,0.0,-1,17.0,0.0
+25.0,485.0,203.0,501.0,|,positions,DAILY       TOTALS,101.0,53,0.00,573.0,47,101.0,573.0
+663.0,485.0,711.0,501.0,0.00,positions,0.00,16.0,48,,0.0,-1,16.0,0.0
+663.0,501.0,711.0,517.0,0.00,positions,0.00,16.5,49,,0.0,-1,16.5,0.0
+663.0,517.0,711.0,534.0,0.00,positions,0.00,17.0,50,,0.0,-1,17.0,0.0
+663.0,534.0,711.0,551.0,0.00,positions,0.00,16.5,51,,0.0,-1,16.5,0.0
+663.0,551.0,711.0,567.0,0.00,positions,0.00,17.0,52,,0.0,-1,17.0,0.0
+663.0,567.0,711.0,585.0,0.00,positions,0.00,18.0,60,,0.0,-1,18.0,0.0
+25.0,585.0,203.0,603.0,DAILY       TOTALS,total,"Business       Mooting       or       Entertainment       (Shew       date.place,:       persons,       affiliated       with,       and       Business       Purpose/Discussion)",15.0,62,0.00,117.5,54,15.0,117.5
+203.0,585.0,260.0,603.0,0.00,total,"Business       Mooting       or       Entertainment       (Shew       date.place,:       persons,       affiliated       with,       and       Business       Purpose/Discussion)",15.0,62,0.00,65.5,55,15.0,65.5
+260.0,585.0,334.0,603.0,0.00,total,"Business       Mooting       or       Entertainment       (Shew       date.place,:       persons,       affiliated       with,       and       Business       Purpose/Discussion)",15.0,62,0.00,72.5,56,15.0,-1.0
+334.0,585.0,405.0,603.0,0.00,total,"Business       Mooting       or       Entertainment       (Shew       date.place,:       persons,       affiliated       with,       and       Business       Purpose/Discussion)",15.0,62,0.00,69.0,57,15.0,69.0
+405.0,585.0,472.0,603.0,0.00,total,"Business       Mooting       or       Entertainment       (Shew       date.place,:       persons,       affiliated       with,       and       Business       Purpose/Discussion)",15.0,62,0.00,69.0,58,15.0,69.0
+472.0,585.0,543.0,603.0,0.00,total,"Business       Mooting       or       Entertainment       (Shew       date.place,:       persons,       affiliated       with,       and       Business       Purpose/Discussion)",15.0,62,0.00,71.0,59,15.0,71.0
+543.0,585.0,614.0,603.0,0.00,total,"Business       Mooting       or       Entertainment       (Shew       date.place,:       persons,       affiliated       with,       and       Business       Purpose/Discussion)",15.0,62,0.00,60.0,60,15.0,60.0
+614.0,585.0,663.0,603.0,0.00,total,1          *          s          !          i,178.0,85,0.00,48.5,61,-1.0,48.5
+663.0,585.0,711.0,603.0,0.00,total,58.00,65.0,66,,0.0,-1,65.0,0.0
+33.0,601.0,593.0,617.0,"Business       Mooting       or       Entertainment       (Shew       date.place,:       persons,       affiliated       with,       and       Business       Purpose/Discussion)",total,"Place;       Long       Creek       Golf       Club       (May       23,1992);       Persons;       Dr*.       T.Chuman       and       K.Toidc       (Japan       Tobacco,       Inc.);       Purpose;       To",17.5,63,0.00,56.5,56,17.5,56.5
+32.0,620.0,540.0,633.0,"Place;       Long       Creek       Golf       Club       (May       23,1992);       Persons;       Dr*.       T.Chuman       and       K.Toidc       (Japan       Tobacco,       Inc.);       Purpose;       To",total,discuss       potential       collaboration       w/       RJRT       on       nicotine       and       ncurodcgencrative       diseases       &       discussions       of       RJR       Nicotine       Conf.,17.0,64,,0.0,-1,17.0,0.0
+32.0,637.0,548.0,650.0,discuss       potential       collaboration       w/       RJRT       on       nicotine       and       ncurodcgencrative       diseases       &       discussions       of       RJR       Nicotine       Conf.,total,Expense       =       golf       fees       (club       rental       &       greens       fees)       for       Drs.       Chuimn       and       Toidc,16.0,65,,0.0,-1,16.0,0.0
+32.0,653.0,358.0,666.0,Expense       =       golf       fees       (club       rental       &       greens       fees)       for       Drs.       Chuimn       and       Toidc,total,TOTAL       PAID       BY       EMPLOYEE       Other       Codes,15.5,67,58.00,494.0,66,15.5,494.0
+674.0,654.0,704.0,664.0,58.00,total,58.00,17.0,73,,0.0,-1,17.0,0.0
+32.0,669.0,266.0,681.0,TOTAL       PAID       BY       EMPLOYEE       Other       Codes,total,LESS       Travel       Advance,16.5,74,G/T-       Account       Code       I       04,253.0,68,16.5,253.0
+339.0,667.0,465.0,684.0,G/T-       Account       Code       I       04,total,Check       No.,16.5,76,90,82.5,69,16.5,82.5
+476.0,671.0,493.0,681.0,90,total,Destination,96.0,84,305,35.5,70,96.0,35.5
+509.0,671.0,531.0,681.0,305,total,Destination,96.0,84,9070,41.0,71,96.0,41.0
+548.0,671.0,574.0,681.0,9070,total,1          *          s          !          i,96.0,85,UK,36.0,72,-1.0,36.0
+581.0,667.0,613.0,687.0,UK,total,1          *          s          !          i,95.0,85,58.00,92.0,73,-1.0,92.0
+674.0,671.0,704.0,681.0,58.00,total,58.00,34.0,78,,0.0,-1,34.0,0.0
+33.0,686.0,132.0,697.0,LESS       Travel       Advance,total,AMOUNT       DUE       EMPLOYEE       (see       check       handling       Instructions       above       -       if       applicable),18.0,77,Dated,142.0,75,-1.0,142.0
+207.0,687.0,242.0,697.0,Dated,total,AMOUNT       DUE       EMPLOYEE       (see       check       handling       Instructions       above       -       if       applicable),17.5,77,Check       No.,141.0,76,17.5,141.0
+338.0,687.0,393.0,697.0,Check       No.,total,AMOUNT       DUE       EMPLOYEE       (see       check       handling       Instructions       above       -       if       applicable),17.5,77,,0.0,-1,17.5,0.0
+32.0,703.0,400.0,716.0,AMOUNT       DUE       EMPLOYEE       (see       check       handling       Instructions       above       -       if       applicable),total,AMOUNT       DUE       COMPANY       (attach       check       to       RJRT),17.0,79,58.00,473.0,78,17.0,473.0
+674.0,705.0,704.0,715.0,58.00,total,1          *          s          !          i,62.0,85,,0.0,-1,62.0,0.0
+32.0,720.0,260.0,733.0,AMOUNT       DUE       COMPANY       (attach       check       to       RJRT),total,"EXPENSES       CHARGED       TO       COMPANY       (attach       copies       of       tickets,       rental       contracts,       or       Invoices)",28.5,80,,0.0,-1,28.5,0.0
+31.0,747.0,464.0,763.0,"EXPENSES       CHARGED       TO       COMPANY       (attach       copies       of       tickets,       rental       contracts,       or       Invoices)",other,Departure       Date,17.0,82,,0.0,-1,17.0,0.0
+25.0,764.0,112.0,816.0,AIRLINE          CHARGES,other,OTHER       -       (Give       details),67.0,87,Departure       Date,113.0,82,67.0,113.0
+112.0,764.0,251.0,780.0,Departure       Date,other,AIRLINE          CHARGES,18.0,81,Origin,138.5,83,18.0,138.5
+251.0,764.0,389.0,780.0,Origin,other,•,69.0,86,Destination,138.5,84,69.0,138.5
+389.0,764.0,528.0,780.0,Destination,other,•,69.0,86,1          *          s          !          i,153.0,85,69.0,153.0
+528.0,764.0,695.0,780.0,1          *          s          !          i,other,•,69.0,86,,0.0,-1,69.0,0.0
+389.0,832.0,528.0,850.0,•,other,Dr.       J.       Donald       dcBcthizy,60.0,89,T09S       ZL80S,253.0,93,60.0,253.0
+31.0,851.0,139.0,863.0,OTHER       -       (Give       details),other,rrremccov       acv2/W),32.5,88,T09S       ZL80S,626.5,93,32.5,-1.0
+37.0,885.0,121.0,894.0,rrremccov       acv2/W),other,Employee       Signature       •,45.0,90,T09S       ZL80S,632.5,93,45.0,-1.0
+521.0,894.0,630.0,908.0,Dr.       J.       Donald       dcBcthizy,other,,0.0,-1,,0.0,-1,0.0,0.0
+78.0,914.0,225.0,955.0,Employee       Signature       •,other,,0.0,-1,Date,153.0,92,0.0,153.0
+315.0,915.0,403.0,939.0,6       •       iQ       x       iX^,other,Date,19.5,92,,0.0,-1,19.5,0.0
+264.0,939.0,345.0,954.0,Date,other,,0.0,-1,,0.0,-1,0.0,0.0
+706.0,795.0,717.0,886.0,T09S       ZL80S,other,,0.0,-1,,0.0,-1,0.0,0.0

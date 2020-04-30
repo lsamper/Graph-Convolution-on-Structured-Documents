@@ -1,0 +1,26 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+150.0,81.0,409.0,138.0,"R       J       REYNOLDS       TOBACCO       COMPANY          401       N       MAIN       STREET          WINSTON-SALEM,       NC       27102          ATTNi       LOUISE       NORMAN",receiver,INVOICE       12680,69.5,1,✓          0,244.0,13,69.5,244.0
+53.0,170.0,197.0,188.0,INVOICE       12680,other,Date:,50.0,2,BDS       Marketing,417.5,14,50.0,417.5
+51.0,215.0,99.0,243.0,Date:,invoice_info,lob       No.:,29.5,5,"December       12,",86.5,3,29.5,86.5
+99.0,215.0,224.0,243.0,"December       12,",invoice_info,lob       No.:,29.5,5,1990,132.0,4,29.5,132.0
+224.0,215.0,363.0,243.0,1990,invoice_info,9010C       /       SAN,29.5,6,"Your       Promotional       force       in       the       Field       '          One       Technology       Drive,       Suite       C515,       Irvine,       CA       92718",304.5,15,29.5,304.5
+51.0,243.0,99.0,274.0,lob       No.:,invoice_info,Client:,30.5,8,9010C       /       SAN,86.5,6,30.5,86.5
+99.0,243.0,224.0,274.0,9010C       /       SAN,invoice_info,Client:,30.5,8,FRANCISCO,132.0,7,30.5,132.0
+224.0,243.0,363.0,274.0,FRANCISCO,invoice_info,R       J       REYNOLDS,30.5,9,,0.0,-1,30.5,0.0
+51.0,274.0,99.0,304.0,Client:,invoice_info,Project:,30.5,11,R       J       REYNOLDS,86.5,9,30.5,86.5
+99.0,274.0,224.0,304.0,R       J       REYNOLDS,invoice_info,Project:,30.5,11,TOBACCO       COMP,132.0,10,30.5,132.0
+224.0,274.0,363.0,304.0,TOBACCO       COMP,invoice_info,REGIONAL       INITIATIVE       PROGRAM          0019-03-00,30.5,12,,0.0,-1,30.5,0.0
+51.0,304.0,99.0,335.0,Project:,invoice_info,"Description!       *       ^          •       %       •       •       •       •          This       represents       charges       incurred       for       period       of       November       1,       1990       through          November       30,       1990       for       the       followings       *       .       *       •       -»       .",79.0,16,REGIONAL       INITIATIVE       PROGRAM          0019-03-00,156.0,12,79.0,156.0
+99.0,304.0,363.0,335.0,REGIONAL       INITIATIVE       PROGRAM          0019-03-00,invoice_info,"Description!       *       ^          •       %       •       •       •       •          This       represents       charges       incurred       for       period       of       November       1,       1990       through          November       30,       1990       for       the       followings       *       .       *       •       -»       .",79.0,16,,0.0,-1,79.0,0.0
+493.0,43.0,554.0,137.0,✓          0,supplier,BDS       Marketing,90.5,14,,0.0,-1,90.5,0.0
+476.0,168.0,609.0,193.0,BDS       Marketing,supplier,"Your       Promotional       force       in       the       Field       '          One       Technology       Drive,       Suite       C515,       Irvine,       CA       92718",43.0,15,,0.0,-1,43.0,0.0
+476.0,207.0,720.0,240.0,"Your       Promotional       force       in       the       Field       '          One       Technology       Drive,       Suite       C515,       Irvine,       CA       92718",supplier,"Description!       *       ^          •       %       •       •       •       •          This       represents       charges       incurred       for       period       of       November       1,       1990       through          November       30,       1990       for       the       followings       *       .       *       •       -»       .",175.0,16,,0.0,-1,-1.0,0.0
+50.0,369.0,750.0,428.0,"Description!       *       ^          •       %       •       •       •       •          This       represents       charges       incurred       for       period       of       November       1,       1990       through          November       30,       1990       for       the       followings       *       .       *       •       -»       .",positions,Ending       Date       11/30/90,53.0,17,,0.0,-1,53.0,0.0
+50.0,444.0,234.0,459.0,Ending       Date       11/30/90,positions,Description          GAS          VEHICLE       RENTAL          OVERNIGHTS          WAREHOUSE          MISCELLANEOUS,74.5,18,,0.0,-1,74.5,0.0
+50.0,475.0,179.0,577.0,Description          GAS          VEHICLE       RENTAL          OVERNIGHTS          WAREHOUSE          MISCELLANEOUS,positions,THANK       YOU       I       I,151.0,19,"vr'.       Total          4,550.76          4i570.80          1,853.99          3,166.00          6,044.43          20,185.98",564.5,21,151.0,-1.0
+50.0,671.0,150.0,683.0,THANK       YOU       I       I,other,,0.0,-1,,0.0,-1,0.0,0.0
+224.0,596.0,499.0,638.0,TOTAL       AMOUNT       DUE       THI8       INVOICE'          DUEi       NET       30       DAYS,other,1,337.5,23,"vr'.       Total          4,550.76          4i570.80          1,853.99          3,166.00          6,044.43          20,185.98",317.5,21,337.5,317.5
+626.0,475.0,732.0,610.0,"vr'.       Total          4,550.76          4i570.80          1,853.99          3,166.00          6,044.43          20,185.98",positions,*,98.5,22,,0.0,-1,98.5,0.0
+674.0,635.0,689.0,647.0,*,other,,0.0,-1,,0.0,-1,0.0,0.0
+491.0,952.0,495.0,957.0,1,other,,0.0,-1,51326       5741,249.0,24,0.0,249.0
+733.0,867.0,751.0,957.0,51326       5741,other,,0.0,-1,,0.0,-1,0.0,0.0

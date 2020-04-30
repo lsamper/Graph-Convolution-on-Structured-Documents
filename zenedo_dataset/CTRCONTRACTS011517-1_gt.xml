@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:ns2="http://searchink.com/xml/frankstahlapi/1.0">
+  <Metadata>
+    <Creator>system</Creator>
+    <Created>2019-01-25T17:49:14.958+01:00</Created>
+    <LastChange>2019-02-02T02:47:36Z</LastChange>
+  </Metadata>
+  <Property key="customer" value="actuallCustomerName"/>
+  <Property key="offer"/>
+  <Property key="uuid" value="8175fc57-8dfc-485e-81f0-f46af22f1453"/>
+  <Property key="fileName" value="CTRCONTRACTS011517-1.pdf"/>
+  <Property key="type" value="digital"/>
+  <Page imageFilename="CTRCONTRACTS011517-1.tif" imageHeight="1000" imageWidth="754">
+    <TextRegion id="page1_pos1">
+      <Property key="entity" value="supplier"/>
+      <Coords points="5.76234,43.9554 446.077,43.9554 446.077,295.49 5.76234,295.49"/>
+    </TextRegion>
+    <TextRegion id="page1_pos2">
+      <Property key="entity" value="invoice_info"/>
+      <Coords points="452.991,47.5832 741.491,47.5832 741.491,296.699 452.991,296.699"/>
+    </TextRegion>
+    <TextRegion id="page1_pos3">
+      <Property key="entity" value="receiver"/>
+      <Coords points="8.09409,302.746 742.96,302.746 742.96,470.234 8.09409,470.234"/>
+    </TextRegion>
+    <TextRegion id="page1_pos4">
+      <Property key="entity" value="other"/>
+      <Coords points="8.78334,474.467 741.833,474.467 741.833,582.7 8.78334,582.7"/>
+    </TextRegion>
+    <TextRegion id="page1_pos5">
+      <Property key="entity" value="positions"/>
+      <Coords points="9.99298,585.724 747.277,585.724 747.277,641.955 9.99298,641.955"/>
+    </TextRegion>
+    <TextRegion id="page1_pos6">
+      <Property key="entity" value="total"/>
+      <Coords points="8.17852,645.583 748.487,645.583 748.487,672.189 8.17852,672.189"/>
+    </TextRegion>
+    <TextRegion id="page1_pos7">
+      <Property key="entity" value="other"/>
+      <Coords points="6.96982,675.842 743.648,675.842 743.648,998.121 6.96982,998.121"/>
+    </TextRegion>
+  </Page>
+</PcGts>

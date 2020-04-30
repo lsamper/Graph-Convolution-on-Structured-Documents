@@ -1,0 +1,36 @@
+xmin,ymin,xmax,ymax,Object,label,below_object,below_dist,below_obj_index,side_object,side_length,side_obj_index,revised_distances_vert,revised_distances_hori
+124.0,220.0,509.0,325.0,"PLAYBILL          Accounting       Office:          100       Avenue       Of       The       Americas.       New       York,       N.Y.       10013       (212)       966-5052",supplier,AoveerisER       ALORKF,78.5,4,27.       10       DAYS       OF       03/01/84          013617,316.0,1,-1.0,316.0
+531.0,262.0,734.0,293.0,27.       10       DAYS       OF       03/01/84          013617,other,—J,71.5,5,,0.0,-1,71.5,0.0
+108.0,338.0,365.0,370.0,AGCNCV       NAME       ALOR,receiver,LORILLARD,23.5,6,n,163.0,3,23.5,163.0
+364.0,338.0,435.0,367.0,n,receiver,AGCNCV       NAME       ALOR,1.5,2,AoveerisER       ALORKF,171.5,4,1.5,171.5
+434.0,335.0,708.0,367.0,AoveerisER       ALORKF,receiver,n,1.5,3,—J,163.0,5,1.5,163.0
+707.0,334.0,761.0,364.0,—J,receiver,AoveerisER       ALORKF,2.0,4,,0.0,-1,2.0,0.0
+109.0,367.0,365.0,388.0,LORILLARD,receiver,666       5TH       AVENUE,16.5,8,LORILLARD-KENT,334.5,7,16.5,334.5
+435.0,364.0,708.0,385.0,LORILLARD-KENT,receiver,FAMILY,16.5,9,,0.0,-1,16.5,0.0
+109.0,385.0,365.0,403.0,666       5TH       AVENUE,receiver,"NEW       YORK,       N.Y.          ATT       S       M0LL0Y       10103",22.0,10,FAMILY,334.5,9,22.0,334.5
+435.0,382.0,708.0,400.0,FAMILY,receiver,00000,22.0,11,,0.0,-1,22.0,0.0
+109.0,400.0,365.0,432.0,"NEW       YORK,       N.Y.          ATT       S       M0LL0Y       10103",receiver,j,20.0,13,00000,334.5,11,-1.0,334.5
+435.0,397.0,708.0,429.0,00000,receiver,J,19.5,15,,0.0,-1,19.5,0.0
+109.0,429.0,365.0,446.0,L,receiver,riYC       THEATRE       MARKET          issue       or       MARCH       1984,22.0,16,j,163.0,13,22.0,163.0
+365.0,429.0,435.0,443.0,j,receiver,L,1.5,12,L,171.5,14,1.5,171.5
+435.0,426.0,708.0,443.0,L,receiver,j,1.5,13,J,163.0,15,1.5,163.0
+708.0,425.0,761.0,440.0,J,receiver,L,2.0,14,,0.0,-1,2.0,0.0
+109.0,443.0,366.0,476.0,riYC       THEATRE       MARKET          issue       or       MARCH       1984,receiver,GROSS,36.0,20,ro»       ADVERTISING       1       PAGE       4/C,334.5,17,-1.0,334.5
+435.0,440.0,709.0,473.0,ro»       ADVERTISING       1       PAGE       4/C,invoice_info,SLS.       *,35.0,24,,0.0,-1,35.0,0.0
+110.0,489.0,189.0,506.0,SPACE       CHARGE,positions,.00,100.0,26,BLEED,86.0,19,-1.0,86.0
+189.0,488.0,282.0,505.0,BLEED,positions,SPACE       CHARGE,1.0,18,GROSS,91.5,20,1.0,91.5
+282.0,487.0,372.0,504.0,GROSS,positions,BLEED,1.0,19,15%       AGY.       COMM.,97.5,21,1.0,97.5
+372.0,486.0,477.0,503.0,15%       AGY.       COMM.,positions,GROSS,1.0,20,NET       DUE,99.0,22,1.0,99.0
+477.0,485.0,570.0,502.0,NET       DUE,positions,15%       AGY.       COMM.,1.0,21,«SS3E,106.5,23,1.0,106.5
+570.0,484.0,690.0,501.0,«SS3E,positions,NET       DUE,1.0,22,SLS.       *,100.5,24,1.0,100.5
+690.0,483.0,771.0,500.0,SLS.       *,positions,«SS3E,1.0,23,,0.0,-1,1.0,0.0
+110.0,505.0,191.0,692.0,20810.70,positions,90909916       TOTAL       RETURNjlfl&fO^       WITH       YOUR       CHECK,102.5,32,.00,86.0,26,102.5,86.0
+189.0,504.0,284.0,691.0,.00,positions,20810.70,1.0,25,20810.7C,91.5,27,1.0,91.5
+282.0,503.0,374.0,690.0,20810.7C,positions,.00,1.0,26,3121.61,97.5,28,1.0,97.5
+372.0,502.0,479.0,689.0,3121.61,positions,20810.7C,1.0,27,17689.09,99.0,29,1.0,99.0
+477.0,501.0,572.0,688.0,17689.09,positions,3121.61,1.0,28,01/84,106.5,30,1.0,106.5
+570.0,500.0,692.0,687.0,01/84,positions,17689.09,1.0,29,000001,100.5,31,1.0,100.5
+690.0,499.0,773.0,686.0,000001,positions,01/84,1.0,30,,0.0,-1,1.0,0.0
+149.0,689.0,697.0,713.0,90909916       TOTAL       RETURNjlfl&fO^       WITH       YOUR       CHECK,total,Sa2fcSa53gS:«W,45.5,34,,0.0,-1,45.5,0.0
+727.0,729.0,758.0,736.0,"«-       .       'UZ,",other,,0.0,-1,,0.0,-1,0.0,0.0
+458.0,739.0,721.0,754.0,Sa2fcSa53gS:«W,other,,0.0,-1,,0.0,-1,0.0,0.0
